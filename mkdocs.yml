@@ -1,4 +1,6 @@
 site_name: obsidian-mkdocs template
+docs_dir: /home/runner/work/aerethios/
+site_dir: /home/runner/work/site/
 
 theme:
     name: 'material'
