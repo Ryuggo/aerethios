@@ -1,7 +1,7 @@
 site_name: obsidian-mkdocs template
-site_url: https://ryuggo.github.io/aerethios/
 docs_dir: /home/runner/work/aerethios/
-site_dir: site
+site_dir: /home/runner/work/site/
+site_url: https://ryuggo.github.io/aerethios/
 
 theme:
     name: 'material'
