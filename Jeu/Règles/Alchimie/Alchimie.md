@@ -67,7 +67,7 @@ Le premier ingrédient est toujours le **plus rare** (il définit la nature prin
 | Premier ingrédient          | 10     | 12     | 15         | 18   | 22         |
 | Ingrédients supplémentaires | +1     | +2     | +4         | +6   | +8         |
 
-> **Exemple :** un alchimiste de niveau 2 utilisant un ingrédient rare (18) et deux communs (+2 ×2) devra faire un minimum de 22 à son jet de D20 + 2.
+> **Exemple :** un alchimiste de niveau 3 utilisant un ingrédient rare (18) et deux communs (+2 ×2) devra faire un minimum de 22 à son jet de D20 + 3.
 
 Les chances de réussite augmentent si le joueur travaille dans un **lieu dédié** à son travail (laboratoire stérile, cuisine), qui prend **5% du prix de vente estimé** de la création.
 
