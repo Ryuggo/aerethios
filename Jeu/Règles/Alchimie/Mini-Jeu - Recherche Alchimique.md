@@ -13,7 +13,6 @@ Lorsqu’on expérimente, la qualité des ingrédients influe sur la facilité d
 - Rare : +4
     
 - Légendaire : +2
-    
 
 > Si plusieurs ingrédients sont utilisés, fais la moyenne arrondie à l’entier supérieur.
 
