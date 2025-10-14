@@ -4,38 +4,53 @@ Lorsqu’on expérimente, la qualité des ingrédients influe sur la facilité d
 
 **Modificateurs de difficulté :**
 
-- Déchets : +10
-    
-- Commun : +8
-    
-- Peu commun : +6
-    
-- Rare : +4
-    
-- Légendaire : +2
-
-> Si plusieurs ingrédients sont utilisés, fais la moyenne arrondie à l’entier supérieur.
+| Déchet | Commun | Peu Commun | Rare | Légendaire |
+| ------ | ------ | ---------- | ---- | ---------- |
+| +10    | +8     | +6         | +4   | +2         |
 
 ## sélection des ustensiles
 
 
 
-## Spécial invocateur
+## Spécial Invocateur
 
-L'invocateur doit également faire attention aux conditions autour de lui
-L'heure de la journée (00h, 06h, 12h, 18h, 00h, ..)
-La température (froid, normal, chaud)
-La météo (grosses chutes, chutes légères, couvert, dégagé)
-Son état physique (fatigué, normal, revigoré)
+Les conditions extérieures modifient les chances de succès.  
+Chaque paramètre diffère d’un point de la condition optimale ajoute **+1** à la difficulté.  
+Les conditions optimales sont décidées par le MJ à l’avance.
 
-> les parenthèses montrent les conditions possible dans un ordre logique
-> La situation optimale est décidée par le mj à l'avance, et le joueur ajoute 1 point de difficulté à chaque fois qu'il s'éloigne de la condition optimale
-> Exemple : L'heure optimale est 00h, mais le joueur agit à 12h, il ajoute +2
+|Facteur|Exemples de conditions possibles|
+|---|---|
+|Heure|00h – 06h – 12h – 18h – 00h|
+|Température|Froid – Normal – Chaud|
+|Météo|Fortes chutes – Légères chutes – Couvert – Dégagé|
+|État physique|Fatigué – Normal – Revigoré|
 
-## modificateurs supplémentaires
+> Exemple : si l’heure optimale est 00h mais que l’expérience a lieu à 12h, le joueur ajoute +2 à la difficulté.
 
-Si le joueur n'est pas dans un labo stérile, +3 difficulté
+---
 
-## Final
+## Modificateurs supplémentaires
 
-Le joueur doit lancer 1D20 + Mental + Concentration
+- Hors laboratoire stérile : **+3** difficulté
+    
+- En présence d’une source magique instable : **+2**
+    
+- Avec assistance d’un autre alchimiste : **–1 par niveau de compétence du partenaire** (max –3)
+
+---
+
+## Résolution
+
+Le joueur lance :  
+**1D20 + Mental + Concentration**  
+contre la **difficulté finale** calculée à partir des modificateurs ci-dessus.
+
+**Résultats possibles :**
+
+- **Réussite critique (20 naturel)** : découverte complète, ingrédient préservé.
+    
+- **Réussite (≥ difficulté)** : résultat stable, ingrédient consommé.
+    
+- **Échec (< difficulté)** : échec partiel, ingrédient perdu.
+    
+- **Échec critique (1 naturel)** : explosion, intoxication ou invocation instable (décidé par le MJ).
