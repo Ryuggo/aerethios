@@ -9,14 +9,6 @@ tags:
 
 ---
 
-## [[Concocteur]]
-
-Un **Concocteur** (aussi nommé _Distillateur_ ou _Infuseur_) combine différents ingrédients pour créer des **substances consommables**.  
-Ses créations prennent souvent la forme de **potions**, **pommades** ou **huiles**, capables d’altérer le corps, l’esprit ou l’environnement.  
-Son art repose sur la précision, le dosage et la pureté des éléments employés.
-
----
-
 ## [[Cuisinier]]
 
 Un **Cuisinier** combine des ingrédients de rareté basse (déchets) sans effets apparents pour en tirer le meilleur.  
@@ -29,6 +21,14 @@ Ses plats permettent de se nourrir tout en octroyant des bonus, le tout de faço
 Un **Invocateur** (également nommé _Transmutateur_ ou _Synthétiste_) insuffle la **magie vitale** dans les composants pour leur donner **forme et volonté**.  
 Ses œuvres peuvent aller de simples **familiers alchimiques** à de véritables **entités conscientes**, liées à leur créateur.  
 L’invocateur se situe à la frontière entre l’alchimie et la magie ancienne, manipulant les lois de la vie plutôt que la matière seule.
+
+---
+
+## [[Potionniste]]
+
+Un **Potionniste** combine différents ingrédients pour créer des **substances consommables**.  
+Ses créations prennent souvent la forme de **potions**, **pommades** ou **huiles**, capables d’altérer le corps, l’esprit ou l’environnement.  
+Son art repose sur la précision, le dosage et la pureté des éléments employés.
 
 ---
 

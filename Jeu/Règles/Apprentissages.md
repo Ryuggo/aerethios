@@ -153,7 +153,7 @@ Chaque compétence appartient à une **catégorie principale**, sauf les compét
 
 | Compétence         | Coût (po / leçon) | XP / niveau | Niveau max | Description                                                          |
 | ------------------ | ----------------- | ----------- | ---------- | -------------------------------------------------------------------- |
-| **[[Concocteur]]** | 2 × niveau        | 20          | -          | Création de potions, huiles et remèdes                               |
+| **[[Potionniste]]** | 2 × niveau        | 20          | -          | Création de potions, huiles et remèdes                               |
 | **[[Cuisinier]]**  | 1 × niveau        | 10          | -          | Préparation de repas conférant des bonus temporaires                 |
 | **[[Invocateur]]** | 3 × niveau        | 30          | -          | Animation ou transmutation d’entités à partir d’ingrédients magiques |
 

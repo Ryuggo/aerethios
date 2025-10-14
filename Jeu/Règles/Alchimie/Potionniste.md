@@ -3,7 +3,7 @@ tags:
   - Règles
   - Alchimie
 ---
-> Un **Concocteur** (aussi nommé _Distillateur_ ou _Infuseur_) est une spécialité de l'[[Alchimie]] qui combine différents ingrédients pour créer des **substances consommables**.  
+> Un **Potionniste** est une spécialité de l'[[Alchimie]] qui combine différents ingrédients pour créer des **substances consommables**.  
 
 ## Matériel
 
