@@ -58,23 +58,29 @@ Les **chances de réussite** dépendent :
 
 ---
 
-### Malus de difficulté par ingrédient
+### Difficulté par ingrédient
 
 Le premier ingrédient est toujours le **plus rare** (il définit la nature principale de la création).
 
-| Objet                       | Déchet | Commun | Peu Commun | Rare | Légendaire |
-| --------------------------- | ------ | ------ | ---------- | ---- | ---------- |
-| Premier ingrédient          | 10     | 12     | 15         | 18   | 22         |
-| Ingrédients supplémentaires | +1     | +2     | +4         | +6   | +8         |
+| Objet                          | Déchet | Commun | Peu Commun | Rare | Légendaire |
+| ------------------------------ | ------ | ------ | ---------- | ---- | ---------- |
+| Premier Ingrédient - Niveau 0  | 8      | 12     | 16         | -    | -          |
+| Premier Ingrédient - Niveau 1+ | 6      | 8      | 12         | 16   | 21         |
+| Ingrédients supplémentaires    | +1     | +2     | +4         | +6   | +8         |
 
 > **Exemple :** un alchimiste de niveau 3 utilisant un ingrédient rare (18) et deux communs (+2 ×2) devra faire un minimum de 22 à son jet de D20 + 3.
 
-Les chances de réussite augmentent si le joueur travaille dans un **lieu dédié** à son travail (laboratoire stérile, cuisine), qui prend **5% du prix de vente estimé** de la création.
+### Difficulté par emplacement
 
-| Objet                       | Déchet | Commun | Peu Commun | Rare | Légendaire |
-| --------------------------- | ------ | ------ | ---------- | ---- | ---------- |
-| Premier ingrédient          | 6      | 8      | 12         | 18   | 22         |
-| Ingrédients supplémentaires | +1     | +2     | +3         | +4   | +6         |
+Les chances de réussite augmentent si le joueur travaille dans un **lieu dédié** à son travail (laboratoire stérile, cuisine).
+
+| Lieu                                             | Bonus | Prix (pa) |
+| ------------------------------------------------ | ----- | --------- |
+| En pleine nature                                 | -     | -         |
+| Salle des Arvens                                 | -2    |           |
+| Salle des Scienctes                              | -4    |           |
+| Salle naturelle envigorée de magie aménagée      | -6    |           |
+| Occurrence rare d'alignement d'énergies magiques | -8    | -         |
 
 ## Récolte
 

@@ -47,9 +47,10 @@ Le **diluant** détermine **comment la concoction s’applique** et **comment el
 > Une **concoction mystère** est instable et imprévisible.  
 > Son effet exact est déterminé au moment de l’utilisation :  
 > Lancez **1d20** →  
-> • Résultat <15 : effet **négatif**  
-> • Résultat >15 : effet **positif**  
-> Plus on s’éloigne de 15, plus l’effet est **puissant**.  
+> • Résultat < 5 : effet **négatif**  
+> • Résultat > 15 : effet **positif**  
+> • Résultat 5 < 15 : effet **aléatoire**  
+> Plus on s’éloigne de 10, plus l’effet est **puissant**.  
 > Il est possible de **faire analyser** la concoction contre un certain prix.
 
 ---
