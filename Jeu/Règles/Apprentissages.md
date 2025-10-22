@@ -13,50 +13,39 @@ Pendant ses leçons, **il ne peut effectuer aucune autre activité** (pas de dé
 
 ### Gain d’expérience
 
-Chaque leçon réussie rapporte **1 point d’expérience** dans la compétence étudiée.
+Chaque leçon réussie rapporte **1 point d’expérience** (exp) dans la compétence étudiée (ce point n'est pas fourni si le joueur la pratique en solitaire).
 
 Des bonus peuvent s’appliquer :
 
-- **Compétence passive — Assidu** : +1 point bonus tous les **2 points** gagnés.
+- **Apprentissage avec tuteur ou par la pratique** :
     
-- **Jet de D20 Mental + Concentration** :
-    
-    - **Réussite** : +1 point bonus
+    - **Réussite** : +1 exp
         
-    - **Réussite critique** : +2 points bonus
+    - **Réussite critique** : +2 exp
         
-    - **Échec critique** : aucun gain pour cette leçon
-
----
-
-### Entraînement en solitaire
-
-Si le joueur possède **Assidu** et **au moins 1 niveau** dans la compétence,  
-il peut s’**entraîner seul le soir** au lieu de se reposer.
-
-- Il consomme les **matériaux requis** à la pratique.
+    - **Échec critique** : -1 exp
     
-- Il **ne régénère pas** ses **cristaux** pendant la nuit.
+- **Compétence passive — Assidu** :
     
-- Il effectue un **D20 Mental + Concentration** :
-    
-    - **Réussite** : +0,5 point d’expérience
+    - **Échec critiques** : 0 exp
         
-    - **Réussite critique** : +1 point d’expérience
-        
-    - **Échec critique** : –1 point (mauvais réflexe ou erreur coûteuse)
+    - Permet de relancer un **échec** avec un **malus de 4**.
+
+> A noter que **l'apprentissage par la pratique nécessite peut-être des pré-requis** afin de permettre d'obtenir ces bonus d'expérience
+> **Exemple** : Un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience 
 
 ---
 
 ### Difficulté d’apprentissage
 
-Le résultat du jet de **Mental + Concentration** détermine la progression de l’apprenant selon le niveau visé.
+Le résultat du jet de **1D20 + Mental + Concentration** détermine la progression de l’apprenant selon le niveau visé.
+Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leçons de ses fabrications solitaires.
 
-- **Avec un tuteur** : un jet **≥ 12** permet de gagner de l’expérience au **niveau 1**.
+- **Leçon** : un jet **≥ 12** permet de gagner de l’expérience au **niveau 1**.
     
-- **En apprentissage autonome** : un jet **≥ 20** est requis pour le même niveau.
+- **Pratique** : un jet **≥ 20** permet de gagner de l’expérience au **niveau 1**.
     
-- Pour chaque **niveau supérieur**, ajoute **+4** à la difficulté minimale à atteindre.
+- Pour chaque **niveau supérieur**, on ajoute **+4** à la difficulté minimale à atteindre.
 
 > L’échec ne fait pas perdre d’expérience, **sauf en cas d’échec critique**, qui peut entraîner une perte de progression ou un contrecoup narratif (épuisement, erreur de manipulation, etc.).
 
@@ -64,8 +53,8 @@ Le résultat du jet de **Mental + Concentration** détermine la progression de l
 
 ## Apprendre le combat
 
-L’amélioration de ses **maîtrises d’armes** et de sa **magie** demande rigueur et encadrement.  
-Le joueur **ne peut pas progresser sans tuteur**.
+L’amélioration de ses **maîtrises d’armes** et de sa **magie** demande rigueur et encadrement.
+Ne peut pas s'améliorer tout seul et nécessite une journée complète.
 
 Pour progresser :
 
@@ -113,7 +102,7 @@ Lorsqu’un joueur débloque une nouvelle forme de magie :
 
 ## Tutorer
 
-Lorsqu’un joueur atteint le **niveau maximum** dans une compétence, il peut **enseigner** cette discipline à d’autres joueurs ou à des PNJ, afin de **partager son savoir** ou **gagner de l’argent**.
+Lorsqu’un joueur atteint le **niveau maximum/4** dans une compétence, il peut **enseigner** cette discipline à d’autres joueurs ou à des PNJ, afin de **partager son savoir** ou **gagner de l’argent**.
 
 - Le tuteur ne peut rien faire d’autre pendant les leçons.
     
