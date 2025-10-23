@@ -27,13 +27,13 @@ Des bonus peuvent s’appliquer :
     
 - **Compétence passive — Assidu** :
     
-    - **Échec critiques** : 0 exp
+    - **Échec critiques** : -0 exp
         
     - Permet de relancer un **échec** avec un **malus de 4**.
     
 - **Étude d'une spécialisation** :
     
-    - **Réussite 2 leçons d'affilée** : x2 exp
+    - **Réussir 2 leçons d'affilée** : +2 exp
 
 > A noter que **l'apprentissage par la pratique nécessite peut-être des pré-requis** afin de permettre d'obtenir ces bonus d'expérience
 > **Exemple** : Un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience 
