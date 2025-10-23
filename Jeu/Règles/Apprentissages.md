@@ -30,6 +30,10 @@ Des bonus peuvent s’appliquer :
     - **Échec critiques** : 0 exp
         
     - Permet de relancer un **échec** avec un **malus de 4**.
+    
+- **Étude d'une spécialisation** :
+    
+    - **Réussite 2 leçons d'affilée** : x2 exp
 
 > A noter que **l'apprentissage par la pratique nécessite peut-être des pré-requis** afin de permettre d'obtenir ces bonus d'expérience
 > **Exemple** : Un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience 
@@ -123,7 +127,7 @@ Chaque compétence appartient à une **catégorie principale**, sauf les compét
 
 - Un joueur peut **s’investir dans une nouvelle catégorie** seulement **tous les 5 niveaux de personnage**.
     
-- À chaque nouvelle catégorie apprise, il choisit **une spécialisation** qui gagne **2× plus d’expérience**.
+- À chaque nouvelle catégorie apprise, il choisit **une spécialisation** qui gagne **plus d’expérience**.
     
 - Les autres compétences de la catégorie progressent au rythme normal.
     
