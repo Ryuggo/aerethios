@@ -73,7 +73,7 @@ Dormir réduit l’intoxication de **50 points**.
 
 ---
 
-## Prix indicatif (pa)
+## Prix indicatif par nombre d'ingrédients (pa)
 
 | Objet            | Déchet     | Commun  | Peu Commun | Rare         | Légendaire    |
 | ---------------- | ---------- | ------- | ---------- | ------------ | ------------- |

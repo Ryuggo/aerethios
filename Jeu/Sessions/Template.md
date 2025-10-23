@@ -23,6 +23,7 @@
 > - combat,
 > - interaction avec PNJ,
 > - exploration (pièges, énigmes, navigation)
+> 
 > **Étape 2** : Associer un joueur avec la "meilleure" résolution à chaque événement
 
 #### 1) Accroche
