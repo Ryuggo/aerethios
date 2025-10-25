@@ -60,6 +60,20 @@ Les **chances de réussite** dépendent :
 
 ### Difficulté par ingrédient
 
+A chaque montée de niveau d'alchimie, le joueur obtient 3 points à répartir dans une ou plusieurs rareté pour laquelle/lesquelles il gagnera de l'affinité, réduisant ainsi sa difficulté de 1 par point.
+La difficulté va également baisser tous les 2 niveaux jusqu'au niveau 6.
+
+|                                       | Déchet | Commun | Peu commun | Rare  | Légendaire |
+| ------------------------------------- | ------ | ------ | ---------- | ----- | ---------- |
+| Niveau 0                              | 10     | 15     | 20         | 25    | 30         |
+| Niveau 2                              | 8      | 12     | 16         | 20    | 26         |
+| Niveau 4                              | 6      | 8      | 12         | 16    | 22         |
+| Niveau 6                              | 4      | 6      | 8          | 12    | 18         |
+| Amélioration maximale (score minimum) | 3 (1)  | 4 (2)  | 4 (4)      | 6 (6) | 10 (8)     |
+
+> A chaque fois que le joueur utilise un ingrédient, il réduit sa difficulté de 2 s'il réussit la fabrication, sinon il la réduit de 1.
+> A force d'utiliser un ingrédient il peut diminuer la difficulté jusqu'à 0 et réussir en permanence.
+
 Le premier ingrédient est toujours le **plus rare** (il définit la nature principale de la création).
 
 | Objet                          | Déchet | Commun | Peu Commun | Rare | Légendaire |
@@ -74,13 +88,13 @@ Le premier ingrédient est toujours le **plus rare** (il définit la nature prin
 
 Les chances de réussite augmentent si le joueur travaille dans un **lieu dédié** à son travail (laboratoire stérile, cuisine).
 
-| Lieu                                             | Bonus | Prix (pa) |
-| ------------------------------------------------ | ----- | --------- |
-| En pleine nature                                 | -     | -         |
-| Salle des Arvens                                 | -2    |           |
-| Salle des Scienctes                              | -4    |           |
-| Salle naturelle envigorée de magie aménagée      | -6    |           |
-| Occurrence rare d'alignement d'énergies magiques | -8    | -         |
+| Lieu                                             | Bonus | Prix (pa)                         |
+| ------------------------------------------------ | ----- | --------------------------------- |
+| En pleine nature                                 | -     | -                                 |
+| Salle des Arvens                                 | -2    | 40 - 60                           |
+| Salle des Scienctes                              | -4    | 1 00 - 2 00                       |
+| Salle naturelle envigorée de magie aménagée      | -6    | 1 00 - 10% du prix de la création |
+| Occurrence rare d'alignement d'énergies magiques | -8    | -                                 |
 
 ## Récolte
 

@@ -8,14 +8,10 @@ Lorsqu’on expérimente, la qualité des ingrédients influe sur la facilité d
 | ------ | ------ | ---------- | ---- | ---------- |
 | +10    | +8     | +6         | +4   | +2         |
 
-## sélection des ustensiles
-
-
-
 ## Spécial Invocateur
 
 Les conditions extérieures modifient les chances de succès.  
-Chaque paramètre diffère d’un point de la condition optimale ajoute **+1** à la difficulté.  
+Chaque paramètre qui diffère d’un point de la condition optimale ajoute **+1** à la difficulté.  
 Les conditions optimales sont décidées par le MJ à l’avance.
 
 |Facteur|Exemples de conditions possibles|

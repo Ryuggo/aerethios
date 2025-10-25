@@ -80,7 +80,7 @@ Il existe des potions rares qui réduisent l'intoxication de 100, mais elles div
 | Objet            | Déchet     | Commun  | Peu Commun | Rare         | Légendaire    |
 | ---------------- | ---------- | ------- | ---------- | ------------ | ------------- |
 | Ingrédients      | 0.01 – 0.2 | 0.5 – 2 | 10 – 30    | 1 00 - 2 00  | 5 00 – 10 00  |
-| Concoction finie | 0.01 – 0.2 | 1 – 5   | 30 – 100   | 5 00 – 10 00 | 40 00 – 80 00 |
+| Concoction finie | 0.01 – 0.2 | 1 – 5   | 30 – 1 00  | 5 00 – 10 00 | 40 00 – 80 00 |
 
 ---
 
