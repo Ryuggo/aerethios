@@ -71,6 +71,8 @@ Dormir réduit l’intoxication de **50 points**.
 
 > Au-delà de **100**, le joueur subit des **effets secondaires cumulatifs** : vertiges, pertes de mémoire, fièvre magique, hallucinations, voire coma.
 
+Il existe des potions rares qui réduisent l'intoxication de 100, mais elles divisent également les effets actifs par 2.
+
 ---
 
 ## Prix indicatif par nombre d'ingrédients (pa)

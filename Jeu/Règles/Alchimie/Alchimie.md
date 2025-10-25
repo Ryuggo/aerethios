@@ -68,7 +68,7 @@ Le premier ingrédient est toujours le **plus rare** (il définit la nature prin
 | Premier Ingrédient - Niveau 1+ | 6      | 8      | 12         | 16   | 21         |
 | Ingrédients supplémentaires    | +1     | +2     | +4         | +6   | +8         |
 
-> **Exemple :** un alchimiste de niveau 3 utilisant un ingrédient rare (18) et deux communs (+2 ×2) devra faire un minimum de 22 à son jet de D20 + 3.
+> **Exemple :** un alchimiste de niveau 3 utilisant un ingrédient rare (16) et deux communs (+2 ×2) devra faire un minimum de 20 à son jet de D20 + 3.
 
 ### Difficulté par emplacement
 

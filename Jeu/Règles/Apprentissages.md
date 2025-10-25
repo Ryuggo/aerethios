@@ -43,7 +43,7 @@ Des bonus peuvent s’appliquer :
 ### Difficulté d’apprentissage
 
 Le résultat du jet de **1D20 + Mental + Concentration** détermine la progression de l’apprenant selon le niveau visé.
-Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leçons de ses fabrications solitaires.
+Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leçons de ses fabrications solitaires (qu'elles soient réussies ou ratées).
 
 - **Leçon** : un jet **≥ 12** permet de gagner de l’expérience au **niveau 1**.
     
