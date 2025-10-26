@@ -14,13 +14,13 @@ Pendant ses leçons, **il ne peut effectuer aucune autre activité** (pas de dé
 ### Difficulté d’apprentissage
 
 Le résultat du jet de **1D20 + Mental + Concentration** détermine la progression de l’apprenant selon le niveau visé.
-Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leçons de ses fabrications solitaires (qu'elles soient réussies ou ratées).
+Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leçons de ses pratiques solitaires (qu'elles soient réussies ou ratées).
 
 - **Leçon** : un jet **≥ 12** permet d'évoluer vers le **niveau 1**.
-    
+    - Pour chaque **niveau supérieur**, on ajoute **+4** à la difficulté minimale à atteindre.
 - **Pratique** : un jet **≥ 20** permet 'évoluer vers le **niveau 1**.
-    
-- Pour chaque **niveau supérieur**, on ajoute **+4** à la difficulté minimale à atteindre.
+    - Pour chaque **niveau supérieur**, on ajoute **+2** à la difficulté minimale à atteindre.
+
 
 ---
 
