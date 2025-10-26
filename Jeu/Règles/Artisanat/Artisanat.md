@@ -21,7 +21,7 @@ Leur principal défi réside dans la **stabilité** de leurs créations — un c
 
 Un **Bijoutier** travaille les **métaux précieux** et **pierres rares** pour façonner des **anneaux, amulettes, talismans et sceaux**.  
 Son art ne se limite pas à l’esthétique : il conçoit des **supports de cristaux** capables de **stocker la magie en canalisant ses effets négatifs**.  
-La qualité de ses œuvres dépend de la **pureté des matériaux** et de la **précision des gravures runiques**.  
+La qualité de ses œuvres dépend de la **pureté des matériaux** et de la **précision des gravures**.  
 Les meilleurs bijoutiers savent équilibrer beauté, symbolisme et puissance, créant des objets aussi spirituels que fonctionnels.
 
 ---
