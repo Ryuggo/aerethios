@@ -50,15 +50,24 @@ Les tanneurs les plus habiles allient esthétique, confort et résistance, produ
 
 ---
 
-## Prix indicatifs des Ingrédients (pa)
+## Prix indicatifs des Ingrédients et Matériaux (pa)
 
-| Déchet     | Commun  | Peu Commun | Rare        | Légendaire   |
-| ---------- | ------- | ---------- | ----------- | ------------ |
-| 0.01 – 0.2 | 0.5 – 2 | 10 – 30    | 1 00 - 2 00 | 5 00 – 10 00 |
+|                      | Déchet | Commun  | Peu Commun | Rare        | Légendaire   |
+| -------------------- | ------ | ------- | ---------- | ----------- | ------------ |
+| Ingrédient (tanneur) |        | 10 - 30 | 50 - 1 00  | 2 00 - 4 00 | 5 00 – 10 00 |
+| Matériau             |        |         |            |             |              |
 
+> Les ingrédients de type minerais n'ont pas de rareté tant qu'ils n'ont pas été raffiné et valent en moyenne 50 pa/unité.
 ---
 
 ## Fabrication
+
+Le joueur doit d'abord raffiner ses ingrédients bruts en matériaux utilisables à l’aide d’un **jet de D20 + Niveau d'Artisanat + Rareté de l'ingrédient** (déchet= 0, commun= 1, ..).
+
+| Déchet | Commun | Peu Commun | Rare    | Légendaire |
+| ------ | ------ | ---------- | ------- | ---------- |
+| 1 - 3  | 4 - 12 | 13 - 19    | 20 - 23 | 24 +       |
+
 
 Une fois la recette connue, il peut tenter une **préparation** à l’aide d’un **jet de D20 + Niveau d'Artisanat**.
 
