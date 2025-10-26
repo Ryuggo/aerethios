@@ -9,14 +9,16 @@ tags:
 
 ---
 
-## [[Cuisinier]]
+## Spécialisations
+
+### [[Cuisinier]]
 
 Un **Cuisinier** combine des ingrédients de rareté basse (déchets) sans effets apparents pour en tirer le meilleur.  
 Ses plats permettent de se nourrir tout en octroyant des bonus, le tout de façon économe.
 
 ---
 
-## [[Invocateur]]
+### [[Invocateur]]
 
 Un **Invocateur** (également nommé _Transmutateur_ ou _Synthétiste_) insuffle la **magie vitale** dans les composants pour leur donner **forme et volonté**.  
 Ses œuvres peuvent aller de simples **familiers alchimiques** à de véritables **entités conscientes**, liées à leur créateur.  
@@ -24,7 +26,7 @@ L’invocateur se situe à la frontière entre l’alchimie et la magie ancienne
 
 ---
 
-## [[Potionniste]]
+### [[Potionniste]]
 
 Un **Potionniste** combine différents ingrédients pour créer des **substances consommables**.  
 Ses créations prennent souvent la forme de **potions**, **pommades** ou **huiles**, capables d’altérer le corps, l’esprit ou l’environnement.  
@@ -32,13 +34,9 @@ Son art repose sur la précision, le dosage et la pureté des éléments employ�
 
 ---
 
-## Prix indicatifs des Ingrédients (pa)
-
-| Déchet     | Commun  | Peu Commun | Rare        | Légendaire   |
-| ---------- | ------- | ---------- | ----------- | ------------ |
-| 0.01 – 0.2 | 0.5 – 2 | 10 – 30    | 1 00 - 2 00 | 5 00 – 10 00 |
-
 ## Fabrication
+
+### Fabrication
 
 S’il s’agit d’une préparation dont **le joueur ne connaît pas encore la recette**, il doit d’abord réussir le **[[Mini-Jeu - Recherche Alchimique]]**.
 
@@ -74,15 +72,8 @@ La difficulté va également baisser tous les 2 niveaux jusqu'au niveau 6.
 > A chaque fois que le joueur utilise un ingrédient, il réduit sa difficulté de 2 s'il réussit la fabrication, sinon il la réduit de 1.
 > A force d'utiliser un ingrédient il peut diminuer la difficulté jusqu'à 0 et réussir en permanence.
 
-Le premier ingrédient est toujours le **plus rare** (il définit la nature principale de la création).
-
-| Objet                          | Déchet | Commun | Peu Commun | Rare | Légendaire |
-| ------------------------------ | ------ | ------ | ---------- | ---- | ---------- |
-| Premier Ingrédient - Niveau 0  | 8      | 12     | 16         | -    | -          |
-| Premier Ingrédient - Niveau 1+ | 6      | 8      | 12         | 16   | 21         |
-| Ingrédients supplémentaires    | +1     | +2     | +4         | +6   | +8         |
-
-> **Exemple :** un alchimiste de niveau 3 utilisant un ingrédient rare (16) et deux communs (+2 ×2) devra faire un minimum de 20 à son jet de D20 + 3.
+> **Exemple :** un alchimiste de niveau 3 utilisant un ingrédient rare (20) et un commun (12) devrait faire 32.
+> Mais étant niveau 3, il a eu 9 points à répartir. Il en a mis 4 en commun (12-4) et 5 en rare (20-5), et doit donc faire un minimum 23 à son D20+3
 
 ### Difficulté par emplacement
 
@@ -96,6 +87,12 @@ Les chances de réussite augmentent si le joueur travaille dans un **lieu dédi�
 | Salle naturelle envigorée de magie aménagée      | -6    | 1 00 - 10% du prix de la création |
 | Occurrence rare d'alignement d'énergies magiques | -8    | -                                 |
 
+### Prix indicatifs (pa)
+
+| Déchet     | Commun  | Peu Commun | Rare        | Légendaire   |
+| ---------- | ------- | ---------- | ----------- | ------------ |
+| 0.01 – 0.2 | 0.5 – 2 | 10 – 30    | 1 00 - 2 00 | 5 00 – 10 00 |
+
 ## Récolte
 
 Lors d’un voyage, une **journée de récolte** permet de découvrir divers composants.  
@@ -103,16 +100,26 @@ Le joueur lance :
 
 - **1D100** pour déterminer la **rareté** du matériau trouvé.
     
-- **1D6** pour connaître la **quantité** obtenue (par type d’ingrédient).
+- Pour connaître la **quantité** obtenue :
+    
+    -  D10 pour les déchets,
+           
+    - D8 pour les communs,
+           
+    - D6 pour les peu communs,
+           
+    - D4 pour les rares,
+           
+    - D2 pour les légendaires.
     
 - **1D4** pour connaître le type d'ingrédient parmi cette liste :
-	- 1) des **minerais**,
+	- 1. des **minerais**,
 	    
-	- 2) des **plantes**,
+	- 2. des **plantes**,
 	    
-	- 3) des **champignons**,
+	- 3. des **champignons**,
 	    
-	- 4) des **crystaux**.
+	- 4. des **crystaux**.
 
 |                | Déchet | Commun  | Peu Commun | Rare     | Légendaire |
 | -------------- | ------ | ------- | ---------- | -------- | ---------- |
