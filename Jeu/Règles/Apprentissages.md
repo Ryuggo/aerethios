@@ -11,6 +11,19 @@ Pendant ses leçons, **il ne peut effectuer aucune autre activité** (pas de dé
 
 ---
 
+### Difficulté d’apprentissage
+
+Le résultat du jet de **1D20 + Mental + Concentration** détermine la progression de l’apprenant selon le niveau visé.
+Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leçons de ses fabrications solitaires (qu'elles soient réussies ou ratées).
+
+- **Leçon** : un jet **≥ 12** permet d'évoluer vers le **niveau 1**.
+    
+- **Pratique** : un jet **≥ 20** permet 'évoluer vers le **niveau 1**.
+    
+- Pour chaque **niveau supérieur**, on ajoute **+4** à la difficulté minimale à atteindre.
+
+---
+
 ### Gain d’expérience
 
 Chaque leçon réussie rapporte **1 point d’expérience** (exp) dans la compétence étudiée (ce point n'est pas fourni si le joueur la pratique en solitaire).
@@ -37,21 +50,6 @@ Des bonus peuvent s’appliquer :
 
 > A noter que **l'apprentissage par la pratique nécessite peut-être des pré-requis** afin de permettre d'obtenir ces bonus d'expérience
 > **Exemple** : Un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience 
-
----
-
-### Difficulté d’apprentissage
-
-Le résultat du jet de **1D20 + Mental + Concentration** détermine la progression de l’apprenant selon le niveau visé.
-Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leçons de ses fabrications solitaires (qu'elles soient réussies ou ratées).
-
-- **Leçon** : un jet **≥ 12** permet de gagner de l’expérience au **niveau 1**.
-    
-- **Pratique** : un jet **≥ 20** permet de gagner de l’expérience au **niveau 1**.
-    
-- Pour chaque **niveau supérieur**, on ajoute **+4** à la difficulté minimale à atteindre.
-
-> L’échec ne fait pas perdre d’expérience, **sauf en cas d’échec critique**, qui peut entraîner une perte de progression ou un contrecoup narratif (épuisement, erreur de manipulation, etc.).
 
 ---
 
@@ -158,7 +156,7 @@ Chaque compétence appartient à une **catégorie principale**, sauf les compét
 | ----------------------------------- | ----------------- | ----------- | ---------- | ------------------------------------------------ |
 | **Artificier**                      | 2 × niveau        | 25          | -          | Conception d’objets explosifs ou mécano-magiques |
 | **Bijoutier**                       | 1 × niveau        | 30          | -          | Fabrication de bijoux ou catalyseurs de magie    |
-| **[[Enchanteur]] (peau – Kothula)** | 4 × niveau        | 30          | -          | Gravure de runes sur la chair                    |
+| **[[Enchanteur]] (peau – Kothula)** | 4 × niveau        | 30          | -          | Gravure de tatouages runiques sur la peau        |
 | **[[Enchanteur]] (métal – Nirina)** | 3 × niveau        | 30          | -          | Gravure de runes sur les armes et armures        |
 | **[[Enchanteur ]](os – Ovliin)**    | 2 × niveau        | 30          | -          | Gravure de runes sur les os                      |
 | **[[Enchanteur]] (tissu – Suraja)** | 2 × niveau        | 30          | -          | Enchantement de vêtements, capes et reliques     |
