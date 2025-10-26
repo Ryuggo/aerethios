@@ -52,24 +52,27 @@ Les tanneurs les plus habiles allient esthétique, confort et résistance, produ
 
 ## Prix indicatifs des Ingrédients et Matériaux (pa)
 
-|                      | Déchet | Commun  | Peu Commun | Rare        | Légendaire   |
-| -------------------- | ------ | ------- | ---------- | ----------- | ------------ |
-| Ingrédient (tanneur) |        | 10 - 30 | 50 - 1 00  | 2 00 - 4 00 | 5 00 – 10 00 |
-| Matériau             |        |         |            |             |              |
+| Rareté                            | Déchet (0) | Commun (1) | Peu Commun (2) | Rare (4)    | Légendaire (6) |
+| --------------------------------- | ---------- | ---------- | -------------- | ----------- | -------------- |
+| Ingrédient (peaux, fourrures, ..) | 1 - 10     | 10 - 30    | 50 - 1 00      | 1 00 - 2 00 | 2 00 – 4 00    |
+| Matériau                          | 10 - 30    | 50 - 1 00  | 1 00 - 2 00    | 2 00 - 4 00 | 5 00 - 10 00   |
 
 > Les ingrédients de type minerais n'ont pas de rareté tant qu'ils n'ont pas été raffiné et valent en moyenne 50 pa/unité.
 ---
 
-## Fabrication
+## Raffinage
 
-Le joueur doit d'abord raffiner ses ingrédients bruts en matériaux utilisables à l’aide d’un **jet de D20 + Niveau d'Artisanat + Rareté de l'ingrédient** (déchet= 0, commun= 1, ..).
+Le joueur doit d'abord raffiner ses ingrédients bruts en matériaux utilisables à l’aide d’un **jet de D20 + Niveau d'Artisanat + Rareté de l'ingrédient** (déchet= 0, commun= 1, 2, 4, 6).
 
 | Déchet | Commun | Peu Commun | Rare    | Légendaire |
 | ------ | ------ | ---------- | ------- | ---------- |
-| 1 - 3  | 4 - 12 | 13 - 19    | 20 - 23 | 24 +       |
+| 1 - 8  | 9 - 15 | 16 - 21    | 22 - 26 | 27 +       |
 
+---
 
-Une fois la recette connue, il peut tenter une **préparation** à l’aide d’un **jet de D20 + Niveau d'Artisanat**.
+## Fabrication
+
+Une fois les ingrédients transformés en matériaux, le joueur peut tenter une **préparation** à l’aide d’un **jet de D20 + Niveau d'Artisanat**.
 
 Pour réussir, le résultat final doit être **supérieur** à la **difficulté totale** de la création.
 
@@ -82,3 +85,27 @@ Les **chances de réussite** dépendent :
 - et de la **rareté** de chacun d’eux.
 
 > Les malus de difficulté s’additionnent pour chaque ingrédient.
+
+## Récolte
+
+Lors d’un voyage, une **journée de récolte** permet de découvrir divers composants.  
+Le joueur lance :
+
+- **1D100** pour déterminer la **rareté** du matériau trouvé.
+    
+- **1D6** pour connaître la **quantité** obtenue (par type d’ingrédient).
+    
+- **1D4** pour connaître le type d'ingrédient parmi cette liste :
+	- 1) des **minerais**,
+	    
+	- 2) des **plantes**,
+	    
+	- 3) des **champignons**,
+	    
+	- 4) des **crystaux**.
+
+|             | Déchet | Commun  | Peu Commun | Rare     | Légendaire |
+| ----------- | ------ | ------- | ---------- | -------- | ---------- |
+| Artisan     | 1 - 30 | 31 - 60 | 61 - 85    | 86 - 96  | 97 - 100   |
+| Non Artisan | 1 - 50 | 51 - 90 | 91 - 97    | 98 - 100 | -          |
+
