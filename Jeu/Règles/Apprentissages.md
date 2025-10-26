@@ -154,8 +154,8 @@ Chaque compétence appartient à une **catégorie principale**, sauf les compét
 
 | Compétence                          | Coût (po / leçon) | XP / niveau | Niveau max | Description                                      |
 | ----------------------------------- | ----------------- | ----------- | ---------- | ------------------------------------------------ |
-| **Artificier**                      | 2 × niveau        | 25          | -          | Conception d’objets explosifs ou mécano-magiques |
-| **Bijoutier**                       | 1 × niveau        | 30          | -          | Fabrication de bijoux ou catalyseurs de magie    |
+| **[[Artificier]]**                  | 2 × niveau        | 25          | -          | Conception d’objets explosifs ou mécano-magiques |
+| **[[Bijoutier]]**                   | 1 × niveau        | 30          | -          | Fabrication de bijoux ou catalyseurs de magie    |
 | **[[Enchanteur]] (peau – Kothula)** | 4 × niveau        | 30          | -          | Gravure de tatouages runiques sur la peau        |
 | **[[Enchanteur]] (métal – Nirina)** | 3 × niveau        | 30          | -          | Gravure de runes sur les armes et armures        |
 | **[[Enchanteur ]](os – Ovliin)**    | 2 × niveau        | 30          | -          | Gravure de runes sur les os                      |
