@@ -47,3 +47,29 @@ Les meilleurs forgerons savent adapter leurs créations aux porteurs, équilibra
 Un **Tanneur** (ou _Couturier_) transforme les **peaux et fourrures** en **armures légères** et vêtements de protection.  
 Son art dépend à la fois de la **qualité de la matière première** et de sa **maîtrise du traitement** : cuir souple, peau renforcée, ou tissu alchimique.  
 Les tanneurs les plus habiles allient esthétique, confort et résistance, produisant des pièces aussi pratiques que discrètes.
+
+---
+
+## Prix indicatifs des Ingrédients (pa)
+
+| Déchet     | Commun  | Peu Commun | Rare        | Légendaire   |
+| ---------- | ------- | ---------- | ----------- | ------------ |
+| 0.01 – 0.2 | 0.5 – 2 | 10 – 30    | 1 00 - 2 00 | 5 00 – 10 00 |
+
+---
+
+## Fabrication
+
+Une fois la recette connue, il peut tenter une **préparation** à l’aide d’un **jet de D20 + Niveau d'Artisanat**.
+
+Pour réussir, le résultat final doit être **supérieur** à la **difficulté totale** de la création.
+
+Les **chances de réussite** dépendent :
+
+- du **niveau d’artisanat** du joueur,
+    
+- du **nombre total d’ingrédients utilisés**,
+    
+- et de la **rareté** de chacun d’eux.
+
+> Les malus de difficulté s’additionnent pour chaque ingrédient.
