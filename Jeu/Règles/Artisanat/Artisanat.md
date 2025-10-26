@@ -52,10 +52,10 @@ Les tanneurs les plus habiles allient esthétique, confort et résistance, produ
 
 ## Prix indicatifs des Ingrédients et Matériaux (pa)
 
-| Rareté                            | Déchet (0) | Commun (1) | Peu Commun (2) | Rare (4)    | Légendaire (6) |
-| --------------------------------- | ---------- | ---------- | -------------- | ----------- | -------------- |
-| Ingrédient (peaux, fourrures, ..) | 1 - 10     | 10 - 30    | 50 - 1 00      | 1 00 - 2 00 | 2 00 – 4 00    |
-| Matériau                          | 10 - 30    | 50 - 1 00  | 1 00 - 2 00    | 2 00 - 4 00 | 5 00 - 10 00   |
+| Rareté                            | Déchet (0) | Commun (1) | Peu Commun (2) | Rare (4)     | Légendaire (6) |
+| --------------------------------- | ---------- | ---------- | -------------- | ------------ | -------------- |
+| Ingrédient (peaux, fourrures, ..) | 1 - 10     | 10 - 30    | 50 - 1 00      | 1 00 - 2 00  | 2 00 – 4 00    |
+| Matériau                          | 10 - 50    | 50 - 2 00  | 2 00 - 4 00    | 5 00 - 10 00 | 10 00 - 20 00  |
 
 > Les ingrédients de type minerais n'ont pas de rareté tant qu'ils n'ont pas été raffiné et valent en moyenne 50 pa/unité.
 ---
@@ -67,6 +67,8 @@ Le joueur doit d'abord raffiner ses ingrédients bruts en matériaux utilisables
 | Déchet | Commun | Peu Commun | Rare    | Légendaire |
 | ------ | ------ | ---------- | ------- | ---------- |
 | 1 - 8  | 9 - 15 | 16 - 21    | 22 - 26 | 27 +       |
+
+Ensuite, le joueur lance un autre dé pour déterminer avec précision le matériau qu'il vient d'obtenir.
 
 ---
 
@@ -88,21 +90,19 @@ Les **chances de réussite** dépendent :
 
 ## Récolte
 
-Lors d’un voyage, une **journée de récolte** permet de découvrir divers composants.  
+Lors d’un voyage, le joueur peut doubler le temps qu'il passe dans un hex afin de récolter divers composants.  
 Le joueur lance :
 
-- **1D100** pour déterminer la **rareté** du matériau trouvé.
+- **1D100** pour déterminer la **rareté** de l'ingrédient trouvé.
     
-- **1D6** pour connaître la **quantité** obtenue (par type d’ingrédient).
+- Pour connaître la **quantité** obtenue :
+- D10 pour les déchets,
+- D8 pour les communs,
+- D6 pour les peu communs,
+- D4 pour les rares,
+- D2 pour les légendaires.
     
-- **1D4** pour connaître le type d'ingrédient parmi cette liste :
-	- 1) des **minerais**,
-	    
-	- 2) des **plantes**,
-	    
-	- 3) des **champignons**,
-	    
-	- 4) des **crystaux**.
+- Le type d'ingrédients est déterminé par l'hex dans lequelle le joueur fait sa récolte (minerais, gemmes, crystaux, ..).
 
 |             | Déchet | Commun  | Peu Commun | Rare     | Légendaire |
 | ----------- | ------ | ------- | ---------- | -------- | ---------- |
