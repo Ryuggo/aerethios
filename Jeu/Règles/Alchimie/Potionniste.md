@@ -3,7 +3,7 @@ tags:
   - Règles
   - Alchimie
 ---
-> Un **Potionniste** est une spécialité de l'[[Alchimie]] qui combine différents ingrédients pour créer des **substances consommables**.  
+> **Potionniste** est une spécialité de l'[[Alchimie]] qui combine différents ingrédients pour créer des **substances consommables**.  
 
 ## Matériel
 

@@ -1,3 +1,10 @@
+---
+tags:
+  - Règles
+  - Artisanat
+---
+> **Enchanteur** est une spécialité de l'[[Artisanat]] qui améliore magiquement les caractéristiques des équipements d'aventuriers.
+
 ## Apprentissage
 Chaque continent possède sa technique d'enchantement.
 Pour l'apprendre, il faut se rendre sur le continent concerné.

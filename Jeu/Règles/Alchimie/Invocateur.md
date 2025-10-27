@@ -3,7 +3,7 @@ tags:
   - Règles
   - Alchimie
 ---
-> Un **Invocateur** (également nommé _Transmutateur_ ou _Synthétiste_) est une spécialité de l'[[Alchimie]] qui insuffle la **magie vitale** dans les composants pour leur donner **forme et volonté**.  
+> **Invocateur** est une spécialité de l'[[Alchimie]] qui insuffle la **magie vitale** dans les composants pour leur donner **forme et volonté**.  
 
 ## Matériel
 
