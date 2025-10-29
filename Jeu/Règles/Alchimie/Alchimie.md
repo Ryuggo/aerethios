@@ -64,22 +64,23 @@ Le premier ingrédient est toujours le **plus rare** (il définit la nature prin
 
 | Objet                          | Déchet | Commun | Peu Commun | Rare | Légendaire |
 | ------------------------------ | ------ | ------ | ---------- | ---- | ---------- |
-| Premier Ingrédient - Niveau 0  | 8      | 12     | 16         | -    | -          |
-| Premier Ingrédient - Niveau 1+ | 6      | 8      | 12         | 16   | 21         |
-| Ingrédients supplémentaires    | +1     | +2     | +4         | +6   | +8         |
+| Premier Ingrédient - Niveau 0  | 10     | 12     | 16         | -    | -          |
+| Premier Ingrédient - Niveau 1+ | 8      | 8      | 12         | 16   | 21         |
+| Ingrédients supplémentaires    | +6     | +2     | +4         | +6   | +8         |
 
-> **Exemple :** un alchimiste de niveau 3 utilisant un ingrédient rare (18) et deux communs (+2 ×2) devra faire un minimum de 22 à son jet de D20 + 3.
+> **Exemple :** un alchimiste de niveau 4 utilisant un ingrédient rare (18) et 3 communs (+2 ×3) devra faire un minimum de 24 à son jet de D20 + 4.
 
 ### Difficulté par emplacement
 
 Les chances de réussite augmentent si le joueur travaille dans un **lieu dédié** à son travail (laboratoire stérile, cuisine).
+Ces lieux peuvent être loués pour **1 journée**.
 
 | Lieu                                             | Bonus | Prix (pa) |
 | ------------------------------------------------ | ----- | --------- |
 | En pleine nature                                 | -     | -         |
-| Salle des Arvens                                 | -2    |           |
-| Salle des Scienctes                              | -4    |           |
-| Salle naturelle envigorée de magie aménagée      | -6    |           |
+| Salle des Arvens                                 | -2    | 40        |
+| Salle des Scienctes                              | -4    | 1 00      |
+| Salle naturelle envigorée de magie aménagée      | -6    | 2 00      |
 | Occurrence rare d'alignement d'énergies magiques | -8    | -         |
 
 ## Récolte

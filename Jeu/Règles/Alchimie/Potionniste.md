@@ -9,7 +9,7 @@ tags:
 
 Pour faire des concoctions, il faut disposer :
 
-- du **matériel de base** (récipient, mortier et pilon, alambic et cornue),
+- du **matériel de base**,
 	- _(poids total ≈ 10 kg, coût : 3 PO)_
     
 - d'un **diluant**,
@@ -99,7 +99,7 @@ Ces effets durent **1 jour**, sauf mention contraire.
 
 | Déchet | Commun | Peu Commun | Rare | Légendaire |
 | ------ | ------ | ---------- | ---- | ---------- |
-| +0     | +1     | +2         | +3   | +4         |
+| +0     | +1     | +2         | +4   | +6         |
 
 > C’est en **combinant plusieurs ingrédients** que les effets deviennent **plus complexes**, ouvrant la voie à des **concoctions expérimentales** aux propriétés uniques.
 > Attention qu'à partir de 3 ingrédients, les effets deviennent **instables**.

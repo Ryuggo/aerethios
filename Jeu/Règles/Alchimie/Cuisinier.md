@@ -11,7 +11,7 @@ tags:
 
 Pour cuisiner, il faut disposer :
 
-- du **matériel de base** (couteau, planche, louche, marmite ou équivalent),
+- du **matériel de base**,
 	- _(poids total ≈ 5 kg, coût : 1 PO)_
     
 - des **ingrédients frais**, en quantité suffisante **pour chaque convive**.
@@ -34,20 +34,22 @@ Pour cuisiner, il faut disposer :
 
 Les repas offrent des **bonus journaliers** selon leur composition.  
 Chaque ingrédient utilisé doit être multiplié par le **nombre de convives**.  
-Les effets ne sont **ni cumulatifs**, ni **stockables** — le plat doit être consommé immédiatement.  
+Les effets ne sont **ni cumulatifs**, ni **stockables** — le plat doit être consommé immédiatement, sinon il se transforme en simple ration sans effet.
 Les ingrédients **se conservent 7 jours** avant de pourrir.
 
-Chaque ingrédient accorde un bonus de **1D4** dans une **sous-compétence liée** à son type. 
-> **Exemple** : Viande rouge (Force) → Athlétisme, Bagarre ou Impénétrable (au choix).
+Chaque ingrédient accorde un bonus de **2** dans une **sous-compétence liée** à son type. 
+La sous-compétence est sélectionnée par un **D4**.
+Si le dé tombe sur **4**, l'ingrédient n'a **aucun effet**.
 
 ### **Viandes** — bonus physiques
 
-|Aliment|Bonus principal|Poids (kg)|Prix (pb)|
-|---|---|---|---|
-|Viande rouge|Force|1|15|
-|Viande blanche|Dextérité|1|12|
-|Viande noire|Perception|1|10|
-|Poisson|Mental|1|7|
+| Aliment        | Bonus principal | Poids (kg) | Prix (pb) |
+| -------------- | --------------- | ---------- | --------- |
+| Viande rouge   | Force           | 1          | 15        |
+| Viande blanche | Dextérité       | 1          | 12        |
+| Viande noire   | Perception      | 1          | 10        |
+| Poisson        | Mental          | 1          | 7         |
+> **Exemple** : Viande rouge (Force) → Athlétisme, Bagarre ou Impénétrable.
 
 ### **Accompagnements** — bonus magiques
 
@@ -57,6 +59,7 @@ Chaque ingrédient accorde un bonus de **1D4** dans une **sous-compétence liée
 | Fruits        | Magie Croitiste | 0.5        | 5         |
 | Fruits de mer | Magie Mixte     | 0.5        | 10        |
 | Épices        | Magie de Feu    | 0.1        | 25        |
+> **Exemple** : Fruits (Magie Croitiste) → Lumière, Foudre ou Ténèbres.
 
 ---
 
@@ -66,11 +69,9 @@ Chaque ingrédient accorde un bonus de **1D4** dans une **sous-compétence liée
 
 - Il choisit un ingrédient "mystère" à incorporer.
     
-- Il lance **1D12** pour déterminer l’effet conféré, ou le **MJ choisit un effet approprié** selon l’ingrédient.
+- Il lance un dé lié au tableau qui l'intéresse pour déterminer l’effet conféré.
     
-- Tous les **2 niveaux** de Cuisine, il peut **débloquer une nouvelle Touche**.
-    
-- Il peut aussi **acheter ou échanger** les Touches d’autres chefs pour apprendre leurs secrets.
+- Il peut aussi **acheter ou échanger** les Touches d’autres chefs afin d'avoir un effet préétablit.
 
 | Jet (D12) | Effet spécial |
 | --------- | ------------- |
@@ -86,3 +87,14 @@ Chaque ingrédient accorde un bonus de **1D4** dans une **sous-compétence liée
 | 10        | Nyctalope     |
 | 11        | Intuition     |
 | 12        | Mentaliste    |
+
+| Jet (D8) | Effet spécial              |
+| -------- | -------------------------- |
+| 1        | Maîtrise d'armes +1        |
+| 2        | Maîtrise magique +1        |
+| 3        | Régénération Magique D100% |
+| 4        | Imperturbable              |
+| 5        | Réflexe                    |
+| 6        | Insensible                 |
+| 7        | Intuition                  |
+| 8        | Régénère 2 crystaux        |
