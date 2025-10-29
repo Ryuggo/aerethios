@@ -3,7 +3,7 @@ tags:
   - Règles
   - Alchimie
 ---
-> Un **Potionniste** est une spécialité de l'[[Alchimie]] qui combine différents ingrédients pour créer des **substances consommables**.  
+> **Potionniste** est une spécialité de l'[[Alchimie]] qui combine différents ingrédients pour créer des **substances consommables**.  
 
 ## Matériel
 
@@ -71,14 +71,16 @@ Dormir réduit l’intoxication de **50 points**.
 
 > Au-delà de **100**, le joueur subit des **effets secondaires cumulatifs** : vertiges, pertes de mémoire, fièvre magique, hallucinations, voire coma.
 
+Il existe des potions rares qui réduisent l'intoxication de 100, mais elles divisent également les effets actifs par 2.
+
 ---
 
-## Prix indicatif (pa)
+## Prix indicatif par nombre d'ingrédients (pa)
 
 | Objet            | Déchet     | Commun  | Peu Commun | Rare         | Légendaire    |
 | ---------------- | ---------- | ------- | ---------- | ------------ | ------------- |
 | Ingrédients      | 0.01 – 0.2 | 0.5 – 2 | 10 – 30    | 1 00 - 2 00  | 5 00 – 10 00  |
-| Concoction finie | 0.01 – 0.2 | 1 – 5   | 30 – 100   | 5 00 – 10 00 | 40 00 – 80 00 |
+| Concoction finie | 0.01 – 0.2 | 1 – 5   | 30 – 1 00  | 5 00 – 10 00 | 40 00 – 80 00 |
 
 ---
 

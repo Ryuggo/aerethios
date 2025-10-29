@@ -3,7 +3,7 @@ tags:
   - Règles
   - Alchimie
 ---
-> Un **Cuisinier** est une spécialité dérivée de l’[[Alchimie]] qui sublime les ingrédients les plus simples — parfois sans valeur apparente — pour en tirer le meilleur. Là où l’alchimiste transforme, le cuisinier **révèle**.
+> **Cuisinier** est une spécialité dérivée de l’[[Alchimie]] qui sublime les ingrédients les plus simples — parfois sans valeur apparente — pour en tirer le meilleur. Là où l’alchimiste transforme, le cuisinier **révèle**.
 
 ---
 
