@@ -12,40 +12,36 @@ Une fois que le joueur a lancé les dés pour connaitre la rareté du matériau 
 > Métaux ou minerais bruts de faible qualité, oxydés, ou trop impurs pour produire un bon acier sans traitement lourd.
 > Souvent recyclés ou fondus en alliage.
 
-- Fer brut (minerai non raffiné, hématite pauvre, magnétite oxydée)
-- Fonte impure
-- Scories métalliques
-- Cuivre rouge usé
-- Plomb
-- Étains impurs
+- Fonte
+- Cuivre (mou, outils)
+- Plomb (mou, balles, réduit les effets magiques)
+- Étain (Alliage)
+- Chrome (Alliage, anticorrosion/ anti acide)
 
 ### Communs
 > Métaux courants, faciles à extraire et à travailler, base de la forge classique.
 
-- Fer purifié
+- Fer
+- Plomb
+- Carbone (Alliage, statut Solide)
 - Acier (alliage fer-carbone standard)
 - Bronze (cuivre + étain)
-- Laiton (cuivre + zinc)
-- Cuivre raffiné
-- Acier doux (arme légère, armure souple)
+- Laiton (cuivre + zinc, semblable à l'or, utilisé pour faire des pièces)
 
 ### Peu communs
 > Métaux plus résistants ou nécessitant un savoir-faire supérieur pour le travail à chaud.
 
 - Acier trempé (carbone maîtrisé, haute dureté)
-- Acier au manganèse (flexible et solide)
-- Acier au nickel (meilleure résistance à la corrosion)
-- Cobalt (alliage de précision, outils)
-- Titane (léger et dur, difficile à forger sans four spécialisé)
+- Nickel (Alliage, non modifiable par la magie)
+- Cobalt (Alliage de précision, outils)
+- Titane (léger et dur)
 - Tungstène (utilisé pour renforts ou tranchants fins, non forgé pur)
 
 ### Rares
 > Métaux à haute valeur technique, demandant extraction et forge complexes.
 
 - Acier inoxydable (alliage nickel + chrome)
-- Acier damassé (technique de forge, pas un métal en soi)
-- Nickel pur (utilisé pour alliages résistants)
-- Chrome (renfort de surface, anticorrosion)
+- Acier damassé
 - Molybdène (alliage haute température)
 - Vanadium (pour acier élastique et tranchant durable)
 
