@@ -1,6 +1,6 @@
 __Serments Divins__
-> - **Neutralité** : Un dieu ne posera pas la main sur un autre dieu 
-> - **Non Refus** : Un dieu donnera suite à toute requête qu'il aura écouté 
+> - **Neutralité** : Un dieu ne posera pas la main sur un autre dieu
+> - **Non Refus** : Un dieu donnera suite à toute requête qu'il aura écouté
 > - **Impartialité** : Un dieu n'initiera pas un changement sur des humains
 > - **Non Possession** : Un dieu n'utilisera pas ce qu'il a créé
 > - **Infériorité** : Un dieu impactera le monde sans que les humains le sache

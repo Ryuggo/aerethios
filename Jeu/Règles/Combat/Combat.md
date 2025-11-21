@@ -12,17 +12,17 @@ tags:
 ### Attaque
 
 - Chaque arme possède un **dé d’arme** selon son matériau et ses enchantements.
-    
-- Le **score d’attaque** se calcule ainsi :  
-    → Jet de **Dé d’arme**  
-    → + **Maîtrise d’arme**  
-    → + **Maîtrise de type**  
-    → + **Bonus du matériau**
-    
+
+- Le **score d’attaque** se calcule ainsi :
+→ Jet de **Dé d’arme**
+→ + **Maîtrise d’arme**
+→ + **Maîtrise de type**
+→ + **Bonus du matériau**
+
 - Le score doit être **supérieur à l’armure ennemie** pour infliger des dégâts.
-    
+
 - Les **styles de combat** offrent un bonus si réussis, mais retirent ce bonus en cas d’échec.
-    
+
 - La **réussite du style** dépend de son type.
 
 | Élément   | Description                |
@@ -36,22 +36,22 @@ tags:
 
 ### Défense
 
-- Pour bloquer une attaque, on additionne :  
-    → **Matériau de l’armure**  
-    → + **Bonus Impénétrable**
-    
+- Pour bloquer une attaque, on additionne :
+→ **Matériau de l’armure**
+→ + **Bonus Impénétrable**
+
 - Si ce total est **supérieur à l’attaque**, aucun dégât n’est subi.
 
 ---
 
 ### Points de vie
 
-- Les **points de vie** ne sont actuellement attribués **qu’aux ennemis**.  
-    → Les **joueurs** n’ont pas de valeur chiffrée : leur état est géré **narrativement par le MJ**, à travers des **malus RP** reflétant la gravité des blessures (douleur, lenteur, perte d’efficacité, etc.).
-    
-- Les **ennemis** peuvent également posséder des **points d’armure** et une **valeur d’esquive**. 
-    → Ils peuvent **éviter une attaque** si leur jet de **D20 + Esquive** est **supérieur à l’Attaque du joueur + Maîtrises + Style**.  
-    → En cas d’échec, ils **encaissent les dégâts** :  
+- Les **points de vie** ne sont actuellement attribués **qu’aux ennemis**.
+→ Les **joueurs** n’ont pas de valeur chiffrée : leur état est géré **narrativement par le MJ**, à travers des **malus RP** reflétant la gravité des blessures (douleur, lenteur, perte d’efficacité, etc.).
+
+- Les **ennemis** peuvent également posséder des **points d’armure** et une **valeur d’esquive**.
+→ Ils peuvent **éviter une attaque** si leur jet de **D20 + Esquive** est **supérieur à l’Attaque du joueur + Maîtrises + Style**.
+→ En cas d’échec, ils **encaissent les dégâts** :
     **Vie ennemie – (Attaque joueur – Armure ennemie)**.
 
 ---
@@ -61,12 +61,12 @@ tags:
 #### Bloquer
 
 - Le bouclier sert de seconde protection (il encaisse avant l’armure).
-    
-- Calcul :  
-    → **Matériau du bouclier**  
-    → + **Impénétrable**  
-    → + **D20 + Force + Impénétrable**
-    
+
+- Calcul :
+→ **Matériau du bouclier**
+→ + **Impénétrable**
+→ + **D20 + Force + Impénétrable**
+
 - Une réussite critique **ouvre la garde de l’adversaire**, le privant de son prochain tour.
 
 |Élément|Bonus|
@@ -79,9 +79,9 @@ tags:
 #### Esquiver
 
 - Jet : **D20 + Dextérité + Acrobatie**
-    
+
 - La compétence **Réflexe** donne **+2** si le joueur voit l’attaque.
-    
+
 - Une réussite critique permet **une deuxième action** immédiate.
 
 |Élément|Bonus|
@@ -96,11 +96,11 @@ tags:
 ### Concentration
 
 - Le joueur peut passer son tour pour se concentrer.
-    
+
 - **Magie** : +1 par tour (cumulable).
-    
+
 - **Autres compétences** : +2 (non cumulable).
-    
+
 - La compétence **Imperturbable** permet de se déplacer sans perdre le bonus.
 
 ---
@@ -108,29 +108,29 @@ tags:
 ### Adrénaline
 
 - Débloquée en situation critique (décidée par le MJ).
-    
-- Bonus :  
-    → **+D10 en Maîtrise de Combat**  
-    → **+D10 en Force ou Dextérité**
-    
-- Malus :  
-    → **–D10 en Maîtrise de Magie**
-    
-- L’état disparaît :  
-    → à la fin du combat  
-    → ou sur réussite d’un **D20 Mental + Concentration > 15**
+
+- Bonus :
+→ **+D10 en Maîtrise de Combat**
+→ **+D10 en Force ou Dextérité**
+
+- Malus :
+→ **–D10 en Maîtrise de Magie**
+
+- L’état disparaît :
+→ à la fin du combat
+→ ou sur réussite d’un **D20 Mental + Concentration > 15**
 
 ---
 
 ### Bagarre
 
-- Mode simplifié pour les combats amicals ou de taverne.
-    
+- Mode simplifié pour les combats amicaux ou de taverne.
+
 - Chaque joueur : **10 PV**, **D4 de dégâts** (Force = ×2 dégâts).
-    
-- Deux approches :  
-    → **Force** : brutale  
-    → **Technique** : précise et stratégique
+
+- Deux approches :
+→ **Force** : brutale
+→ **Technique** : précise et stratégique
 
 |Type|Calcul|Dé|
 |---|---|---|
