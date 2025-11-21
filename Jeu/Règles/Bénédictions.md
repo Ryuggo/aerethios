@@ -21,15 +21,12 @@ Les bénédictions simples offrent un pouvoir précis, régis par des lois, perm
 
 ### Bénédiction Opportune
 
-A chaque réussite critique sur un D20, le joueur accumule un point d'opportunité. (Règle de base, modifiable par le MJ)
-Ces points n'expirent pas naturellement et s'accumulent indéfiniment.
+A chaque réussite critique sur un D20, le joueur lance un d20 d'opportunité qu'il conserve pour l'échanger avec un futur jet (aussi D20).
 
-Il peut ensuite utiliser ces point pour échanger des jets de dés de son choix.
+Il peut stocker autant de D20 d'opportunités qu'il veut, mais ne peut en utiliser que 3 par session.
+
+Il peut ensuite utiliser ces D20 d'opportunité pour échanger des jets de dés de son choix.
 Que ce soit entre ennemis, entre alliés, ou entre les deux.
-
-Si l'on roule avec avantage ou désavantage, il peut également échanger les deux jets.
-
-Le joueur doit cependant décider d'échanger les jets de deux entités avant qu'elles aient toutes deux déjà effectué leur jet.
 
 ### Bénédiction Explosive
 
@@ -42,3 +39,19 @@ Cela ne marche cependant que pour les jets d'attaque/ de dégâts.
 Le joueur peut doubler n'importe quel jet et accumuler les résultats.
 
 Lorsqu'il fait cela, il ne peut ajouter aucun modificateurs.
+
+### Bénédiction Fratricide
+
+A chaque fois que le joueur fait un échec critique, il se transforme en échec normal pour tous les membres du groupe.
+
+### Bénédiction de Moyenne
+
+Le joueur lance 2D10 au lieu de 1D20.
+
+L'échec critique devient 2 au lieu de 1 sur le résultat total.
+
+### Bénédiction de la pièce
+
+Le joueur peut remplacer n'importe quel jet en pile ou face critique (sauf les jets de survie).
+
+Cette compétence se recharge lors d'un repos dans une ville sécurisée.
