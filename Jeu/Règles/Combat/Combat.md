@@ -15,12 +15,12 @@ tags:
 - Chaque arme possède un **dé d’arme** selon son matériau et ses enchantements.
     
 - Le **puissance d’attaque** se calcule ainsi :
-    → Jet de **Dé d’arme**
+    → Jet de **Dé d’arme** (prendre en compte l'enchantement d'Ovliin)
     → + **Maîtrise d’arme**
     → + **Maîtrise de type**
     → + **Bonus de style**
     
-- On rajoute le **matériau** de l'arme à la puissance d'attaque obtenue pour déterminer les **dégâts infligés**
+- On rajoute le **matériau** de l'arme (prendre en compte l'enchantement de Nirina) à la puissance d'attaque obtenue pour déterminer les **dégâts infligés**
     
 - Le score doit être **supérieur à l’armure ennemie** pour infliger des dégâts.
     
@@ -74,7 +74,7 @@ tags:
     → + **Impénétrable**
     → + **Force**
     
-- Une réussite critique **ouvre la garde de l’adversaire**, le privant de son prochain tour.
+- Si la défense du bouclier est **supérieure aux dégâts reçus de 15**, le joueur a la possibilité de **riposter**.
 
 | Élément  | Bonus                           |
 | -------- | ------------------------------- |
