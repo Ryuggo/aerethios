@@ -1,24 +1,35 @@
-Le type d'amure ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
+>Le type d'amure ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
 
 ---
 
 ## Poids
 
+### Vêtement
+*< 1kg*
+
+**Avantages**
+    + Dextérité +3
+    + Mental (Intelligence & Sagesse) -3
+    + Bonus de catégories (robe de mage, cape de voleur, ..)
+
+**Inconvénients**
+    - Durabilité (statut Délicat)
+    - Aucune défense
+
 ### Légère
 *< 5kg*
 
 **Avantages**
-    + Dextérité +5
-    + Mental (Intelligence & Sagesse) +5
+    + Dextérité +2
 
 **Inconvénients**
-    -
+    - Durabilité (statut Fragile)
 
 ### Intermédiaire
 *~ 10kg*
 
 **Avantages**
-    + Dextérité +5
+    + Dextérité +1
 
 **Inconvénients**
     -
@@ -30,8 +41,8 @@ Le type d'amure ainsi que ses matériaux vont influencer les bonus, malus et enc
     + Impénétrable
 
 **Inconvénients**
-    - Dextérité -5
-    - Mental (Intelligence & Sagesse) -5
+    - Dextérité -2
+    - Mental (Intelligence & Sagesse) -3 (sauf si Mule)
     - Besoin d'assistance pour l'enfiler/retirer
 
 ---
@@ -39,16 +50,17 @@ Le type d'amure ainsi que ses matériaux vont influencer les bonus, malus et enc
 ## Matériaux
 
 ### Tissus et Fourrures
-*Armures Légères*
+*Armures Légères & Vêtements*
 
 **Avantages**
     + [[Enchanteur|Enchantements]] de [[Suraja]]
     + Températures extrêmes
+    + Mental (Intelligence & Sagesse) +5
 
 **Inconvénients**
-    - Durabilité (statut Fragile)
+    - 
 
-### Cuirs et Peaux
+### Cuirs, Peaux et Fourrures
 *Armures Légères & Intermédiaires*
 
 **Avantages**
@@ -57,8 +69,10 @@ Le type d'amure ainsi que ses matériaux vont influencer les bonus, malus et enc
 **Inconvénients**
     -
 
-### Ecailles et Os
+### Ecailles, Os et Mailles
 *Armures Intermédiaires & Lourdes*
+
+>Ecailles et os se réparent auprès d'un potionniste ? (plus cher)
 
 **Avantages**
     + [[Enchanteur|Enchantements]] d'[[Ovliin]]
