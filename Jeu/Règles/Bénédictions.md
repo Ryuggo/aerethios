@@ -21,7 +21,7 @@ Les bénédictions simples offrent un pouvoir précis, régis par des lois, perm
 
 ### Bénédiction Opportune
 
-A chaque réussite critique, le joueur accumule un point d'opportunité. (Règle de base, modifiable par le MJ)
+A chaque réussite critique sur un D20, le joueur accumule un point d'opportunité. (Règle de base, modifiable par le MJ)
 Ces points n'expirent pas naturellement et s'accumulent indéfiniment.
 
 Il peut ensuite utiliser ces point pour échanger des jets de dés de son choix.
