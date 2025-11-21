@@ -21,7 +21,6 @@ Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leço
 - **Pratique** : un jet **≥ 20** permet 'évoluer vers le **niveau 1**.
     - Pour chaque **niveau supérieur**, on ajoute **+2** à la difficulté minimale à atteindre.
 
-
 ---
 
 ### Gain d’expérience
@@ -31,25 +30,25 @@ Chaque leçon réussie rapporte **1 point d’expérience** (exp) dans la compé
 Des bonus peuvent s’appliquer :
 
 - **Apprentissage avec tuteur ou par la pratique** :
-    
+
     - **Réussite** : +1 exp
-        
+
     - **Réussite critique** : +2 exp
-        
+
     - **Échec critique** : -1 exp
-    
+
 - **Compétence passive — Assidu** :
-    
+
     - **Échec critiques** : -0 exp
-        
+
     - Permet de relancer un **échec** avec un **malus de 4**.
-    
+
 - **Étude d'une spécialisation** :
-    
+
     - **Réussir 2 leçons d'affilée** : +2 exp
 
 > A noter que **l'apprentissage par la pratique nécessite peut-être des pré-requis** afin de permettre d'obtenir ces bonus d'expérience
-> **Exemple** : Un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience 
+> **Exemple** : Un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience
 
 ---
 
@@ -61,9 +60,9 @@ Ne peut pas s'améliorer tout seul et nécessite une journée complète.
 Pour progresser :
 
 - Il doit **réussir 3 jets** (5 s'il s'agit d'une nouvelle magie).
-    
+
 - **3 réussites consécutives** → +2 points.
-    
+
 - **3 réussites non consécutives** → +1 point.
 
 ---
@@ -77,9 +76,9 @@ Pour progresser :
 ### Magie
 
 - Jet : **D20 + Magie + Maîtrise Magique**
-    
+
 - Le résultat doit dépasser la **difficulté d’apprentissage** (voir tableau des niveaux).
-    
+
 - Le **niveau de difficulté** augmente de :
 	- **1 tous les 3 points** de Magie s'il améliore le **feu**.
 	- **1 tous les 4 points** de Magie.
@@ -92,11 +91,10 @@ Pour progresser :
 Lorsqu’un joueur débloque une nouvelle forme de magie :
 
 - Il lance **1D20**.
-    
+
 - En cas de **réussite critique**, il peut choisir de débloquer **Feu** (s’il ne l’a pas déjà).
-    
+
 - Sinon, il sélectionne librement **une autre magie non encore maîtrisée** parmi celles disponibles.
-    
 
 > **Note :** Le **Feu** est considéré comme une magie fondamentale mais instable, réservée à ceux capables de dépasser leurs limites naturelles.
 
@@ -107,16 +105,16 @@ Lorsqu’un joueur débloque une nouvelle forme de magie :
 Lorsqu’un joueur atteint le **niveau maximum/4** dans une compétence, il peut **enseigner** cette discipline à d’autres joueurs ou à des PNJ, afin de **partager son savoir** ou **gagner de l’argent**.
 
 - Le tuteur ne peut rien faire d’autre pendant les leçons.
-    
+
 - Il doit réussir un **D20 Mental + Concentration** par élève et par leçon pour transmettre efficacement ses connaissances.
-    
+
 - Une réussite critique permet d’enseigner **deux fois plus vite** (double les points gagnés par l'élève).
-    
+
 - Un échec critique fait **échouer la leçon** (aucun point gagné).
 
 ## Apprentissages
 
-Apprendre une compétence demande **temps**, **argent** et **pratique**.  
+Apprendre une compétence demande **temps**, **argent** et **pratique**.
 Chaque compétence appartient à une **catégorie principale**, sauf les compétences **libres**, qui peuvent être apprises à tout moment.
 
 ---
@@ -124,17 +122,16 @@ Chaque compétence appartient à une **catégorie principale**, sauf les compét
 ### Règles générales
 
 - Un joueur peut **s’investir dans une nouvelle catégorie** seulement **tous les 5 niveaux de personnage**.
-    
+
 - À chaque nouvelle catégorie apprise, il choisit **une spécialisation** qui gagne **plus d’expérience**.
-    
+
 - Les autres compétences de la catégorie progressent au rythme normal.
-    
+
 - L’apprentissage nécessite un **tuteur**, sauf mention contraire.
-    
+
 - Le coût en **pièces d’or (po)** correspond au **prix d’une leçon**.
-    
+
 - Un niveau est gagné lorsqu’un joueur cumule l’**expérience requise**.
-    
 
 ---
 

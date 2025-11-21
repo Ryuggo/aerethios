@@ -1,4 +1,4 @@
->Le type d'amure ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
+Le type d'amure ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
 
 ---
 
@@ -9,6 +9,7 @@
 
 **Avantages**
     + Dextérité +5
+    + Mental (Intelligence & Sagesse) +5
 
 **Inconvénients**
     -
@@ -17,7 +18,7 @@
 *~ 10kg*
 
 **Avantages**
-    + 
+    + Dextérité +5
 
 **Inconvénients**
     -
@@ -26,17 +27,19 @@
 *~ 20kg*
 
 **Avantages**
-    + Impénétrable +5
+    + Impénétrable
 
 **Inconvénients**
     - Dextérité -5
+    - Mental (Intelligence & Sagesse) -5
+    - Besoin d'assistance pour l'enfiler/retirer
 
 ---
 
 ## Matériaux
 
 ### Tissus et Fourrures
-*Légers*
+*Armures Légères*
 
 **Avantages**
     + [[Enchanteur|Enchantements]] de [[Suraja]]
@@ -46,7 +49,7 @@
     - Durabilité (statut Fragile)
 
 ### Cuirs et Peaux
-*Légers & Intermédiaires*
+*Armures Légères & Intermédiaires*
 
 **Avantages**
     + [[Enchanteur|Enchantements]] de [[Kothula]]
@@ -55,7 +58,7 @@
     -
 
 ### Ecailles et Os
-*Intermédiaires & Lourds*
+*Armures Intermédiaires & Lourdes*
 
 **Avantages**
     + [[Enchanteur|Enchantements]] d'[[Ovliin]]
@@ -64,11 +67,16 @@
     -
 
 ### Métaux
-*Lourds*
+*Armures Lourdes*
 
 **Avantages**
     + [[Enchanteur|Enchantements]] de [[Nirina]]
     + Durabilité
+    + Impénétrable VS Tranchant +5
+    + Impénétrable VS Perforant +3
+    + Impénétrable VS Contondant +1
 
 **Inconvénients**
     - Températures extrêmes
+    - Discrétion impossible
+    - Vitesse / 2

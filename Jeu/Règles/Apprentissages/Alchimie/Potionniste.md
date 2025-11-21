@@ -3,7 +3,7 @@ tags:
   - Règles
   - Alchimie
 ---
-> **Potionniste** est une spécialité de l'[[Alchimie]] qui combine différents ingrédients pour créer des **substances consommables**.  
+> **Potionniste** est une spécialité de l'[[Alchimie]] qui combine différents ingrédients pour créer des **substances consommables**.
 
 ## Matériel
 
@@ -11,9 +11,9 @@ Pour faire des concoctions, il faut disposer :
 
 - du **matériel de base**,
 	- _(poids total ≈ 10 kg, coût : 3 PO)_
-    
+
 - d'un **diluant**,
-    
+
 - et des **ingrédients nécessaires** à la préparation.
 
 ---
@@ -29,7 +29,7 @@ Le **diluant** détermine **comment la concoction s’applique** et **comment el
 |Slime|Sur la peau|Effet ciblé et durable|
 |Poudre noire|Jetée ou brûlée|Effet explosif ou de zone|
 
-> Toute création alchimique est une **concoction**.  
+> Toute création alchimique est une **concoction**.
 > Sa forme finale (potion, pommade, huile, poudre…) dépend du **diluant** utilisé.
 
 ---
@@ -37,28 +37,28 @@ Le **diluant** détermine **comment la concoction s’applique** et **comment el
 ## Résultat de Fabrication
 
 - **Réussite critique** : la préparation est **parfaite** et **produite en double**.
-    
+
 - **Réussite** : la préparation est **créée normalement**.
-    
+
 - **Échec** : la préparation **échoue** et les ingrédients sont **perdus**.
-    
+
 - **Échec critique** : une **concoction mystère** est créée.
 
-> Une **concoction mystère** est instable et imprévisible.  
-> Son effet exact est déterminé au moment de l’utilisation :  
-> Lancez **1d20** →  
-> • Résultat < 5 : effet **négatif**  
-> • Résultat > 15 : effet **positif**  
-> • Résultat 5 < 15 : effet **aléatoire**  
-> Plus on s’éloigne de 10, plus l’effet est **puissant**.  
+> Une **concoction mystère** est instable et imprévisible.
+> Son effet exact est déterminé au moment de l’utilisation :
+> Lancez **1d20** →
+> • Résultat < 5 : effet **négatif**
+> • Résultat > 15 : effet **positif**
+> • Résultat 5 < 15 : effet **aléatoire**
+> Plus on s’éloigne de 10, plus l’effet est **puissant**.
 > Il est possible de **faire analyser** la concoction contre un certain prix.
 
 ---
 
 ## Consommation et Intoxication
 
-Chaque concoction consommée augmente l’**intoxication** du buveur.  
-Le seuil maximal tolérable pour un humain est **100**.  
+Chaque concoction consommée augmente l’**intoxication** du buveur.
+Le seuil maximal tolérable pour un humain est **100**.
 Dormir réduit l’intoxication de **50 points**.
 
 | Rareté de l’ingrédient le plus rare | Intoxication |
@@ -86,17 +86,17 @@ Il existe des potions rares qui réduisent l'intoxication de 100, mais elles div
 
 ## Types d’ingrédients et effets
 
-Lorsqu’une concoction est fabriquée avec **un seul ingrédient**, son effet agit directement sur les **compétences du joueur**.  
+Lorsqu’une concoction est fabriquée avec **un seul ingrédient**, son effet agit directement sur les **compétences du joueur**.
 Ces effets durent **1 jour**, sauf mention contraire.
 
 - Les **minerais** renforcent la **Force**
-    
+
 - Les **plantes** améliorent la **Dextérité**
-    
+
 - Les **champignons** affûtent la **Perception**
-    
+
 - Les **crystaux** influencent le **Mental**
-    
+
 - Les **morceaux de créatures** augmentent les **Maîtrises d’armes et de magies**
 
 | Déchet | Commun | Peu Commun | Rare | Légendaire |

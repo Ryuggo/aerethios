@@ -3,9 +3,7 @@ tags:
   - Règles
   - Exploration
 ---
->L’alchimie a pour objectif de **transformer des composants en résultats**.  
->Les composants peuvent être de nature **minérale**, **végétale** ou **magique**.  
->Selon son savoir-faire et son procédé, un alchimiste peut produire des **substances**, des **objets consommables**, ou même des **formes de vie artificielles**.
+>L’exploration a pour objectif de **faciliter les déplacements à travers le monde**.
 
 ---
 
