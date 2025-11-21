@@ -11,6 +11,7 @@
     + Dextérité +3
     + Mental (Intelligence & Sagesse) -3
     + Bonus de catégories (robe de mage, cape de voleur, ..)
+    + Discrétion +2 dans les foules
 
 **Inconvénients**
     - Durabilité (statut Délicat)
@@ -58,7 +59,7 @@
     + Mental (Intelligence & Sagesse) +5
 
 **Inconvénients**
-    - 
+    -
 
 ### Cuirs, Peaux et Fourrures
 *Armures Légères & Intermédiaires*
