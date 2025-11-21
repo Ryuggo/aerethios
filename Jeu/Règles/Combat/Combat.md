@@ -73,8 +73,6 @@ tags:
     → **Matériau du bouclier**
     → + **Impénétrable**
     → + **Force**
-    
-- Si la défense du bouclier est **supérieure aux dégâts reçus de 15**, le joueur a la possibilité de **riposter**.
 
 | Élément  | Bonus                           |
 | -------- | ------------------------------- |
