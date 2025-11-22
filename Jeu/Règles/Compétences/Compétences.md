@@ -21,7 +21,7 @@ tags:
     
 - **Doigté** : Geste précis, crochetage, manipulation fine.
 
-## Mental
+## Mental/ Intelligence
 
 - **Résistance** : Endurance au stress, douleur, peur, alcool.
     
@@ -29,7 +29,7 @@ tags:
     
 - **Culture** : Connaissances générales (histoire, langues, mythes, coutumes).
 
-## Perception
+## Perception/ Sagesse
 
 - **Vue** : Observation, détection de détails ou mouvements.
     
@@ -48,7 +48,7 @@ tags:
 - **Insensible** : Pas de malus physique malgré blessures.
     
 - **Intimidant** : Influence par la peur ; conséquences possibles.
-- **Armure Lourde**
+- **Armure Lourde** : Proficiency
 
 ## Dextérité
 
@@ -57,7 +57,7 @@ tags:
 - **Réflexe** : Réaction possible à une attaque surprise.
     
 - **Négociateur** : Meilleures négociations ; insistance risquée.
-- **Armure Intermédiaire**
+- **Armure Intermédiaire** : Proficiency
 
 ## Mental/ Intelligence
 
@@ -66,7 +66,7 @@ tags:
 - **Imperturbable** : Conserve la concentration en mouvement ; réduit les malus d’adrénaline.
     
 - **Charismatique** : Influence accrue et prix réduits ; attentes plus fortes.
-- **Armure Légère**
+- **Armure Légère** : Proficiency
 
 ## Perception/ Sagesse
 

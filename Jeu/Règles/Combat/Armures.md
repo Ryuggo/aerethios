@@ -2,6 +2,8 @@
 
 ---
 
+>If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or Attack roll that involves Strength or Dexterity, and you can’t cast Spells.
+
 ## Poids
 
 ### Vêtement
