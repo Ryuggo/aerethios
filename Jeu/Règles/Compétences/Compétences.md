@@ -48,6 +48,7 @@ tags:
 - **Insensible** : Pas de malus physique malgré blessures.
     
 - **Intimidant** : Influence par la peur ; conséquences possibles.
+- **Armure Lourde**
 
 ## Dextérité
 
@@ -56,16 +57,18 @@ tags:
 - **Réflexe** : Réaction possible à une attaque surprise.
     
 - **Négociateur** : Meilleures négociations ; insistance risquée.
+- **Armure Intermédiaire**
 
-## Mental
+## Mental/ Intelligence
 
 - **Assidu** : +1 XP lors d’un apprentissage.
     
 - **Imperturbable** : Conserve la concentration en mouvement ; réduit les malus d’adrénaline.
     
 - **Charismatique** : Influence accrue et prix réduits ; attentes plus fortes.
+- **Armure Légère**
 
-## Perception
+## Perception/ Sagesse
 
 - **Nyctalope** : Vision nocturne.
     
