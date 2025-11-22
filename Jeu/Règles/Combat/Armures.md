@@ -9,6 +9,14 @@
 ### Vêtement
 *< 1kg*
 
+| Armure       | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
+| ------------ | ---- | ---------------- | ----- | ---------- | --------- | ----- |
+| Padded       |      |                  |       |            |           |       |
+| Cuir         |      |                  |       |            |           |       |
+| Cuir Bouilli |      |                  |       |            |           |       |
+| Brigandine   |      |                  |       |            |           |       |
+
+
 **Avantages**
     + Dextérité +3
     + Mental (Intelligence & Sagesse) -3
@@ -21,6 +29,15 @@
 
 ### Légère
 *< 5kg*
+
+| Armure        | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
+| ------------- | ---- | ---------------- | ----- | ---------- | --------- | ----- |
+| Peau          |      |                  |       |            |           |       |
+| Chaines       |      |                  |       |            |           |       |
+| Écailles      |      |                  |       |            |           |       |
+| Breastplate   |      |                  |       |            |           |       |
+| Half Plate    |      |                  |       |            |           |       |
+| Laminar Plate |      |                  |       |            |           |       |
 
 **Avantages**
     + Dextérité +2
