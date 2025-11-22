@@ -54,6 +54,7 @@
 | Cotte de Mailles *Chain Mail* |      |                  |       |            |           |       |
 | Clibanion *Splint*            |      |                  |       |            |           |       |
 | Harnois *Plate*               |      |                  |       |            |           |       |
+| *Lamellan Plate*              |      |                  |       |            |           |       |
 
 **Avantages**
     + Dextérité +1
