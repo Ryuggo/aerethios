@@ -6,8 +6,8 @@
 
 ## Poids
 
-### Vêtement
-*< 1kg*
+### Légère 
+*< 5kg*
 
 | Armure                        | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
 | ----------------------------- | ---- | ---------------- | ----- | ---------- | --------- | ----- |
@@ -18,17 +18,13 @@
 
 
 **Avantages**
-    + Dextérité +3
-    + Mental (Intelligence & Sagesse) -3
-    + Bonus de catégories (robe de mage, cape de voleur, ..)
-    + Discrétion +2 dans les foules
+    + 
 
 **Inconvénients**
-    - Durabilité (statut Délicat)
-    - Aucune défense
+    - 
 
-### Légère
-*< 5kg*
+### Intermédiaire 
+*~ 10kg*
 
 | Armure                           | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
 | -------------------------------- | ---- | ---------------- | ----- | ---------- | --------- | ----- |
@@ -40,13 +36,13 @@
 | *Laminar Plate*                  |      |                  |       |            |           |       |
 
 **Avantages**
-    + Dextérité +2
+    + 
 
 **Inconvénients**
-    - Durabilité (statut Fragile)
+    - 
 
-### Intermédiaire
-*~ 10kg*
+### Lourde
+*~ 20kg*
 
 | Armure                        | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
 | ----------------------------- | ---- | ---------------- | ----- | ---------- | --------- | ----- |
@@ -57,13 +53,18 @@
 | *Lamellan Plate*              |      |                  |       |            |           |       |
 
 **Avantages**
-    + Dextérité +1
+    + 
 
 **Inconvénients**
     -
 
-### Lourde
-*~ 20kg*
+### Bouclier
+
+| Armure    | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
+| --------- | ---- | ---------------- | ----- | ---------- | --------- | ----- |
+| *Buckler* |      |                  |       |            |           |       |
+| *Round*   |      |                  |       |            |           |       |
+| *Tower*   |      |                  |       |            |           |       |
 
 **Avantages**
     + Impénétrable
