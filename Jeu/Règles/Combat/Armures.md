@@ -9,12 +9,12 @@
 ### Vêtement
 *< 1kg*
 
-| Armure       | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
-| ------------ | ---- | ---------------- | ----- | ---------- | --------- | ----- |
-| Padded       |      |                  |       |            |           |       |
-| Cuir         |      |                  |       |            |           |       |
-| Cuir Bouilli |      |                  |       |            |           |       |
-| Brigandine   |      |                  |       |            |           |       |
+| Armure                        | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
+| ----------------------------- | ---- | ---------------- | ----- | ---------- | --------- | ----- |
+| Matelassé *Padded*            |      |                  |       |            |           |       |
+| Cuir *Leather*                |      |                  |       |            |           |       |
+| Cuir Clouté *Studded Leather* |      |                  |       |            |           |       |
+| *Brigandine*                  |      |                  |       |            |           |       |
 
 
 **Avantages**
@@ -30,14 +30,14 @@
 ### Légère
 *< 5kg*
 
-| Armure        | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
-| ------------- | ---- | ---------------- | ----- | ---------- | --------- | ----- |
-| Peau          |      |                  |       |            |           |       |
-| Chaines       |      |                  |       |            |           |       |
-| Écailles      |      |                  |       |            |           |       |
-| Breastplate   |      |                  |       |            |           |       |
-| Half Plate    |      |                  |       |            |           |       |
-| Laminar Plate |      |                  |       |            |           |       |
+| Armure                           | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
+| -------------------------------- | ---- | ---------------- | ----- | ---------- | --------- | ----- |
+| Peaux *Hide*                     |      |                  |       |            |           |       |
+| Chemise de Mailles *Chain Shirt* |      |                  |       |            |           |       |
+| Écailles *Scale Mail*            |      |                  |       |            |           |       |
+| Cuirasse *Breastplate*           |      |                  |       |            |           |       |
+| Demi-Plate *Half Plate*          |      |                  |       |            |           |       |
+| *Laminar Plate*                  |      |                  |       |            |           |       |
 
 **Avantages**
     + Dextérité +2
@@ -47,6 +47,13 @@
 
 ### Intermédiaire
 *~ 10kg*
+
+| Armure                        | Prix | Armor Class (AC) | Force | Discrétion | Propriété | Poids |
+| ----------------------------- | ---- | ---------------- | ----- | ---------- | --------- | ----- |
+| Broigne *Ring Mail*           |      |                  |       |            |           |       |
+| Cotte de Mailles *Chain Mail* |      |                  |       |            |           |       |
+| Clibanion *Splint*            |      |                  |       |            |           |       |
+| Harnois *Plate*               |      |                  |       |            |           |       |
 
 **Avantages**
     + Dextérité +1
