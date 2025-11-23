@@ -5,7 +5,7 @@ tags:
 ### Motivation
 
 - En début de combat, un joueur peut prononcer une phrase de motivation pour booster son équipe.
-    
+
 - Le MJ attribue un bonus de **+1 à +3** à une ou plusieurs compétences selon la pertinence et l’impact du discours.
 
 ---
@@ -13,19 +13,19 @@ tags:
 ### Attaque
 
 - Chaque arme possède un **dé d’arme** selon son matériau et ses enchantements.
-    
+
 - Le **puissance d’attaque** se calcule ainsi :
-    → Jet de **Dé d’arme** (prendre en compte l'enchantement d'Ovliin)
-    → + **Maîtrise d’arme**
-    → + **Maîtrise de type**
-    → + **Bonus de style**
-    
-- On rajoute le **matériau** de l'arme (prendre en compte l'enchantement de Nirina) à la puissance d'attaque obtenue pour déterminer les **dégâts infligés**
-    
+	→ Jet de **Dé d’arme**
+	→ + **Maîtrise d’arme**
+	→ + **Maîtrise de type**
+	→ + **Bonus de style**
+
+- On rajoute le **matériau** de l'arme à la puissance d'attaque obtenue pour déterminer les **dégâts infligés**
+
 - Le score doit être **supérieur à l’armure ennemie** pour infliger des dégâts.
-    
+
 - Les **styles de combat** offrent un bonus si réussis, mais retirent ce bonus en cas d’échec.
-    
+
 - La **réussite du style** dépend de son type.
 
 | Élément   | Description                |
@@ -41,7 +41,7 @@ tags:
 
 - Les **points de fatigue** ne sont pas représentatifs de la vie d'une entité.
 	→ S'ils tombent à 0, l'entité n'est pas morte, juste en trop mauvais état pour effectuer des actions directes dans le combat (Attaquer n'est pas possible, mais bouger et activer un piège l'est).
-    
+
 - Les humanoïdes possèdent tous un **maximum de 50 PV** qui se régénèrent avec du repos ou de la magie, pour peu que la personne ait mangé récemment.
 
 ---
@@ -49,9 +49,9 @@ tags:
 ### Défense
 
 - Pour bloquer une attaque, on additionne :
-    → **Matériau de l’armure**
-    → + **Impénétrable**
-    
+	→ **Matériau de l’armure**
+	→ + **Impénétrable**
+
 - Si ce total est **supérieur à l’attaque**, aucun dégât n’est subi.
 
 ---
@@ -59,7 +59,7 @@ tags:
 ### Impénétrable
 
 - Les bonus d'impénétrable ne s'appliquent **que sur le type d'attaque lui correspondant**.
-    → Si l'armure a impénétrable en Contondant et que l'attaque est Tranchante, le bonus ne s'applique pas.
+→ Si l'armure a impénétrable en Contondant et que l'attaque est Tranchante, le bonus ne s'applique pas.
 
 ---
 
@@ -68,11 +68,11 @@ tags:
 #### Bloquer
 
 - Le bouclier sert de seconde protection (il encaisse avant l’armure).
-    
+
 - Calcul :
-    → **Matériau du bouclier**
-    → + **Impénétrable**
-    → + **Force**
+	→ **Matériau du bouclier**
+	→ + **Impénétrable**
+	→ + **Force**
 
 | Élément  | Bonus                           |
 | -------- | ------------------------------- |
@@ -84,9 +84,9 @@ tags:
 #### Esquiver
 
 - Jet : **D20 + Dextérité + Acrobatie** > Puissance d'attaque ennemie
-    
+
 - La compétence **Réflexe** donne **+2** si le joueur voit l’attaque.
-    
+
 - Une réussite critique permet **une deuxième action** immédiate.
 
 | Élément   | Bonus                                    |
@@ -101,11 +101,11 @@ tags:
 ### Concentration
 
 - Le joueur peut passer son tour pour se concentrer.
-    
+
 - **Magie** : +1 par tour (cumulable).
-    
+
 - **Autres compétences** : +2 (non cumulable).
-    
+
 - La compétence **Imperturbable** permet de se déplacer sans perdre le bonus.
 
 ---
@@ -116,14 +116,14 @@ tags:
 	- un allié tombe de fatigue,
 	- le joueur tombe en dessous de 10 PV,
 	- le combat entre dans une nouvelle phase.
-    
+
 - Bonus :
-    → **+D10 en Maîtrise de Combat**
-    → **+D10 en Force ou Dextérité**
-    
+	→ **+D10 en Maîtrise de Combat**
+	→ **+D10 en Force ou Dextérité**
+
 - Malus :
-    → **–D10 en Maîtrise de Magie**
-    
+	→ **–D10 en Maîtrise de Magie**
+
 - L’état disparaît :
 	- à la fin du combat,
 	- sur réussite d’un **D20 Mental + Concentration > 15**
@@ -133,12 +133,12 @@ tags:
 ### Bagarre
 
 - Mode simplifié pour les combats amicaux ou de taverne.
-    
+
 - Chaque joueur : **10 PV**, **D4 de dégâts** (Force = ×2 dégâts).
-    
+
 - Deux approches :
-    → **Force** : brutale
-    → **Technique** : précise et stratégique
+	→ **Force** : brutale
+	→ **Technique** : précise et stratégique
 
 | Type      | Calcul                                   | Dé  |
 | --------- | ---------------------------------------- | --- |
