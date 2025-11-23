@@ -26,7 +26,7 @@
 | Cuir (bouilli)<br>*Leather*      |   10 pa<br>*10 gp* |     11 + Dex     |            3 cuirs bruts<br>2 boucles             | 5 kg<br>*10 lb.* |
 | Cuir Clouté<br>*Studded Leather* |   45 pa<br>*45 gp* |     12 + Dex     | 3 cuirs bruts<br>6 morceaux de métal<br>2 boucles | 6 kg<br>*13 lb*. |
 | Brigandine<br>*Brigandine*       | 15 po<br>*1500 gp* |     13 + Dex     |    5 cuirs bruts<br>2 boucles<br>1 rembourrage    | 7 kg<br>*15 lb.* |
-**Equiper**
+**Équiper**
 	1 minute
 **Retirer**
 	1 minute
@@ -46,7 +46,7 @@
 | Cuirasse <br>*Breastplate*           | 4 00 pa<br>*400 gp* | 14 + Dex (max 2) |                     10 lingots                     | 10 kg<br>*20 lb.* |
 | Demi-Plate <br>*Half Plate*          | 7 50 pa<br>*750 gp* | 15 + Dex (max 2) |            16 lingots<br>1 rembourrage             | 20 kg<br>*40 lb.* |
 | *Laminar Plate*                      |  15 po<br>*1500 gp* | 15 + Dex (max 2) |                                                    | 17 kg<br>*35 lb.* |
-**Equiper**
+**Équiper**
 	5 minutes
 **Retirer**
 	1 minute
@@ -63,7 +63,7 @@
 | Clibanion<br>*Splint*             | 2 00 pa<br>*200 gp* |        17        |  15   | 12 lingots<br>1 rembourrage | 30 kg<br>*60 lb.* |
 | Harnois<br>*Plate*                |  15 po<br>*1500 gp* |        18        |  15   | 30 lingots<br>1 rembourrage | 32 kg<br>*65 lb.* |
 | *Lamellan Plate*                  |  20 po<br>*2000 gp* |        18        |  15   |                             | 30 kg<br>*60 lb.* |
-**Equiper**
+**Équiper**
 	10 minutes
 **Retirer**
 	5 minutes
@@ -80,13 +80,13 @@
 | Bouclier<br>*Round*         |   10 pa<br>*10 gp* |        +2        |  ---  | 1d6 contondant                  |    ---    | 3 lingots |  3 kg<br>*6 lb.*  |
 | Pavois<br>*Tower*           | 15 po<br>*1500 gp* |        +3        |  17   | 1d8 contondant                  |   Lourd   | 8 lingots | 22 kg<br>*45 lb.* |
 | Bouclier d'Estoc            |   5 po<br>*500 gp* |        +2        |  14   | 1d6 contondant<br>1d8 perforant |    ---    | 4 lingots | 10 kg<br>*20 lb.* |
-**Equiper**
+**Équiper**
 	1 action
 **Retirer**
 	1 action
 
 **Effets**
-    - Dextérité -1
+    - Désavantage en Dextérité (Acrobatie)
 
 ---
 
@@ -104,6 +104,16 @@
 **Inconvénients**
     -
 
+| Matériau | Prix | Effets/ Propriété | Poids |
+| -------- | ---- | ----------------- | ----- |
+| Soie     |      |                   |       |
+| Lin      |      |                   |       |
+| Coton    |      |                   |       |
+| Satin    |      |                   |       |
+| Laine    |      |                   |       |
+| Fourrure |      |                   |       |
+
+
 ### Cuirs, Peaux et Fourrures
 *Armures Légères & Intermédiaires*
 
@@ -113,24 +123,26 @@
 **Inconvénients**
     -
 
-### Ecailles, Os et Mailles
+### Écailles, Os et Mailles
 *Armures Intermédiaires & Lourdes*
 
->Ecailles et os se réparent auprès d'un potionniste ? (plus cher)
+>Écailles et os se réparent auprès d'un potionniste ? (plus cher)
 
 **Avantages**
     + [[Enchanteur|Enchantements]] d'[[Ovliin]]
 
 **Inconvénients**
-    - Désavantage en Discrétion
+    - Désavantage en Dextérité (Discrétion)
 
 ### Métaux
 *Armures Lourdes*
+
+Il ne peut pas y avoir plus de 10% d'alliage dans une armure pour ne pas compromettre sa solidité.
 
 **Avantages**
     + [[Enchanteur|Enchantements]] de [[Nirina]]
     + Durabilité
 
 **Inconvénients**
-    - Désavantage en Discrétion
+    - Désavantage en Dextérité (Discrétion)
     - Températures extrêmes
