@@ -105,15 +105,15 @@
     -
 
 | Matériau | Prix | Effets/ Propriété | Poids |
-| -------- | ---- | ----------------- | ----- |
-| Soie     |      |                   |       |
-| Lin      |      |                   |       |
-| Coton    |      |                   |       |
-| Satin    |      |                   |       |
-| Laine    |      |                   |       |
-| Chanvre  |      |                   |       |
+| -------- | ---: | :---------------: | :---: |
+| Soie     |      |     Chaud +1      |       |
+| Lin      |      |     Chaud +1      |       |
+| Coton    |      |      Chaud +      |       |
+| Satin    |      |      Chaud +      |       |
+| Laine    |      |     Froid +1      |       |
+| Chanvre  |      |      Froid +      |       |
 | Velours  |      |                   |       |
-| Fourrure |      |                   |       |
+| Fourrure |      |     Froid +2      |       |
 
 ### Cuirs, Peaux et Fourrures
 *Armures Légères & Intermédiaires*
