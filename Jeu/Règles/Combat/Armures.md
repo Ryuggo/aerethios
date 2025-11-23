@@ -111,8 +111,9 @@
 | Coton    |      |                   |       |
 | Satin    |      |                   |       |
 | Laine    |      |                   |       |
+| Chanvre  |      |                   |       |
+| Velours  |      |                   |       |
 | Fourrure |      |                   |       |
-
 
 ### Cuirs, Peaux et Fourrures
 *Armures Légères & Intermédiaires*
