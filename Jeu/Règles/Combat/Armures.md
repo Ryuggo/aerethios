@@ -8,13 +8,15 @@
 >Si quelqu'un nous aide, équiper/ retirer une armure passe au rang inférieur (ne peut pas être inférieur à 1 action) :
 >	1 action > 1 minute > 5 minutes > 10 minutes
 
+>Les HP ne se régénèrent pas tant qu'une armure est équipée.
+
 ### Sans armure
 
 | Armure           |             Prix | Armor Class (AC) |     Matériaux      |      Poids      |
 | ---------------- | ---------------: | :--------------: | :----------------: | :-------------: |
 | Sans armure      |                  |        10        |                    |                 |
-| Cape en tissu    |   5 pa<br>*5 gp* |        +0        | 1 rouleau de tissu | 1kg<br>*2 lb.*  |
-| Cape de fourrure | 10 pa<br>*10 gp* |        +1        |     1 fourrure     | 2 kg<br>*4 lb.* |
+| Cape en tissu    | 10 pa<br>*10 gp* |        +0        | 1 rouleau de tissu | 1kg<br>*2 lb.*  |
+| Cape de fourrure | 25 pa<br>*25 gp* |        +1        |     1 fourrure     | 2 kg<br>*4 lb.* |
 **Effets**
     - Propriété Délicat (cassera avant l'armure légère)
 
@@ -104,16 +106,23 @@
 **Inconvénients**
     -
 
-| Matériau | Prix | Effets/ Propriété | Poids |
-| -------- | ---: | :---------------: | :---: |
-| Soie     |      |     Chaud +1      |       |
-| Lin      |      |     Chaud +1      |       |
-| Coton    |      |      Chaud +      |       |
-| Satin    |      |      Chaud +      |       |
-| Laine    |      |     Froid +1      |       |
-| Chanvre  |      |      Froid +      |       |
-| Velours  |      |                   |       |
-| Fourrure |      |     Froid +2      |       |
+| Matériau                      |    Prix | Résistance à la chaleur | Résistance au froid | Propriété            |
+| ----------------------------- | ------: | :---------------------: | :-----------------: | -------------------- |
+| Coton                         |    1 pa |            1            |          1          | Inflammable          |
+| Lin                           |    2 pa |            0            |          1          | Inflammable          |
+| Chanvre                       |    2 pa |            0            |          1          | Inflammable          |
+| Nylon                         |    2 pa |            0            |          1          | Inflammable          |
+| Denim (coton)                 |    3 pa |            1            |          1          | Inflammable          |
+| Polyester                     |    3 pa |            1            |          1          |                      |
+| Laine                         |    5 pa |            3            |          3          |                      |
+| Velours (coton/ laine)        | 4/ 8 pa |            2            |          2          | Inflammable si coton |
+| Velours côtelé (coton/ laine) | 5/ 9 pa |            2            |          2          | Inflammable si coton |
+| Soie                          |   10 pa |            1            |          1          | Inflammable          |
+| Satin (soie)                  |   15 pa |            1            |          1          | Inflammable          |
+| Suède/ Daim                   |   15 pa |            2            |          2          |                      |
+| Alpaga                        |   20 pa |            3            |          3          |                      |
+| Fourrure                      |   25 pa |            3            |          3          |                      |
+| Cachemire                     |   30 pa |            3            |          3          |                      |
 
 ### Cuirs, Peaux et Fourrures
 *Armures Légères & Intermédiaires*
@@ -140,6 +149,8 @@
 
 Il ne peut pas y avoir plus de 10% d'alliage dans une armure pour ne pas compromettre sa solidité.
 
+Un revêtement nécessite 50% des lingots utilisés pour fabriquer l'armure, et ajoutera 25% du poids de l'armure.
+
 **Avantages**
     + [[Enchanteur|Enchantements]] de [[Nirina]]
     + Durabilité
@@ -147,3 +158,15 @@ Il ne peut pas y avoir plus de 10% d'alliage dans une armure pour ne pas comprom
 **Inconvénients**
     - Désavantage en Dextérité (Discrétion)
     - Températures extrêmes
+
+| Matériau   | Prix |    Propriété     | Poids/ lingot  |
+| ---------- | ---: | :--------------: | :------------: |
+| Fonte      |      |                  |                |
+| Bronze     |      |                  |                |
+| Fer        |      |       ---        |   +0/ lingot   |
+| Acier      |      |                  |                |
+| Titane     |      |                  |                |
+| Palladium  |      |                  |                |
+| Mythril    |      | Force requise -3 |                |
+| Adamantite |      |                  |                |
+| Orichalque |      |                  |                |
