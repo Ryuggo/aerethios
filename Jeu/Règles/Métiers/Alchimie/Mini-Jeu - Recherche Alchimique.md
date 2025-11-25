@@ -10,8 +10,8 @@ Lorsqu’on expérimente, la qualité des ingrédients influe sur la facilité d
 
 ## Spécial Invocateur
 
-Les conditions extérieures modifient les chances de succès.  
-Chaque paramètre qui diffère d’un point de la condition optimale ajoute **+1** à la difficulté.  
+Les conditions extérieures modifient les chances de succès.
+Chaque paramètre qui diffère d’un point de la condition optimale ajoute **+1** à la difficulté.
 Les conditions optimales sont décidées par le MJ à l’avance.
 
 |Facteur|Exemples de conditions possibles|
@@ -28,25 +28,25 @@ Les conditions optimales sont décidées par le MJ à l’avance.
 ## Modificateurs supplémentaires
 
 - Hors laboratoire stérile : **+3** difficulté
-    
+
 - En présence d’une source magique instable : **+2**
-    
+
 - Avec assistance d’un autre alchimiste : **–1 par niveau de compétence du partenaire** (max –3)
 
 ---
 
 ## Résolution
 
-Le joueur lance :  
-**1D20 + Mental + Concentration**  
+Le joueur lance :
+**1D20 + Mental + Concentration**
 contre la **difficulté finale** calculée à partir des modificateurs ci-dessus.
 
 **Résultats possibles :**
 
 - **Réussite critique (20 naturel)** : découverte complète, ingrédient préservé.
-    
+
 - **Réussite (≥ difficulté)** : résultat stable, ingrédient consommé.
-    
+
 - **Échec (< difficulté)** : échec partiel, ingrédient perdu.
-    
+
 - **Échec critique (1 naturel)** : explosion, intoxication ou invocation instable (décidé par le MJ).

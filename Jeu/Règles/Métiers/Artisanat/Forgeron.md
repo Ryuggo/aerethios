@@ -27,8 +27,8 @@ Une fois que le joueur a lancé les dés pour connaitre la rareté du matériau 
 | ------- | -------------------------- | -------------------------------------------------------- | ---------- | --------- | ------- | ------- |
 | Pièces  | Argent                     | Malléable<br>Revêtement                                  | 2          | 50        | -       | -       |
 | Alliage | Carbone                    | Statut **Solide**                                        |            |           |         |         |
-| Métal   | Bronze<br>*Cuivre + Etain* | <br>Equipement                                           |            |           |         |         |
 | Métal   | Fer                        | Equipement                                               |            |           |         |         |
+| Métal   | Bronze<br>*Cuivre + Etain* | <br>Equipement                                           |            |           |         |         |
 | Métal   | Acier<br>*Fer + Carbone*   | Equipement                                               |            |           |         |         |
 | Métal   | Obsidienne                 | Couteau/ Flèche<br>Statut **Délicat**<br>Non fusionnable |            |           |         |         |
 - Laiton (cuivre + zinc, semblable à l'or, utilisé pour faire des pièces pendant l'empire Romain)
@@ -65,13 +65,13 @@ Une fois que le joueur a lancé les dés pour connaitre la rareté du matériau 
 > Métaux exceptionnellement rares, difficiles à fondre ou forger sans technologie avancée.
 > Historiquement utilisés pour symboliser la perfection métallurgique.
 
-| Type   | Matériau   | Utilité                                                           | Poids (kg) | Prix (pa) | Attaque | Défense |
-| ------ | ---------- | ----------------------------------------------------------------- | ---------- | --------- | ------- | ------- |
-| Pièces | Platine    | Malléable                                                         | 2          | 500 00    | -       | -       |
-| Métal  | Palladium  | Equipement                                                        |            |           |         |         |
-| Métal  | Mythril    | Absorbe les impacts -> +5 Impénétrable <br>Léger -> +2 Acrobatie |            |           |         |         |
-| Métal  | Adamantite | Vs Anges                                                          |            |           |         |         |
-| Métal  | Orichalque | VS Démons                                                         |            |           |         |         |
+| Type   | Matériau   | Utilité                                                                        | Poids (kg) | Prix (pa) | Attaque | Défense |
+| ------ | ---------- | ------------------------------------------------------------------------------ | ---------- | --------- | ------- | ------- |
+| Pièces | Platine    | Malléable                                                                      | 2          | 500 00    | -       | -       |
+| Métal  | Palladium  | Equipement                                                                     |            |           |         |         |
+| Métal  | Mythril    | Equipement<br>Absorbe les impacts -> +5 Impénétrable <br>Léger -> +2 Acrobatie |            |           |         |         |
+| Métal  | Adamantite | Equipement<br>Vs Anges                                                         |            |           |         |         |
+| Métal  | Orichalque | Equipement<br>VS Démons                                                        |            |           |         |         |
 - Tantale (ultra-résistant, presque inoxydable)
 - Rhodium (dur, brillant, excellent conducteur)
 

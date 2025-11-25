@@ -10,6 +10,9 @@
 
 >Les HP ne se régénèrent pas tant qu'une armure est équipée.
 
+>Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs perforant), elle perd 1 AC jusqu'à se faire réparer.
+>Elle perd 2 AC en cas de réussite critique.
+
 ### Sans armure
 
 | Armure           |             Prix | Armor Class (AC) |     Matériaux      |      Poids      |
@@ -147,10 +150,6 @@
 ### Métaux
 *Armures Lourdes*
 
-Il ne peut pas y avoir plus de 10% d'alliage dans une armure pour ne pas compromettre sa solidité.
-
-Un revêtement nécessite 50% des lingots utilisés pour fabriquer l'armure, et ajoutera 25% du poids de l'armure.
-
 **Avantages**
     + [[Enchanteur|Enchantements]] de [[Nirina]]
     + Durabilité
@@ -159,14 +158,14 @@ Un revêtement nécessite 50% des lingots utilisés pour fabriquer l'armure, et 
     - Désavantage en Dextérité (Discrétion)
     - Températures extrêmes
 
-| Matériau   | Prix |    Propriété     | Poids/ lingot  |
-| ---------- | ---: | :--------------: | :------------: |
-| Fonte      |      |                  |                |
-| Bronze     |      |                  |                |
-| Fer        |      |       ---        |   +0/ lingot   |
-| Acier      |      |                  |                |
-| Titane     |      |                  |                |
-| Palladium  |      |                  |                |
-| Mythril    |      | Force requise -3 |                |
-| Adamantite |      |                  |                |
-| Orichalque |      |                  |                |
+| Matériau   | Prix |             Propriété             | Poids/ lingot |
+| ---------- | ---: | :-------------------------------: | :-----------: |
+| Fonte      |      |                ---                |    +0.5 kg    |
+| Fer        |      |              Pliable              |     0 kg      |
+| Bronze     |      |                ---                |    +0.5 kg    |
+| Acier      |      |                                   |     0 kg      |
+| Titane     |      |                                   |    +0.5 kg    |
+| Palladium  |      |          +2 vs tranchant          |     +1 kg     |
+| Mythril    |      |         Force requise -3          |     0 kg      |
+| Adamantite |      |          +2 vs perforant          |     +1 kg     |
+| Orichalque |      | Annule la faiblesse vs contondant |    +1.5 kg    |

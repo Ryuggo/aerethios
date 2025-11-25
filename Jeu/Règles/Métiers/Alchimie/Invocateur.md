@@ -3,7 +3,7 @@ tags:
   - Règles
   - Alchimie
 ---
-> **Invocateur** est une spécialité de l'[[Alchimie]] qui insuffle la **magie vitale** dans les composants pour leur donner **forme et volonté**.  
+> **Invocateur** est une spécialité de l'[[Alchimie]] qui insuffle la **magie vitale** dans les composants pour leur donner **forme et volonté**.
 
 ## Matériel
 
@@ -11,7 +11,7 @@ Pour faire des invocations, il faut disposer :
 
 - du **matériel de base**,
 	- _(poids total ≈ 5 kg, coût : 2 PO)_
-	
+
 - et des **ingrédients nécessaires** à la préparation.
 
 ---
@@ -19,16 +19,16 @@ Pour faire des invocations, il faut disposer :
 ## Résultat de Fabrication
 
 - **Réussite critique** : l'invocation est **parfaite** et possède **les statistiques maximales**.
-    
+
 - **Réussite** : l'invocation est **créée normalement** et ses statistiques sont tirées aux dés.
-    
+
 - **Échec** : l'invocation **échoue** et les ingrédients sont **perdus**.
-    
+
 - **Échec critique** : l'invocation est **instable**, elle possède **les statistiques minimales** et **agresse son créateur**.
 
 ### Statistiques de l'invocation
 
-Le joueur jette **1D20 + Magie + Maîtrise magique** pour **chaque ingrédient** utilisé afin de déterminer la **stat associée** à cet ingrédient.  
+Le joueur jette **1D20 + Magie + Maîtrise magique** pour **chaque ingrédient** utilisé afin de déterminer la **stat associée** à cet ingrédient.
 La **valeur maximale** d’une statistique ne peut **pas dépasser la somme des trois ingrédients les plus rares**.
 
 La création reste active **1 jour**, sauf mention contraire.
@@ -85,13 +85,13 @@ La création tire ses propriétés des ingrédients utilisés.
 Pour chaque type d'ingrédient, la statistique maximale ne peut pas être plus grande que la somme des 3 ingrédients les plus rares.
 
 - Les **minerais** lui donnent de l'**Armure**
-    
+
 - Les **plantes** améliorent sa **Dextérité**
-    
+
 - Les **champignons** augmentent sa **Vie**
-    
+
 - Les **cristaux** lui donne accès à la **Magie** employée par le joueur pour le fabriquer
-    
+
 - Les **morceaux de créatures** augmentent son **Attaque**
 
 | Type d’effet   | Déchet | Commun | Peu Commun | Rare | Légendaire |

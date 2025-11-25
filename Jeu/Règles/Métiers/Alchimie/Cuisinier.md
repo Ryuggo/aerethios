@@ -13,7 +13,7 @@ Pour cuisiner, il faut disposer :
 
 - du **matériel de base**,
 	- _(poids total ≈ 5 kg, coût : 1 PO)_
-    
+
 - des **ingrédients frais**, en quantité suffisante **pour chaque convive**.
 
 ---
@@ -21,23 +21,23 @@ Pour cuisiner, il faut disposer :
 ## Résultat de Fabrication
 
 - **Réussite critique** : le repas est **parfait** et **dure 3 jours**.
-    
+
 - **Réussite** : le repas est **créé normalement**.
-    
+
 - **Échec** : le repas **nourrit** mais donne **-1 dans les compétences ciblées**.
-    
+
 - **Échec critique** : le repas **ne nourrit pas** (il faut refaire à manger) et **inverse le bonus en malus**.
 
 ---
 
 ## Ingrédients
 
-Les repas offrent des **bonus journaliers** selon leur composition.  
-Chaque ingrédient utilisé doit être multiplié par le **nombre de convives**.  
+Les repas offrent des **bonus journaliers** selon leur composition.
+Chaque ingrédient utilisé doit être multiplié par le **nombre de convives**.
 Les effets ne sont **ni cumulatifs**, ni **stockables** — le plat doit être consommé immédiatement, sinon il se transforme en simple ration sans effet.
 Les ingrédients **se conservent 7 jours** avant de pourrir.
 
-Chaque ingrédient accorde un bonus de **2** dans une **sous-compétence liée** à son type. 
+Chaque ingrédient accorde un bonus de **2** dans une **sous-compétence liée** à son type.
 La sous-compétence est sélectionnée par un **D4**.
 Si le dé tombe sur **4**, l'ingrédient n'a **aucun effet**.
 
@@ -68,9 +68,9 @@ Si le dé tombe sur **4**, l'ingrédient n'a **aucun effet**.
 À partir du **niveau 3**, le cuisinier peut créer une **Touche du Chef** :
 
 - Il choisit un ingrédient "mystère" à incorporer.
-    
+
 - Il lance un dé lié au tableau qui l'intéresse pour déterminer l’effet conféré.
-    
+
 - Il peut aussi **acheter ou échanger** les Touches d’autres chefs afin d'avoir un effet préétablit.
 
 | Jet (D12) | Effet spécial |
