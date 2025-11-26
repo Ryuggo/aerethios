@@ -7,6 +7,6 @@ tags:
 
 ---
 
-## [[Magie]]
+## [[Mage]]
 
-## [[Médecine]]
+## [[Médecin]]
