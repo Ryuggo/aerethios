@@ -8,11 +8,15 @@
 ### Courte
 >Une arme courte ne peut pas être maniée avec 2 mains.
 
-| Arme   |             Prix |     Dégâts     | Matériaux |      Poids      |
-| ------ | ---------------: | :------------: | :-------: | :-------------: |
-| Poings |                  | 1d4 contondant |           |                 |
-| Caetus |   5 pa<br>*5 gp* |                |           | 1kg<br>*2 lb.*  |
-| Dague  | 10 pa<br>*10 gp* |                |           | 2 kg<br>*4 lb.* |
+>Un objet qui ne ressemble pas à une arme ne fait que 1d4 de dégâts
+
+| Arme    |             Prix |     Dégâts     | Matériaux |      Poids      |
+| ------- | ---------------: | :------------: | :-------: | :-------------: |
+| Poings  |                  | 1d4 contondant |           |                 |
+| Objet   |                  |      1d4       |           |                 |
+| Caetus  |   5 pa<br>*5 gp* |                |           | 1kg<br>*2 lb.*  |
+| Dague   | 10 pa<br>*10 gp* |                |           | 2 kg<br>*4 lb.* |
+| Griffes |                  |                |           |                 |
 **Effets**
     -
 

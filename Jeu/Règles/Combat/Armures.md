@@ -29,7 +29,7 @@
 | -------------------------------- | -----------------: | :--------------: | :-----------------------------------------------: | :--------------: |
 | Matelassé/ Gambison<br>*Padded*  |     5 pa<br>*5 gp* |     11 + Dex     |                  2 rembourrages                   | 1 kg<br>*3 lb.*  |
 | Cuir (bouilli)<br>*Leather*      |   10 pa<br>*10 gp* |     11 + Dex     |            3 cuirs bruts<br>2 boucles             | 5 kg<br>*10 lb.* |
-| Cuir Clouté<br>*Studded Leather* |   45 pa<br>*45 gp* |     12 + Dex     | 3 cuirs bruts<br>6 morceaux de métal<br>2 boucles | 6 kg<br>*13 lb*. |
+| Cuir Clouté<br>*Studded Leather* |   45 pa<br>*45 gp* |     12 + Dex     | 3 cuirs bruts<br>6 morceaux de fonte<br>2 boucles | 6 kg<br>*13 lb*. |
 | Brigandine<br>*Brigandine*       | 15 po<br>*1500 gp* |     13 + Dex     |    5 cuirs bruts<br>2 boucles<br>1 rembourrage    | 7 kg<br>*15 lb.* |
 **Équiper**
 	1 minute
@@ -162,12 +162,12 @@
 
 | Matériau   | Prix/ lingot |                              Propriété                               | Poids/ lingot |
 | ---------- | -----------: | :------------------------------------------------------------------: | :-----------: |
-| Fonte      |         0 pa |                            Ne s'abime pas                            |    +0.5 kg    |
+| Fonte      |        +2 pa |                            Ne s'abime pas                            |    +0.5 kg    |
 | Fer        |         0 pa |                               Pliable                                |     0 kg      |
 | Bronze     |        +5 pa |                                 ---                                  |    +0.5 kg    |
 | Acier      |       +20 pa |                                                                      |     0 kg      |
 | Titane     |       +50 pa |                                                                      |    +0.5 kg    |
-| Mythril    |        +1 po | Force requise -3 <br>Annule le désavantage en Dextérité (Discrétion) |     0 kg      |
-| Palladium  |        +2 po |             Annule le désavantage en Magie (Croititiste)             |     +1 kg     |
-| Adamantite |        +2 po |              Annule le désavantage en Magie (Élétiste)               |     +1 kg     |
-| Orichalque |        +3 po |                  Annule la faiblesse vs contondant                   |    +1.5 kg    |
+| Mythril    |        +2 po | Force requise -3 <br>Annule le désavantage en Dextérité (Discrétion) |     0 kg      |
+| Palladium  |        +3 po |             Annule le désavantage en Magie (Croititiste)             |     +1 kg     |
+| Adamantite |        +3 po |              Annule le désavantage en Magie (Élétiste)               |     +1 kg     |
+| Orichalque |        +5 po |                  Annule la faiblesse vs contondant                   |    +1.5 kg    |
