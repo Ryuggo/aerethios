@@ -12,10 +12,9 @@
 
 ## Notes
 
-
 ## Points marquants
 
-- 
+-
 
 ## Scénario
 
@@ -23,22 +22,22 @@
 > - combat,
 > - interaction avec PNJ,
 > - exploration (pièges, énigmes, navigation)
-> 
+>
 > **Étape 2** : Associer un joueur avec la "meilleure" résolution à chaque événement
 
 #### 1) Accroche
 > **Combat**, Arek > Prendre l'aggro
 
-#### 2) 
+#### 2)
 
-#### 3) 
+#### 3)
 
-#### 4) 
+#### 4)
 
-#### 5) 
+#### 5)
 
-#### 6) 
+#### 6)
 
-#### 7) 
+#### 7)
 
 #### 8) Résolution de l'accroche (boss final?)
