@@ -167,7 +167,7 @@
 | Bronze     |  +5 pa |                               ---                                |    +0.5 kg    |
 | Acier      | +20 pa |                                                                  |     0 kg      |
 | Titane     | +50 pa |                                                                  |    +0.5 kg    |
-| Palladium  |        |                         +2 vs tranchant                          |     +1 kg     |
 | Mythril    |  +1 po | Force requise -3 Annule le désavantage en Dextérité (Discrétion) |     0 kg      |
-| Adamantite |        |                         +2 vs perforant                          |     +1 kg     |
-| Orichalque |        |                Annule la faiblesse vs contondant                 |    +1.5 kg    |
+| Palladium  |  +2 po |           Annule le désavantage en Magie (Croititiste)           |     +1 kg     |
+| Adamantite |  +2 po |            Annule le désavantage en Magie (Élétiste)             |     +1 kg     |
+| Orichalque |  +3 po |                Annule la faiblesse vs contondant                 |    +1.5 kg    |
