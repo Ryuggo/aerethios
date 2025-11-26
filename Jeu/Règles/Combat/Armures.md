@@ -160,14 +160,14 @@
     - Désavantage en Dextérité (Discrétion)
     - Températures extrêmes
 
-| Matériau   |   Prix |                            Propriété                             | Poids/ lingot |
-| ---------- | -----: | :--------------------------------------------------------------: | :-----------: |
-| Fonte      |   0 pa |                          Ne s'abime pas                          |    +0.5 kg    |
-| Fer        |   0 pa |                             Pliable                              |     0 kg      |
-| Bronze     |  +5 pa |                               ---                                |    +0.5 kg    |
-| Acier      | +20 pa |                                                                  |     0 kg      |
-| Titane     | +50 pa |                                                                  |    +0.5 kg    |
-| Mythril    |  +1 po | Force requise -3 Annule le désavantage en Dextérité (Discrétion) |     0 kg      |
-| Palladium  |  +2 po |           Annule le désavantage en Magie (Croititiste)           |     +1 kg     |
-| Adamantite |  +2 po |            Annule le désavantage en Magie (Élétiste)             |     +1 kg     |
-| Orichalque |  +3 po |                Annule la faiblesse vs contondant                 |    +1.5 kg    |
+| Matériau   | Prix/ lingot |                              Propriété                               | Poids/ lingot |
+| ---------- | -----------: | :------------------------------------------------------------------: | :-----------: |
+| Fonte      |         0 pa |                            Ne s'abime pas                            |    +0.5 kg    |
+| Fer        |         0 pa |                               Pliable                                |     0 kg      |
+| Bronze     |        +5 pa |                                 ---                                  |    +0.5 kg    |
+| Acier      |       +20 pa |                                                                      |     0 kg      |
+| Titane     |       +50 pa |                                                                      |    +0.5 kg    |
+| Mythril    |        +1 po | Force requise -3 <br>Annule le désavantage en Dextérité (Discrétion) |     0 kg      |
+| Palladium  |        +2 po |             Annule le désavantage en Magie (Croititiste)             |     +1 kg     |
+| Adamantite |        +2 po |              Annule le désavantage en Magie (Élétiste)               |     +1 kg     |
+| Orichalque |        +3 po |                  Annule la faiblesse vs contondant                   |    +1.5 kg    |
