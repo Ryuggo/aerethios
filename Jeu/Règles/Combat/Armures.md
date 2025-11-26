@@ -3,7 +3,7 @@
 ---
 
 ## Poids
->If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or Attack roll that involves Strength or Dexterity, and you can’t cast Spells.
+>Sans la compétence pour porter un type d'armure, vous jetez vos dés avec désavantage lorsqu'il s'agit de Force, de Dextérité, ou d'Attaque, et vous ne pouvez pas utiliser la magie.
 
 >Si quelqu'un nous aide, équiper/ retirer une armure passe au rang inférieur (ne peut pas être inférieur à 1 action) :
 >	1 action > 1 minute > 5 minutes > 10 minutes
@@ -37,8 +37,8 @@
 	1 minute
 
 **Effets**
-    - Propriété Délicat
     - Faiblesse face aux dégâts perforants
+    - Propriété Délicat
 
 ### Intermédiaire
 
@@ -58,6 +58,7 @@
 
 **Effets**
     - Faiblesse face aux dégâts tranchants
+    - Perte de 1 HP pour chaque heure de marche avec l'armure équipée
 
 ### Lourde
 
@@ -74,8 +75,9 @@
 	5 minutes
 
 **Effets**
-    - Perte de 2 HP pour chaque heure de marche avec l'armure équipée
     - Faiblesse face aux dégâts contondants
+    - Perte de 2 HP pour chaque heure de marche avec l'armure équipée
+    - Désavantage en Magie
 
 ### Bouclier
 
@@ -158,14 +160,14 @@
     - Désavantage en Dextérité (Discrétion)
     - Températures extrêmes
 
-| Matériau   | Prix |             Propriété             | Poids/ lingot |
-| ---------- | ---: | :-------------------------------: | :-----------: |
-| Fonte      |      |                ---                |    +0.5 kg    |
-| Fer        |      |              Pliable              |     0 kg      |
-| Bronze     |      |                ---                |    +0.5 kg    |
-| Acier      |      |                                   |     0 kg      |
-| Titane     |      |                                   |    +0.5 kg    |
-| Palladium  |      |          +2 vs tranchant          |     +1 kg     |
-| Mythril    |      |         Force requise -3          |     0 kg      |
-| Adamantite |      |          +2 vs perforant          |     +1 kg     |
-| Orichalque |      | Annule la faiblesse vs contondant |    +1.5 kg    |
+| Matériau   |   Prix |                            Propriété                             | Poids/ lingot |
+| ---------- | -----: | :--------------------------------------------------------------: | :-----------: |
+| Fonte      |   0 pa |                          Ne s'abime pas                          |    +0.5 kg    |
+| Fer        |   0 pa |                             Pliable                              |     0 kg      |
+| Bronze     |  +5 pa |                               ---                                |    +0.5 kg    |
+| Acier      | +20 pa |                                                                  |     0 kg      |
+| Titane     | +50 pa |                                                                  |    +0.5 kg    |
+| Palladium  |        |                         +2 vs tranchant                          |     +1 kg     |
+| Mythril    |  +1 po | Force requise -3 Annule le désavantage en Dextérité (Discrétion) |     0 kg      |
+| Adamantite |        |                         +2 vs perforant                          |     +1 kg     |
+| Orichalque |        |                Annule la faiblesse vs contondant                 |    +1.5 kg    |
