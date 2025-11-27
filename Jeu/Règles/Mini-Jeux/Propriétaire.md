@@ -121,7 +121,7 @@ La note descend de 1 s'il son revenu manuel est inférieur à la moyenne.
 | Atelier d'artisanat |                             1d5 client x 3d10 pa/ jour<br>~ (60% client) x 48 pa/ semaine | Tannerie/ Bijouterie/ Artificier/ Enchantement/ Forge<br>1 Superviseur/ 5 clients                                                                                                                     |
 | Atelier d'alchimie  |                             1d5 client x 3d10 pa/ jour<br>~ (60% client) x 48 pa/ semaine | Cuisine/ Potionniste/ Invocateur<br>1 Superviseur/ 5 clients                                                                                                                                          |
 | Guilde              |                                                                                           | Restaurant (min 400 m²)<br>Chambres (min 40 casernes/ 20 chambres)<br>Atelier d'écriture (min 100 m²)<br>Hôpital (min 40 m²)<br>Ateliers d'artisanat/ d'alchimie (min 3)<br>2 Scribes/ 1 Représentant |
-
+ 
 ---
 
 ## Habitants
