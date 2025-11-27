@@ -69,8 +69,10 @@ Le joueur peut proposer d'autres meubles à son MJ et ils discuteront d'un prix 
 | Salle d'entraînement physique |      | 16 m² + 4m²/ élève |
 | Salle d'entraînement magique  |      | 20 m² + 4m²/ élève |
 | Atelier d'écriture            |      | 4 m²/ personne     |
+| Bureau des maîtres            |      | 40 m²              |
 
 ### Employés
+Le cuisinier cuisine également pour les autres employés.
 
 | Employé                | Prix/ semaine | Prérequis                                                |
 | ---------------------- | ------------: | :------------------------------------------------------- |
@@ -82,9 +84,7 @@ Le joueur peut proposer d'autres meubles à son MJ et ils discuteront d'un prix 
 | Professeur             |        1.5 pa | Atelier d'écriture/ Salle d'entraînement (max 15 élèves) |
 | Médecin                |         12 pa | Infirmerie (max 5 patients)                              |
 | Superviseur            |         20 pa | Atelier d'artisanat/ d'alchimie (max 5 clients)          |
-| Représentant           |               | Guilde (1 par Guilde)                                    |
-
-Le cuisinier cuisine également pour les autres employés.
+| Représentant           |         50 pa | Guilde (1 par Guilde)                                    |
 
 ---
 
@@ -108,20 +108,20 @@ Ce 1d5 peut s'additionner à un bonus qui dépend de la note de l'activité.
 Cette note va de 0 à 5, elle augmente de 1 lorsque le joueur prend ses revenus manuellement et que son revenu de la semaine est supérieur à celui de la moyenne.
 La note descend de 1 s'il son revenu manuel est inférieur à la moyenne.
 
-| Activité            |                                                                              Revenu/ jour | Prérequis                                                                                                                                                                                             |
-| ------------------- | ----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Potager             |                                                 1d10 pc/ jour<br>~ 24 pc/ semaine<br>/ m² | 1 m²<br>1 Fermier/ 50 m²                                                                                                                                                                              |
-| Poste               |                             1d5 client x 2d10 pc/ jour<br>~ (60% client) x 44 pc/ semaine | Atelier d'écriture<br>1 Scribe                                                                                                                                                                        |
-| Restaurant          | 1d5 client x (10 + 1d10) pc/ jour<br>~ (60% client) x 64 pc/ semaine<br>(1 client = 2 m²) | 2 m²/ client<br>Cuisine<br>1 Cuisinier/ 10 clients<br>1 Serveur/ 25 clients<br>Table + Chaises/ bancs                                                                                                 |
-| Caserne             |                                                           15 pc/ jour<br>~ 80 pc/ semaine | Min 4 m²<br>1 Femme de ménage<br>Lit + Coffre + "Fenêtre"                                                                                                                                             |
-| Chambre             |                    50 pc/ jour<br>(+15 pc/ lit)<br><br>~ 2 pa/ semaine<br>(+ ~45 pc/ lit) | Min 8 m²<br>1 Femme de ménage<br>Lit + Coffre + Vitre<br>Table + Chaise<br>Bassine                                                                                                                    |
-| Chambre familiale   |                   1 pa/ jour<br>(+ 50 pc/ lit)<br><br>~ 4 pa/ semaine<br>(+ ~1.5 pa/ lit) | Min 15 m²<br>1 Femme de ménage<br>Lit double + Double coffre + Vitrail<br>Table + 2 Chaises<br>Bassine + Toilette                                                                                     |
-| Ecole               |             1d5 élève x 40 pc/ jour<br>~ (60% élève) x 1.6 pa/ semaine<br>(1 élève = 4m²) | Atelier d'écriture/ Salle d'entraînement<br>1 Professeur/ 15 élèves<br>Table + 2 Chaises/ élève                                                                                                       |
-| Hôpital             |     1d5 patient x 1d12 pa/ jour<br>~ (60% patient) x 28 pa/ semaine<br>(1 patient = 4 m²) | Infirmerie<br>1 Médecin/ 5 patients                                                                                                                                                                   |
-| Atelier d'artisanat |                             1d5 client x 3d10 pa/ jour<br>~ (60% client) x 48 pa/ semaine | Tannerie/ Bijouterie/ Artificier/ Enchantement/ Forge<br>1 Superviseur/ 5 clients                                                                                                                     |
-| Atelier d'alchimie  |                             1d5 client x 3d10 pa/ jour<br>~ (60% client) x 48 pa/ semaine | Cuisine/ Potionniste/ Invocateur<br>1 Superviseur/ 5 clients                                                                                                                                          |
-| Guilde              |                                                                                           | Restaurant (min 400 m²)<br>Chambres (min 40 casernes/ 20 chambres)<br>Atelier d'écriture (min 100 m²)<br>Hôpital (min 40 m²)<br>Ateliers d'artisanat/ d'alchimie (min 3)<br>2 Scribes/ 1 Représentant |
- 
+| Activité            |                                                                              Revenu/ jour | Prérequis                                                                                                                                                                                                                                           |
+| ------------------- | ----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Potager             |                                               m² x 1d10 pc/ jour<br>~ m² x 24 pc/ semaine | 1 m²<br>1 Fermier/ 50 m²                                                                                                                                                                                                                            |
+| Poste               |                             1d5 client x 2d10 pc/ jour<br>~ (60% client) x 44 pc/ semaine | Atelier d'écriture<br>1 Scribe                                                                                                                                                                                                                      |
+| Restaurant          | 1d5 client x (10 + 1d10) pc/ jour<br>~ (60% client) x 64 pc/ semaine<br>(1 client = 2 m²) | 2 m²/ client<br>Cuisine<br>1 Cuisinier/ 10 clients<br>1 Serveur/ 25 clients<br>Table + Chaises/ bancs                                                                                                                                               |
+| Caserne             |                                                           15 pc/ jour<br>~ 80 pc/ semaine | Min 4 m²<br>1 Femme de ménage<br>Lit + Coffre + "Fenêtre"                                                                                                                                                                                           |
+| Chambre             |                    50 pc/ jour<br>(+15 pc/ lit)<br><br>~ 2 pa/ semaine<br>(+ ~45 pc/ lit) | Min 8 m²<br>1 Femme de ménage<br>Lit + Coffre + Vitre<br>Table + Chaise<br>Bassine                                                                                                                                                                  |
+| Chambre familiale   |                   1 pa/ jour<br>(+ 50 pc/ lit)<br><br>~ 4 pa/ semaine<br>(+ ~1.5 pa/ lit) | Min 15 m²<br>1 Femme de ménage<br>Lit double + Double coffre + Vitrail<br>Table + 2 Chaises<br>Bassine + Toilette                                                                                                                                   |
+| Ecole               |             1d5 élève x 40 pc/ jour<br>~ (60% élève) x 1.6 pa/ semaine<br>(1 élève = 4m²) | Atelier d'écriture/ Salle d'entraînement<br>1 Professeur/ 15 élèves<br>Table + 2 Chaises/ élève                                                                                                                                                     |
+| Hôpital             |     1d5 patient x 1d12 pa/ jour<br>~ (60% patient) x 28 pa/ semaine<br>(1 patient = 4 m²) | Infirmerie<br>1 Médecin/ 5 patients                                                                                                                                                                                                                 |
+| Atelier d'artisanat |                             1d5 client x 3d10 pa/ jour<br>~ (60% client) x 48 pa/ semaine | Tannerie/ Bijouterie/ Artificier/ Enchantement/ Forge<br>1 Superviseur/ 5 clients/ atelier                                                                                                                                                          |
+| Atelier d'alchimie  |                             1d5 client x 3d10 pa/ jour<br>~ (60% client) x 48 pa/ semaine | Cuisine/ Potionniste/ Invocateur<br>1 Superviseur/ 5 clients/ atelier                                                                                                                                                                               |
+| Guilde              |                                    3d6 quêtes x (10 x 1d100) pc/ jour<br>~ 51 pa/ semaine | Restaurant (min 400 m²)<br>Chambres (min 40 casernes/ 20 chambres)<br>Atelier d'écriture (min 100 m²)<br>Hôpital (min 40 m²)<br>Ateliers d'artisanat/ d'alchimie (min 3)<br>Bureau des maîtres<br>Représentant (min 1)<br>2 Scribes/ 1 Représentant |
+
 ---
 
 ## Habitants
