@@ -21,6 +21,7 @@ Déplacer un morceau de structure coûte 50% de son prix.
 | Sol étage     | 1 po |
 | Sol sous-sol  | 2 po |
 | Escalier      | 2 po |
+
 ### Fonctionnel
 
 | Structure          |  Prix |
@@ -34,6 +35,7 @@ Déplacer un morceau de structure coûte 50% de son prix.
 | Toilette           | 20 pa |
 | Puit               |  1 po |
 | Bain               |  2 po |
+
 ### Meubles
 Le joueur peut proposer d'autres meubles à son MJ et ils discuteront d'un prix convenable.
 
