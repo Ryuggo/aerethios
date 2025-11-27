@@ -60,7 +60,7 @@ S'il s'agit de la cible et qu'elle fait partie du peuple, la perte de pièce est
 
 S'il ne s'agit pas de la cible mais d'un simple adversaire, il lance également 1d4 pour gagner des PR.
 
-Ce tableau montre la valeur maximum qui peut être donnée  en récompense.
+Ce tableau montre la valeur maximum qui peut être donnée en récompense.
 
 | Niveau | Peuple | Aventurier |   Ange |
 | ------ | -----: | ---------: | -----: |

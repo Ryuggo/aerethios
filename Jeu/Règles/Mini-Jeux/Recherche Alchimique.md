@@ -1,3 +1,5 @@
+> WIP
+
 ## Sélection des ingrédients
 
 Lorsqu’on expérimente, la qualité des ingrédients influe sur la facilité d’en tirer le plein potentiel, mais aussi sur le risque de les perdre.
