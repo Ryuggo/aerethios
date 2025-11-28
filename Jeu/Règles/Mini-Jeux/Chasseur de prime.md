@@ -51,7 +51,7 @@ Lorsqu’un 6 est obtenu pendant une phase de recherche, le joueur lance **1d10 
 Le niveau de son adversaire est déterminé par cette formule :
 >Niveau de l'adversaire = Niveau de la cible - 3 - 1d10
 >
->	*(le résultat ne peut pas être inférieur à 1)*
+>*(le résultat ne peut pas être inférieur à 1)*
 
 Les conflits se règlent avec **le système de bagarre** et non avec le système d'armes et de magie.
 
@@ -71,26 +71,26 @@ Ce tableau montre la valeur maximum qui peut être donnée en récompense.
 
 | Niveau | Peuple | Aventurier |   Ange |
 | ------ | -----: | ---------: | -----: |
-| 1      |   5 pc |      15 pc |   1 pa |
-| 2      |  15 pc |      40 pc |   5 pa |
-| 3      |  3O pc |      70 pc |  20 pa |
-| 4      |  50 pc |       1 pa |  50 pa |
-| 5      |  75 pc |       5 pa |   1 po |
-| 6      |   1 pa |      10 pa |   3 po |
-| 7      |   3 pa |      30 pa |   8 po |
+| 1      |   5 pc |      15 pc |      - |
+| 2      |  15 pc |      40 pc |      - |
+| 3      |  30 pc |      70 pc |      - |
+| 4      |  50 pc |       1 pa |      - |
+| 5      |  75 pc |       5 pa |      - |
+| 6      |   1 pa |      10 pa |      - |
+| 7      |   3 pa |      30 pa |      - |
 | 8      |   6 pa |      50 pa |  15 po |
 | 9      |  10 pa |      80 pa |  30 po |
-| 10     |  15 pa |       1 po |  50 po |
-| 11     |  30 pa |       5 po |  70 po |
-| 12     |  60 pa |       20po | 100 po |
-| 13     |   1 po |      40 po | 140 po |
-| 14     |   2 po |      60 po | 190 po |
-| 15     |   4 po |      80 po | 250 po |
-| 16     |   8 po |     120 po | 320 po |
-| 17     |  15 po |     150 po | 400 po |
-| 18     |  30 po |     170 po | 500 po |
-| 19     |  50 po |     180 po | 650 po |
-| 20     |  80 po |     200 po | 800 po |
+| 10     |      - |       1 po |  50 po |
+| 11     |      - |       5 po |  70 po |
+| 12     |      - |       20po | 100 po |
+| 13     |      - |      40 po | 140 po |
+| 14     |      - |      60 po | 190 po |
+| 15     |      - |      80 po | 250 po |
+| 16     |      - |     120 po | 320 po |
+| 17     |      - |     150 po | 400 po |
+| 18     |      - |     170 po | 500 po |
+| 19     |      - |     180 po | 650 po |
+| 20     |      - |     200 po | 800 po |
 
 Il est possible que cette valeur soit diminuée de moitié et qu'un bonus soit offert à la place.
 
@@ -99,3 +99,4 @@ Il est possible que cette valeur soit diminuée de moitié et qu'un bonus soit o
 | Réduction chez un type de marchand dans la ville |
 | Pièce d'équipement                               |
 | +1 Réputation pour obtenir de meilleurs contrats |
+| Information utile pour des plots du jdr          |
