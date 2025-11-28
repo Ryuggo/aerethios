@@ -91,11 +91,11 @@ Le cuisinier cuisine également pour les autres employés.
 | Fermier                |          8 pc | 1 m² (max 50 m²)                                                                |
 | Femme de ménage        |         15 pc | Pièce (max 100 m², max 1 pièce)                                                 |
 | Scribe/ Réceptionniste |         30 pc | Poste                                                                           |
-| Serveur                |         60 pc | Restaurant (max 25 clients)                                                     |
+| Serveur                |         60 pc | Restaurant (max 20 clients)                                                     |
 | Cuisinier              |          1 pa | Cuisine/ Restaurant (max 10 clients)                                            |
 | Professeur             |        1.5 pa | Atelier d'écriture/ Salle d'entraînement (max 15 élèves)                        |
-| Médecin                |         12 pa | Infirmerie (max 5 patients)                                                     |
-| Superviseur            |         20 pa | Atelier d'artisanat/ d'alchimie (max 5 clients)                                 |
+| Médecin                |         20 pa | Infirmerie (max 5 patients)                                                     |
+| Superviseur            |         30 pa | Atelier d'artisanat/ d'alchimie (max 5 clients)                                 |
 | Représentant           |         50 pa | Guilde (1 par Guilde)<br>Bureau de maîtres (commun à tous)<br>1 chambre de luxe |
 
 ---
@@ -104,46 +104,48 @@ Le cuisinier cuisine également pour les autres employés.
 
 Le joueur touche ses revenus chaque semaine.
 
-Une moyenne des revenus de la semaine est affichée par ~.
+Une moyenne des revenus de la semaine est affichée par ~1dX.
 
 Le joueur peut prendre ses revenus manuellement plutôt que de prendre la moyenne.
 
-Pour se faire il doit lancer 1d6 (1d4 pour les ateliers d'artisanat et d'alchimie).
+Pour se faire il lance le dé écrit après le signe ~.
 
 Le résultat donnera le nombre de fois que le joueur devra additionner le revenu/ jour de son activité.
 
-Certaines activités permettent de multiplier ce résultat en fonction de leur qualité et du nombre de personnes présentes.
-
 ### Bonus de popularité
+
+Certaines activités permettent de multiplier ce résultat en fonction de leur qualité et du nombre de personnes présentes.
 
 Chaque jour, le nombre de personnes peut varier.
 
 Cette variation équivaut par 1d5, le résultat étant multiplié à 20%.
 > 1d5 --> Résultat = 3 --> 60% de 1 client = 0.6 = 1 client (arrondi à l'unité la plus proche)
 
-A ce 1d5 s'additionne un bonus qui dépend de la note de l'activité.
+A ce 1d5 **s'additionne** une **Note** (N).
 
-Cette note va de 0 à 5, elle augmente de 1 lorsque le joueur prend ses revenus manuellement et que son revenu de la semaine est supérieur à celui de la moyenne.
+Cette note va de 0 à 5, et change lorsque le joueur prend ses revenus manuellement.
 
-La note descend de 1 s'il son revenu manuel est inférieur à la moyenne.
+Si le nombre de personne n'est pas pris en compte dans l'activité, la Note va de 1 à 5.
+
+Elle monte de 1 si son revenu manuel de la semaine est supérieur à celui de la moyenne, et descend de 1 si ce n'est pas le cas.
 
 Ce bonus total est le **Bonus de Popularité** (BP)
 
 ### Activités
 
-| Activité            |                                                            Revenu/ jour | Prérequis                                                                                                                                                                                                                                           |
-| ------------------- | ----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Potager             |                             m² x 1d10 pc/ jour<br>~ m² x 24 pc/ semaine | 1 m²<br>1 Fermier/ 50 m²                                                                                                                                                                                                                            |
-| Poste               |                             BP x 2d10 pc/ jour<br>~ BP x 44 pc/ semaine | Atelier d'écriture<br>1 Scribe                                                                                                                                                                                                                      |
-| Restaurant          | BP x (10 + 1d10) pc/ jour<br>~ BP x 64 pc/ semaine<br>(1 client = 2 m²) | 2 m²/ client<br>Cuisine<br>1 Cuisinier/ 10 clients<br>1 Serveur/ 25 clients<br>Table + Chaises/ bancs                                                                                                                                               |
-| Caserne             |                                         15 pc/ jour<br>~ 80 pc/ semaine | Min 4 m²<br>1 Femme de ménage<br>Lit + Coffre + "Fenêtre"                                                                                                                                                                                           |
-| Chambre             |  50 pc/ jour<br>(+15 pc/ lit)<br><br>~ 2 pa/ semaine<br>(+ ~45 pc/ lit) | Min 8 m²<br>1 Femme de ménage<br>Lit + Coffre + Vitre<br>Table + Chaise<br>Bassine                                                                                                                                                                  |
-| Chambre de luxe     | 1 pa/ jour<br>(+ 50 pc/ lit)<br><br>~ 4 pa/ semaine<br>(+ ~1.5 pa/ lit) | Min 15 m²<br>1 Femme de ménage<br>Lit double + Double coffre + Vitrail<br>Table + 2 Chaises<br>Bassine + Toilette                                                                                                                                   |
-| Ecole               |           BP x 40 pc/ jour<br>~ BP x 1.6 pa/ semaine<br>(1 élève = 4m²) | Atelier d'écriture/ Salle d'entraînement<br>1 Professeur/ 15 élèves<br>Table + 2 Chaises/ élève                                                                                                                                                     |
-| Hôpital             |       BP x 1d12 pa/ jour<br>~ BP x 28 pa/ semaine<br>(1 patient = 4 m²) | Infirmerie<br>1 Médecin/ 5 patients                                                                                                                                                                                                                 |
-| Atelier d'artisanat |                             BP x 3d10 pa/ jour<br>~ BP x 64 pa/ semaine | Tannerie/ Bijouterie/ Artificier/ Enchantement/ Forge<br>1 Superviseur/ 5 clients/ atelier                                                                                                                                                          |
-| Atelier d'alchimie  |                             BP x 3d10 pa/ jour<br>~ BP x 64 pa/ semaine | Cuisine/ Potionniste/ Invocateur<br>1 Superviseur/ 5 clients/ atelier                                                                                                                                                                               |
-| Guilde              |                3d6 quêtes x (10 x 1d100) pc/ jour<br>~ 2.16 po/ semaine | Restaurant (min 400 m²)<br>Chambres (min 40 casernes/ 20 chambres)<br>Atelier d'écriture (min 100 m²)<br>Hôpital (min 40 m²)<br>Ateliers d'artisanat/ d'alchimie (min 3)<br>Bureau des maîtres<br>Représentant (min 1)<br>2 Scribes/ 1 Représentant |
+| Activité            |                                                                            Revenu moyen | Prérequis                                                                                                                                                                                                                                           |                                                           Revenu maximum |
+| ------------------- | --------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------: |
+| Potager             |                                           m² x 1d8 pc/ jour<br>~1d8 m² x 20 pc/ semaine | 1 m²<br>1 Fermier/ 50 m²                                                                                                                                                                                                                            |                                           4 pa/ jour<br>~ 32 pa/ semaine |
+| Poste               |                                             N x 2d8 pc/ jour<br>~1d8 N x 36 pc/ semaine | Atelier d'écriture<br>1 Scribe                                                                                                                                                                                                                      |                                         80 pc/ jour<br>~ 6.4 pa/ semaine |
+| Restaurant          |              BP x (10 + 1d10) pc/ jour<br>~1d6 BP x 48 pc/ semaine<br>(1 client = 2 m²) | 2 m²/ client<br>Cuisine<br>1 Cuisinier/ 10 clients<br>1 Serveur/ 20 clients<br>Table + Chaises/ bancs                                                                                                                                               |                     15 pa/ jour<br>~ 90 pa/ semaine<br>(1 client = 2 m²) |
+| Caserne             |                                              N x 20 pc/ jour<br>~1d6 N x 60 pc/ semaine | Min 4 m²<br>1 Femme de ménage<br>Lit + Coffre + "Fenêtre"                                                                                                                                                                                           |                                            1 pa/ jour<br>~ 6 pa/ semaine |
+| Chambre             | N x 50 pc/ jour<br>(+15 pc/ lit)<br><br>~1d6 N x 1.5 pa/ semaine<br>(+ ~1d6 45 pc/ lit) | Min 8 m²<br>1 Femme de ménage<br>Lit + Coffre + Vitre<br>Table + Chaise<br>Bassine                                                                                                                                                                  | 2.5 pa/ jour<br>(+15 pc/ lit)<br><br>~ 12.5 pa/ semaine<br>(+90 pc/ lit) |
+| Chambre de luxe     |  N x 1 pa/ jour<br>(+ 50 pc/ lit)<br><br>~1d6 N x 3 pa/ semaine<br>(+ ~1d6 1.5 pa/ lit) | Min 15 m²<br>1 Femme de ménage<br>Lit double + Double coffre + Vitrail<br>Table + 2 Chaises<br>Bassine + Toilette                                                                                                                                   |     5 pa/ jour<br>(+ 50 pc/ lit)<br><br>~ 30 pa/ semaine<br>(+3 pa/ lit) |
+| Ecole               |                        BP x 40 pc/ jour<br>~1d6 BP x 1.2 pa/ semaine<br>(1 élève = 4m²) | Atelier d'écriture/ Salle d'entraînement<br>1 Professeur/ 15 élèves<br>Table + 2 Chaises/ élève                                                                                                                                                     |                      80 pa/ jour<br>~ 4.8 po/ semaine<br>(1 élève = 4m²) |
+| Hôpital             |                    BP x 1d12 pa/ jour<br>~1d6 BP x 21 pa/ semaine<br>(1 patient = 4 m²) | Infirmerie<br>1 Médecin/ 5 patients                                                                                                                                                                                                                 |                  1.2 po/ jour<br>~ 7.2 po/ semaine<br>(1 patient = 4 m²) |
+| Atelier d'artisanat |                                          BP x 3d10 pa/ jour<br>~1d4 BP x 32 pa/ semaine | Tannerie/ Bijouterie/ Artificier/ Enchantement/ Forge<br>1 Superviseur/ 5 clients/ atelier                                                                                                                                                          |                                           3 po/ jour<br>~ 12 po/ semaine |
+| Atelier d'alchimie  |                                          BP x 3d10 pa/ jour<br>~1d4 BP x 32 pa/ semaine | Cuisine/ Potionniste/ Invocateur<br>1 Superviseur/ 5 clients/ atelier                                                                                                                                                                               |                                           3 po/ jour<br>~ 12 po/ semaine |
+| Guilde              |                    N x 3d6 quêtes x (10 x 1d100) pc/ jour<br>~ N x 1d4 1.02 po/ semaine | Restaurant (min 400 m²)<br>Chambres (min 40 casernes/ 20 chambres)<br>Atelier d'écriture (min 100 m²)<br>Hôpital (min 40 m²)<br>Ateliers d'artisanat/ d'alchimie (min 3)<br>Bureau des maîtres<br>Représentant (min 1)<br>2 Scribes/ 1 Représentant |                                           9 po/ jour<br>~ 36 po/ semaine |
 
 ---
 
