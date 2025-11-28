@@ -32,7 +32,7 @@ Il existe 3 types de réputation pour le joueur, qui évolue avec ses compétenc
 
 - une pour le type de marchandise qu'il vend (objet, vivant, dangereux, ..),
 
-- une pour la confiance que la main-d'oeuvre a envers lui (bonne paie, mission suicide, ..).
+- une pour la confiance que la main-d'œuvre a envers lui (bonne paie, mission suicide, ..).
 
 Cette réputation influencera qui vient faire affaire avec le joueur, à quel point ils acceptent de négocier avec lui, le genre de bien qu'on lui propose, ainsi que la volonté de la main-d'œuvre de travailler avec lui.
 
@@ -55,7 +55,7 @@ Un bien peut avoir plusieurs catégories.
 |Objet|Périssable|Vivant|Dangereux|Instable|Officiel|Illégal|
 |20 pb|20 pb|10 pa|50 pa|1 po|-|-|
 
-### Main-d'oeuvre
+### Main-d'œuvre
 
 |   |   |   |
 |---|---|---|
