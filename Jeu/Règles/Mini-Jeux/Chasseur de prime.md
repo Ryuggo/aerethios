@@ -9,6 +9,7 @@ Le joueur enquêtera de nuit pour découvrir la routine de sa cible afin de sais
 ## Phase de Recherche
 
 Pendant la nuit, le joueur faire jusqu'à **4 recherches**, chacune durant 2h.
+
 Pour chaque recherche, il jette **1d6 pour gagner des Points de Recherche** (PR).
 
 | 1d6 | Explications                                       |
@@ -30,12 +31,14 @@ Le gain de PR peut varier en fonction de l'environnement où se déroule la rech
 | Ville étrangère / surveillance accrue                    | -1                   |
 | Aide d’un contact ou informateur                         | +2                   |
 | Blessure mineure                                         | -2                   |
+
 Une fois que les PR ont atteint le Seuil de Recherche (SR) de la cible, **la confrontation finale** pourra être enclenchée **à partir de la nuit suivante**.
 
 Le SR est déterminé par cette formule :
 >SR = Niveau de la cible * 5
 
 Le niveau maximum de la cible dépend de **la réputation du joueur**.
+
 La réputation monte lorsque la récompense inclut un bonus.
 >SR max = Réputation
 
@@ -44,11 +47,14 @@ La réputation monte lorsque la récompense inclut un bonus.
 ## Ennuis et Bagarres
 
 Lorsqu’un 6 est obtenu pendant une phase de recherche, le joueur lance **1d10 pour connaitre son adversaire**.
+
 Le niveau de son adversaire est déterminé par cette formule :
 >Niveau de l'adversaire = Niveau de la cible - 3 - 1d10
+>
 >	*(le résultat ne peut pas être inférieur à 1)*
 
 Les conflits se règlent avec **le système de bagarre** et non avec le système d'armes et de magie.
+
 Ce n'est pas le cas pour la cible si elle est aventurière ou Ange.
 
 ---
@@ -56,6 +62,7 @@ Ce n'est pas le cas pour la cible si elle est aventurière ou Ange.
 ## Récompenses
 
 Une fois la confrontation terminée, le joueur gagne ou perd des pièces en fonction du niveau de l'adversaire ainsi que de son statut.
+
 S'il s'agit de la cible et qu'elle fait partie du peuple, la perte de pièce est doublée.
 
 S'il ne s'agit pas de la cible mais d'un simple adversaire, il lance également 1d4 pour gagner des PR.
@@ -84,6 +91,7 @@ Ce tableau montre la valeur maximum qui peut être donnée en récompense.
 | 18     |  30 po |     170 po | 500 po |
 | 19     |  50 po |     180 po | 650 po |
 | 20     |  80 po |     200 po | 800 po |
+
 Il est possible que cette valeur soit diminuée de moitié et qu'un bonus soit offert à la place.
 
 | Bonus                                            |

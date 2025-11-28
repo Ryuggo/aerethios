@@ -50,22 +50,21 @@ Les biens peuvent subir des taxes et réglementations différentes en fonction d
 
 Un bien peut avoir plusieurs catégories.
 
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-|Objet|Périssable|Vivant|Dangereux|Instable|Officiel|Illégal|
-|20 pb|20 pb|10 pa|50 pa|1 po|-|-|
+| Objet | Périssable | Vivant | Dangereux | Instable | Officiel | Illégal |
+| ----- | ---------- | ------ | --------- | -------- | -------- | ------- |
+| 20 pb | 20 pb      | 10 pa  | 50 pa     | 1 po     | -        | -       |
 
 ### Main-d'œuvre
 
-|   |   |   |
-|---|---|---|
-|Informateur|Se renseigne sur le contact, ou la marchandises, ou la main d'oeuvre|1 - 3 - 5 pa|
-|Escorte|Protège la marchandise lors des transports|1 - 5 - 20<br><br>pa / jour|
-|Inspecteur|Vérifie la marchandise et son état lors de sa réception|0.2 - 1 - 5 pa|
-|Préparateur|Prépare la marchandise selon les réglementations|10 - 20 - 50 pa|
-|Prédicateur|Prévient des événements qui peuvent influencer la livraison|1 - 5 - 20 pa|
-|Pisteur|Traque une marchandise volée et ses voleurs|50 - 1 00 - 2 00 pa|
-|Leurre|Crée une fausse livraison|1 - 3 - 5 po|
+|             |                                                                      |                             |
+| ----------- | -------------------------------------------------------------------- | --------------------------- |
+| Informateur | Se renseigne sur le contact, ou la marchandises, ou la main d'oeuvre | 1 - 3 - 5 pa                |
+| Escorte     | Protège la marchandise lors des transports                           | 1 - 5 - 20<br><br>pa / jour |
+| Inspecteur  | Vérifie la marchandise et son état lors de sa réception              | 0.2 - 1 - 5 pa              |
+| Préparateur | Prépare la marchandise selon les réglementations                     | 10 - 20 - 50 pa             |
+| Prédicateur | Prévient des événements qui peuvent influencer la livraison          | 1 - 5 - 20 pa               |
+| Pisteur     | Traque une marchandise volée et ses voleurs                          | 50 - 1 00 - 2 00 pa         |
+| Leurre      | Crée une fausse livraison                                            | 1 - 3 - 5 po                |
 
 ### Paiements réguliers
 
@@ -76,17 +75,16 @@ Un bien peut avoir plusieurs catégories.
 
 ### Autres
 
-|   |   |
-|---|---|
-|Prime de fidélité|Augmente la probabilité que les clients deviennent réguliers|
-|Campagne|Fait venir de nouveaux contacts|
-|Pot de vin|Évite les problèmes de réglementation de marchandise<br><br>Réduit l'impact d'une transaction sur la réputation|
+|                   |                                                                                                                 |
+| ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| Prime de fidélité | Augmente la probabilité que les clients deviennent réguliers                                                    |
+| Campagne          | Fait venir de nouveaux contacts                                                                                 |
+| Pot de vin        | Évite les problèmes de réglementation de marchandise<br><br>Réduit l'impact d'une transaction sur la réputation |
 
 ### Transports
 
 Certaines marchandises ne peuvent être simplement portées à la main
 
-|   |   |   |   |
-|---|---|---|---|
-|Calèche|Bateau|Volant|Portail|
-|5 - 10 - 20<br><br>pa / jour|10 - 30 -50<br><br>pa / jour|1 - 3 - 5<br><br>po / jour|1 po / kg|
+| Calèche                      | Bateau                       | Volant                     | Portail   |
+| ---------------------------- | ---------------------------- | -------------------------- | --------- |
+| 5 - 10 - 20<br><br>pa / jour | 10 - 30 -50<br><br>pa / jour | 1 - 3 - 5<br><br>po / jour | 1 po / kg |
