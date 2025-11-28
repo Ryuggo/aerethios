@@ -35,19 +35,19 @@ Déplacer un morceau de structure coûte 50% de son prix.
 
 ### Fonctionnel
 
-| Structure                  |  Prix |
-| -------------------------- | ----: |
-| Porte creuse 1x2m          | 20 pa |
-| Porte pleine               | 50 pa |
-| Porte blindée              |  1 po |
-| "Fenêtre" Battant en bois  | 50 pa |
-| Vitre 0.5x0.5m             |  3 po |
-| Vitrail 0.5x0.5m           |  6 po |
-| Barreaux de fenêtre/ porte |  2 po |
-| Echelle 1m (h)             | 20 pa |
-| Toilette                   | 20 pa |
-| Puit                       |  1 po |
-| Bain                       |  2 po |
+| Structure                  |   Prix |
+| -------------------------- | -----: |
+| Porte creuse 1x2m          |  20 pa |
+| Porte pleine               |  50 pa |
+| Porte blindée              |   1 po |
+| "Fenêtre" Battant en bois  |  50 pa |
+| Vitre 0.5x0.5m             |   1 po |
+| Vitrail 0.5x0.5m           | 2.5 po |
+| Barreaux de fenêtre/ porte |  50 pa |
+| Echelle 1m (h)             |  30 pc |
+| Toilette                   |  20 pa |
+| Puit                       |   1 po |
+| Bain                       |   2 po |
 
 ### Meubles
 Le joueur peut proposer d'autres meubles à son MJ et ils discuteront d'un prix convenable.
@@ -56,12 +56,12 @@ Le joueur peut proposer d'autres meubles à son MJ et ils discuteront d'un prix 
 | ------------------- | -------------------------: |
 | Lit                 | 30 pa/ 2m²<br>(1 personne) |
 | Coffre              |        10 pa/ m²<br>(100L) |
-| Caisse de rangement |       80 pa/ m²<br>(1000L) |
-| Bassine d'eau       |                      30 pa |
+| Caisse de rangement |       50 pc/ m²<br>(1000L) |
+| Bassine d'eau       |                      30 pc |
 | Table               | 20 pa/ m²<br>(2 personnes) |
 | Chaise              |                       5 pa |
-| Banc                |   5 pa/ m²<br>(1 personne) |
-| Bibliothèque        |                      50 pa |
+| Banc                |  10 pc/ m²<br>(1 personne) |
+| Bibliothèque        |                      80 pc |
 
 ### Utilitaires
 
