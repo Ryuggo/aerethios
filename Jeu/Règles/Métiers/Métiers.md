@@ -41,8 +41,6 @@ Des bonus peuvent s’appliquer :
 
     - **Échec critiques** : -0 exp
 
-    - Permet de relancer un **échec** avec un **malus de 4**.
-
 - **Étude d'une spécialisation** :
 
     - **Réussir 2 leçons d'affilée** : +2 exp
