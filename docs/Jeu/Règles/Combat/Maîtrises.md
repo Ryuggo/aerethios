@@ -1,93 +1,52 @@
-## Amélioration
+## Débloquer
 
-L’amélioration de ses **maîtrises d’armes** et de sa **magie** demande rigueur et encadrement.
+### Maîtrise d'armes
 
-Ainsi, il doit :
+Il n'y a rien de particulier à faire pour passer sa maîtrise d'armes de 0 à 1.
 
-- avoir un tuteur,
+### Magie
 
-- prendre une journée complète de leçon au lieu de 8h,
-
-- payer en po son niveau actuel pour chaque leçon.
-
----
-
-### Maîtrise d’Arme
-
-Pour gagner de l'expérience dans sa maîtrise d'armes, le joueur doit réussir un jet 3 fois.
-
->Jet : **1d10**
->*Le résultat doit être strictement supérieur à sa maîtrise actuelle*
-
-- **1 réussite critique** → 2 réussites consécutives.
-
-- **3 réussites consécutives** → +2 points.
-
-- **3 réussites non consécutives** → +1 point.
-
-- **3 échecs consécutifs** → on réinitialise le compteur de réussite.
-
----
-
-### Débloquer une nouvelle magie
-
-Pour débloquer une magie, le joueur doit prendre 15 jours de leçons à 1po par leçon.
+Pour passer une magie de 0 à 1, le joueur doit prendre 15 jours de leçons à 2po par leçon.
 
 Lorsqu’un joueur termine ses leçons, il lance 1d20 :
 
-- En cas de **réussite critique**, il peut choisir de débloquer **Feu** (s’il ne l’a pas déjà).
+- En cas de **réussite critique**, il peut choisir de débloquer le **Feu** (s’il ne l’a pas déjà).
 
 - Sinon, il sélectionne librement **une autre magie non encore maîtrisée** parmi celles disponibles.
 
 > **Note :** Le **Feu** est considéré comme une magie fondamentale mais instable, réservée à ceux capables de dépasser leurs limites naturelles.
 
-### Améliorer sa maîtrise magique
+## Améliorer
 
-Pour améliorer sa maîtrise magique, le joueur doit prendre 10 jours de leçons (1 leçon = niveau actuel en po) ainsi qu'avoir un prérequis de points magiques répartis dans les 7 magies.
+L’amélioration de ses **maîtrises d’armes** et de sa **magie** demande rigueur et encadrement.
 
-| Maîtrise | Points magiques totaux requis |
-| -------- | ----------------------------- |
-| 1        | 10                            |
-| 2        | 25                            |
-| 3        | 45                            |
-| 4        | 60                            |
-| 5        | 75                            |
-| 6        | 90                            |
-| 7        | 110                           |
-| 8        | 125                           |
-| 9        | 135                           |
-| 10       | 140                           |
+Ainsi, il doit :
 
-### Améliorer une magie
+- prendre une journée complète de leçon au lieu de 8h,
 
-Pour gagner de l'expérience dans sa magie, le joueur peut :
+- jeter des dés liés à la maîtrise en question :
 
-- prendre X leçons pour être sûr d'apprendre,
+|         Avec Tuteur          |         Sans Tuteur          |                              Résultat |
+| :--------------------------: | :--------------------------: | ------------------------------------: |
+|     1 réussite critique      |     1 réussite critique      |              2 réussites consécutives |
+|   3 réussites consécutives   |   5 réussites consécutives   |                             +2 points |
+| 3 réussites non consécutives | 5 réussites non consécutives |                              +1 point |
+|              -               |     3 échecs consécutifs     | réinitialise le compteur de réussites |
+|   niveau actuel PO/ leçon    |           gratuit            |                                     - |
 
-- réussir un jet 5 fois.
+---
 
-#### Prendre des leçons
+### Maîtrise d’Arme
 
-Le joueur doit prendre X jours de leçons, chacune au tarif de son niveau actuel de magie en po.
+>Jet : **1d10**
+>*Le résultat doit être strictement supérieur à sa maîtrise actuelle*
 
->X = (valeur requise - magie - maîtrise magique - 20) * 5 jours.
->Si X est inférieur à 1, le joueur doit lancer les dés.
+---
 
->**Exemple** : un magicien a 8 en magie de terre et 0 en maîtrise magique, il doit faire :
->(28 - 8 - 0 - 20) * 5 = 0 → Il doit lancer les dés ou améliorer sa maîtrise magique.
-
-#### Lancer les dés
+### Magie
 
 >Jet : **1d20 + Magie + Maîtrise Magique**
 >*Le résultat doit être strictement supérieur aux valeurs du tableau ci-dessous.*
-
-- **1 réussite critique** (donnant un résultat supérieur à celui attendu) → 2 réussites consécutives.
-
-- **5 réussites consécutives** → +2 points.
-
-- **5 réussites non consécutives** → +1 point.
-
-- **3 échecs consécutifs** → on réinitialise le compteur de réussite.
 
 | Niveau actuel | Magies (sauf Feu)                             | Magie de Feu                                  |
 | ------------- | --------------------------------------------- | --------------------------------------------- |
@@ -112,3 +71,22 @@ Le joueur doit prendre X jours de leçons, chacune au tarif de son niveau actuel
 | 19            | 41                                            | 43 (nécessite au moins 4 en maîtrise magique) |
 
 >**Exemple** : un magie d'air niveau 3 veut évoluer, le jet doit être supérieur à 18 et il doit payer 3po par jet.
+
+---
+
+### Maîtrise magique
+
+Pour améliorer sa maîtrise magique, le joueur doit prendre 10 jours de leçons (1 leçon = niveau actuel en po) ainsi qu'avoir un prérequis de points magiques répartis dans les 7 magies.
+
+| Maîtrise | Points magiques totaux requis |
+| -------- | ----------------------------- |
+| 1        | 10                            |
+| 2        | 20                            |
+| 3        | 30                            |
+| 4        | 40                            |
+| 5        | 50                            |
+| 6        | 60                            |
+| 7        | 80                            |
+| 8        | 100                           |
+| 9        | 120                           |
+| 10       | 140                           |

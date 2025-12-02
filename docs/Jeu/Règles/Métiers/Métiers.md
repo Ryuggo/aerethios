@@ -25,28 +25,20 @@ Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leço
 
 ### Gain d’expérience
 
-Chaque leçon réussie rapporte **1 point d’expérience** (exp) dans la compétence étudiée (ce point n'est pas fourni si le joueur la pratique en solitaire).
-
-Des bonus peuvent s’appliquer :
-
-- **Apprentissage avec tuteur ou par la pratique** :
-
-    - **Réussite** : +1 exp
-
-    - **Réussite critique** : +2 exp
-
-    - **Échec critique** : -1 exp
-
-- **Compétence passive — Assidu** :
-
-    - **Échec critiques** : -0 exp
+| Jet              | Avec tuteur | Sans tuteur |
+| :--------------- | :---------: | :---------: |
+| Réussite         |   +1 exp    |   +1 exp    |
+| Réussie critique |   +2 exp    |      -      |
+| Echec critique   |      -      |   -1 exp    |
 
 - **Étude d'une spécialisation** :
 
     - **Réussir 2 leçons d'affilée** : +2 exp
 
-> A noter que **l'apprentissage par la pratique nécessite peut-être des pré-requis** afin de permettre d'obtenir ces bonus d'expérience
-> **Exemple** : Un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience
+> **L'apprentissage sans tuteur nécessite des prérequis** afin de gagner de l'expérience.
+> **Exemple** :
+> 	- un cuisinier doit consommer de vrais ingrédients de cuisine,
+> 	- un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience.
 
 ---
 
@@ -54,7 +46,9 @@ Des bonus peuvent s’appliquer :
 
 Lorsqu’un joueur atteint le **niveau maximum/4** dans une compétence, il peut **enseigner** cette discipline à d’autres joueurs ou à des PNJ, afin de **partager son savoir** ou **gagner de l’argent**.
 
-- Le tuteur ne peut rien faire d’autre pendant les leçons.
+- Le tuteur ne peut rien faire d’autre pendant les leçons (max 2 leçons/ jour).
+
+- Il ne peut avoir que 1d6 élèves (6 valant 0 élève) de niveau 1d4 (4 valant 0).
 
 - Il doit réussir un **D20 Mental + Concentration** par élève et par leçon pour transmettre efficacement ses connaissances.
 
@@ -89,11 +83,11 @@ Chaque compétence appartient à une **catégorie principale**, sauf les compét
 
 #### **[[Alchimie]]**
 
-| Compétence         | Coût (po / leçon) | XP / niveau | Niveau max | Description                                                          |
-| ------------------ | ----------------- | ----------- | ---------- | -------------------------------------------------------------------- |
+| Compétence          | Coût (po / leçon) | XP / niveau | Niveau max | Description                                                          |
+| ------------------- | ----------------- | ----------- | ---------- | -------------------------------------------------------------------- |
+| **[[Cuisinier]]**   | 1 × niveau        | 10          | -          | Préparation de repas conférant des bonus temporaires                 |
 | **[[Potionniste]]** | 2 × niveau        | 20          | -          | Création de potions, huiles et remèdes                               |
-| **[[Cuisinier]]**  | 1 × niveau        | 10          | -          | Préparation de repas conférant des bonus temporaires                 |
-| **[[Invocateur]]** | 3 × niveau        | 30          | -          | Animation ou transmutation d’entités à partir d’ingrédients magiques |
+| **[[Invocateur]]**  | 3 × niveau        | 30          | -          | Animation ou transmutation d’entités à partir d’ingrédients magiques |
 
 ---
 
