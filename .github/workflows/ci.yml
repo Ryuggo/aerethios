@@ -21,17 +21,20 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-      - name: List files for debug
-        run: ls -R
-        
-      - name: Create gh-pages branch
+      - name: Copy web folder to temp
+        run: |
+          mkdir temp-web
+          cp -r web/* temp-web/
+
+      - name: Switch to gh-pages branch
         run: |
           git checkout --orphan gh-pages
           git rm -rf . || true
 
-      - name: Copy web folder contents
+      - name: Restore web content
         run: |
-          cp -r web/* .
+          cp -r temp-web/* .
+          rm -rf temp-web
 
       - name: Commit changes
         run: |
