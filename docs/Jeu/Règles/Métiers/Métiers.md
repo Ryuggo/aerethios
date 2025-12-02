@@ -3,60 +3,7 @@ tags:
   - Règles
   - Personnage
 ---
-## Apprendre
-
-Le joueur peut suivre **1 leçon par demi journée** lorsqu’il se trouve **dans une ville** disposant d’un **tuteur compétent** dans la discipline visée.
-
-Pendant ses leçons, **il ne peut effectuer aucune autre activité** (pas de déplacement, d’enquête, ni de fabrication).
-
----
-
-### Difficulté d’apprentissage
-
-Le résultat du jet de **1D20 + Mental + Concentration** détermine la progression de l’apprenant selon le niveau visé.
-Le résultat varie si l'apprenant étudie avec un tuteur, ou s'il tire des leçons de ses pratiques solitaires (qu'elles soient réussies ou ratées).
-
-- **Leçon** : un jet **≥ 12** permet d'évoluer vers le **niveau 1**.
-    - Pour chaque **niveau supérieur**, on ajoute **+4** à la difficulté minimale à atteindre.
-- **Pratique** : un jet **≥ 20** permet 'évoluer vers le **niveau 1**.
-    - Pour chaque **niveau supérieur**, on ajoute **+2** à la difficulté minimale à atteindre.
-
----
-
-### Gain d’expérience
-
-| Jet              | Avec tuteur | Sans tuteur |
-| :--------------- | :---------: | :---------: |
-| Réussite         |   +1 exp    |   +1 exp    |
-| Réussie critique |   +2 exp    |      -      |
-| Echec critique   |      -      |   -1 exp    |
-
-- **Étude d'une spécialisation** :
-
-    - **Réussir 2 leçons d'affilée** : +2 exp
-
-> **L'apprentissage sans tuteur nécessite des prérequis** afin de gagner de l'expérience.
-> **Exemple** :
-> 	- un cuisinier doit consommer de vrais ingrédients de cuisine,
-> 	- un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience.
-
----
-
-## Tutorer
-
-Lorsqu’un joueur atteint le **niveau maximum/4** dans une compétence, il peut **enseigner** cette discipline à d’autres joueurs ou à des PNJ, afin de **partager son savoir** ou **gagner de l’argent**.
-
-- Le tuteur ne peut rien faire d’autre pendant les leçons (max 2 leçons/ jour).
-
-- Il ne peut avoir que 1d6 élèves (6 valant 0 élève) de niveau 1d4 (4 valant 0).
-
-- Il doit réussir un **D20 Mental + Concentration** par élève et par leçon pour transmettre efficacement ses connaissances.
-
-- Une réussite critique permet d’enseigner **deux fois plus vite** (double les points gagnés par l'élève).
-
-- Un échec critique fait **échouer la leçon** (aucun point gagné).
-
-## Apprentissages
+## Compétences
 
 Apprendre une compétence demande **temps**, **argent** et **pratique**.
 Chaque compétence appartient à une **catégorie principale**, sauf les compétences **libres**, qui peuvent être apprises à tout moment.
@@ -70,8 +17,6 @@ Chaque compétence appartient à une **catégorie principale**, sauf les compét
 - À chaque nouvelle catégorie apprise, il choisit **une spécialisation** qui gagne **plus d’expérience**.
 
 - Les autres compétences de la catégorie progressent au rythme normal.
-
-- L’apprentissage nécessite un **tuteur**, sauf mention contraire.
 
 - Le coût en **pièces d’or (po)** correspond au **prix d’une leçon**.
 
@@ -138,3 +83,62 @@ Chaque compétence appartient à une **catégorie principale**, sauf les compét
 |---|---|---|---|---|
 |**Larcin**|3|10|4|Vol, crochetage et discrétion|
 |**Lire / Écrire**|1|50|1|Alphabétisation et lecture de langues communes|
+
+## Apprendre
+
+Le joueur ne peut prendre que **3 leçons par jour** (8h/ leçon).
+
+Pour chaque nuit que le joueur passe à étudier plutôt que dormir, il perd 10 HP.
+
+Pendant ses leçons, **il ne peut effectuer aucune autre activité** (pas de déplacement, d’enquête, de fabrication, ..).
+
+---
+
+### Difficulté d’apprentissage
+
+>Jet : **1d20 + Mental + Concentration**
+>*Le résultat doit être strictement supérieur aux valeurs du tableau ci-dessous.*
+
+| Niveau | Avec tuteur | Sans tuteur |
+| ------ | :---------: | :---------: |
+| 1      |     12      |      -      |
+| 2      |     16      |     20      |
+| 3      |     20      |     24      |
+| 4      |     24      |     28      |
+| 5      |     28      |     32      |
+| 6      |     32      |      -      |
+
+>**Exemple** : Quelqu'un qui veut passer du niveau 0 à 1 avec un tuteur doit faire plus que 12.
+
+---
+
+### Gain d’expérience
+
+| Jet              | Avec tuteur | Sans tuteur |
+| :--------------- | :---------: | :---------: |
+| Réussite         |   +1 exp    |   +1 exp    |
+| Réussie critique |   +2 exp    |      -      |
+| Echec critique   |      -      |   -1 exp    |
+
+- **Étude d'une spécialisation** : +1 exp
+
+> **L'apprentissage sans tuteur nécessite des prérequis** afin de gagner de l'expérience.
+> **Exemple** :
+> 	- un cuisinier doit consommer de vrais ingrédients de cuisine,
+> 	- un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience.
+
+---
+
+## Tutorer
+
+Lorsqu’un joueur atteint le **niveau maximum/4** dans une compétence, il peut **enseigner** cette discipline à d’autres joueurs ou à des PNJ, afin de **partager son savoir** ou **gagner de l’argent**.
+
+- Le tuteur ne peut rien faire d’autre pendant les leçons (max 2 leçons/ jour).
+
+- Pour chaque leçon, il ne peut avoir que 1d4 élèves (4 valant 0 élève) de niveau 1d4 (4 valant 0).
+
+- Il doit réussir un **1d20 + Mental + Concentration** par leçon pour transmettre efficacement ses connaissances.
+
+- Une réussite critique permet d’enseigner **deux fois plus vite** (double les points gagnés par l'élève).
+
+- Un échec critique fait **échouer la leçon** (aucun point gagné).
