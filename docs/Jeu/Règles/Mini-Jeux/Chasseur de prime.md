@@ -1,3 +1,5 @@
+> Ce [[Mini-Jeux]] permet aux joueurs de battre des cibles afin que le peuple soit libérer de leur joug ainsi que de se faire de l'argent.
+
 ## Fonctionnement
 
 À son arrivée en ville, le joueur reçoit une lettre anonyme (ou via un contact local) désignant une ou plusieurs cibles à neutraliser.

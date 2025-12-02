@@ -1,3 +1,5 @@
+> Ce [[Mini-Jeux]] permet aux joueurs de se bourrer la gueule pour essayer d'obtenir des informations sans torture.
+
 ## Fonctionnement
 
 A chaque fois qu'une personne boit une boisson alcoolisée, elle jette un dé pour connaître son taux d'alcoolémie.

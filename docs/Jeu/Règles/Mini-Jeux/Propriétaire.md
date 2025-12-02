@@ -1,3 +1,5 @@
+> Ce [[Mini-Jeux]] permet aux joueurs d'acheter et d'améliorer des bâtiments pour en faire des bases personnelles ou des activités commerciales pour le peuple.
+
 ## Fonctionnement
 
 Le joueur pourra, 1 fois par semaine, accéder aux plans de son bâtiment pour les modifier.
