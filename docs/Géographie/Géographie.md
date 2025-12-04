@@ -5,7 +5,7 @@ lock: true
 recenter: false
 noScrollZoom: false
 height: 79%
-width: 96%
+width: 100%
 bounds: [[0,0], [4176,8192]]
 lat: 2088
 long: 4096
