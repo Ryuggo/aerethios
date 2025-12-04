@@ -10,8 +10,6 @@ Le bâtiment peut avoir plusieurs utilités :
 
 - une base pour les joueurs,
 
-	- Il faut juste payer les biens souhaités et les taxes d'habitation (dépendant de la région).
-
 - un centre d'activité commerciale,
 
 - un lieu habité par des PNJs.
@@ -21,7 +19,10 @@ Le bâtiment peut avoir plusieurs utilités :
 ---
 
 ## Coûts
-Tous les biens se vendent 20% de leur prix.
+
+### Tailles
+
+
 
 ### Structure
 Déplacer un morceau de structure coûte 50% de son prix.
