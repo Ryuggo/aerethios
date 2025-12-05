@@ -18,88 +18,53 @@ Le bâtiment peut avoir plusieurs utilités :
 
 ---
 
-## Coûts
+## Construction
 
 ### Tailles
 
+Il existe plusieurs tailles de pièces, chacune permettant d'accueillir différents types de fonctionnalités.
 
+Le joueur peut structurer les pièces autrement qu'en carré, il doit juste s'assurer que la surface soit correcte.
 
-### Structure
-Déplacer un morceau de structure coûte 50% de son prix.
+| Taille      | Cases maximum (m²) | Prix |
+| ----------- | ------------------ | ---: |
+| Petit       | 4                  |      |
+| Modeste     | 16                 |      |
+| Confortable | 36                 |      |
+| Spacieux    | 64                 |      |
+| Vaste       | 100                |      |
 
-| Structure 1m² | Prix |
-| ------------- | ---: |
-| Sol           | 5 po |
-| Mur 1m (h)    | 1 po |
-| Toit          | 5 po |
-| Sol étage     | 1 po |
-| Sol sous-sol  | 2 po |
-| Escalier      | 2 po |
-
-### Fonctionnel
-
-| Structure                  |   Prix |
-| -------------------------- | -----: |
-| Porte creuse 1x2m          |  20 pa |
-| Porte pleine               |  50 pa |
-| Porte blindée              |   1 po |
-| "Fenêtre" Battant en bois  |  50 pa |
-| Vitre 0.5x0.5m             |   1 po |
-| Vitrail 0.5x0.5m           | 2.5 po |
-| Barreaux de fenêtre/ porte |  50 pa |
-| Echelle 1m (h)             |  30 pc |
-| Toilette                   |  20 pa |
-| Puit                       |   1 po |
-| Bain                       |   2 po |
-
-### Meubles
-Le joueur peut proposer d'autres meubles à son MJ et ils discuteront d'un prix convenable.
-
-| Meuble              |                       Prix |
-| ------------------- | -------------------------: |
-| Lit                 | 30 pa/ 2m²<br>(1 personne) |
-| Coffre              |        10 pa/ m²<br>(100L) |
-| Caisse de rangement |       50 pc/ m²<br>(1000L) |
-| Bassine d'eau       |                      30 pc |
-| Table               | 20 pa/ m²<br>(2 personnes) |
-| Chaise              |                       5 pa |
-| Banc                |  10 pc/ m²<br>(1 personne) |
-| Bibliothèque        |                      80 pc |
+>Une pièce de 5 cases entre dans la catégorie "Petit".
 
 ### Utilitaires
 
-| Utilitaire                    | Prix mobilier | Prérequis          |
-| ----------------------------- | ------------: | :----------------- |
-| Cuisine                       |          5 pa | 9 m²               |
-| Atelier de potionniste        |               | 20 m²              |
-| Atelier d'invocateur          |               | 30 m²              |
-| Tannerie                      |               | 9 m²               |
-| Bijouterie                    |               | 9 m²               |
-| Atelier d'artificier          |               | 20 m²              |
-| Atelier d'enchantement        |               | 20 m²              |
-| Forge                         |               | 30 m²              |
-| Ecurie                        |               | 9 m²/ monture      |
-| Infirmerie                    |               | 8m² + 4m²/ patient |
-| Salle d'entraînement physique |               | 16 m² + 4m²/ élève |
-| Salle d'entraînement magique  |               | 20 m² + 4m²/ élève |
-| Atelier d'écriture            |               | 4 m²/ personne     |
-| Temple religieux              |               | 30 m²              |
-| Bureau des maîtres            |               | 40 m²              |
+Chaque pièce peut se voir attribuer une utilité selon sa taille.
 
-### Employés
-Le cuisinier cuisine également pour les autres employés.
+Le prix représente la valeur du mobilier présent dans la pièce.
 
-| Employé                | Prix/ semaine | Prérequis                                                                       |
-| ---------------------- | ------------: | :------------------------------------------------------------------------------ |
-| Fermier                |          8 pc | 1 m² (max 50 m²)                                                                |
-| Femme de ménage        |         15 pc | Pièce (max 100 m², max 1 pièce)                                                 |
-| Scribe/ Réceptionniste |         30 pc | Poste                                                                           |
-| Serveur                |         60 pc | Restaurant (max 20 clients)                                                     |
-| Cuisinier              |          1 pa | Cuisine/ Restaurant (max 10 clients)                                            |
-| Professeur             |        1.5 pa | Atelier d'écriture/ Salle d'entraînement (max 15 élèves)                        |
-| Médecin                |         20 pa | Infirmerie (max 5 patients)                                                     |
-| Superviseur            |         30 pa | Atelier d'artisanat/ d'alchimie (max 5 clients)                                 |
-| Représentant           |         50 pa | Guilde (1 par Guilde)<br>Bureau de maîtres (commun à tous)<br>1 chambre de luxe |
+| Utilitaire                    | Taille requise | Prix | Détails                          |
+| ----------------------------- | :------------- | ---: | -------------------------------- |
+| Chambre                       | -              |      |                                  |
+| Toilettes                     | -              |      |                                  |
+| Bains                         | Petit          |      |                                  |
+| Atelier d'écriture            | Petit          |      |                                  |
+| Bijouterie                    | Petit          |      |                                  |
+| Potager/ Champs               | Petit          |      |                                  |
+| Atelier de potionniste        | Modeste        |      |                                  |
+| Bureau des maîtres            | Modeste        |      |                                  |
+| Cuisine                       | Modeste        | 5 pa |                                  |
+| Tannerie                      | Modeste        |      |                                  |
+| Atelier d'artificier          | Confortable    |      |                                  |
+| Atelier d'enchantement        | Confortable    |      |                                  |
+| Atelier d'invocateur          | Confortable    |      |                                  |
+| Infirmerie                    | Confortable    |      |                                  |
+| Forge                         | Spacieux       |      |                                  |
+| Portail de téléportation      | Spacieux       |    - | Nécessite une Toile de dimension |
+| Restaurant                    | Spacieux       |      |                                  |
+| Salle d'entraînement physique | Spacieux       |      |                                  |
+| Ecurie                        | Vaste          |      |                                  |
+| Salle d'entraînement magique  | Vaste          |      |                                  |
+| Temple religieux              | Vaste          |      |                                  |
 
 ---
 

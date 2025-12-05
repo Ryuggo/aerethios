@@ -81,18 +81,18 @@ Ce tableau montre la valeur maximum qui peut être donnée en récompense.
 | 6      |   1 pa |      10 pa |      - |
 | 7      |   3 pa |      30 pa |      - |
 | 8      |   6 pa |      50 pa |  15 po |
-| 9      |  10 pa |      80 pa |  30 po |
+| 9      |  10 pa |      75 pa |  30 po |
 | 10     |      - |       1 po |  50 po |
-| 11     |      - |       5 po |  70 po |
-| 12     |      - |       20po | 100 po |
-| 13     |      - |      40 po | 140 po |
-| 14     |      - |      60 po | 190 po |
-| 15     |      - |      80 po | 250 po |
-| 16     |      - |     120 po | 320 po |
-| 17     |      - |     150 po | 400 po |
-| 18     |      - |     170 po | 500 po |
-| 19     |      - |     180 po | 650 po |
-| 20     |      - |     200 po | 800 po |
+| 11     |      - |       2 po |  70 po |
+| 12     |      - |       4 po | 100 po |
+| 13     |      - |       7 po | 140 po |
+| 14     |      - |      10 po | 190 po |
+| 15     |      - |      15 po | 250 po |
+| 16     |      - |      20 po | 320 po |
+| 17     |      - |      30 po | 400 po |
+| 18     |      - |      40 po | 500 po |
+| 19     |      - |      60 po | 650 po |
+| 20     |      - |      80 po | 800 po |
 
 Il est possible que cette valeur soit diminuée de moitié et qu'un bonus soit offert à la place.
 
