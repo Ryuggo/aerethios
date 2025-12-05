@@ -14,8 +14,6 @@ Le bâtiment peut avoir plusieurs utilités :
 
 - un lieu habité par des PNJs.
 
-	- Il faut gérer plusieurs jauges pour qu'ils contribuent efficacement au bâtiment et à la communauté.
-
 ---
 
 ## Construction
@@ -26,15 +24,21 @@ Il existe plusieurs tailles de pièces, chacune permettant d'accueillir différe
 
 Le joueur peut structurer les pièces autrement qu'en carré, il doit juste s'assurer que la surface soit correcte.
 
-| Taille      | Cases maximum (m²) | Prix |
-| ----------- | ------------------ | ---: |
-| Petit       | 4                  |      |
-| Modeste     | 16                 |      |
-| Confortable | 36                 |      |
-| Spacieux    | 64                 |      |
-| Vaste       | 100                |      |
+- Le prix est de **25 pièces d'argent par m²**.
 
->Une pièce de 5 cases entre dans la catégorie "Petit".
+- Il faut **1 jour de construction par m²**.
+
+- Selon la taille, le revenu que peut générer la pièce va varier.
+
+| Taille      | Cases minimum (m²) |  Prix | Multiplicateur de revenu |
+| ----------- | ------------------ | ----: | :----------------------: |
+| Petit       | 4                  |  1 po |           x0.5           |
+| Modeste     | 16                 |  4 po |            x1            |
+| Confortable | 36                 |  9 po |           x1.5           |
+| Spacieux    | 64                 | 16 po |            x2            |
+| Vaste       | 100                | 25 po |            x3            |
+
+>**Exemple** : une pièce de 5 cases entre dans la catégorie "Petit".
 
 ### Utilitaires
 
@@ -42,78 +46,67 @@ Chaque pièce peut se voir attribuer une utilité selon sa taille.
 
 Le prix représente la valeur du mobilier présent dans la pièce.
 
-| Utilitaire                    | Taille requise | Prix | Détails                          |
-| ----------------------------- | :------------- | ---: | -------------------------------- |
-| Chambre                       | -              |      |                                  |
-| Toilettes                     | -              |      |                                  |
-| Bains                         | Petit          |      |                                  |
-| Atelier d'écriture            | Petit          |      |                                  |
-| Bijouterie                    | Petit          |      |                                  |
-| Potager/ Champs               | Petit          |      |                                  |
-| Atelier de potionniste        | Modeste        |      |                                  |
-| Bureau des maîtres            | Modeste        |      |                                  |
-| Cuisine                       | Modeste        | 5 pa |                                  |
-| Tannerie                      | Modeste        |      |                                  |
-| Atelier d'artificier          | Confortable    |      |                                  |
-| Atelier d'enchantement        | Confortable    |      |                                  |
-| Atelier d'invocateur          | Confortable    |      |                                  |
-| Infirmerie                    | Confortable    |      |                                  |
-| Forge                         | Spacieux       |      |                                  |
-| Portail de téléportation      | Spacieux       |    - | Nécessite une Toile de dimension |
-| Restaurant                    | Spacieux       |      |                                  |
-| Salle d'entraînement physique | Spacieux       |      |                                  |
-| Ecurie                        | Vaste          |      |                                  |
-| Salle d'entraînement magique  | Vaste          |      |                                  |
-| Temple religieux              | Vaste          |      |                                  |
+| Utilitaire                    | Taille requise |          Prix | Détails                                                       |
+| ----------------------------- | :------------- | ------------: | ------------------------------------------------------------- |
+| Potager/ Champs               | Petit          | 10 pc<br>/ m² | 10m² / nourrir 1 personne / jour                              |
+| Chambre                       | Petit          |          5 pa |                                                               |
+| Cuisine                       | Modeste        |         10 pa | 15m² / 20 mangeurs                                            |
+| Ecurie                        | Confortable    |         20 pa | 20m² / monture                                                |
+| Atelier d'écriture            | Petit          |         20 pa | 4m² / étudiant                                                |
+| Bijouterie                    | Petit          |               |                                                               |
+| Atelier de potionniste        | Petit          |               |                                                               |
+| Bureau des maîtres            | Modeste        |               |                                                               |
+| Tannerie                      | Petit          |               |                                                               |
+| Atelier d'artificier          | Confortable    |               |                                                               |
+| Atelier d'enchantement        | Petit          |               |                                                               |
+| Atelier d'invocateur          | Confortable    |               |                                                               |
+| Infirmerie                    | Modeste        |               | 4m² / patient                                                 |
+| Forge                         | Confortable    |               |                                                               |
+| Restaurant                    | Spacieux       |               | 2m² / client                                                  |
+| Salle d'entraînement physique | Spacieux       |               |                                                               |
+| Salle d'entraînement magique  | Spacieux       |               |                                                               |
+| Hall de guilde                | Vaste          |               |                                                               |
+| Portail de téléportation      | Spacieux       |         50 po | Nécessite une Toile de dimension<br>Double les revenus totaux |
 
 ---
 
-## Activités commerciales
+## Finances
 
-Le joueur touche ses revenus chaque semaine.
+### Taxes
 
-Une moyenne des revenus de la semaine est affichée par ~1dX.
+Dépendant de l'endroit où se situe le bâtiment, des taxes peuvent être appliquées.
 
-Le joueur peut prendre ses revenus manuellement plutôt que de prendre la moyenne.
+Ces prix servent d'exemples et peuvent varier selon la situation économique de chaque lieu.
 
-Pour se faire il lance le dé écrit après le signe ~.
+| Lieu         | Taxe/ semaine/ m² |
+| ------------ | ----------------: |
+| Centre-ville |              1 pa |
+| Ville        |             50 pc |
+| Faubourg     |             10 pc |
 
-Le résultat donnera le nombre de fois que le joueur devra additionner le revenu/ jour de son activité.
+### Revenus
 
-### Bonus de popularité
+Le joueur touche ses revenus chaque semaine selon les activités qu'il propose.
 
-Certaines activités permettent de multiplier ce résultat en fonction de leur qualité et du nombre de personnes présentes.
+Il peut soit :
 
-Chaque jour, le nombre de personnes peut varier.
+- lancer le dé,
 
-Cette variation équivaut par 1d5, le résultat étant multiplié à 20%.
-> 1d5 --> Résultat = 3 --> 60% de 1 client = 0.6 = 1 client (arrondi à l'unité la plus proche)
+- prendre la moyenne (écrite à la ligne en dessous).
 
-A ce 1d5 **s'additionne** une **Note** (N).
+>Ne pas oublier de multiplier selon la taille de la pièce contenant l'activité.
 
-Cette note va de 0 à 5, et change lorsque le joueur prend ses revenus manuellement.
-
-Si le nombre de personne n'est pas pris en compte dans l'activité, la Note va de 1 à 5.
-
-Elle monte de 1 si son revenu manuel de la semaine est supérieur à celui de la moyenne, et descend de 1 si ce n'est pas le cas.
-
-Ce bonus total est le **Bonus de Popularité** (BP)
-
-### Activités
-
-| Activité            |                                                                            Revenu moyen | Prérequis                                                                                                                                                                                                                                           |                                                           Revenu maximum |
-| ------------------- | --------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------: |
-| Potager             |                                           m² x 1d8 pc/ jour<br>~1d8 m² x 20 pc/ semaine | 1 m²<br>1 Fermier/ 50 m²                                                                                                                                                                                                                            |                                           4 pa/ jour<br>~ 32 pa/ semaine |
-| Poste               |                                             N x 2d8 pc/ jour<br>~1d8 N x 36 pc/ semaine | Atelier d'écriture<br>1 Scribe                                                                                                                                                                                                                      |                                         80 pc/ jour<br>~ 6.4 pa/ semaine |
-| Restaurant          |              BP x (10 + 1d10) pc/ jour<br>~1d6 BP x 48 pc/ semaine<br>(1 client = 2 m²) | 2 m²/ client<br>Cuisine<br>1 Cuisinier/ 10 clients<br>1 Serveur/ 20 clients<br>Table + Chaises/ bancs                                                                                                                                               |                     15 pa/ jour<br>~ 90 pa/ semaine<br>(1 client = 2 m²) |
-| Caserne             |                                              N x 20 pc/ jour<br>~1d6 N x 60 pc/ semaine | Min 4 m²<br>1 Femme de ménage<br>Lit + Coffre + "Fenêtre"                                                                                                                                                                                           |                                            1 pa/ jour<br>~ 6 pa/ semaine |
-| Chambre             | N x 50 pc/ jour<br>(+15 pc/ lit)<br><br>~1d6 N x 1.5 pa/ semaine<br>(+ ~1d6 45 pc/ lit) | Min 8 m²<br>1 Femme de ménage<br>Lit + Coffre + Vitre<br>Table + Chaise<br>Bassine                                                                                                                                                                  | 2.5 pa/ jour<br>(+15 pc/ lit)<br><br>~ 12.5 pa/ semaine<br>(+90 pc/ lit) |
-| Chambre de luxe     |  N x 1 pa/ jour<br>(+ 50 pc/ lit)<br><br>~1d6 N x 3 pa/ semaine<br>(+ ~1d6 1.5 pa/ lit) | Min 15 m²<br>1 Femme de ménage<br>Lit double + Double coffre + Vitrail<br>Table + 2 Chaises<br>Bassine + Toilette                                                                                                                                   |     5 pa/ jour<br>(+ 50 pc/ lit)<br><br>~ 30 pa/ semaine<br>(+3 pa/ lit) |
-| Ecole               |                        BP x 40 pc/ jour<br>~1d6 BP x 1.2 pa/ semaine<br>(1 élève = 4m²) | Atelier d'écriture/ Salle d'entraînement<br>1 Professeur/ 15 élèves<br>Table + 2 Chaises/ élève                                                                                                                                                     |                      80 pa/ jour<br>~ 4.8 po/ semaine<br>(1 élève = 4m²) |
-| Hôpital             |                    BP x 1d12 pa/ jour<br>~1d6 BP x 21 pa/ semaine<br>(1 patient = 4 m²) | Infirmerie<br>1 Médecin/ 5 patients                                                                                                                                                                                                                 |                  1.2 po/ jour<br>~ 7.2 po/ semaine<br>(1 patient = 4 m²) |
-| Atelier d'artisanat |                                          BP x 3d10 pa/ jour<br>~1d4 BP x 32 pa/ semaine | Tannerie/ Bijouterie/ Artificier/ Enchantement/ Forge<br>1 Superviseur/ 5 clients/ atelier                                                                                                                                                          |                                           3 po/ jour<br>~ 12 po/ semaine |
-| Atelier d'alchimie  |                                          BP x 3d10 pa/ jour<br>~1d4 BP x 32 pa/ semaine | Cuisine/ Potionniste/ Invocateur<br>1 Superviseur/ 5 clients/ atelier                                                                                                                                                                               |                                           3 po/ jour<br>~ 12 po/ semaine |
-| Guilde              |                    N x 3d6 quêtes x (10 x 1d100) pc/ jour<br>~ N x 1d4 1.02 po/ semaine | Restaurant (min 400 m²)<br>Chambres (min 40 casernes/ 20 chambres)<br>Atelier d'écriture (min 100 m²)<br>Hôpital (min 40 m²)<br>Ateliers d'artisanat/ d'alchimie (min 3)<br>Bureau des maîtres<br>Représentant (min 1)<br>2 Scribes/ 1 Représentant |                                           9 po/ jour<br>~ 36 po/ semaine |
+| Activité            |                           Revenu/ semaine | Prérequis                                                                                                                                                     |
+| ------------------- | ----------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Potager             |        m² x (5 + 1d5) pc<br>*(m² x 8 pc)* | Potager                                                                                                                                                       |
+| Poste               |                  5 x 2d10 pc<br>*(60 pc)* | Atelier d'écriture                                                                                                                                            |
+| Restaurant          |   0.5m² x (15 + 5d4) pc<br>*(m² x 15 pc)* | Cuisine<br>Restaurant                                                                                                                                         |
+| Chambre             |                  1d6 x 20 pc<br>*(80 pc)* | Chambre                                                                                                                                                       |
+| Ecole               | 0.25m² x (50 + 5d10) pc<br>*(m² x 20 pc)* | Atelier d'écriture/ Salle d'entraînement                                                                                                                      |
+| Hôpital             |             0.25m² x (2d6) pa<br>*(2 pa)* | Infirmerie                                                                                                                                                    |
+| Atelier d'artisanat |                        3d4 pa<br>*(9 pa)* | Tannerie/ Bijouterie/ Artificier/ Enchantement/ Forge                                                                                                         |
+| Atelier d'alchimie  |                       3d6 pa<br>*(12 pa)* | Cuisine/ Potionniste/ Invocateur                                                                                                                              |
+| Guilde              |                 10 + 5d10 pa<br>*(40 pa)* | Hall de guilde<br>Restaurant (Vaste)<br>Chambres (Min 40 Petites ou 30 Modestes)<br>Atelier d'écriture (Spacieux)<br>Ateliers d'artisanat/ d'alchimie (min 3) |
 
 ---
 

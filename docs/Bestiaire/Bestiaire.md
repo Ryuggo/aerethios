@@ -11,4 +11,4 @@ Entités combattues par les [[Arvens]] à l'aide de méthodes de combat conventi
 
 ## Créatures Planaires
 
-Entités combattues par les [[Templis]] 
+Entités combattues par les [[Templis]]

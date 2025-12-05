@@ -1,20 +1,14 @@
 > Résumé
 
-## Joueurs
+## Détails
 
-- [x] Diego
-- [x] Loic
-- [ ] Lucas
-- [x] Michel
-- [ ] Nolan
-- [x] Thomas
-- [ ] William
+Lieu actuel : [[]], [[]]
+
+Objectif :
+
+Pnjs notables :
 
 ## Notes
-
-## Points marquants
-
--
 
 ## Scénario
 
@@ -41,3 +35,17 @@
 #### 7)
 
 #### 8) Résolution de l'accroche (boss final?)
+
+## Joueurs
+
+- [x] Diego
+- [x] Loic
+- [ ] Lucas
+- [x] Michel
+- [ ] Nolan
+- [x] Thomas
+- [ ] William
+
+| Précédent | Suivant |
+| :-------: | :-----: |
+|   [[]]    |  [[]]   |

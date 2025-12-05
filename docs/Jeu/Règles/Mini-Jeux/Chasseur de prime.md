@@ -34,6 +34,8 @@ Le gain de PR peut varier en fonction de l'environnement où se déroule la rech
 | Aide d’un contact ou informateur                         | +2                   |
 | Blessure mineure                                         | -2                   |
 
+>Le gain de PR ne peut pas être négatif.
+
 Une fois que les PR ont atteint le Seuil de Recherche (SR) de la cible, **la confrontation finale** pourra être enclenchée **à partir de la nuit suivante**.
 
 Le SR est déterminé par cette formule :

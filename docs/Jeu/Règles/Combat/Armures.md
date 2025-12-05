@@ -105,7 +105,7 @@
 >Peut s'équiper par dessus une armure comme cape ou foulard.
 
 **Avantages**
-    + [[Enchanteur|Enchantements]] de [[Suraja]]
+    + [[Enchanteur#Suraja|Enchantements de Suraja]]
     + Températures extrêmes
 
 **Inconvénients**
@@ -133,7 +133,7 @@
 *Armures Légères & Intermédiaires*
 
 **Avantages**
-    + [[Enchanteur|Enchantements]] de [[Kothula]]
+    + [[Enchanteur#Kothula|Enchantements de Kothula]]
 
 **Inconvénients**
     -
@@ -144,7 +144,7 @@
 >Écailles et os se réparent auprès d'un potionniste ? (plus cher)
 
 **Avantages**
-    + [[Enchanteur|Enchantements]] d'[[Ovliin]]
+    + [[Enchanteur#Ovliin|Enchantements d'Ovliin]]
 
 **Inconvénients**
     - Désavantage en Dextérité (Discrétion)
@@ -153,7 +153,7 @@
 *Armures Lourdes*
 
 **Avantages**
-    + [[Enchanteur|Enchantements]] de [[Nirina]]
+    + [[Enchanteur#Nirina|Enchantements de Nirina]]
     + Durabilité
 
 **Inconvénients**

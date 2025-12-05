@@ -36,13 +36,13 @@ Une fois que le joueur a lancé les dés pour connaitre la rareté du matériau 
 ### Peu communs
 > Métaux plus résistants ou nécessitant un savoir-faire supérieur pour le travail à chaud.
 
-| Type    | Matériau                 | Utilité                    | Poids (kg) |    Prix |
-| ------- | ------------------------ | -------------------------- | ---------- | ------: |
-| Pièces  | Électrum<br>*Acier + Or* | Malléable                  | 3          |   25 po |
-| Alliage | Nickel                   | Non altérable par la magie |            |         |
-| Alliage | Cobalt                   | Outils                     |            |         |
-| Métal   | Titane                   | Equipement                 |            | 1 50 pa |
-| Métal   | Tungstène                | Revêtement                 |            |         |
+| Type    | Matériau                  | Utilité                    | Poids (kg) |    Prix |
+| ------- | ------------------------- | -------------------------- | ---------- | ------: |
+| Pièces  | Électrum<br>*Argent + Or* | Malléable                  | 3          |   25 po |
+| Alliage | Nickel                    | Non altérable par la magie |            |         |
+| Alliage | Cobalt                    | Outils                     |            |         |
+| Métal   | Titane                    | Equipement                 |            | 1 50 pa |
+| Métal   | Tungstène                 | Revêtement                 |            |         |
 - Acier trempé (carbone maîtrisé, haute dureté)
 - Tungstène (utilisé pour renforts ou tranchants fins, non forgé pur)
 

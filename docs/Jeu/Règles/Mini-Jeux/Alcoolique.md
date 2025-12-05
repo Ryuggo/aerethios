@@ -1,4 +1,4 @@
-> Ce [[Mini-Jeux]] permet aux joueurs de se bourrer la gueule pour essayer d'obtenir des informations sans torture.
+> Ce [[Mini-Jeux]] permet aux joueurs de se bourrer la gueule pour essayer d'obtenir des informations sans violence.
 
 ## Fonctionnement
 
