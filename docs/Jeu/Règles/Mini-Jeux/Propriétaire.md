@@ -110,8 +110,15 @@ Il peut soit :
 
 ---
 
-## Habitants
+## Evénements
 
-Un enfant a besoin de 4m² pour pouvoir être heureux.
+### Bâtiment
 
-Un adulte a besoin de 16m² pour pouvoir être heureux.
+Toutes les semaines où le joueur n'est pas dans son bâtiment, il doit lancer 1d20 pour déterminer ce qu'il s'est passé pendant son absence.
+
+| Jet | Résultat        |
+| --- | --------------- |
+| 1   | Nouvel habitant |
+|     |                 |
+
+### Habitant
