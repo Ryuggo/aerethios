@@ -116,9 +116,11 @@ Il peut soit :
 
 Toutes les semaines où le joueur n'est pas dans son bâtiment, il doit lancer 1d20 pour déterminer ce qu'il s'est passé pendant son absence.
 
-| Jet | Résultat        |
-| --- | --------------- |
-| 1   | Nouvel habitant |
-|     |                 |
+| Jet | Résultat                       |
+| --- | ------------------------------ |
+| 1   | Un nouvel habitant se présente |
+|     |                                |
 
 ### Habitant
+
+Le joueur peut accepter que de nouveaux 
