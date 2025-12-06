@@ -26,17 +26,17 @@ Le joueur peut structurer les pièces autrement qu'en carré, il doit juste s'as
 
 - Le prix est de **25 pièces d'argent par m²**.
 
-- Il faut **1 jour de construction par m²**.
+- Il faut attendre la semaine suivante pour que la pièce puisse être aménagée.
 
 - Selon la taille, le revenu que peut générer la pièce va varier.
 
-| Taille      | Cases minimum (m²) |  Prix | Multiplicateur de revenu |
-| ----------- | ------------------ | ----: | :----------------------: |
-| Petit       | 4                  |  1 po |           x0.5           |
-| Modeste     | 16                 |  4 po |            x1            |
-| Confortable | 36                 |  9 po |           x1.5           |
-| Spacieux    | 64                 | 16 po |            x2            |
-| Vaste       | 100                | 25 po |            x3            |
+| Taille      | Cases minimum (m²) |  Prix | Multiplicateur de revenu | Durée d'aménagement |
+| ----------- | ------------------ | ----: | :----------------------: | ------------------- |
+| Petit       | 4                  |  1 po |           x0.5           | 1 semaine           |
+| Modeste     | 16                 |  4 po |            x1            | 1 semaine           |
+| Confortable | 36                 |  9 po |           x1.5           | 2 semaines          |
+| Spacieux    | 64                 | 16 po |            x2            | 2 semaines          |
+| Vaste       | 100                | 25 po |            x3            | 3 semaines          |
 
 >**Exemple** : une pièce de 5 cases entre dans la catégorie "Petit".
 
@@ -116,14 +116,35 @@ Il peut soit :
 
 Toutes les semaines où le joueur n'est pas dans son bâtiment, il doit lancer 1d20 pour déterminer ce qu'il s'est passé pendant son absence.
 
-| Jet   | Résultat                                                                                                                               |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-10  | Rien ne se passe                                                                                                                       |
-| 11-12 | Un nouvel habitant se présente                                                                                                         |
-| 13    | Une pièce est abimée et doit être réparée<br>Coût de réparation : 25% du prix de création<br>Revenu - 50% tant que la pièce est abimée |
+| Jet  | Résultat                                                                                                                               |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-2  | Un nouvel habitant se présente                                                                                                         |
+| 3    | Une pièce est abimée et doit être réparée<br>Coût de réparation : 25% du prix de création<br>Revenu - 50% tant que la pièce est abimée |
+| 4-20 | Rien ne se passe                                                                                                                       |
 
-### Habitant
+### Habitants
 
-Lorsqu'un nouvel habitant se présente, le joueur peut l'accepter ou le renvoyer.
+Lorsqu'un nouvel habitant se présente, le joueur peut l'accepter et lui attribuer des tâches ou le renvoyer.
 
-Dans le premier cas, lui ou le MJ devront lui trouver un nom
+S'il l'accepte, il faut :
+
+- lui fournir un lit,
+
+- le compter parmi les mangeurs de la cuisine.
+
+Le joueur peut ensuite lui attribuer une tâche, en l'associant à une pièce.
+
+Il ne peut y avoir qu'un habitant par 9m² d'une même pièce.
+
+Pour chaque semaine qu'il passe dans une pièce, il gagne 1 point d'expérience (pour un maximum de 10).
+
+Pour chaque point d'expérience, il augmente les revenus de cette pièce de 1% (maximum 10% par habitant).
+
+Chaque semaine, pour chaque habitant, le joueur doit jeter 1d12 pour déterminer leur besoin.
+
+| Jet  | Besoin      | Conséquencez                                                                             |
+| ---- | ----------- | ---------------------------------------------------------------------------------------- |
+| 1    | Gourmandise | Consomme 2x plus de nourriture<br>S'il n'y a pas assez de nourriture, il abime une pièce |
+| 2    | Luxure      | Utilise 20% des revenus d'une pièce                                                      |
+| 3    | Paresse     | N'effectue pas sa tâche                                                                  |
+| 4-12 | Rien        | -                                                                                        |
