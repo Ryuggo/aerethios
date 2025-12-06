@@ -116,11 +116,12 @@ Il peut soit :
 
 Toutes les semaines où le joueur n'est pas dans son bâtiment, il doit lancer 1d20 pour déterminer ce qu'il s'est passé pendant son absence.
 
-| Jet | Résultat                       |
-| --- | ------------------------------ |
-| 1   | Un nouvel habitant se présente |
-|     |                                |
+| Jet   | Résultat                                                                                                                               |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-10  | Rien ne se passe                                                                                                                       |
+| 11-12 | Un nouvel habitant se présente                                                                                                         |
+| 13    | Une pièce est abimée et doit être réparée<br>Coût de réparation : 25% du prix de création<br>Revenu - 50% tant que la pièce est abimée |
 
 ### Habitant
 
-Le joueur peut accepter que de nouveaux 
+Le joueur peut accepter que de nouveaux
