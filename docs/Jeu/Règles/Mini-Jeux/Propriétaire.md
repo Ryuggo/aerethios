@@ -124,4 +124,6 @@ Toutes les semaines où le joueur n'est pas dans son bâtiment, il doit lancer 1
 
 ### Habitant
 
-Le joueur peut accepter que de nouveaux
+Lorsqu'un nouvel habitant se présente, le joueur peut l'accepter ou le renvoyer.
+
+Dans le premier cas, lui ou le MJ devront lui trouver un nom
