@@ -1,2 +1,0 @@
-[[Suraja]]
-[[Nirina]]

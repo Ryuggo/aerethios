@@ -1,5 +1,0 @@
-[[Mer Lactée]]
-[[Fosse d'Oslo]]
-[[Mer Triste]]
-[[Ovliin]]
-[[Nirina]]

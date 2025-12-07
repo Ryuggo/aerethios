@@ -50,7 +50,7 @@
 | Écailles (métal)<br>*Scale Mail*     |    50 pa<br>*50 gp* | 14 + Dex (max 2) |             8 lingots<br>1 rembourrage             | 22 kg<br>*45 lb.* |
 | Cuirasse <br>*Breastplate*           | 4 00 pa<br>*400 gp* | 14 + Dex (max 2) |                     10 lingots                     | 10 kg<br>*20 lb.* |
 | Demi-Plate <br>*Half Plate*          | 7 50 pa<br>*750 gp* | 15 + Dex (max 2) |            16 lingots<br>1 rembourrage             | 20 kg<br>*40 lb.* |
-| *Laminar Plate*                      |  15 po<br>*1500 gp* | 15 + Dex (max 2) |                                                    | 17 kg<br>*35 lb.* |
+
 **Équiper**
 	5 minutes
 **Retirer**
@@ -68,7 +68,7 @@
 | Cotte de Mailles <br>*Chain Mail* |    50 pa<br>*50 gp* |        16        |  13   | 9 lingots<br>1 rembourrage  | 27 kg<br>*55 lb.* |
 | Clibanion<br>*Splint*             | 2 00 pa<br>*200 gp* |        17        |  15   | 12 lingots<br>1 rembourrage | 30 kg<br>*60 lb.* |
 | Harnois<br>*Plate*                |  15 po<br>*1500 gp* |        18        |  15   | 30 lingots<br>1 rembourrage | 32 kg<br>*65 lb.* |
-| *Lamellan Plate*                  |  20 po<br>*2000 gp* |        18        |  15   |                             | 30 kg<br>*60 lb.* |
+
 **Équiper**
 	10 minutes
 **Retirer**
