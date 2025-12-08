@@ -142,9 +142,15 @@ Pour chaque point d'expérience, il augmente les revenus de cette pièce de 1% (
 
 Chaque semaine, pour chaque habitant, le joueur doit jeter 1d12 pour déterminer leur besoin.
 
-| Jet  | Besoin      | Conséquencez                                                                             |
-| ---- | ----------- | ---------------------------------------------------------------------------------------- |
-| 1    | Gourmandise | Consomme 2x plus de nourriture<br>S'il n'y a pas assez de nourriture, il abime une pièce |
-| 2    | Luxure      | Utilise 20% des revenus d'une pièce                                                      |
-| 3    | Paresse     | N'effectue pas sa tâche                                                                  |
-| 4-12 | Rien        | -                                                                                        |
+Le joueur peut lancer 1d12 pour 10 habitants au lieu de un par un.
+
+| Jet  | Besoin      | Conséquences                                                                                                                            |
+| ---- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Gourmandise | Consomme 2x plus de nourriture<br>S'il n'y a pas assez de nourriture, il abime une pièce                                                |
+| 2    | Luxe        | Utilise 20% des revenus d'une pièce                                                                                                     |
+| 3    | Paresse     | N'effectue pas sa tâche pour la semaine                                                                                                 |
+| 4    | Maladie     | Diminue le revenu de 50%<br>S'il n'est pas soigné après 1 semaine, contamine un autre habitant<br>Après 2 semaines de maladie, il meurt |
+| 5    | Folie       | N'effectue pas sa tâche<br>Peut rendre fou un autre habitant si non traité<br>Déclenche une mutinerie s'il y a 10 fous                  |
+| 6    | Studieux    | Double ses revenus                                                                                                                      |
+| 7    | Modèle      | Augmente les revenus totaux de 25%                                                                                                      |
+| 8-12 | Rien        | -                                                                                                                                       |
