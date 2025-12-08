@@ -56,7 +56,7 @@ Le prix représente la valeur du mobilier présent dans la pièce.
 | Bijouterie                    | Petit          |               |                                                               |
 | Atelier de potionniste        | Petit          |               |                                                               |
 | Bureau des maîtres            | Modeste        |               |                                                               |
-| Tannerie                      | Petit          |               |                                                               |
+| Tannerie                      | Modeste        |               |                                                               |
 | Atelier d'artificier          | Confortable    |               |                                                               |
 | Atelier d'enchantement        | Petit          |               |                                                               |
 | Atelier d'invocateur          | Confortable    |               |                                                               |
@@ -66,7 +66,7 @@ Le prix représente la valeur du mobilier présent dans la pièce.
 | Salle d'entraînement physique | Spacieux       |               |                                                               |
 | Salle d'entraînement magique  | Spacieux       |               |                                                               |
 | Hall de guilde                | Vaste          |               |                                                               |
-| Portail de téléportation      | Spacieux       |         50 po | Nécessite une Toile de dimension<br>Double les revenus totaux |
+| Portail de téléportation      | Vaste          |        500 po | Nécessite une Toile de dimension<br>Double les revenus totaux |
 
 ---
 
