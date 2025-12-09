@@ -346,11 +346,11 @@ Permet aux montures de se reposer pour être plus efficaces lors de leur prochai
 
 Toutes les semaines où le joueur n'est pas dans son bâtiment, il doit lancer 1d20 pour déterminer ce qu'il s'est passé pendant son absence.
 
-| Jet  | Résultat                                                                                                                               |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-2  | Un nouvel habitant se présente                                                                                                         |
-| 3    | Une pièce est abimée et doit être réparée<br>Coût de réparation : 25% du prix de création<br>Revenu - 50% tant que la pièce est abimée |
-| 4-20 | Rien ne se passe                                                                                                                       |
+| Jet  | Résultat                                                           |
+| ---- | ------------------------------------------------------------------ |
+| 1-4  | Un nouvel habitant s'est présenté                                  |
+| 5    | Un vol a eu lieu<br>Le joueur perd 50% de son revenu de la semaine |
+| 6-20 | Rien ne se passe                                                   |
 
 ### Habitants
 
