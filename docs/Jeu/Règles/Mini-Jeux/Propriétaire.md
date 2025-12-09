@@ -96,7 +96,7 @@ Il ne peut y avoir qu'une seule cuisine par restaurant.
 | **Coût de construction**            |       |         |       |
 | **Durée de construction (semaine)** |   1   |    2    |   4   |
 | **Peut nourrir X personne.s**       |  20   |   50    |  100  |
-| **Personnel nécessaire**            |   1   |    2    |   4   |
+| **Personnel nécessaire**            |   1   |    2    |   2   |
 
 #### Bonus de qualité
 
@@ -116,7 +116,7 @@ Permet de vendre le surplus de nourriture pour avoir quelques revenus.
 | **Coût de construction**            |       |         |       |
 | **Durée de construction (semaine)** |   4   |    8    |  12   |
 | **Peut accueillir X personne.s**    |  20   |   50    |  100  |
-| **Personnel nécessaire**            |   1   |    2    |   4   |
+| **Personnel nécessaire**            |   2   |    4    |   5   |
 | **Revenu quotidien (par client)**   | 10 pc |  10 pc  | 10 pc |
 | **Revenu hebdomadaire maximum**     | 14 pa |  35 pa  | 70 pa |
 
@@ -168,16 +168,26 @@ Permet aux montures de se reposer pour être plus efficaces lors de leur prochai
 >**Exemple** : Un cheval dans un enclos pauvre/ modeste consomme 2 nourritures/ jour.
 >Dans un enclos luxueux, il consomme 1 nourriture/ jour.
 
-### Forge
+### Atelier d'artisanat
 
-.
+L'atelier doit se spécialiser parmi ces choix :
+
+- bijouterie,
+
+- forge,
+
+- enchanterie,
+
+- tannerie,
+
+- atelier d'artificier.
 
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  16   |   36    |  81   |
+| **Taille (m²)**                     |  25   |   49    |  100  |
 | **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |   2   |    3    |   6   |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
+| **Durée de construction (semaine)** |   2   |    4    |   7   |
+| **Personnel nécessaire**            |   1   |    2    |   4   |
 
 #### Bonus de qualité
 
@@ -185,107 +195,26 @@ Permet aux montures de se reposer pour être plus efficaces lors de leur prochai
 | -------------------- | :----: | :-----: | :-----: |
 | **Taux de réussite** |  x 1   |  x 1.5  |   x 2   |
 
-### Tanneur
+### Atelier d'alchimie
 
-.
+L'atelier doit se spécialiser parmi ces choix :
 
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  16   |   36    |  81   |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |   2   |    3    |   6   |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
+- potionniste,
 
-#### Bonus de qualité
-
-| Pauvre | Modeste | Luxueux |
-| :----: | :-----: | :-----: |
-|        |         |         |
-
-### Atelier d'artificier
-
-.
+- invocateur.
 
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Taille (m²)**                     |  49   |   100   |  144  |
 | **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |       |         |       |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
+| **Durée de construction (semaine)** |   2   |    4    |   7   |
+| **Personnel nécessaire**            |   2   |    4    |   5   |
 
 #### Bonus de qualité
 
-| Pauvre | Modeste | Luxueux |
-| :----: | :-----: | :-----: |
-|        |         |         |
-
-### Bijouterie
-
-.
-
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  200  |   500   | 1000  |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |       |         |       |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
-
-#### Bonus de qualité
-
-| Pauvre | Modeste | Luxueux |
-| :----: | :-----: | :-----: |
-|        |         |         |
-
-### Atelier de potionniste
-
-.
-
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  200  |   500   | 1000  |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |       |         |       |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
-
-#### Bonus de qualité
-
-| Pauvre | Modeste | Luxueux |
-| :----: | :-----: | :-----: |
-|        |         |         |
-
-### Atelier d'invocateur
-
-.
-
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  200  |   500   | 1000  |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |       |         |       |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
-
-#### Bonus de qualité
-
-| Pauvre | Modeste | Luxueux |
-| :----: | :-----: | :-----: |
-|        |         |         |
-
-### Atelier d'enchantement
-
-.
-
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  200  |   500   | 1000  |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |       |         |       |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
-
-#### Bonus de qualité
-
-| Pauvre | Modeste | Luxueux |
-| :----: | :-----: | :-----: |
-|        |         |         |
+|                      | Pauvre | Modeste | Luxueux |
+| -------------------- | :----: | :-----: | :-----: |
+| **Taux de réussite** |  x 1   |  x 1.5  |   x 2   |
 
 ### Hall de guilde
 
@@ -310,7 +239,7 @@ Permet aux montures de se reposer pour être plus efficaces lors de leur prochai
 
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Taille (m²)**                     |  100  |   500   | 1000  |
 | **Coût de construction**            |       |         |       |
 | **Durée de construction (semaine)** |       |         |       |
 | **Personnel nécessaire**            |   1   |    1    |   1   |
