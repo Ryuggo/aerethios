@@ -2,9 +2,9 @@
 
 ## Fonctionnement
 
-Le joueur pourra, 1 fois par semaine, accéder aux plans de son bâtiment pour les modifier.
+Le joueur pourra, 1 fois par semaine, interagir avec son bâtiment pour modifier les plans ou donner des tâches aux habitants.
 
-Ces plans sont notés sur une feuille quadrillée où 1cm en vrai = 1m en jeu.
+Le joueur peut dessiner les plans sur une feuille quadrillée où 1cm en vrai = 1m en jeu (ou une autre échelle de son choix).
 
 Le bâtiment peut avoir plusieurs utilités :
 
@@ -18,95 +18,325 @@ Le bâtiment peut avoir plusieurs utilités :
 
 ## Construction
 
-### Tailles
+Le joueur peut agrandir une pièce déjà existante.
 
-Il existe plusieurs tailles de pièces, chacune permettant d'accueillir différents types de fonctionnalités.
+Le prix sera la différence entre la nouvelle taille et la taille actuelle (en multipliant selon la qualité)
 
-Le joueur peut structurer les pièces autrement qu'en carré, il doit juste s'assurer que la surface soit correcte.
+La même logique suit la durée de construction.
 
-- Le prix est de **25 pièces d'argent par m²**.
+Les pièces se construisent en parallèle et leur durée de construction ne doit pas être additionnée entre elles.
 
-- Il faut attendre la semaine suivante pour que la pièce puisse être aménagée.
+Chaque pièce peut être de différente qualité de construction afin de fournir des bonus différents :
 
-- Selon la taille, le revenu que peut générer la pièce va varier.
+|                          | Pauvre | Modeste | Luxueux |
+| ------------------------ | :----: | :-----: | :-----: |
+| **Coût de construction** |  x 1   |   x 2   |   x 4   |
 
-| Taille      | Cases minimum (m²) |  Prix | Multiplicateur de revenu | Durée d'aménagement |
-| ----------- | ------------------ | ----: | :----------------------: | ------------------- |
-| Petit       | 4                  |  1 po |           x0.5           | 1 semaine           |
-| Modeste     | 16                 |  4 po |            x1            | 1 semaine           |
-| Confortable | 36                 |  9 po |           x1.5           | 2 semaines          |
-| Spacieux    | 64                 | 16 po |            x2            | 2 semaines          |
-| Vaste       | 100                | 25 po |            x3            | 3 semaines          |
+Selon l'endroit où se situe le bâtiment, ses revenus et ses taxes vont varier :
 
->**Exemple** : une pièce de 5 cases entre dans la catégorie "Petit".
+|                         | Faubourg | Ville | Centre-ville |
+| ----------------------- | :------: | :---: | :----------: |
+| **Revenus**             |  x 0.5   |  x 1  |     x 2      |
+| **Taxes** (semaine/ m²) |  10 pc   | 50 pc |     1 pa     |
+Si le nombre de personnel nécessaire n'est pas atteint pour une pièce, les revenus de cette pièce diminuent de 75% et le personnel actuellement présent dans la pièce devient **stressé**.
 
-### Utilitaires
+### Chambre
 
-Chaque pièce peut se voir attribuer une utilité selon sa taille.
+Permet de loger les habitants ainsi que de donner des bonus aux joueurs lorsqu'ils dorment dans une chambre.
 
-Le prix représente la valeur du mobilier présent dans la pièce.
+	Pour compter les revenus, ne pas oublier de décompter le personnel du nombre de clients.
 
-| Utilitaire                    | Taille requise |          Prix | Détails                                                       |
-| ----------------------------- | :------------- | ------------: | ------------------------------------------------------------- |
-| Potager/ Champs               | Petit          | 10 pc<br>/ m² | 10m² / nourrir 1 personne / jour                              |
-| Chambre                       | Petit          |          5 pa |                                                               |
-| Cuisine                       | Modeste        |         10 pa | 15m² / 20 mangeurs                                            |
-| Ecurie                        | Confortable    |         20 pa | 20m² / monture                                                |
-| Atelier d'écriture            | Petit          |         20 pa | 4m² / étudiant                                                |
-| Bijouterie                    | Petit          |               |                                                               |
-| Atelier de potionniste        | Petit          |               |                                                               |
-| Bureau des maîtres            | Modeste        |               |                                                               |
-| Tannerie                      | Modeste        |               |                                                               |
-| Atelier d'artificier          | Confortable    |               |                                                               |
-| Atelier d'enchantement        | Petit          |               |                                                               |
-| Atelier d'invocateur          | Confortable    |               |                                                               |
-| Infirmerie                    | Modeste        |               | 4m² / patient                                                 |
-| Forge                         | Confortable    |               |                                                               |
-| Restaurant                    | Spacieux       |               | 2m² / client                                                  |
-| Salle d'entraînement physique | Spacieux       |               |                                                               |
-| Salle d'entraînement magique  | Spacieux       |               |                                                               |
-| Hall de guilde                | Vaste          |               |                                                               |
-| Portail de téléportation      | Vaste          |        500 po | Nécessite une Toile de dimension<br>Double les revenus totaux |
+|                                     | Petit  | Modeste | Grand  |
+| ----------------------------------- | :----: | :-----: | :----: |
+| **Taille (m²)**                     |   4    |    9    |   16   |
+| **Coût de construction**            |        |         |        |
+| **Durée de construction (semaine)** |   1    |    1    |   2    |
+| **Peut loger X personne.s**         |   1    |    2    |   4    |
+| **Revenu quotidien (par client)**   | 20 pc  |  20 pc  | 20 pc  |
+| **Revenu hebdomadaire maximum**     | 1.4 pa | 2.8 pa  | 5.6 pa |
 
----
+#### Bonus de qualité
 
-## Finances
+|                          | Pauvre | Modeste | Luxueux |
+| ------------------------ | :----: | :-----: | :-----: |
+| **Régénération magique** | x 0.5  |   x 1   |   x 2   |
+| **Revenus**              |  x 1   |  x 1.5  |   x 2   |
 
-### Taxes
+### Champs
 
-Dépendant de l'endroit où se situe le bâtiment, des taxes peuvent être appliquées.
+Indispensable pour fournir de la nourriture au cuisinier afin de nourrir les habitants.
 
-Ces prix servent d'exemples et peuvent varier selon la situation économique de chaque lieu.
+Il est supposé que le champ entoure le bâtiment.
 
-| Lieu         | Taxe/ semaine/ m² |
-| ------------ | ----------------: |
-| Centre-ville |              1 pa |
-| Ville        |             50 pc |
-| Faubourg     |             10 pc |
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |   1   |    2    |   3   |
+| **Peut nourrir X personne.s**       |   1   |    3    |   6   |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
 
-### Revenus
+#### Bonus de qualité
 
-Le joueur touche ses revenus chaque semaine selon les activités qu'il propose.
+|                                | Pauvre | Modeste | Luxueux |
+| ------------------------------ | :----: | :-----: | :-----: |
+| **Nombre de personne nourrie** |  x 1   |  x 1.5  |   x 2   |
 
-Il peut soit :
+### Cuisine
 
-- lancer le dé,
+Utilise ce que le champs produit pour nourrir les habitants ainsi que des clients potentiels.
 
-- prendre la moyenne (écrite à la ligne en dessous).
+Si le champs ne produit pas assez, il faut acheter les ingrédients à 15pc/ client.
 
->Ne pas oublier de multiplier selon la taille de la pièce contenant l'activité.
+Il ne peut y avoir qu'une seule cuisine par restaurant.
 
-| Activité            |                           Revenu/ semaine | Prérequis                                                                                                                                                     |
-| ------------------- | ----------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Potager             |        m² x (5 + 1d5) pc<br>*(m² x 8 pc)* | Potager                                                                                                                                                       |
-| Poste               |                  5 x 2d10 pc<br>*(60 pc)* | Atelier d'écriture                                                                                                                                            |
-| Restaurant          |   0.5m² x (15 + 5d4) pc<br>*(m² x 15 pc)* | Cuisine<br>Restaurant                                                                                                                                         |
-| Chambre             |                  1d6 x 20 pc<br>*(80 pc)* | Chambre                                                                                                                                                       |
-| Ecole               | 0.25m² x (50 + 5d10) pc<br>*(m² x 20 pc)* | Atelier d'écriture/ Salle d'entraînement                                                                                                                      |
-| Hôpital             |             0.25m² x (2d6) pa<br>*(2 pa)* | Infirmerie                                                                                                                                                    |
-| Atelier d'artisanat |                        3d4 pa<br>*(9 pa)* | Tannerie/ Bijouterie/ Artificier/ Enchantement/ Forge                                                                                                         |
-| Atelier d'alchimie  |                       3d6 pa<br>*(12 pa)* | Cuisine/ Potionniste/ Invocateur                                                                                                                              |
-| Guilde              |                 10 + 5d10 pa<br>*(40 pa)* | Hall de guilde<br>Restaurant (Vaste)<br>Chambres (Min 40 Petites ou 30 Modestes)<br>Atelier d'écriture (Spacieux)<br>Ateliers d'artisanat/ d'alchimie (min 3) |
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |   9   |   25    |  49   |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |   1   |    2    |   4   |
+| **Peut nourrir X personne.s**       |  20   |   50    |  100  |
+| **Personnel nécessaire**            |   1   |    2    |   4   |
+
+#### Bonus de qualité
+
+|                           | Pauvre | Modeste | Luxueux |
+| ------------------------- | :----: | :-----: | :-----: |
+| **Revenus du restaurant** |  x 1   |  x 1.5  |   x 2   |
+
+### Restaurant
+
+Permet de vendre le surplus de nourriture pour avoir quelques revenus.
+
+	Pour compter les revenus, ne pas oublier de décompter le personnel du nombre de clients.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  49   |   100   |  144  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |   4   |    8    |  12   |
+| **Peut accueillir X personne.s**    |  20   |   50    |  100  |
+| **Personnel nécessaire**            |   1   |    2    |   4   |
+| **Revenu quotidien (par client)**   | 10 pc |  10 pc  | 10 pc |
+| **Revenu hebdomadaire maximum**     | 14 pa |  35 pa  | 70 pa |
+
+#### Bonus de qualité
+
+|                                           | Pauvre | Modeste | Luxueux |
+| ----------------------------------------- | :----: | :-----: | :-----: |
+| **Nombre de clients présents en moyenne** |  50%   |   75%   |  100%   |
+
+### Infirmerie
+
+Soigne les blessures plus ou moins graves.
+
+|                                     | Petit | Modeste | Grand  |
+| ----------------------------------- | :---: | :-----: | :----: |
+| **Taille (m²)**                     |   9   |   25    |   49   |
+| **Coût de construction**            |       |         |        |
+| **Durée de construction (semaine)** |   1   |    2    |   4    |
+| **Peut accueillir X patient.s**     |   1   |    3    |   8    |
+| **Personnel nécessaire**            |   1   |    1    |   2    |
+| **Revenu quotidien (par client)**   | 2 pa  |  2 pa   |  2 pa  |
+| **Revenu hebdomadaire maximum**     | 14 pa |  42 pa  | 112 pa |
+
+#### Bonus de qualité
+
+|                   |      Pauvre      | Modeste | Luxueux  |
+| ----------------- | :--------------: | :-----: | :------: |
+| **Type de soins** | Premiers secours | Potions | Magiques |
+| **Revenus**       |       x 1        |   x 2   |   x 4    |
+
+### Enclos pour monture
+
+Permet aux montures de se reposer pour être plus efficaces lors de leur prochain voyage.
+
+|                                           |  Petit  | Modeste |    Grand    |
+| ----------------------------------------- | :-----: | :-----: | :---------: |
+| **Taille (m²)**                           |   16    |   36    |     81      |
+| **Coût de construction**                  |         |         |             |
+| **Durée de construction (semaine)**       |    2    |    3    |      6      |
+| **Peut accueillir 1 monture de taille X** | Moyenne | Grande  | Très grande |
+| **Consommation du champs**                |   +1    |   +3    |     +5      |
+| **Personnel nécessaire**                  |    1    |    1    |      1      |
+
+#### Bonus de qualité
+
+|                          | Pauvre | Modeste | Luxueux |
+| ------------------------ | :----: | :-----: | :-----: |
+| **Nourriture consommée** |  x 1   |   x 1   |  x 0.5  |
+>**Exemple** : Un cheval dans un enclos pauvre/ modeste consomme 2 nourritures/ jour.
+>Dans un enclos luxueux, il consomme 1 nourriture/ jour.
+
+### Forge
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  16   |   36    |  81   |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |   2   |    3    |   6   |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+|                      | Pauvre | Modeste | Luxueux |
+| -------------------- | :----: | :-----: | :-----: |
+| **Taux de réussite** |  x 1   |  x 1.5  |   x 2   |
+
+### Tanneur
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  16   |   36    |  81   |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |   2   |    3    |   6   |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+| Pauvre | Modeste | Luxueux |
+| :----: | :-----: | :-----: |
+|        |         |         |
+
+### Atelier d'artificier
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |       |         |       |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+| Pauvre | Modeste | Luxueux |
+| :----: | :-----: | :-----: |
+|        |         |         |
+
+### Bijouterie
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |       |         |       |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+| Pauvre | Modeste | Luxueux |
+| :----: | :-----: | :-----: |
+|        |         |         |
+
+### Atelier de potionniste
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |       |         |       |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+| Pauvre | Modeste | Luxueux |
+| :----: | :-----: | :-----: |
+|        |         |         |
+
+### Atelier d'invocateur
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |       |         |       |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+| Pauvre | Modeste | Luxueux |
+| :----: | :-----: | :-----: |
+|        |         |         |
+
+### Atelier d'enchantement
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |       |         |       |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+| Pauvre | Modeste | Luxueux |
+| :----: | :-----: | :-----: |
+|        |         |         |
+
+### Hall de guilde
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |       |         |       |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+| Pauvre | Modeste | Luxueux |
+| :----: | :-----: | :-----: |
+|        |         |         |
+
+### Portail de téléportation
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |       |         |       |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+| Pauvre | Modeste | Luxueux |
+| :----: | :-----: | :-----: |
+|        |         |         |
+
+###
+
+.
+
+|                                     | Petit | Modeste | Grand |
+| ----------------------------------- | :---: | :-----: | :---: |
+| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Coût de construction**            |       |         |       |
+| **Durée de construction (semaine)** |       |         |       |
+| **Personnel nécessaire**            |   1   |    1    |   1   |
+
+#### Bonus de qualité
+
+| Pauvre | Modeste | Luxueux |
+| :----: | :-----: | :-----: |
+|        |         |         |
 
 ---
 
