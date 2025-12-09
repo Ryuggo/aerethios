@@ -176,7 +176,7 @@ L'atelier doit se spécialiser parmi ces choix :
 
 - forge,
 
-- enchanterie,
+- atelier d'enchanteur,
 
 - tannerie,
 
@@ -207,7 +207,7 @@ L'atelier doit se spécialiser parmi ces choix :
 | ----------------------------------- | :---: | :-----: | :---: |
 | **Taille (m²)**                     |  49   |   100   |  144  |
 | **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |   2   |    4    |   7   |
+| **Durée de construction (semaine)** |   4   |    7    |  10   |
 | **Personnel nécessaire**            |   2   |    4    |   5   |
 
 #### Bonus de qualité
@@ -235,31 +235,14 @@ L'atelier doit se spécialiser parmi ces choix :
 
 ### Portail de téléportation
 
-.
+Pour se téléporter directement chez soi.
 
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  100  |   500   | 1000  |
+| **Taille (m²)**                     |  100  |   225   |  400  |
 | **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |       |         |       |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
-
-#### Bonus de qualité
-
-| Pauvre | Modeste | Luxueux |
-| :----: | :-----: | :-----: |
-|        |         |         |
-
-###
-
-.
-
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  200  |   500   | 1000  |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |       |         |       |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
+| **Durée de construction (semaine)** |   7   |   14    |  26   |
+| **Personnel nécessaire**            |   4   |    1    |   1   |
 
 #### Bonus de qualité
 
