@@ -72,19 +72,25 @@ Indispensable pour fournir de la nourriture au cuisinier afin de nourrir les hab
 
 Il est supposé que le champ entoure le bâtiment (pas besoin de le dessiner sur un plan).
 
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  200  |   500   | 1000  |
-| **Coût de construction**            | 2 pa  |  5 pa   | 10 pa |
-| **Durée de construction (semaine)** |   1   |    2    |   3   |
-| **Peut nourrir X personne.s**       |   2   |    4    |   8   |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
+Si le champs produit trop, le surplus peut être vendu.
+
+|                                     |  Petit   | Modeste  |  Grand   |
+| ----------------------------------- | :------: | :------: | :------: |
+| **Taille (m²)**                     |   200    |   500    |   1000   |
+| **Coût de construction**            |   2 pa   |   5 pa   |  10 pa   |
+| **Durée de construction (semaine)** |    1     |    2     |    3     |
+| **Peut nourrir X personne.s**       |    2     |    5     |    10    |
+| **Personnel nécessaire**            |    1     |    1     |    1     |
+| **Revenu quotidien (par client)**   |   7 pc   |   7 pc   |   7 pc   |
+| **Revenu hebdomadaire maximum**     |  98 pc   |  245 pc  |  490 pc  |
+| **Revenu annuel maximum**           | 50.96 pa | 1.274 po | 2.528 po |
 
 #### Bonus de qualité
 
 |                                | Pauvre | Modeste | Luxueux |
 | ------------------------------ | :----: | :-----: | :-----: |
 | **Nombre de personne nourrie** |  x 1   |  x 1.5  |   x 2   |
+| **Revenus**                    |  x 1   |  x 1.5  |   x 2   |
 
 ### Cuisine
 
@@ -114,15 +120,16 @@ Permet de vendre le surplus de nourriture pour avoir quelques revenus.
 
 	Pour compter les revenus, ne pas oublier de décompter le personnel du nombre de clients.
 
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  49   |   100   |  144  |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |   4   |    8    |  12   |
-| **Peut accueillir X personne.s**    |  20   |   50    |  100  |
-| **Personnel nécessaire**            |   2   |    4    |   5   |
-| **Revenu quotidien (par client)**   | 10 pc |  10 pc  | 10 pc |
-| **Revenu hebdomadaire maximum**     | 14 pa |  35 pa  | 70 pa |
+|                                     |  Petit  | Modeste |  Grand  |
+| ----------------------------------- | :-----: | :-----: | :-----: |
+| **Taille (m²)**                     |   49    |   100   |   144   |
+| **Coût de construction**            |         |         |         |
+| **Durée de construction (semaine)** |    4    |    8    |   12    |
+| **Peut accueillir X personne.s**    |   20    |   50    |   100   |
+| **Personnel nécessaire**            |    2    |    4    |    5    |
+| **Revenu quotidien (par client)**   |  10 pc  |  10 pc  |  10 pc  |
+| **Revenu hebdomadaire maximum**     |  14 pa  |  35 pa  |  70 pa  |
+| **Revenu annuel maximum**           | 7.28 po | 18.2 po | 36.4 po |
 
 #### Bonus de qualité
 
@@ -134,24 +141,27 @@ Permet de vendre le surplus de nourriture pour avoir quelques revenus.
 
 Soigne les blessures plus ou moins graves.
 
-|                                     | Petit | Modeste | Grand  |
-| ----------------------------------- | :---: | :-----: | :----: |
-| **Taille (m²)**                     |   9   |   25    |   49   |
-| **Coût de construction**            |       |         |        |
-| **Durée de construction (semaine)** |   1   |    2    |   4    |
-| **Peut accueillir X patient.s**     |   1   |    3    |   8    |
-| **Personnel nécessaire**            |   1   |    1    |   2    |
-| **Revenu quotidien (par client)**   | 2 pa  |  2 pa   |  2 pa  |
-| **Revenu hebdomadaire maximum**     | 14 pa |  42 pa  | 112 pa |
+Ne peut pas être géré par des enfants.
+
+|                                     |  Petit  | Modeste  |  Grand   |
+| ----------------------------------- | :-----: | :------: | :------: |
+| **Taille (m²)**                     |    9    |    25    |    49    |
+| **Coût de construction**            |         |          |          |
+| **Durée de construction (semaine)** |    1    |    2     |    4     |
+| **Peut accueillir X patient.s**     |    1    |    3     |    8     |
+| **Personnel nécessaire**            |    1    |    1     |    2     |
+| **Revenu quotidien (par client)**   |  2 pa   |   2 pa   |   2 pa   |
+| **Revenu hebdomadaire maximum**     |  14 pa  |  42 pa   |  112 pa  |
+| **Revenu annuel maximum**           | 7.28 po | 21.84 po | 58.24 po |
 
 #### Bonus de qualité
 
-|                   |      Pauvre      | Modeste | Luxueux  |
-| ----------------- | :--------------: | :-----: | :------: |
-| **Type de soins** | Premiers secours | Potions | Magiques |
-| **Revenus**       |       x 1        |   x 2   |   x 4    |
+|                   |       Pauvre       |       Modeste       |   Luxueux    |
+| ----------------- | :----------------: | :-----------------: | :----------: |
+| **Type de soins** | Soins généralistes | Blessures de combat | Démembrement |
+| **Revenus**       |        x 1         |         x 2         |     x 4      |
 
-### Enclos pour monture (utile ?)
+### Enclos pour monture
 
 Permet aux montures de se reposer pour être plus efficaces lors de leur prochain voyage.
 
@@ -166,21 +176,19 @@ Permet aux montures de se reposer pour être plus efficaces lors de leur prochai
 
 #### Bonus de qualité
 
-|                          | Pauvre | Modeste | Luxueux |
-| ------------------------ | :----: | :-----: | :-----: |
-| **Nourriture consommée** |  x 1   |   x 1   |  x 0.5  |
->**Exemple** : Un cheval dans un enclos pauvre/ modeste consomme 2 nourritures/ jour.
->Dans un enclos luxueux, il consomme 1 nourriture/ jour.
+|                       | Pauvre |   Modeste    |   Luxueux    |
+| --------------------- | :----: | :----------: | :----------: |
+| **Vitesse de voyage** |  x 1   | A déterminer | A déterminer |
 
 ### Atelier d'artisanat
 
 L'atelier doit se spécialiser parmi ces choix :
 
-- bijouterie *(coût de construction x2)*,
+- bijouterie *(coût de construction x4)*,
 
-- forge *(coût de construction x1.5)*,
+- forge *(coût de construction x2)*,
 
-- atelier d'enchanteur *(coût de construction x2)*,
+- atelier d'enchanteur *(coût de construction x3)*,
 
 - tannerie *(coût de construction x1)*,
 
@@ -249,24 +257,26 @@ Chaque semaine, le joueur lance 1d10 + *Chances de revenus*.
 
 S'il fait 6 ou plus, il gagne les revenus. Sinon il les déduit de son compte.
 
->**Exemple** : Modeste hôtel des ventes (*pauvre*) : 1d10 *+0*. Il fait 2 *+0* -> Il perd 2 po.
+>**Exemple** : Modeste hôtel des ventes (*pauvre*) : 1d10 *+0*. Il fait 2 *+0* -> Il perd 1 po.
 
 ### Portail de téléportation
 
 Pour se téléporter directement chez soi.
 
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  100  |   225   |  400  |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |   7   |   14    |  26   |
-| **Personnel nécessaire**            |   4   |    1    |   1   |
+On doit utiliser ses crystaux ou ceux du personnel pour utiliser le portail.
+
+|                                                              | Grand |
+| ------------------------------------------------------------ | :---: |
+| **Taille (m²)**                                              |  400  |
+| **Coût de construction**                                     |       |
+| **Durée de construction (semaine)**                          |  26   |
+| **Personnel nécessaire par téléportation (pour 1 personne)** |   1   |
 
 #### Bonus de qualité
 
-|                                      |   Pauvre    |  Modeste   | Luxueux |
-| ------------------------------------ | :---------: | :--------: | :-----: |
-| **Effets secondaires d'utilisation** | -100% magie | -50% magie |    -    |
+|                          | Pauvre | Modeste | Luxueux |
+| ------------------------ | :----: | :-----: | :-----: |
+| **Personnel nécessaire** |  100%  |   75%   |   50%   |
 
 ---
 
