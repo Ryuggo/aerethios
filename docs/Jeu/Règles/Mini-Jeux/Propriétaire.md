@@ -18,6 +18,8 @@ Le bâtiment peut avoir plusieurs utilités :
 
 ## Construction
 
+En dehors des chambres et des champs (et des écuries), le joueur ne peut avoir qu'un type de pièce par bâtiment (les spécialisations des ateliers sont considérés comme des types différents).
+
 Le joueur peut agrandir une pièce déjà existante.
 
 Le prix sera la différence entre la nouvelle taille et la taille actuelle (en multipliant selon la qualité)
@@ -34,11 +36,13 @@ Chaque pièce peut être de différente qualité de construction afin de fournir
 
 Selon l'endroit où se situe le bâtiment, ses revenus et ses taxes vont varier :
 
-|                         | Faubourg | Ville | Centre-ville |
-| ----------------------- | :------: | :---: | :----------: |
-| **Revenus**             |  x 0.5   |  x 1  |     x 2      |
-| **Taxes** (semaine/ m²) |  10 pc   | 50 pc |     1 pa     |
+|             | Faubourg | Ville | Centre-ville |
+| ----------- | :------: | :---: | :----------: |
+| **Revenus** |  x 0.5   |  x 1  |     x 2      |
+| **Taxes**   |   10%    |  15%  |     20%      |
 Si le nombre de personnel nécessaire n'est pas atteint pour une pièce, les revenus de cette pièce diminuent de 75% et le personnel actuellement présent dans la pièce devient **stressé**.
+
+Si le joueur n'arrive pas à payer les taxes ou les dettes liées à son bâtiment, il en perdra la propriété et la province pourrait envoyer des collecteurs de taxes.
 
 ### Chambre
 
@@ -49,7 +53,7 @@ Permet de loger les habitants ainsi que de donner des bonus aux joueurs lorsqu'i
 |                                     | Petit  | Modeste | Grand  |
 | ----------------------------------- | :----: | :-----: | :----: |
 | **Taille (m²)**                     |   4    |    9    |   16   |
-| **Coût de construction**            |        |         |        |
+| **Coût de construction**            | 20 pa  |  50 pa  |  1 po  |
 | **Durée de construction (semaine)** |   1    |    1    |   2    |
 | **Peut loger X personne.s**         |   1    |    2    |   4    |
 | **Revenu quotidien (par client)**   | 20 pc  |  20 pc  | 20 pc  |
@@ -59,21 +63,21 @@ Permet de loger les habitants ainsi que de donner des bonus aux joueurs lorsqu'i
 
 |                          | Pauvre | Modeste | Luxueux |
 | ------------------------ | :----: | :-----: | :-----: |
-| **Régénération magique** | x 0.5  |   x 1   |   x 2   |
+| **Régénération magique** |  x 1   |   x 2   |   x 3   |
 | **Revenus**              |  x 1   |  x 1.5  |   x 2   |
 
 ### Champs
 
 Indispensable pour fournir de la nourriture au cuisinier afin de nourrir les habitants.
 
-Il est supposé que le champ entoure le bâtiment.
+Il est supposé que le champ entoure le bâtiment (pas besoin de le dessiner sur un plan).
 
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
 | **Taille (m²)**                     |  200  |   500   | 1000  |
-| **Coût de construction**            |       |         |       |
+| **Coût de construction**            | 2 pa  |  5 pa   | 10 pa |
 | **Durée de construction (semaine)** |   1   |    2    |   3   |
-| **Peut nourrir X personne.s**       |   1   |    3    |   6   |
+| **Peut nourrir X personne.s**       |   2   |    4    |   8   |
 | **Personnel nécessaire**            |   1   |    1    |   1   |
 
 #### Bonus de qualité
@@ -147,7 +151,7 @@ Soigne les blessures plus ou moins graves.
 | **Type de soins** | Premiers secours | Potions | Magiques |
 | **Revenus**       |       x 1        |   x 2   |   x 4    |
 
-### Enclos pour monture
+### Enclos pour monture (utile ?)
 
 Permet aux montures de se reposer pour être plus efficaces lors de leur prochain voyage.
 
@@ -172,15 +176,15 @@ Permet aux montures de se reposer pour être plus efficaces lors de leur prochai
 
 L'atelier doit se spécialiser parmi ces choix :
 
-- bijouterie,
+- bijouterie *(coût de construction x2)*,
 
-- forge,
+- forge *(coût de construction x1.5)*,
 
-- atelier d'enchanteur,
+- atelier d'enchanteur *(coût de construction x2)*,
 
-- tannerie,
+- tannerie *(coût de construction x1)*,
 
-- atelier d'artificier.
+- atelier d'artificier *(coût de construction x1.5)*.
 
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
@@ -191,17 +195,18 @@ L'atelier doit se spécialiser parmi ces choix :
 
 #### Bonus de qualité
 
-|                      | Pauvre | Modeste | Luxueux |
-| -------------------- | :----: | :-----: | :-----: |
-| **Taux de réussite** |  x 1   |  x 1.5  |   x 2   |
+|                           | Pauvre | Modeste | Luxueux |
+| ------------------------- | :----: | :-----: | :-----: |
+| **Taux de réussite**      |  x 1   |  x 1.5  |   x 2   |
+| **Vitesse des habitants** |  x 1   |  x 1.5  |   x 2   |
 
 ### Atelier d'alchimie
 
 L'atelier doit se spécialiser parmi ces choix :
 
-- potionniste,
+- potionniste *(coût de construction x1)*,
 
-- invocateur.
+- invocateur *(coût de construction x2)*.
 
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
@@ -212,26 +217,39 @@ L'atelier doit se spécialiser parmi ces choix :
 
 #### Bonus de qualité
 
-|                      | Pauvre | Modeste | Luxueux |
-| -------------------- | :----: | :-----: | :-----: |
-| **Taux de réussite** |  x 1   |  x 1.5  |   x 2   |
+|                           | Pauvre | Modeste | Luxueux |
+| ------------------------- | :----: | :-----: | :-----: |
+| **Taux de réussite**      |  x 1   |  x 1.5  |   x 2   |
+| **Vitesse des habitants** |  x 1   |  x 1.5  |   x 2   |
 
-### Hall de guilde
+### Hôtel des ventes
 
-.
+Rachète des biens pour tenter de les revendre plus chères.
+
+Si personne n'achète, les biens sont vendus à pertes.
+
+Chaque semaine, le joueur peut lancer 1d100 et faire 99 ou 100 pour récupérer un objet rare.
+
+Lorsqu'il y a un objet rare, il n'y a pas de revenus pour cette semaine.
 
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |  200  |   500   | 1000  |
+| **Taille (m²)**                     |   9   |   16    |  25   |
 | **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |       |         |       |
+| **Durée de construction (semaine)** |   1   |    2    |   2   |
+| **Revenus**                         | 10 pa |  50 pa  | 1 po  |
 | **Personnel nécessaire**            |   1   |    1    |   1   |
 
 #### Bonus de qualité
 
-| Pauvre | Modeste | Luxueux |
-| :----: | :-----: | :-----: |
-|        |         |         |
+|                        | Pauvre | Modeste | Luxueux |
+| ---------------------- | :----: | :-----: | :-----: |
+| **Chances de revenus** |  + 0   |   + 1   |   + 2   |
+Chaque semaine, le joueur lance 1d10 + *Chances de revenus*.
+
+S'il fait 6 ou plus, il gagne les revenus. Sinon il les déduit de son compte.
+
+>**Exemple** : Modeste hôtel des ventes (*pauvre*) : 1d10 *+0*. Il fait 2 *+0* -> Il perd 2 po.
 
 ### Portail de téléportation
 
@@ -246,9 +264,9 @@ Pour se téléporter directement chez soi.
 
 #### Bonus de qualité
 
-| Pauvre | Modeste | Luxueux |
-| :----: | :-----: | :-----: |
-|        |         |         |
+|                                      |   Pauvre    |  Modeste   | Luxueux |
+| ------------------------------------ | :---------: | :--------: | :-----: |
+| **Effets secondaires d'utilisation** | -100% magie | -50% magie |    -    |
 
 ---
 
@@ -258,11 +276,12 @@ Pour se téléporter directement chez soi.
 
 Toutes les semaines où le joueur n'est pas dans son bâtiment, il doit lancer 1d20 pour déterminer ce qu'il s'est passé pendant son absence.
 
-| Jet  | Résultat                                                           |
-| ---- | ------------------------------------------------------------------ |
-| 1-4  | Un nouvel habitant s'est présenté                                  |
-| 5    | Un vol a eu lieu<br>Le joueur perd 50% de son revenu de la semaine |
-| 6-20 | Rien ne se passe                                                   |
+| Jet  | Résultat                                                                                                |
+| ---- | ------------------------------------------------------------------------------------------------------- |
+| 1-4  | Un nouvel habitant s'est présenté                                                                       |
+| 5    | Un vol a eu lieu<br>Le joueur perd 50% de son revenu de la semaine                                      |
+| 6    | Un attaque a eu lieu<br>Le joueur lance 1d20 pour chaque habitant<br>1 résulte en la mort de l'habitant |
+| 7-20 | Rien ne se passe                                                                                        |
 
 ### Habitants
 
@@ -270,21 +289,13 @@ Lorsqu'un nouvel habitant se présente, le joueur peut l'accepter et lui attribu
 
 S'il l'accepte, il faut :
 
-- lui fournir un lit,
+- lui fournir une chambre (ça ne peut pas être la chambre d'un joueur quand il ne s'en sert pas),
 
 - le compter parmi les mangeurs de la cuisine.
 
 Le joueur peut ensuite lui attribuer une tâche, en l'associant à une pièce.
 
-Il ne peut y avoir qu'un habitant par 9m² d'une même pièce.
-
-Pour chaque semaine qu'il passe dans une pièce, il gagne 1 point d'expérience (pour un maximum de 10).
-
-Pour chaque point d'expérience, il augmente les revenus de cette pièce de 1% (maximum 10% par habitant).
-
-Chaque semaine, pour chaque habitant, le joueur doit jeter 1d12 pour déterminer leur besoin.
-
-Le joueur peut lancer 1d12 pour 10 habitants au lieu de un par un.
+Chaque semaine, pour chaque pièce, le joueur doit jeter 1d12 pour déterminer les événements qui se sont produits.
 
 | Jet  | Besoin      | Conséquences                                                                                                                            |
 | ---- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |
