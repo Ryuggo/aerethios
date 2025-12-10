@@ -12,7 +12,7 @@ Le bâtiment peut avoir plusieurs utilités :
 
 - un centre d'activité commerciale,
 
-- un lieu habité par des PNJs.
+- un lieu habité par des PNJ.
 
 ---
 
@@ -30,19 +30,19 @@ Les pièces se construisent en parallèle et leur durée de construction ne doit
 
 Chaque pièce peut être de différente qualité de construction afin de fournir des bonus différents :
 
-|                          | Pauvre | Modeste | Luxueux |
-| ------------------------ | :----: | :-----: | :-----: |
-| **Coût de construction** |  x 1   |   x 2   |   x 4   |
+|                          | Pauvre | Modeste | Aisé | Luxueux |
+| ------------------------ | :----: | :-----: | :--: | :-----: |
+| **Coût de construction** |  x 1   |   x 2   |  x4  |   x 6   |
 
 Selon l'endroit où se situe le bâtiment, ses revenus et ses taxes vont varier :
 
-|             | Faubourg | Ville | Centre-ville |
-| ----------- | :------: | :---: | :----------: |
-| **Revenus** |  x 0.5   |  x 1  |     x 2      |
-| **Taxes**   |   10%    |  15%  |     20%      |
+|             | Faubourg | Ville | Centre-ville | Zone marchande |
+| ----------- | :------: | :---: | :----------: | :------------: |
+| **Revenus** |  x 0.5   |  x 1  |     x 2      |       x3       |
+| **Taxes**   |   10%    |  15%  |     20%      |      30%       |
 Si le nombre de personnel nécessaire n'est pas atteint pour une pièce, les revenus de cette pièce diminuent de 75% et le personnel actuellement présent dans la pièce devient **stressé**.
 
-Si le joueur n'arrive pas à payer les taxes ou les dettes liées à son bâtiment, il en perdra la propriété et la province pourrait envoyer des collecteurs de taxes.
+Si le joueur n'arrive pas à payer les taxes ou les dettes liées à son bâtiment, il en perdra la propriété et la province pourrait envoyer des huissiers.
 
 ### Chambre
 
