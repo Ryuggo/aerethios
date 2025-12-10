@@ -50,14 +50,15 @@ Permet de loger les habitants ainsi que de donner des bonus aux joueurs lorsqu'i
 
 	Pour compter les revenus, ne pas oublier de décompter le personnel du nombre de clients.
 
-|                                     | Petit  | Modeste | Grand  |
-| ----------------------------------- | :----: | :-----: | :----: |
-| **Taille (m²)**                     |   4    |    9    |   16   |
-| **Coût de construction**            | 20 pa  |  50 pa  |  1 po  |
-| **Durée de construction (semaine)** |   1    |    1    |   2    |
-| **Peut loger X personne.s**         |   1    |    2    |   4    |
-| **Revenu quotidien (par client)**   | 20 pc  |  20 pc  | 20 pc  |
-| **Revenu hebdomadaire maximum**     | 1.4 pa | 2.8 pa  | 5.6 pa |
+|                                     |  Petit  | Modeste |  Grand  |
+| ----------------------------------- | :-----: | :-----: | :-----: |
+| **Taille (m²)**                     |    4    |    9    |   16    |
+| **Coût de construction**            |  20 pa  |  50 pa  |  1 po   |
+| **Durée de construction (semaine)** |    1    |    1    |    2    |
+| **Peut loger X personne.s**         |    1    |    2    |    4    |
+| **Revenu quotidien (par client)**   |  20 pc  |  20 pc  |  20 pc  |
+| **Revenu hebdomadaire maximum**     | 1.4 pa  | 2.8 pa  | 5.6 pa  |
+| **Revenu annuel maximum**           | 72.8 pa | 1.45 po | 2.91 po |
 
 #### Bonus de qualité
 
@@ -74,16 +75,16 @@ Il est supposé que le champ entoure le bâtiment (pas besoin de le dessiner sur
 
 Si le champs produit trop, le surplus peut être vendu.
 
-|                                     |  Petit   | Modeste  |  Grand   |
-| ----------------------------------- | :------: | :------: | :------: |
-| **Taille (m²)**                     |   200    |   500    |   1000   |
-| **Coût de construction**            |   2 pa   |   5 pa   |  10 pa   |
-| **Durée de construction (semaine)** |    1     |    2     |    3     |
-| **Peut nourrir X personne.s**       |    2     |    5     |    10    |
-| **Personnel nécessaire**            |    1     |    1     |    1     |
-| **Revenu quotidien (par client)**   |   7 pc   |   7 pc   |   7 pc   |
-| **Revenu hebdomadaire maximum**     |  98 pc   |  245 pc  |  490 pc  |
-| **Revenu annuel maximum**           | 50.96 pa | 1.274 po | 2.528 po |
+|                                     |  Petit  | Modeste |  Grand  |
+| ----------------------------------- | :-----: | :-----: | :-----: |
+| **Taille (m²)**                     |   200   |   500   |  1000   |
+| **Coût de construction**            |  2 pa   |  5 pa   |  10 pa  |
+| **Durée de construction (semaine)** |    1    |    2    |    3    |
+| **Peut nourrir X personne.s**       |    2    |    5    |   10    |
+| **Personnel nécessaire**            |    1    |    1    |    1    |
+| **Revenu quotidien (par client)**   |  7 pc   |  7 pc   |  7 pc   |
+| **Revenu hebdomadaire maximum**     |  98 pc  | 245 pc  | 490 pc  |
+| **Revenu annuel maximum**           | 50.9 pa | 1.27 po | 2.52 po |
 
 #### Bonus de qualité
 
@@ -240,13 +241,14 @@ Chaque semaine, le joueur peut lancer 1d100 et faire 99 ou 100 pour récupérer 
 
 Lorsqu'il y a un objet rare, il n'y a pas de revenus pour cette semaine.
 
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |   9   |   16    |  25   |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |   1   |    2    |   2   |
-| **Revenus**                         | 10 pa |  50 pa  | 1 po  |
-| **Personnel nécessaire**            |   1   |    1    |   1   |
+|                                     | Petit  | Modeste | Grand |
+| ----------------------------------- | :----: | :-----: | :---: |
+| **Taille (m²)**                     |   9    |   16    |  25   |
+| **Coût de construction**            |        |         |       |
+| **Durée de construction (semaine)** |   1    |    2    |   2   |
+| **Personnel nécessaire**            |   1    |    1    |   1   |
+| **Revenus/ Pertes hebdomadaires**   | 10 pa  |  50 pa  | 1 po  |
+| **Revenu annuel maximum**           | 5.2 po |  26 po  | 52 po |
 
 #### Bonus de qualité
 
@@ -265,12 +267,12 @@ Pour se téléporter directement chez soi.
 
 On doit utiliser ses crystaux ou ceux du personnel pour utiliser le portail.
 
-|                                                              | Grand |
-| ------------------------------------------------------------ | :---: |
-| **Taille (m²)**                                              |  400  |
-| **Coût de construction**                                     |       |
-| **Durée de construction (semaine)**                          |  26   |
-| **Personnel nécessaire par téléportation (pour 1 personne)** |   1   |
+|                                               | Grand |
+| --------------------------------------------- | :---: |
+| **Taille (m²)**                               |  400  |
+| **Coût de construction**                      |       |
+| **Durée de construction (semaine)**           |  26   |
+| **Crystaux nécessaires pour téléporter 10kg** |   1   |
 
 #### Bonus de qualité
 
