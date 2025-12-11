@@ -4,7 +4,7 @@
 
 Le joueur pourra, 1 fois par semaine, interagir avec son bâtiment pour modifier les plans ou donner des tâches aux habitants.
 
-Le joueur peut dessiner les plans sur une feuille quadrillée où 1cm en vrai = 1m en jeu (ou une autre échelle de son choix).
+Le joueur doit dessiner les plans sur une feuille quadrillée où 1cm en vrai = 1m en jeu (ou une autre échelle de son choix).
 
 Le bâtiment peut avoir plusieurs utilités :
 
@@ -14,25 +14,40 @@ Le bâtiment peut avoir plusieurs utilités :
 
 - un lieu habité par des PNJ.
 
----
+### Construire
 
-## Construction
-
-En dehors des chambres et des champs (et des écuries), le joueur ne peut avoir qu'un type de pièce par bâtiment (les spécialisations des ateliers sont considérés comme des types différents).
-
-Le joueur peut agrandir une pièce déjà existante.
-
-Le prix sera la différence entre la nouvelle taille et la taille actuelle (en multipliant selon la qualité)
-
-La même logique suit la durée de construction.
+En dehors des chambres, des champs et des écuries, le joueur ne peut avoir qu'un type de pièce par bâtiment (les spécialisations des ateliers sont considérés comme des types différents).
 
 Les pièces se construisent en parallèle et leur durée de construction ne doit pas être additionnée entre elles.
 
-Chaque pièce peut être de différente qualité de construction afin de fournir des bonus différents :
+Selon l'endroit où il construit, le MJ peut imposer une surface maximum à ne pas dépasser (une maison mitoyenne ne peut pas construire dans la maison voisine).
 
-|                          | Pauvre | Modeste | Aisé | Luxueux |
-| ------------------------ | :----: | :-----: | :--: | :-----: |
-| **Coût de construction** |  x 1   |   x 2   |  x4  |   x 6   |
+### Agrandir
+
+Le joueur peut agrandir une pièce déjà existante en payant la différence entre la nouvelle taille et la taille actuelle (en multipliant selon la qualité).
+
+Cependant la durée de construction reste la même
+
+### Modifier
+
+Le joueur peut modifier des pièces si besoin.
+
+S'il achète un bâtiment avec des pièces vides, il peut aménager une pièce vide pour 60% du prix de base (tant que la taille est similaire).
+
+>**Exemple** : Une pièce vide de 4m² ne peut que devenir une petite chambre (pauvre) pour 12pa.
+
+Il peut modifier le type d'une pièce en payant 80% du prix de base (tant que la taille est similaire).
+
+>**Exemple** : Un modeste restaurant de 100m² peut devenir un grand atelier d'artisanat (pauvre) pour 12po.
+
+### Bonus de qualité
+
+Chaque pièce peut être de différente qualité de construction afin de fournir des bonus différents (les pièces sont de qualité "pauvre" par défaut) :
+
+|                          | Pauvre | Aisé | Luxueux |
+| ------------------------ | :----: | :--: | :-----: |
+| **Coût de construction** |  x 1   | x 2  |   x 4   |
+### Finances
 
 Selon l'endroit où se situe le bâtiment, ses revenus et ses taxes vont varier :
 
@@ -44,6 +59,10 @@ Si le nombre de personnel nécessaire n'est pas atteint pour une pièce, les rev
 
 Si le joueur n'arrive pas à payer les taxes ou les dettes liées à son bâtiment, il en perdra la propriété et la province pourrait envoyer des huissiers.
 
+---
+
+## Pièces
+
 ### Chambre
 
 Permet de loger les habitants ainsi que de donner des bonus aux joueurs lorsqu'ils dorment dans une chambre.
@@ -53,7 +72,7 @@ Permet de loger les habitants ainsi que de donner des bonus aux joueurs lorsqu'i
 |                                     |  Petit  | Modeste |  Grand  |
 | ----------------------------------- | :-----: | :-----: | :-----: |
 | **Taille (m²)**                     |    4    |    9    |   16    |
-| **Coût de construction**            |  20 pa  |  50 pa  |  1 po   |
+| **Coût de construction**            |  20 pa  |  40 pa  |  70 pa  |
 | **Durée de construction (semaine)** |    1    |    1    |    2    |
 | **Peut loger X personne.s**         |    1    |    2    |    4    |
 | **Revenu quotidien (par client)**   |  20 pc  |  20 pc  |  20 pc  |
@@ -62,10 +81,10 @@ Permet de loger les habitants ainsi que de donner des bonus aux joueurs lorsqu'i
 
 #### Bonus de qualité
 
-|                          | Pauvre | Modeste | Luxueux |
-| ------------------------ | :----: | :-----: | :-----: |
-| **Régénération magique** |  x 1   |   x 2   |   x 3   |
-| **Revenus**              |  x 1   |  x 1.5  |   x 2   |
+|                          | Pauvre | Aisé  | Luxueux |
+| ------------------------ | :----: | :---: | :-----: |
+| **Régénération magique** |  x 1   |  x 2  |   x 3   |
+| **Revenus**              |  x 1   | x 1.5 |   x 2   |
 
 ### Champs
 
@@ -82,16 +101,16 @@ Si le champs produit trop, le surplus peut être vendu.
 | **Durée de construction (semaine)** |    1    |    2    |    3    |
 | **Peut nourrir X personne.s**       |    2    |    5    |   10    |
 | **Personnel nécessaire**            |    1    |    1    |    1    |
-| **Revenu quotidien (par client)**   |  7 pc   |  7 pc   |  7 pc   |
-| **Revenu hebdomadaire maximum**     |  98 pc  | 245 pc  | 490 pc  |
-| **Revenu annuel maximum**           | 50.9 pa | 1.27 po | 2.52 po |
+| **Revenu quotidien (par client)**   |  5 pc   |  5 pc   |  5 pc   |
+| **Revenu hebdomadaire maximum**     |  70 pc  | 1.75 pa | 3.5 pa  |
+| **Revenu annuel maximum**           | 36.4 pa |  91 pa  | 1.82 po |
 
 #### Bonus de qualité
 
-|                                | Pauvre | Modeste | Luxueux |
-| ------------------------------ | :----: | :-----: | :-----: |
-| **Nombre de personne nourrie** |  x 1   |  x 1.5  |   x 2   |
-| **Revenus**                    |  x 1   |  x 1.5  |   x 2   |
+|                                | Pauvre | Aisé  | Luxueux |
+| ------------------------------ | :----: | :---: | :-----: |
+| **Nombre de personne nourrie** |  x 1   | x 1.5 |   x 2   |
+| **Revenus**                    |  x 1   | x 1.5 |   x 2   |
 
 ### Cuisine
 
@@ -101,19 +120,19 @@ Si le champs ne produit pas assez, il faut acheter les ingrédients à 15pc/ cli
 
 Il ne peut y avoir qu'une seule cuisine par restaurant.
 
-|                                     | Petit | Modeste | Grand |
-| ----------------------------------- | :---: | :-----: | :---: |
-| **Taille (m²)**                     |   9   |   25    |  49   |
-| **Coût de construction**            |       |         |       |
-| **Durée de construction (semaine)** |   1   |    2    |   4   |
-| **Peut nourrir X personne.s**       |  20   |   50    |  100  |
-| **Personnel nécessaire**            |   1   |    2    |   2   |
+|                                     | Petit  | Modeste | Grand |
+| ----------------------------------- | :----: | :-----: | :---: |
+| **Taille (m²)**                     |   9    |   25    |  49   |
+| **Coût de construction**            | 1.5 po |  4 po   | 8 po  |
+| **Durée de construction (semaine)** |   1    |    2    |   4   |
+| **Peut nourrir X personne.s**       |   20   |   50    |  100  |
+| **Personnel nécessaire**            |   1    |    2    |   2   |
 
 #### Bonus de qualité
 
-|                           | Pauvre | Modeste | Luxueux |
-| ------------------------- | :----: | :-----: | :-----: |
-| **Revenus du restaurant** |  x 1   |  x 1.5  |   x 2   |
+|                           | Pauvre | Aisé  | Luxueux |
+| ------------------------- | :----: | :---: | :-----: |
+| **Revenus du restaurant** |  x 1   | x 1.5 |   x 2   |
 
 ### Restaurant
 
@@ -124,7 +143,7 @@ Permet de vendre le surplus de nourriture pour avoir quelques revenus.
 |                                     |  Petit  | Modeste |  Grand  |
 | ----------------------------------- | :-----: | :-----: | :-----: |
 | **Taille (m²)**                     |   49    |   100   |   144   |
-| **Coût de construction**            |         |         |         |
+| **Coût de construction**            |  50 pa  |  1 po   | 1.5 po  |
 | **Durée de construction (semaine)** |    4    |    8    |   12    |
 | **Peut accueillir X personne.s**    |   20    |   50    |   100   |
 | **Personnel nécessaire**            |    2    |    4    |    5    |
@@ -134,9 +153,9 @@ Permet de vendre le surplus de nourriture pour avoir quelques revenus.
 
 #### Bonus de qualité
 
-|                                           | Pauvre | Modeste | Luxueux |
-| ----------------------------------------- | :----: | :-----: | :-----: |
-| **Nombre de clients présents en moyenne** |  50%   |   75%   |  100%   |
+|                                           | Pauvre | Aisé | Luxueux |
+| ----------------------------------------- | :----: | :--: | :-----: |
+| **Nombre de clients présents en moyenne** |  50%   | 75%  |  100%   |
 
 ### Infirmerie
 
@@ -147,7 +166,7 @@ Ne peut pas être géré par des enfants.
 |                                     |  Petit  | Modeste  |  Grand   |
 | ----------------------------------- | :-----: | :------: | :------: |
 | **Taille (m²)**                     |    9    |    25    |    49    |
-| **Coût de construction**            |         |          |          |
+| **Coût de construction**            |  2 po   |   5 po   |  10 po   |
 | **Durée de construction (semaine)** |    1    |    2     |    4     |
 | **Peut accueillir X patient.s**     |    1    |    3     |    8     |
 | **Personnel nécessaire**            |    1    |    1     |    2     |
@@ -157,7 +176,7 @@ Ne peut pas être géré par des enfants.
 
 #### Bonus de qualité
 
-|                   |       Pauvre       |       Modeste       |   Luxueux    |
+|                   |       Pauvre       |        Aisé         |   Luxueux    |
 | ----------------- | :----------------: | :-----------------: | :----------: |
 | **Type de soins** | Soins généralistes | Blessures de combat | Démembrement |
 | **Revenus**       |        x 1         |         x 2         |     x 4      |
@@ -169,7 +188,7 @@ Permet aux montures de se reposer pour être plus efficaces lors de leur prochai
 |                                           |  Petit  | Modeste |    Grand    |
 | ----------------------------------------- | :-----: | :-----: | :---------: |
 | **Taille (m²)**                           |   16    |   36    |     81      |
-| **Coût de construction**                  |         |         |             |
+| **Coût de construction**                  |  70 pa  | 1.5 po  |    3 po     |
 | **Durée de construction (semaine)**       |    2    |    3    |      6      |
 | **Peut accueillir 1 monture de taille X** | Moyenne | Grande  | Très grande |
 | **Consommation du champs**                |   +1    |   +3    |     +5      |
@@ -177,13 +196,17 @@ Permet aux montures de se reposer pour être plus efficaces lors de leur prochai
 
 #### Bonus de qualité
 
-|                       | Pauvre |   Modeste    |   Luxueux    |
+|                       | Pauvre |     Aisé     |   Luxueux    |
 | --------------------- | :----: | :----------: | :----------: |
 | **Vitesse de voyage** |  x 1   | A déterminer | A déterminer |
 
 ### Atelier d'artisanat
 
-L'atelier doit se spécialiser parmi ces choix :
+L'atelier permet au joueur et aux employés de fabriquer des objets pour s'en servir ou pour les revendre.
+
+Les matériaux pour la fabrication doivent toujours être fournis par le joueur.
+
+Chaque atelier doit se spécialiser parmi ces choix :
 
 - bijouterie *(coût de construction x4)*,
 
@@ -198,20 +221,24 @@ L'atelier doit se spécialiser parmi ces choix :
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
 | **Taille (m²)**                     |  25   |   49    |  100  |
-| **Coût de construction**            |       |         |       |
+| **Coût de construction**            | 4 po  |  8 po   | 15 po |
 | **Durée de construction (semaine)** |   2   |    4    |   7   |
 | **Personnel nécessaire**            |   1   |    2    |   4   |
 
 #### Bonus de qualité
 
-|                           | Pauvre | Modeste | Luxueux |
-| ------------------------- | :----: | :-----: | :-----: |
-| **Taux de réussite**      |  x 1   |  x 1.5  |   x 2   |
-| **Vitesse des habitants** |  x 1   |  x 1.5  |   x 2   |
+|                           | Pauvre | Aisé  | Luxueux |
+| ------------------------- | :----: | :---: | :-----: |
+| **Taux de réussite**      |  x 1   | x 1.5 |   x 2   |
+| **Vitesse des habitants** |  x 1   | x 1.5 |   x 2   |
 
 ### Atelier d'alchimie
 
-L'atelier doit se spécialiser parmi ces choix :
+L'atelier permet au joueur et aux employés de fabriquer des objets pour s'en servir ou pour les revendre.
+
+Les matériaux pour la fabrication doivent toujours être fournis par le joueur.
+
+Chaque atelier doit se spécialiser parmi ces choix :
 
 - potionniste *(coût de construction x1)*,
 
@@ -220,16 +247,16 @@ L'atelier doit se spécialiser parmi ces choix :
 |                                     | Petit | Modeste | Grand |
 | ----------------------------------- | :---: | :-----: | :---: |
 | **Taille (m²)**                     |  49   |   100   |  144  |
-| **Coût de construction**            |       |         |       |
+| **Coût de construction**            | 10 po |  20 po  | 30 po |
 | **Durée de construction (semaine)** |   4   |    7    |  10   |
 | **Personnel nécessaire**            |   2   |    4    |   5   |
 
 #### Bonus de qualité
 
-|                           | Pauvre | Modeste | Luxueux |
-| ------------------------- | :----: | :-----: | :-----: |
-| **Taux de réussite**      |  x 1   |  x 1.5  |   x 2   |
-| **Vitesse des habitants** |  x 1   |  x 1.5  |   x 2   |
+|                           | Pauvre | Aisé  | Luxueux |
+| ------------------------- | :----: | :---: | :-----: |
+| **Taux de réussite**      |  x 1   | x 1.5 |   x 2   |
+| **Vitesse des habitants** |  x 1   | x 1.5 |   x 2   |
 
 ### Hôtel des ventes
 
@@ -241,20 +268,20 @@ Chaque semaine, le joueur peut lancer 1d100 et faire 99 ou 100 pour récupérer 
 
 Lorsqu'il y a un objet rare, il n'y a pas de revenus pour cette semaine.
 
-|                                     | Petit  | Modeste | Grand |
-| ----------------------------------- | :----: | :-----: | :---: |
-| **Taille (m²)**                     |   9    |   16    |  25   |
-| **Coût de construction**            |        |         |       |
-| **Durée de construction (semaine)** |   1    |    2    |   2   |
-| **Personnel nécessaire**            |   1    |    1    |   1   |
-| **Revenus/ Pertes hebdomadaires**   | 10 pa  |  50 pa  | 1 po  |
-| **Revenu annuel maximum**           | 5.2 po |  26 po  | 52 po |
+|                                     | Petit  | Modeste | Grand  |
+| ----------------------------------- | :----: | :-----: | :----: |
+| **Taille (m²)**                     |   9    |   16    |   25   |
+| **Coût de construction**            |  1 po  |  5 po   |  10 po |
+| **Durée de construction (semaine)** |   1    |    2    |   2    |
+| **Personnel nécessaire**            |   1    |    1    |   1    |
+| **Revenus/ Pertes hebdomadaires**   | 10 pa  |  50 pa  |  1 po  |
+| **Revenu annuel maximum**           | 5.2 po |  26 po  | 52 po  |
 
 #### Bonus de qualité
 
-|                        | Pauvre | Modeste | Luxueux |
-| ---------------------- | :----: | :-----: | :-----: |
-| **Chances de revenus** |  + 0   |   + 1   |   + 2   |
+|                        | Pauvre | Aisé | Luxueux |
+| ---------------------- | :----: | :--: | :-----: |
+| **Chances de revenus** |  + 0   | + 1  |   + 2   |
 Chaque semaine, le joueur lance 1d10 + *Chances de revenus*.
 
 S'il fait 6 ou plus, il gagne les revenus. Sinon il les déduit de son compte.
@@ -263,22 +290,24 @@ S'il fait 6 ou plus, il gagne les revenus. Sinon il les déduit de son compte.
 
 ### Portail de téléportation
 
-Pour se téléporter directement chez soi.
+La téléportation fonctionne par tranche de 100kg.
+
+Si on téléporte 101kg, il faut considérer qu'il y a "2 téléportations"
 
 On doit utiliser ses crystaux ou ceux du personnel pour utiliser le portail.
 
-|                                               | Grand |
-| --------------------------------------------- | :---: |
-| **Taille (m²)**                               |  400  |
-| **Coût de construction**                      |       |
-| **Durée de construction (semaine)**           |  26   |
-| **Crystaux nécessaires pour téléporter 10kg** |   1   |
+|                                                | Petit | Modeste | Grand  |
+| ---------------------------------------------- | :---: | :-----: | :----: |
+| **Taille (m²)**                                |  100  |   225   |  400   |
+| **Coût de construction**                       | 50 po | 100 po  | 175 po |
+| **Durée de construction (semaine)**            |   7   |   16    |   27   |
+| **Crystaux nécessaires pour téléporter 100kg** |  12   |    8    |   4    |
 
 #### Bonus de qualité
 
-|                          | Pauvre | Modeste | Luxueux |
-| ------------------------ | :----: | :-----: | :-----: |
-| **Personnel nécessaire** |  100%  |   75%   |   50%   |
+|                          | Pauvre | Aisé | Luxueux |
+| ------------------------ | :----: | :--: | :-----: |
+| **Crystaux nécessaires** |  100%  | 75%  |   50%   |
 
 ---
 
