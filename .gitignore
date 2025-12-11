@@ -1,0 +1,6 @@
+aerethios/.gitignore
+.vscode/settings.json
+.obsidian/*
+aerethios/docs/*.jpg
+aerethios/docs/*.png
+!aerethios/web/*
