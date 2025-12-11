@@ -2,3 +2,4 @@
 .obsidian/*
 *.png
 *.jpg
+.gitignore
