@@ -317,12 +317,12 @@ On doit utiliser ses crystaux ou ceux du personnel pour utiliser le portail.
 
 Toutes les semaines où le joueur n'est pas dans son bâtiment, il doit lancer 1d20 pour déterminer ce qu'il s'est passé pendant son absence.
 
-| Jet  | Résultat                                                                                                |     |
-| ---- | ------------------------------------------------------------------------------------------------------- | --- |
-| 1-4  | Un nouvel habitant s'est présenté                                                                       |     |
-| 5    | Un vol a eu lieu<br>Le joueur perd 50% de son revenu de la semaine                                      |     |
-| 6    | Un attaque a eu lieu<br>Le joueur lance 1d20 pour chaque habitant<br>1 résulte en la mort de l'habitant |     |
-| 7-20 | Rien ne se passe                                                                                        |     |
+| Jet  | Résultat                                                                                                |
+| ---- | ------------------------------------------------------------------------------------------------------- |
+| 1-4  | Un nouvel habitant s'est présenté                                                                       |
+| 5    | Un vol a eu lieu<br>Le joueur perd 50% de son revenu de la semaine                                      |
+| 6    | Un attaque a eu lieu<br>Le joueur lance 1d20 pour chaque habitant<br>1 résulte en la mort de l'habitant |
+| 7-20 | Rien ne se passe                                                                                        |
 
 ### Habitants
 
