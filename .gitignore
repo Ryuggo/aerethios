@@ -1,6 +1,0 @@
-.gitignore
-.vscode/settings.json
-.obsidian/*
-/docs/*.jpg
-/docs/*.png
-!/web/*
