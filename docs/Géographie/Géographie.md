@@ -119,4 +119,3 @@ Les autres continents savent qu'ils sont liés à un masque surpuissant, ils son
 Bryumnes va prendre 3 jours pour se renseigner sur le masque et sur Tarquin
 Avant ça elle veut les tester -> Combat contre Bryumnes,-1,]
  ```
- 

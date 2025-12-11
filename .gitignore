@@ -1,5 +1,3 @@
 .vscode/settings.json
 .obsidian/*
-*.png
-*.jpg
 .gitignore
