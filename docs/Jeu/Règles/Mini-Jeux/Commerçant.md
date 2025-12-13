@@ -1,3 +1,7 @@
+---
+tags:
+  - Règles
+---
 > Ce [[Mini-Jeux]] permet aux joueurs d'acheter et de vendre des biens afin de gagner de l'argent ainsi que d'obtenir un réseau.
 
 ## Fonctionnement

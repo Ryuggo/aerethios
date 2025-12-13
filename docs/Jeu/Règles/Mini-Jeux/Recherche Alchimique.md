@@ -1,3 +1,7 @@
+---
+tags:
+  - Règles
+---
 > Ce [[Mini-Jeux]] permet aux joueurs de fabriquer des potions ou des invocations afin d'avoir de nouvelles recettes à fabriquer plus rapidement dans le futur.
 > WIP
 

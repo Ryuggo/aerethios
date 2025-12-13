@@ -1,3 +1,7 @@
+---
+tags:
+  - Règles
+---
 > Ce [[Mini-Jeux]] permet aux joueurs de battre des cibles afin que le peuple soit libérer de leur joug ainsi que de se faire de l'argent.
 
 ## Fonctionnement

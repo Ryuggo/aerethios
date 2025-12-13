@@ -1,3 +1,7 @@
+---
+tags:
+  - Règles
+---
 > Ce [[Mini-Jeux]] permet aux joueurs d'acheter et d'améliorer des bâtiments pour en faire des bases personnelles ou des activités commerciales pour le peuple.
 
 ## Fonctionnement
@@ -67,7 +71,7 @@ Si le joueur n'arrive pas à payer les taxes ou les dettes liées à son bâtime
 
 Permet de loger les habitants ainsi que de donner des bonus aux joueurs lorsqu'ils dorment dans une chambre.
 
-	Pour compter les revenus, ne pas oublier de décompter le personnel du nombre de clients.
+Pour compter les revenus, ne pas oublier de décompter le personnel du nombre de clients.
 
 |                                     |  Petit  | Modeste |  Grand  |
 | ----------------------------------- | :-----: | :-----: | :-----: |
@@ -138,7 +142,7 @@ Il ne peut y avoir qu'une seule cuisine par restaurant.
 
 Permet de vendre le surplus de nourriture pour avoir quelques revenus.
 
-	Pour compter les revenus, ne pas oublier de décompter le personnel du nombre de clients.
+Pour compter les revenus, ne pas oublier de décompter le personnel du nombre de clients.
 
 |                                     |  Petit  | Modeste |  Grand  |
 | ----------------------------------- | :-----: | :-----: | :-----: |
@@ -332,11 +336,15 @@ S'il l'accepte, il faut :
 
 - lui fournir une chambre (ça ne peut pas être la chambre d'un joueur quand il ne s'en sert pas),
 
-- le compter parmi les mangeurs de la cuisine.
+- le nourrir
+
+	- en payant 15pc de nourriture par jour,
+
+	- en ayant assez de nourriture à fournir à la cuisine.
 
 Le joueur peut ensuite lui attribuer une tâche, en l'associant à une pièce.
 
-Chaque semaine, pour chaque pièce, le joueur doit jeter 1d12 pour déterminer les événements qui se sont produits.
+Chaque semaine, pour chaque pièce, le joueur doit jeter 1d12 pour déterminer les événements qui s'y sont produits.
 
 | Jet  | Besoin      | Conséquences                                                                                                                            |
 | ---- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |
