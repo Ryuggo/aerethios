@@ -33,9 +33,9 @@ A ceci on ajoute le nombre de crystaux qu'on veut insuffler dans l'enchantement.
 
 Le maximum de chance de réussite reste 95%, même si les crystaux devraient faire monter le chance plus haut (Ex : Niveau 4 + 20 crystaux = 80% + 20 = 95%)
 
-| Niveau   | 1   | 2   | 3   | 4   |
+| **Niveau**   | 1   | 2   | 3   | 4   |
 | -------- | --- | --- | --- | --- |
-| Réussite | 50% | 60% | 70% | 80% |
+| **Réussite** | 50% | 60% | 70% | 80% |
 
 ---
 
@@ -76,7 +76,7 @@ Rater l'enchantement donne un malus au lieu d'un bonus.
 
 Une réussite critique fait que le montant minimum est la moitié de la valeur du dé.
 
-Une armure possède 2 "slots" à enchanter, et une arme peut en avoir entre 1 et 3.
+Une armure possède 2 "slots" à enchanter, et une arme en possède 1.
 
 L'amélioration maximale d'un slot est DEF / 2 (ex: Titane, DEF 12 = 12 / 2 = 6)
 
@@ -84,10 +84,10 @@ Pour nettoyer les slots, il faut faire fondre et reforger l'équipement.
 
 En fonction du bonus souhaité, les chances de réussites varient :
 
-| Bonus            | D6  | D8   | D10  | D12  |
-| ---------------- | --- | ---- | ---- | ---- |
-| Taux de Réussite | -0% | -20% | -40% | -60% |
-| Malus d'Echec    | -1  | -2   | -3   | -4   |
+|                      | D4  | D6   | D8   | D10  |
+| -------------------- | --- | ---- | ---- | ---- |
+| **Taux de Réussite** | -0% | -20% | -40% | -60% |
+| **Malus d'Echec**    | -1  | -2   | -3   | -4   |
 
 ---
 
@@ -103,8 +103,8 @@ Le nouveau dé dépend de l'origine de l'os et de la réussite de l'application:
 
 |                   | Normal | Commun (Grosse Créature ) | Peu Commun (Hybride, Magique) | Rare (Relique, Wyverne) | Légendaire (Ange, Démon) |
 | ----------------- | ------ | ------------------------- | ----------------------------- | ----------------------- | ------------------------ |
-| Réussite          | D6     | D8                        | D10                           | D12                     | 2x D8                    |
-| Réussite Critique | -      | 2x D4                     | D6 + D4                       | 3x D4                   | 4x D4                    |
+| **Réussite**          | D6     | D8                        | D10                           | D12                     | 2x D8                    |
+| **Réussite Critique** | -      | 2x D4                     | D6 + D4                       | 3x D4                   | 4x D4                    |
 
 ---
 
@@ -120,6 +120,6 @@ Une réussite critique permet de gagner un deuxième enchantement.
 
 Les chances de réussite s'accumulent au niveau d'enchanteur (Niveau 1 = 50%, 2 = 60%, ..) :
 
-| Enchantement 1 | Enchantement 2 | Enchantement 3 |
-| -------------- | -------------- | -------------- |
-| -10%           | -20%           | -X * 10%       |
+|                      | Enchantement 1 | Enchantement 2 | Enchantement X |
+| -------------------- | -------------- | -------------- | -------------- |
+| **Taux de réussite** | -10%           | -20%           | -X * 10%       |

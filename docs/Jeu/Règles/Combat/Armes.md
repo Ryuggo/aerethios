@@ -21,7 +21,7 @@
     -
 
 ### 1 main
->Une arme à 1 main ne peut pas être maniée avec 2 mains
+>Une arme à 1 main ne peut pas être maniée avec 2 mains.
 
 | Arme |           Prix | Dégâts | Matériaux |      Poids      |
 | ---- | -------------: | :----: | :-------: | :-------------: |

@@ -6,7 +6,7 @@ tags:
 
 - En début de combat, un joueur peut prononcer une phrase de motivation pour booster son équipe.
 
-- Le MJ attribue un bonus de **+1 à +3** à une ou plusieurs compétences selon la pertinence et l’impact du discours.
+- Le MJ peut donner un avantage aux joueurs ou un désavantage aux ennemis selon le sens du discours.
 
 ---
 
