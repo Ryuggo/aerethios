@@ -42,7 +42,7 @@ tags:
 - Les **points de fatigue** ne sont pas représentatifs de la vie d'une entité.
 	→ S'ils tombent à 0, l'entité n'est pas morte, juste en trop mauvais état pour effectuer des actions directes dans le combat (Attaquer n'est pas possible, mais bouger et activer un piège l'est).
 
-- Les humanoïdes possèdent tous un **maximum de 50 HP** qui se régénèrent avec du repos ou de la magie, pour peu que la personne ait mangé récemment.
+- Les humanoïdes possèdent tous un **maximum de 50 HP** qui se régénèrent avec du repos (pour peu que la personne ait mangé récemment) ou de la magie.
 
 ---
 
