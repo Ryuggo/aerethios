@@ -48,8 +48,7 @@ Le maximum de chance de réussite reste 95%, même si les crystaux devraient fai
 ---
 
 ## [[Kothula]]
-
-Enchanter des parties du corps pour fluidifier les flux magiques qui circulent dedans et améliorer l'utilisation de la magie.
+>Enchanter des parties du corps pour fluidifier les flux magiques qui circulent dedans et améliorer l'utilisation de la magie.
 
 Les parties du corps enchantables sont les bras, le dos et les jambes.
 
@@ -69,8 +68,7 @@ L'effet dépend de l'architecture du tatouage (non cumulables sans conséquences
 ---
 
 ## [[Nirina]]
-
-Enchanter les métaux pour augmenter leur efficacité.
+>Enchanter les métaux pour augmenter leur efficacité.
 
 Rater l'enchantement donne un malus au lieu d'un bonus.
 
@@ -92,25 +90,38 @@ En fonction du bonus souhaité, les chances de réussites varient :
 ---
 
 ## [[Ovliin]]
+>Enchanter les os pour en extraire la puissance élémentaire de son ancien "propriétaire" (si elle n'avait pas d'élément, l'os n'est pas utilisable).
 
-Enchanter les os pour extraire la puissance de son ancien propriétaire.
+Une armure en os ou une arme avec le manche en os peuvent bénéficier de cette puissance.
 
-Si le manche d'une arme est fait avec cet os, le dé de l'arme augmente.
+Pour enchanter, le joueur lance 1d20 + Niveau d'enchanteur (le bonus obtenu varie selon le résultat et la rareté de l'os).
 
-Rater le processus élimine la puissance de l'os.
+Un échec critique rend l'os inutilisable.
 
-Le nouveau dé dépend de l'origine de l'os et de la réussite de l'application:
+### Arme
 
-|                   | Normal | Commun (Grosse Créature ) | Peu Commun (Hybride, Magique) | Rare (Relique, Wyverne) | Légendaire (Ange, Démon) |
-| ----------------- | ------ | ------------------------- | ----------------------------- | ----------------------- | ------------------------ |
-| **Réussite**          | D6     | D8                        | D10                           | D12                     | 2x D8                    |
-| **Réussite Critique** | -      | 2x D4                     | D6 + D4                       | 3x D4                   | 4x D4                    |
+| Arme           |  +2   |   +4    |   +6    |   +8    | +10  |
+| -------------- | :---: | :-----: | :-----: | :-----: | :--: |
+| **Normal**     | 2 - 9 | 10 - 16 |  17 +   |    -    |  -   |
+| **Commun**     | 2 - 7 | 8 - 14  | 14 - 19 |  20 +   |  -   |
+| **Peu Commun** | 2 - 4 |  5 - 9  | 10 - 16 | 17 - 19 | 20 + |
+| **Rare**       |   -   |  2 - 6  | 7 - 13  | 14 - 18 | 19 + |
+| **Légendaire** |   -   |    -    | 2 - 10  | 11 - 17 | 18 + |
+
+### Armure
+
+| Bonus          |  +1   |   +2    |   +3    |   +4    |  +5  |
+| -------------- | :---: | :-----: | :-----: | :-----: | :--: |
+| **Normal**     | 2 - 9 | 10 - 16 |  17 +   |    -    |  -   |
+| **Commun**     | 2 - 7 | 8 - 14  | 14 - 19 |  20 +   |  -   |
+| **Peu Commun** | 2 - 4 |  5 - 9  | 10 - 16 | 17 - 19 | 20 + |
+| **Rare**       |   -   |  2 - 6  | 7 - 13  | 14 - 18 | 19 + |
+| **Légendaire** |   -   |    -    | 2 - 10  | 11 - 17 | 18 + |
 
 ---
 
 ## [[Suraja]]
-
-Enchanter les tissus pour augmenter leur résistance aux conditions extrêmes (magie, météo, ..)
+>Enchanter les tissus pour augmenter leur résistance aux éléments magiques.
 
 On peut cumuler différents enchantements sur un tissu, mais cela devient de plus en plus compliqué.
 

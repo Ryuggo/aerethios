@@ -5,26 +5,26 @@
 ## Poids
 >Sans la compétence pour porter un type d'armure, vous jetez vos dés avec désavantage lorsqu'il s'agit de Force, de Dextérité, ou d'Attaque, et vous ne pouvez pas utiliser la magie.
 
->Si quelqu'un nous aide, équiper/ retirer une armure passe au rang inférieur (ne peut pas être inférieur à 1 action) :
->	1 action > 1 minute > 5 minutes > 10 minutes
-
 >Les HP ne se régénèrent pas tant qu'une armure est équipée.
 
->Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs perforant), elle perd 1 AC jusqu'à se faire réparer.
->Elle perd 2 AC en cas de réussite critique.
+>Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs perforant), elle perd de son AC et doit être réparée pour le récupérer.
 
 ### Sans armure
 
-| Armure           | Prix main d'œuvre | Impénétrable |     Matériaux      | Poids |
-| ---------------- | ----------------: | :----------: | :----------------: | :---: |
-| Sans armure      |                   |      0       |                    |       |
-| Cape en tissu    |  10 pa<br>*10 gp* |      0       | 1 rouleau de tissu | 1 kg  |
-| Cape de fourrure |  25 pa<br>*25 gp* |      0       |     1 fourrure     | 2 kg  |
-
 **Effets**
-    - Propriété Délicat (cassera avant l'armure légère)
+    - Propriété [[Propriétés#Délicat|Délicat]] (cassera avant l'armure légère)
+
+| Armure           | Prix main d'œuvre | Impénétrable |     Matériaux      |
+| ---------------- | ----------------: | :----------: | :----------------: |
+| Sans armure      |                 - |      0       |        ---         |
+| Cape en tissu    |  10 pa<br>*10 gp* |      0       | 1 rouleau de tissu |
+| Cape de fourrure |  25 pa<br>*25 gp* |      0       |     1 fourrure     |
 
 ### Légère
+>**Faiblesse** : Perforant
+
+**Effets**
+    - Propriété [[Propriétés#Délicat|Délicat]]
 
 | Armure                           |  Prix main d'œuvre | Impénétrable |                     Matériaux                     |
 | -------------------------------- | -----------------: | :----------: | :-----------------------------------------------: |
@@ -32,16 +32,12 @@
 | Cuir (bouilli)<br>*Leather*      |   10 pa<br>*10 gp* |      1       |            3 cuirs bruts<br>2 boucles             |
 | Cuir Clouté<br>*Studded Leather* |   45 pa<br>*45 gp* |      1       | 3 cuirs bruts<br>6 morceaux de fonte<br>2 boucles |
 | Brigandine<br>*Brigandine*       | 15 po<br>*1500 gp* |      2       |    5 cuirs bruts<br>2 boucles<br>1 rembourrage    |
-**Équiper**
-	1 minute
-**Retirer**
-	1 minute
-
-**Effets**
-    - Faiblesse face aux dégâts perforants
-    - Propriété Délicat
 
 ### Intermédiaire
+>**Faiblesse** : Tranchant
+
+**Effets**
+    - Perte de 1 HP pour chaque heure de marche avec l'armure équipée
 
 | Armure                               |  Prix main d'œuvre | Impénétrable |                     Matériaux                      |
 | ------------------------------------ | -----------------: | :----------: | :------------------------------------------------: |
@@ -52,16 +48,12 @@
 | Cuirasse <br>*Breastplate*           |   4 po<br>*400 gp* |      6       |                     10 lingots                     |
 | Demi-Plate <br>*Half Plate*          | 7.5 po<br>*750 gp* |      7       |            16 lingots<br>1 rembourrage             |
 
-**Équiper**
-	5 minutes
-**Retirer**
-	1 minute
+### Lourde
+>**Faiblesse** : Contondant
 
 **Effets**
-    - Faiblesse face aux dégâts tranchants
-    - Perte de 1 HP pour chaque heure de marche avec l'armure équipée
-
-### Lourde
+    - Perte de 2 HP pour chaque heure de marche avec l'armure équipée
+    - Désavantage en Magie
 
 | Armure                            |  Prix main d'œuvre | Impénétrable | Force |          Matériaux          |
 | --------------------------------- | -----------------: | :----------: | :---: | :-------------------------: |
@@ -70,31 +62,17 @@
 | Clibanion<br>*Splint*             |   2 po<br>*200 gp* |      9       |  15   | 12 lingots<br>1 rembourrage |
 | Harnois<br>*Plate*                | 15 po<br>*1500 gp* |      10      |  15   | 30 lingots<br>1 rembourrage |
 
-**Équiper**
-	10 minutes
-**Retirer**
-	5 minutes
-
-**Effets**
-    - Faiblesse face aux dégâts contondants
-    - Perte de 2 HP pour chaque heure de marche avec l'armure équipée
-    - Désavantage en Magie
-
 ### Bouclier
-
-| Armure                      |  Prix main d'œuvre | Impénétrable | Force | Matériaux | Propriété | Dégats                          |
-| --------------------------- | -----------------: | ------------ | :---: | :-------: | :-------: | ------------------------------- |
-| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* | 2            |  ---  | 2 lingots |  Parade   | 1d4 contondant                  |
-| Bouclier<br>*Round*         |   10 pa<br>*10 gp* | 3            |  ---  | 3 lingots |    ---    | 1d6 contondant                  |
-| Pavois<br>*Tower*           | 15 po<br>*1500 gp* | 5            |  17   | 8 lingots |   Lourd   | 1d8 contondant                  |
-| Bouclier d'Estoc            |   5 po<br>*500 gp* | 4            |  14   | 4 lingots |    ---    | 1d6 contondant<br>1d8 perforant |
-**Équiper**
-	1 action
-**Retirer**
-	1 action
 
 **Effets**
     - Désavantage en Dextérité (Acrobatie)
+
+| Armure                      |  Prix main d'œuvre | Impénétrable | Force | Matériaux |          Propriétés           | Dégats                          |
+| --------------------------- | -----------------: | :----------: | :---: | :-------: | :---------------------------: | ------------------------------- |
+| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |      2       |  ---  | 2 lingots | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
+| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |      3       |  ---  | 3 lingots |              ---              | 1d6 contondant                  |
+| Pavois<br>*Tower*           | 15 po<br>*1500 gp* |      5       |  17   | 8 lingots |             Lourd             | 1d8 contondant                  |
+| Bouclier d'Estoc            |   5 po<br>*500 gp* |      4       |  14   | 4 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
 
 ---
 
@@ -105,14 +83,10 @@
 
 >Peut s'équiper par dessus une armure comme cape ou foulard.
 
-**Avantages**
+**Effets**
     + [[Enchanteur#Suraja|Enchantements de Suraja]]
-    + Températures extrêmes
 
-**Inconvénients**
-    -
-
-| Matériau                      |    Prix | Résistance aux températures | Propriété            |
+| Matériau                      |    Prix | Résistance aux températures | Propriétés           |
 | ----------------------------- | ------: | :-------------------------: | -------------------- |
 | Coton                         |    1 pa |              1              | Inflammable          |
 | Lin                           |    2 pa |              0              | Inflammable          |
@@ -130,45 +104,43 @@
 | Fourrure                      |   25 pa |              3              |                      |
 | Cachemire                     |   30 pa |              3              |                      |
 
-### Cuirs, Peaux et Fourrures
+### Cuirs et Peaux
 *Armures Légères & Intermédiaires*
 
-**Avantages**
+**Effets**
     + [[Enchanteur#Kothula|Enchantements de Kothula]]
+    + Se répare dans une tannerie
 
-**Inconvénients**
-    -
-
-### Écailles, Os et Mailles
+### Écailles et Os
 *Armures Intermédiaires & Lourdes*
 
->Écailles et os se réparent auprès d'un potionniste ? (plus cher)
-
-**Avantages**
-    + [[Enchanteur#Ovliin|Enchantements d'Ovliin]]
-
-**Inconvénients**
+**Effets**
+    + Se répare auprès d'un potionniste
     - Désavantage en Dextérité (Discrétion)
+
+| Matériau |   Prix/ unité |    AC    |                                Propriétés                                | Poids/ unité |
+| -------- | ------------: | :------: | :----------------------------------------------------------------------: | :----------: |
+| Écailles | 4 ^ rareté pa | [2 - 20] |                   Résistance magique + rareté [1 - 5]                    |    1.5 kg    |
+| Os       | 5 ^ rareté pa | [5 - 16] | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]]<br>Impénétrable + (AC / 4) |     1 kg     |
+
+>La rareté varie entre 1 et 5 (Déchet, Commun, Peu commun, Rare, Légendaire)
 
 ### Métaux
 *Armures Lourdes*
 
-**Avantages**
+**Effets**
     + [[Enchanteur#Nirina|Enchantements de Nirina]]
-    + Durabilité
-
-**Inconvénients**
+    + Se répare dans une forge/ avec la magie de métal
     - Désavantage en Dextérité (Discrétion)
-    - Températures extrêmes
 
-| Matériau   | Prix/ lingot | Résistance aux températures |                              Propriété                               | Poids/ lingot |
-| ---------- | -----------: | :-------------------------: | :------------------------------------------------------------------: | :-----------: |
-| Fonte      |         2 pa |             -1              |                            Ne s'abime pas                            |    1.5 kg     |
-| Fer        |        10 pa |             -1              |                               Pliable                                |     1 kg      |
-| Bronze     |        25 pa |             -1              |                                 ---                                  |    1.5 kg     |
-| Acier      |        50 pa |             -1              |                                                                      |     1 kg      |
-| Titane     |         1 po |             -1              |                                                                      |    1.5 kg     |
-| Mythril    |         5 po |             -1              | Force requise -3 <br>Annule le désavantage en Dextérité (Discrétion) |     1 kg      |
-| Palladium  |         7 po |             -1              |             Annule le désavantage en Magie (Croititiste)             |     2 kg      |
-| Adamantite |         7 po |             -1              |              Annule le désavantage en Magie (Élétiste)               |     2 kg      |
-| Orichalque |        10 po |             -1              |                  Annule la faiblesse vs contondant                   |    2.5 kg     |
+| Matériau   | Prix/ lingot | AC  | Résistance aux températures |                               Propriétés                               | Poids/ lingot |
+| ---------- | -----------: | :-: | :-------------------------: | :--------------------------------------------------------------------: | :-----------: |
+| Fonte      |         2 pa |  4  |             -1              |                                  ---                                   |    1.5 kg     |
+| Fer        |        10 pa |  6  |             -1              |                                  ---                                   |     1 kg      |
+| Bronze     |        25 pa |  8  |             -1              |                                  ---                                   |    1.5 kg     |
+| Acier      |        50 pa | 12  |             -1              |                                  ---                                   |     1 kg      |
+| Titane     |         1 po | 10  |             -1              |                      Impénétrable d'**armure** x2                      |    1.5 kg     |
+| Mythril    |         5 po | 15  |             -2              | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1 kg      |
+| Palladium  |         7 po | 20  |             -2              |              Annule le désavantage en Magie (Croititiste)              |     2 kg      |
+| Adamantite |         7 po | 20  |             -2              |               Annule le désavantage en Magie (Élétiste)                |     2 kg      |
+| Orichalque |        10 po | 20  |             -3              |                      Impénétrable d'**armure** x2                      |    2.5 kg     |
