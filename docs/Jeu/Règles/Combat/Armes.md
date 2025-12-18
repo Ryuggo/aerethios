@@ -12,7 +12,7 @@
 >Un objet qui ne ressemble pas à une arme tombe dans cette catégorie
 
 **Effets**
-    -
+    - Propriété [[Propriétés#Léger|Léger]]
 
 | Arme    | Prix main d'œuvre |           Maîtrise           | Matériaux |
 | ------- | ----------------: | :--------------------------: | :-------: |
@@ -72,25 +72,26 @@
     + [[Enchanteur#Nirina|Enchantements de Nirina]]
     + Se répare dans une forge/ avec la magie de métal
 
-| Matériau   | Prix/ lingot | Dégâts |   Propriétés    | Poids/ lingot |
-| ---------- | -----------: | :----: | :-------------: | :-----------: |
-| Fonte      |         2 pa |   2    | VS Nécrophages  |    1.5 kg     |
-| Fer        |        10 pa |   3    |    VS Bêtes     |     1 kg      |
-| Bronze     |        25 pa |   4    | VS Insectoides  |    1.5 kg     |
-| Acier      |        50 pa |   5    |   VS Mutants    |     1 kg      |
-| Titane     |         1 po |   6    | VS Invocations  |    1.5 kg     |
-| Mythril    |         5 po |   8    | VS Elementaires |     1 kg      |
-| Palladium  |         7 po |   10   |    VS Anges     |     2 kg      |
-| Adamantite |         7 po |   10   |  VS Draconides  |     2 kg      |
-| Orichalque |        10 po |   12   |    VS Démons    |    2.5 kg     |
+| Matériau   |   Prix/ unité |    Dégâts    |          Propriétés           | Poids/ unité |
+| ---------- | ------------: | :----------: | :---------------------------: | :----------: |
+| Os         | 5 ^ rareté pa | rareté (1-5) | Enchantements élémentaires x2 |     1 kg     |
+| Fonte      |          2 pa |      2       |        VS Nécrophages         |    1.5 kg    |
+| Fer        |         10 pa |      3       |           VS Bêtes            |     1 kg     |
+| Bronze     |         25 pa |      4       |        VS Insectoides         |    1.5 kg    |
+| Acier      |         50 pa |      5       |          VS Mutants           |     1 kg     |
+| Titane     |          1 po |      6       |        VS Invocations         |    1.5 kg    |
+| Mythril    |          5 po |      8       |        VS Elementaires        |     1 kg     |
+| Palladium  |          7 po |      10      |           VS Anges            |     2 kg     |
+| Adamantite |          7 po |      10      |         VS Draconides         |     2 kg     |
+| Orichalque |         10 po |      12      |           VS Démons           |    2.5 kg    |
 
 ### Revêtements
 
-| Matériau  | Prix/ lingot |  Propriétés   | Poids/ lingot |
-| --------- | -----------: | :-----------: | :-----------: |
-| Cuivre    |        50 pc |  VS Plantes   |     2 kg      |
-| Argent    |        50 pa |  VS Hybrides  |     2 kg      |
-| Sombronce |         1 po |  VS Naturels  |     1 kg      |
-| Electrum  |        10 po |  VS Magiques  |     2 kg      |
-| Or        |        50 po | VS Mythiques  |     4 kg      |
-| Platine   |       500 po | Vs Humanoides |     3 kg      |
+| Matériau  | Prix/ unité |  Propriétés   | Poids/ unité |
+| --------- | ----------: | :-----------: | :----------: |
+| Cuivre    |       50 pc |  VS Plantes   |     2 kg     |
+| Argent    |       50 pa |  VS Hybrides  |     2 kg     |
+| Sombronce |        1 po |  VS Naturels  |     1 kg     |
+| Electrum  |       10 po |  VS Magiques  |     2 kg     |
+| Or        |       50 po | VS Mythiques  |     4 kg     |
+| Platine   |      500 po | Vs Humanoides |     3 kg     |

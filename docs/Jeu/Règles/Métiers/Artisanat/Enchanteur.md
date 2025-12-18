@@ -137,8 +137,10 @@ Résultats :
 
 Le joueur lance 1d6, la valeur de l'enchantement est le résultat obtenu.
 
+Si le dé fait 6, la valeur devient 0 (l'enchantement est désactivé mais pas supprimé).
+
 L'enchantement disparaît si :
 
-- le joueur fait 1 deux fois de suite,
+- le joueur fait 6 deux fois de suite,
 
 - le joueur fait un nombre inférieur à la valeur actuelle deux fois de suite.

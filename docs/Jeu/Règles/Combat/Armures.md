@@ -2,12 +2,14 @@
 
 ---
 
-## Poids
->Sans la compétence pour porter un type d'armure, vous jetez vos dés avec désavantage lorsqu'il s'agit de Force, de Dextérité, ou d'Attaque, et vous ne pouvez pas utiliser la magie.
+## Catégorie
+	Note pour moi-même : Sans la compétence pour porter un type d'armure, vous jetez vos dés avec désavantage lorsqu'il s'agit de Force, de Dextérité, ou d'Attaque, et vous ne pouvez pas utiliser la magie.
 
 >Les HP ne se régénèrent pas tant qu'une armure est équipée.
 
 >Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs perforant), elle perd de son AC et doit être réparée pour le récupérer.
+
+![[Armures.png]]
 
 ### Sans armure
 
@@ -54,6 +56,7 @@
 **Effets**
     - Perte de 2 HP pour chaque heure de marche avec l'armure équipée
     - Désavantage en Magie
+    - Impossible d'esquiver
 
 | Armure                            |  Prix main d'œuvre | Impénétrable | Force |          Matériaux          |
 | --------------------------------- | -----------------: | :----------: | :---: | :-------------------------: |
@@ -66,6 +69,7 @@
 
 **Effets**
     - Désavantage en Dextérité (Acrobatie)
+    - La défense du minerai est divisée par 4
 
 | Armure                      |  Prix main d'œuvre | Impénétrable | Force | Matériaux |          Propriétés           | Dégats                          |
 | --------------------------- | -----------------: | :----------: | :---: | :-------: | :---------------------------: | ------------------------------- |
@@ -111,6 +115,13 @@
     + [[Enchanteur#Kothula|Enchantements de Kothula]]
     + Se répare dans une tannerie
 
+>La rareté varie entre 1 et 5 (Déchet, Commun, Peu commun, Rare, Légendaire)
+
+| Matériau |   Prix/ unité |    AC    | Propriétés | Poids/ unité |
+| -------- | ------------: | :------: | :--------: | :----------: |
+| Peau     | 2 ^ rareté pa | [1 - 10] |            |     1 kg     |
+| Cuir     | 3 ^ rareté pa | [5 - 15] |            |     1 kg     |
+
 ### Écailles et Os
 *Armures Intermédiaires & Lourdes*
 
@@ -120,10 +131,8 @@
 
 | Matériau |   Prix/ unité |    AC    |                                Propriétés                                | Poids/ unité |
 | -------- | ------------: | :------: | :----------------------------------------------------------------------: | :----------: |
-| Écailles | 4 ^ rareté pa | [2 - 20] |                   Résistance magique + rareté [1 - 5]                    |    1.5 kg    |
-| Os       | 5 ^ rareté pa | [5 - 16] | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]]<br>Impénétrable + (AC / 4) |     1 kg     |
-
->La rareté varie entre 1 et 5 (Déchet, Commun, Peu commun, Rare, Légendaire)
+| Écaille  | 4 ^ rareté pa | [5 - 20] |                   Résistance magique + rareté [1 - 5]                    |    1.5 kg    |
+| Os       | 5 ^ rareté pa | [8 - 16] | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]]<br>Impénétrable + (AC / 4) |     1 kg     |
 
 ### Métaux
 *Armures Lourdes*
