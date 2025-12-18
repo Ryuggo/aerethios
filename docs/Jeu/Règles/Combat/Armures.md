@@ -15,22 +15,23 @@
 
 ### Sans armure
 
-| Armure           |             Prix | Armor Class (AC) |     Matériaux      |      Poids      |
-| ---------------- | ---------------: | :--------------: | :----------------: | :-------------: |
-| Sans armure      |                  |        10        |                    |                 |
-| Cape en tissu    | 10 pa<br>*10 gp* |        +0        | 1 rouleau de tissu | 1kg<br>*2 lb.*  |
-| Cape de fourrure | 25 pa<br>*25 gp* |        +1        |     1 fourrure     | 2 kg<br>*4 lb.* |
+| Armure           | Prix main d'œuvre | Impénétrable |     Matériaux      | Poids |
+| ---------------- | ----------------: | :----------: | :----------------: | :---: |
+| Sans armure      |                   |      0       |                    |       |
+| Cape en tissu    |  10 pa<br>*10 gp* |      0       | 1 rouleau de tissu | 1 kg  |
+| Cape de fourrure |  25 pa<br>*25 gp* |      0       |     1 fourrure     | 2 kg  |
+
 **Effets**
     - Propriété Délicat (cassera avant l'armure légère)
 
 ### Légère
 
-| Armure                           |               Prix | Armor Class (AC) |                     Matériaux                     |      Poids       |
-| -------------------------------- | -----------------: | :--------------: | :-----------------------------------------------: | :--------------: |
-| Matelassé/ Gambison<br>*Padded*  |     5 pa<br>*5 gp* |     11 + Dex     |                  2 rembourrages                   | 1 kg<br>*3 lb.*  |
-| Cuir (bouilli)<br>*Leather*      |   10 pa<br>*10 gp* |     11 + Dex     |            3 cuirs bruts<br>2 boucles             | 5 kg<br>*10 lb.* |
-| Cuir Clouté<br>*Studded Leather* |   45 pa<br>*45 gp* |     12 + Dex     | 3 cuirs bruts<br>6 morceaux de fonte<br>2 boucles | 6 kg<br>*13 lb*. |
-| Brigandine<br>*Brigandine*       | 15 po<br>*1500 gp* |     13 + Dex     |    5 cuirs bruts<br>2 boucles<br>1 rembourrage    | 7 kg<br>*15 lb.* |
+| Armure                           |  Prix main d'œuvre | Impénétrable |                     Matériaux                     |
+| -------------------------------- | -----------------: | :----------: | :-----------------------------------------------: |
+| Matelassé/ Gambison<br>*Padded*  |     5 pa<br>*5 gp* |      0       |                  2 rembourrages                   |
+| Cuir (bouilli)<br>*Leather*      |   10 pa<br>*10 gp* |      1       |            3 cuirs bruts<br>2 boucles             |
+| Cuir Clouté<br>*Studded Leather* |   45 pa<br>*45 gp* |      1       | 3 cuirs bruts<br>6 morceaux de fonte<br>2 boucles |
+| Brigandine<br>*Brigandine*       | 15 po<br>*1500 gp* |      2       |    5 cuirs bruts<br>2 boucles<br>1 rembourrage    |
 **Équiper**
 	1 minute
 **Retirer**
@@ -42,14 +43,14 @@
 
 ### Intermédiaire
 
-| Armure                               |               Prix | Armor Class (AC) |                     Matériaux                      |       Poids       |
-| ------------------------------------ | -----------------: | :--------------: | :------------------------------------------------: | :---------------: |
-| Peaux<br>*Hide*                      |   10 pa<br>*10 gp* | 12 + Dex (max 2) |        2 cuirs bruts<br>1 peau<br>2 boucles        | 6 kg<br>*12 lb.*  |
-| Chemise de Mailles <br>*Chain Shirt* |   50 pa<br>*50 gp* | 13 + Dex (max 2) |                     5 lingots                      | 10 kg<br>*20 lb.* |
-| Écailles (organique)<br>*Scale Mail* |   50 pa<br>*50 gp* | 14 + Dex (max 2) | 25 écailles<br>5 morceaux de cuir<br>1 rembourrage | 22 kg<br>*45 lb.* |
-| Écailles (métal)<br>*Scale Mail*     |   50 pa<br>*50 gp* | 14 + Dex (max 2) |             8 lingots<br>1 rembourrage             | 22 kg<br>*45 lb.* |
-| Cuirasse <br>*Breastplate*           |   4 po<br>*400 gp* | 14 + Dex (max 2) |                     10 lingots                     | 10 kg<br>*20 lb.* |
-| Demi-Plate <br>*Half Plate*          | 7.5 po<br>*750 gp* | 15 + Dex (max 2) |            16 lingots<br>1 rembourrage             | 20 kg<br>*40 lb.* |
+| Armure                               |  Prix main d'œuvre | Impénétrable |                     Matériaux                      |
+| ------------------------------------ | -----------------: | :----------: | :------------------------------------------------: |
+| Peaux<br>*Hide*                      |   10 pa<br>*10 gp* |      2       |        2 cuirs bruts<br>1 peau<br>2 boucles        |
+| Écailles (organique)<br>*Scale Mail* |   50 pa<br>*50 gp* |      3       | 25 écailles<br>5 morceaux de cuir<br>1 rembourrage |
+| Chemise de Mailles <br>*Chain Shirt* |   50 pa<br>*50 gp* |      4       |                     5 lingots                      |
+| Écailles (métal)<br>*Scale Mail*     |   50 pa<br>*50 gp* |      5       |             8 lingots<br>1 rembourrage             |
+| Cuirasse <br>*Breastplate*           |   4 po<br>*400 gp* |      6       |                     10 lingots                     |
+| Demi-Plate <br>*Half Plate*          | 7.5 po<br>*750 gp* |      7       |            16 lingots<br>1 rembourrage             |
 
 **Équiper**
 	5 minutes
@@ -62,12 +63,12 @@
 
 ### Lourde
 
-| Armure                            |               Prix | Armor Class (AC) | Force |          Matériaux          |       Poids       |
-| --------------------------------- | -----------------: | :--------------: | :---: | :-------------------------: | :---------------: |
-| Broigne<br>*Ring Mail*            |   30 pa<br>*30 gp* |        14        |  ---  | 4 lingots<br>1 rembourrage  | 20 kg<br>*40 lb.* |
-| Cotte de Mailles <br>*Chain Mail* |   50 pa<br>*50 gp* |        16        |  13   | 9 lingots<br>1 rembourrage  | 27 kg<br>*55 lb.* |
-| Clibanion<br>*Splint*             |   2 po<br>*200 gp* |        17        |  15   | 12 lingots<br>1 rembourrage | 30 kg<br>*60 lb.* |
-| Harnois<br>*Plate*                | 15 po<br>*1500 gp* |        18        |  15   | 30 lingots<br>1 rembourrage | 32 kg<br>*65 lb.* |
+| Armure                            |  Prix main d'œuvre | Impénétrable | Force |          Matériaux          |
+| --------------------------------- | -----------------: | :----------: | :---: | :-------------------------: |
+| Broigne<br>*Ring Mail*            |   30 pa<br>*30 gp* |      7       |  ---  | 4 lingots<br>1 rembourrage  |
+| Cotte de Mailles <br>*Chain Mail* |   50 pa<br>*50 gp* |      8       |  13   | 9 lingots<br>1 rembourrage  |
+| Clibanion<br>*Splint*             |   2 po<br>*200 gp* |      9       |  15   | 12 lingots<br>1 rembourrage |
+| Harnois<br>*Plate*                | 15 po<br>*1500 gp* |      10      |  15   | 30 lingots<br>1 rembourrage |
 
 **Équiper**
 	10 minutes
@@ -81,12 +82,12 @@
 
 ### Bouclier
 
-| Armure                      |               Prix | Armor Class (AC) | Force | Dégats                          | Propriété | Matériaux |       Poids       |
-| --------------------------- | -----------------: | :--------------: | :---: | ------------------------------- | :-------: | :-------: | :---------------: |
-| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |        +1        |  ---  | 1d4 contondant                  |  Parade   | 2 lingots |  1 kg<br>*2 lb.*  |
-| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |        +2        |  ---  | 1d6 contondant                  |    ---    | 3 lingots |  3 kg<br>*6 lb.*  |
-| Pavois<br>*Tower*           | 15 po<br>*1500 gp* |        +3        |  17   | 1d8 contondant                  |   Lourd   | 8 lingots | 22 kg<br>*45 lb.* |
-| Bouclier d'Estoc            |   5 po<br>*500 gp* |        +2        |  14   | 1d6 contondant<br>1d8 perforant |    ---    | 4 lingots | 10 kg<br>*20 lb.* |
+| Armure                      |  Prix main d'œuvre | Impénétrable | Force | Matériaux | Propriété | Dégats                          |
+| --------------------------- | -----------------: | ------------ | :---: | :-------: | :-------: | ------------------------------- |
+| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* | 2            |  ---  | 2 lingots |  Parade   | 1d4 contondant                  |
+| Bouclier<br>*Round*         |   10 pa<br>*10 gp* | 3            |  ---  | 3 lingots |    ---    | 1d6 contondant                  |
+| Pavois<br>*Tower*           | 15 po<br>*1500 gp* | 5            |  17   | 8 lingots |   Lourd   | 1d8 contondant                  |
+| Bouclier d'Estoc            |   5 po<br>*500 gp* | 4            |  14   | 4 lingots |    ---    | 1d6 contondant<br>1d8 perforant |
 **Équiper**
 	1 action
 **Retirer**
@@ -111,23 +112,23 @@
 **Inconvénients**
     -
 
-| Matériau                      |    Prix | Résistance à la chaleur | Résistance au froid | Propriété            |
-| ----------------------------- | ------: | :---------------------: | :-----------------: | -------------------- |
-| Coton                         |    1 pa |            1            |          1          | Inflammable          |
-| Lin                           |    2 pa |            0            |          1          | Inflammable          |
-| Chanvre                       |    2 pa |            0            |          1          | Inflammable          |
-| Nylon                         |    2 pa |            0            |          1          | Inflammable          |
-| Denim (coton)                 |    3 pa |            1            |          1          | Inflammable          |
-| Polyester                     |    3 pa |            1            |          1          |                      |
-| Laine                         |    5 pa |            3            |          3          |                      |
-| Velours (coton/ laine)        | 4/ 8 pa |            2            |          2          | Inflammable si coton |
-| Velours côtelé (coton/ laine) | 5/ 9 pa |            2            |          2          | Inflammable si coton |
-| Soie                          |   10 pa |            1            |          1          | Inflammable          |
-| Satin (soie)                  |   15 pa |            1            |          1          | Inflammable          |
-| Suède/ Daim                   |   15 pa |            2            |          2          |                      |
-| Alpaga                        |   20 pa |            3            |          3          |                      |
-| Fourrure                      |   25 pa |            3            |          3          |                      |
-| Cachemire                     |   30 pa |            3            |          3          |                      |
+| Matériau                      |    Prix | Résistance aux températures | Propriété            |
+| ----------------------------- | ------: | :-------------------------: | -------------------- |
+| Coton                         |    1 pa |              1              | Inflammable          |
+| Lin                           |    2 pa |              0              | Inflammable          |
+| Chanvre                       |    2 pa |              0              | Inflammable          |
+| Nylon                         |    2 pa |              0              | Inflammable          |
+| Denim (coton)                 |    3 pa |              1              | Inflammable          |
+| Polyester                     |    3 pa |              1              |                      |
+| Laine                         |    5 pa |              3              |                      |
+| Velours (coton/ laine)        | 4/ 8 pa |              2              | Inflammable si coton |
+| Velours côtelé (coton/ laine) | 5/ 9 pa |              2              | Inflammable si coton |
+| Soie                          |   10 pa |              1              | Inflammable          |
+| Satin (soie)                  |   15 pa |              1              | Inflammable          |
+| Suède/ Daim                   |   15 pa |              2              |                      |
+| Alpaga                        |   20 pa |              3              |                      |
+| Fourrure                      |   25 pa |              3              |                      |
+| Cachemire                     |   30 pa |              3              |                      |
 
 ### Cuirs, Peaux et Fourrures
 *Armures Légères & Intermédiaires*
@@ -160,14 +161,14 @@
     - Désavantage en Dextérité (Discrétion)
     - Températures extrêmes
 
-| Matériau   | Prix/ lingot |                              Propriété                               | Poids/ lingot |
-| ---------- | -----------: | :------------------------------------------------------------------: | :-----------: |
-| Fonte      |        +2 pa |                            Ne s'abime pas                            |    +0.5 kg    |
-| Fer        |         0 pa |                               Pliable                                |     0 kg      |
-| Bronze     |        +5 pa |                                 ---                                  |    +0.5 kg    |
-| Acier      |       +20 pa |                                                                      |     0 kg      |
-| Titane     |       +50 pa |                                                                      |    +0.5 kg    |
-| Mythril    |        +2 po | Force requise -3 <br>Annule le désavantage en Dextérité (Discrétion) |     0 kg      |
-| Palladium  |        +3 po |             Annule le désavantage en Magie (Croititiste)             |     +1 kg     |
-| Adamantite |        +3 po |              Annule le désavantage en Magie (Élétiste)               |     +1 kg     |
-| Orichalque |        +5 po |                  Annule la faiblesse vs contondant                   |    +1.5 kg    |
+| Matériau   | Prix/ lingot | Résistance aux températures |                              Propriété                               | Poids/ lingot |
+| ---------- | -----------: | :-------------------------: | :------------------------------------------------------------------: | :-----------: |
+| Fonte      |         2 pa |             -1              |                            Ne s'abime pas                            |    1.5 kg     |
+| Fer        |        10 pa |             -1              |                               Pliable                                |     1 kg      |
+| Bronze     |        25 pa |             -1              |                                 ---                                  |    1.5 kg     |
+| Acier      |        50 pa |             -1              |                                                                      |     1 kg      |
+| Titane     |         1 po |             -1              |                                                                      |    1.5 kg     |
+| Mythril    |         5 po |             -1              | Force requise -3 <br>Annule le désavantage en Dextérité (Discrétion) |     1 kg      |
+| Palladium  |         7 po |             -1              |             Annule le désavantage en Magie (Croititiste)             |     2 kg      |
+| Adamantite |         7 po |             -1              |              Annule le désavantage en Magie (Élétiste)               |     2 kg      |
+| Orichalque |        10 po |             -1              |                  Annule la faiblesse vs contondant                   |    2.5 kg     |
