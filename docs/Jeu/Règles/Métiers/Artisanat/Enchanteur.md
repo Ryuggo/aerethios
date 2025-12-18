@@ -6,7 +6,9 @@ tags:
 > **Enchanteur** est une spécialité de l'[[Artisanat]] qui améliore magiquement les caractéristiques des équipements d'aventuriers.
 
 ## Apprentissage
+
 Chaque continent possède sa technique d'enchantement.
+
 Pour l'apprendre, il faut se rendre sur le continent concerné.
 
 ---
@@ -23,27 +25,15 @@ Pour enchanter, il faut :
 
 - une réserve de magie sur soi,
 
----
-
-## Application
-
-Les chances de réussite (D100) d'un enchantement dépendent du niveau d'enchanteur.
-
-A ceci on ajoute le nombre de crystaux qu'on veut insuffler dans l'enchantement.
-
-Le maximum de chance de réussite reste 95%, même si les crystaux devraient faire monter le chance plus haut (Ex : Niveau 4 + 20 crystaux = 80% + 20 = 95%)
-
-| **Niveau**   | 1   | 2   | 3   | 4   |
-| -------- | --- | --- | --- | --- |
-| **Réussite** | 50% | 60% | 70% | 80% |
+- 8h de travail continu.
 
 ---
 
 ## Prix du marché pour enchanter (po)
 
-| Kothula | Nirina  | Ovliin                              | Suraja                  |
-| ------- | ------- | ----------------------------------- | ----------------------- |
-| 40 - 60 | 20 - 40 | 2 - 5 * Rareté de l'Os (Commun = 1) | Nombre d'enchantements  |
+| Kothula | Nirina  | Ovliin                              | Suraja                 |
+| ------- | ------- | ----------------------------------- | ---------------------- |
+| 40 - 60 | 20 - 40 | 2 - 5 * Rareté de l'Os (Commun = 1) | Nombre d'enchantements |
 
 ---
 
@@ -78,7 +68,7 @@ Une armure possède 2 "slots" à enchanter, et une arme en possède 1.
 
 L'amélioration maximale d'un slot est DEF / 2 (ex: Titane, DEF 12 = 12 / 2 = 6)
 
-Pour nettoyer les slots, il faut faire fondre et reforger l'équipement.
+Pour nettoyer les slots, il faut faire fondre et reforger l'équipement (la magie de métal n'est pas suffisante).
 
 En fonction du bonus souhaité, les chances de réussites varient :
 
@@ -123,14 +113,32 @@ Un échec critique rend l'os inutilisable.
 ## [[Suraja]]
 >Enchanter les tissus pour augmenter leur résistance aux éléments magiques.
 
-On peut cumuler différents enchantements sur un tissu, mais cela devient de plus en plus compliqué.
+Un tissu peut cumuler plusieurs enchantements (le maximum dépend du type de tissu).
 
-Rater le processus retire tous les autres enchantements de ce tissu.
+Le joueur peut ajouter de nouveaux enchantements (au risque d'en perdre d'autres), ou améliorer ceux déjà présents.
 
-Une réussite critique permet de gagner un deuxième enchantement.
+### Ajouter
 
-Les chances de réussite s'accumulent au niveau d'enchanteur (Niveau 1 = 50%, 2 = 60%, ..) :
+Le joueur lance 1d20 + Niveau d'enchanteur.
 
-|                      | Enchantement 1 | Enchantement 2 | Enchantement X |
-| -------------------- | -------------- | -------------- | -------------- |
-| **Taux de réussite** | -10%           | -20%           | -X * 10%       |
+La difficulté de réussite change selon le nombre d'enchantements déjà présents :
+
+| Nombre d'enchantements présents sur le tissu |  0  |  1  | 2   | 3   | 4   | 5   | 6   |
+| -------------------------------------------- | :-: | :-: | --- | --- | --- | --- | --- |
+| **Valeur minimale à obtenir** (<)            | 10  | 12  | 14  | 16  | 18  | 20  | 22  |
+
+Résultats :
+- réussite critique, l'enchantement est créé et a une valeur de 2,
+- réussite, l'enchantement est créé et a une valeur de 1,
+- échec, le tissu perd le dernier enchantement ajouté,
+- échec critique, le tissu perd les 2 derniers enchantements ajoutés.
+
+### Améliorer
+
+Le joueur lance 1d6, la valeur de l'enchantement est le résultat obtenu.
+
+L'enchantement disparaît si :
+
+- le joueur fait 1 deux fois de suite,
+
+- le joueur fait un nombre inférieur à la valeur actuelle deux fois de suite.
