@@ -66,8 +66,6 @@ Une réussite critique fait que le montant minimum est la moitié de la valeur d
 
 Une armure possède 2 "slots" à enchanter, et une arme en possède 1.
 
-L'amélioration maximale d'un slot est DEF / 2 (ex: Titane, DEF 12 = 12 / 2 = 6)
-
 Pour nettoyer les slots, il faut faire fondre et reforger l'équipement (la magie de métal n'est pas suffisante).
 
 En fonction du bonus souhaité, les chances de réussites varient :
