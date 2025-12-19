@@ -75,8 +75,8 @@
 | --------------------------- | -----------------: | :----------: | :---: | :-------: | :---------------------------: | ------------------------------- |
 | Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |      2       |  ---  | 2 lingots | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
 | Bouclier<br>*Round*         |   10 pa<br>*10 gp* |      3       |  ---  | 3 lingots |              ---              | 1d6 contondant                  |
-| Pavois<br>*Tower*           | 15 po<br>*1500 gp* |      5       |  17   | 8 lingots |             Lourd             | 1d8 contondant                  |
-| Bouclier d'Estoc            |   5 po<br>*500 gp* |      4       |  14   | 4 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
+| Pavois<br>*Tower*           | 40 pa<br>*1500 gp* |      5       |  17   | 8 lingots |             Lourd             | 1d8 contondant                  |
+| Bouclier d'Estoc            |  50 pa<br>*500 gp* |      4       |  14   | 4 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
 
 ---
 
@@ -148,8 +148,8 @@
 | Fer        |        10 pa |  6  |             -1              |                                  ---                                   |     1 kg      |
 | Bronze     |        25 pa |  8  |             -1              |                                  ---                                   |    1.5 kg     |
 | Acier      |        50 pa | 12  |             -1              |                                  ---                                   |     1 kg      |
-| Titane     |         1 po | 10  |             -1              |                      Impénétrable d'**armure** x2                      |    1.5 kg     |
+| Titane     |         1 po | 10  |             -1              |                            Impénétrable x2                             |    1.5 kg     |
 | Mythril    |         5 po | 15  |             -2              | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1 kg      |
 | Palladium  |         7 po | 20  |             -2              |              Annule le désavantage en Magie (Croititiste)              |     2 kg      |
 | Adamantite |         7 po | 20  |             -2              |               Annule le désavantage en Magie (Élétiste)                |     2 kg      |
-| Orichalque |        10 po | 20  |             -3              |                      Impénétrable d'**armure** x2                      |    2.5 kg     |
+| Orichalque |        10 po | 20  |             -3              |                            Impénétrable x2                             |    2.5 kg     |
