@@ -74,9 +74,9 @@
 | Armure                      |  Prix main d'œuvre | Impénétrable | Force  | Matériaux |          Propriétés           | Dégats                          |
 | --------------------------- | -----------------: | :----------: | :----: | :-------: | :---------------------------: | ------------------------------- |
 | Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |      2       |  ---   | 2 lingots | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
-| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |      3       |  ---   | 3 lingots |              ---              | 1d6 contondant                  |
+| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |      3       |  ---   | 4 lingots |              ---              | 1d6 contondant                  |
+| Bouclier d'Estoc            |  20 pa<br>*500 gp* |      4       | 14 (2) | 6 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
 | Pavois<br>*Tower*           | 40 pa<br>*1500 gp* |      5       | 17 (4) | 8 lingots |             Lourd             | 1d8 contondant                  |
-| Bouclier d'Estoc            |  50 pa<br>*500 gp* |      4       | 14 (2) | 4 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
 
 ---
 
