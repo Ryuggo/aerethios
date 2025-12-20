@@ -58,12 +58,12 @@
     - Désavantage en Magie
     - Impossible d'esquiver
 
-| Armure                            |  Prix main d'œuvre | Impénétrable | Force |          Matériaux          |
-| --------------------------------- | -----------------: | :----------: | :---: | :-------------------------: |
-| Broigne<br>*Ring Mail*            |   30 pa<br>*30 gp* |      7       |  ---  | 4 lingots<br>1 rembourrage  |
-| Cotte de Mailles <br>*Chain Mail* |   50 pa<br>*50 gp* |      8       |  13   | 9 lingots<br>1 rembourrage  |
-| Clibanion<br>*Splint*             |   2 po<br>*200 gp* |      9       |  15   | 12 lingots<br>1 rembourrage |
-| Harnois<br>*Plate*                | 15 po<br>*1500 gp* |      10      |  15   | 30 lingots<br>1 rembourrage |
+| Armure                            |  Prix main d'œuvre | Impénétrable | Force  |          Matériaux          |
+| --------------------------------- | -----------------: | :----------: | :----: | :-------------------------: |
+| Broigne<br>*Ring Mail*            |   30 pa<br>*30 gp* |      7       |  ---   | 4 lingots<br>1 rembourrage  |
+| Cotte de Mailles <br>*Chain Mail* |   50 pa<br>*50 gp* |      8       | 13 (2) | 9 lingots<br>1 rembourrage  |
+| Clibanion<br>*Splint*             |   2 po<br>*200 gp* |      9       | 15 (3) | 12 lingots<br>1 rembourrage |
+| Harnois<br>*Plate*                | 15 po<br>*1500 gp* |      10      | 15 (3) | 30 lingots<br>1 rembourrage |
 
 ### Bouclier
 
@@ -71,12 +71,12 @@
     - Désavantage en Dextérité (Acrobatie)
     - La défense du minerai est divisée par 4
 
-| Armure                      |  Prix main d'œuvre | Impénétrable | Force | Matériaux |          Propriétés           | Dégats                          |
-| --------------------------- | -----------------: | :----------: | :---: | :-------: | :---------------------------: | ------------------------------- |
-| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |      2       |  ---  | 2 lingots | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
-| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |      3       |  ---  | 3 lingots |              ---              | 1d6 contondant                  |
-| Pavois<br>*Tower*           | 40 pa<br>*1500 gp* |      5       |  17   | 8 lingots |             Lourd             | 1d8 contondant                  |
-| Bouclier d'Estoc            |  50 pa<br>*500 gp* |      4       |  14   | 4 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
+| Armure                      |  Prix main d'œuvre | Impénétrable | Force  | Matériaux |          Propriétés           | Dégats                          |
+| --------------------------- | -----------------: | :----------: | :----: | :-------: | :---------------------------: | ------------------------------- |
+| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |      2       |  ---   | 2 lingots | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
+| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |      3       |  ---   | 3 lingots |              ---              | 1d6 contondant                  |
+| Pavois<br>*Tower*           | 40 pa<br>*1500 gp* |      5       | 17 (4) | 8 lingots |             Lourd             | 1d8 contondant                  |
+| Bouclier d'Estoc            |  50 pa<br>*500 gp* |      4       | 14 (2) | 4 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
 
 ---
 
