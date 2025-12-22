@@ -2,7 +2,7 @@
 
 ## Détails
 
-Lieu actuel : [[Suraja]], [[]]
+Lieu actuel : Suraja, [[]]
 
 Objectif :
 
@@ -13,12 +13,12 @@ Pnjs notables : -
 ## Notes
 
 > Commerce avec son père dans la ville voisine
-> Négocie un achat d'un petit [[Lagiacrus]], *Dracaudeau*
+> Négocie un achat d'un petit Lagiacrus, *Dracodo*
 >
 > ~~Fast forward, le nécromancien arrive~~
-> Dara s'enfuit avec la Toile et le [[Lagiacrus]] *avant que le nécromancien n'arrive*
+> Dara s'enfuit avec la Toile et le Lagiacrus *avant que le nécromancien n'arrive*
 > ~~Il est pourchassé par un membre de sa famille mort-vivant
-> Combat contre lui et le [[Lagiacrus]] se sacrifie~~
+> Combat contre lui et le Lagiacrus se sacrifie~~
 >
 > Fast forward, il a erré de ville en villages pour fuir le nécromancien et pour survivre de quêtes et de troque pendant plusieurs années
 > *Il profite de son renouveau pour apprendre l'eau au lieu de la foudre
@@ -27,7 +27,7 @@ Pnjs notables : -
 
 Résultat :
 - Nouvelle magie d'eau
-- [[Lagiacrus]]
+- Lagiacrus
 - Réseau légal de commerce dans Suraja
 
 ## Joueurs
@@ -38,6 +38,6 @@ Résultat :
 - [ ] Thomas
 - [ ] William
 
-|     Précédent     |      Suivant      |
-| :---------------: | :---------------: |
-| [[11 - 27.06.25]] | [[13 - 14.08.25]] |
+|         Précédent         |  Suivant  |
+| :-----------------------: | :-------: |
+| [[Arc 2 - 11 - 27.06.25]] | [[Arc 3]] |

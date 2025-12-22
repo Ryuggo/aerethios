@@ -2,11 +2,11 @@
 
 ## Détails
 
-Lieu actuel : [[Ovliin]], [[]]
+Lieu actuel : Ovliin,
 
 Objectif :
 
-Pnjs notables : [[Bigard]], [[Mattivi]], [[Marvik]], [[Syrithia]], [[Dieu#Savoir|Dieu Savoir]]
+Pnjs notables : Bigard, Mattivi, Marvik, Syrithia, Dieu Savoir
 
 ## Scénario
 
@@ -17,7 +17,7 @@ Pnjs notables : [[Bigard]], [[Mattivi]], [[Marvik]], [[Syrithia]], [[Dieu#Savoir
 >
 > *Se fait bien voir par son père grâce à ses connaissances alchimique du "futur"
 > Apprends la magie*
-> Rencontre de [[Bigard]] et [[Mattivi]]
+> Rencontre de Bigard et Mattivi
 >
 > *Se fait bien voir par l'Académie grâce à ses connaissances
 > Apprend le feu à 16 ans*
@@ -27,17 +27,17 @@ Pnjs notables : [[Bigard]], [[Mattivi]], [[Marvik]], [[Syrithia]], [[Dieu#Savoir
 > Apprend les ténèbres à 18 ans, et la foudre à 20 ans*
 > ~~Don de sa vue à 21 ans
 > Purge un village de sa douleur à 24 ans
-> Pélérinage à travers les 72 temples, rencontre avec [[Marvik]]~~
+> Pélérinage à travers les 72 temples, rencontre avec Marvik~~
 >
-> *Travail avec [[Bigard]] pour créer un élémentaire avec une capacité de réflexion propre
-> Rencontre avec [[Marvik]]
+> *Travail avec Bigard pour créer un élémentaire avec une capacité de réflexion propre
+> Rencontre avec Marvik
 > Redirection vers la religion
-> [[Bigard]] accompagne pour flexer son élémentaire devant un dieu*
+> Bigard accompagne pour flexer son élémentaire devant un dieu*
 >
 > *Apprend la magie solide pendant son pèlerinage*
 >
-> *Rencontre de [[Syrithia]] à 28 ans
-> Rencontre du [[Dieu#Savoir|Dieu Savoir]] 3 mois après
+> *Rencontre de Syrithia à 28 ans
+> Rencontre du Dieu Savoir 3 mois après
 > Flexe l'élémentaire
 > Le dieu propose le savoir de faire un élémentaire ultime contre tous les souvenirs de Léoric
 > Il refuse*
@@ -50,7 +50,7 @@ Résultat :
 - Perte de maîtrise càc pour compenser la magie
 - Perte de ses rangs Templis
 - Réputation de mage prometteur dans sa région d'Ovliin
-- Relation avec certains Doigts ([[Syrithia]], [[Marvik]], [[Vorithar]])
+- Relation avec certains Doigts (Syrithia, Marvik, Vorithar)
 
 ## Joueurs
 
@@ -60,6 +60,6 @@ Résultat :
 - [ ] Thomas
 - [ ] William
 
-|     Précédent     |      Suivant      |
-| :---------------: | :---------------: |
-| [[11 - 27.06.25]] | [[13 - 14.08.25]] |
+|     Précédent     |  Suivant  |
+| :-----------------------: | :-------: |
+| [[Arc 2 - 11 - 27.06.25]] | [[Arc 3]] |

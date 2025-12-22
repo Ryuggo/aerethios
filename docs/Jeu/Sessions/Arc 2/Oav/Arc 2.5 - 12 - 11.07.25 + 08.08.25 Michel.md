@@ -2,11 +2,11 @@
 
 ## Détails
 
-Lieu actuel : [[Nirina]], à droite de Galmag, au bord du plateau
+Lieu actuel : Nirina, à droite de Galmag, au bord du plateau
 
 Objectif :
 
-Pnjs notables : [[Loukas]], [[Calista]], [[Nyx]], [[Chlorys]], [[Eryndor]]
+Pnjs notables : [[Loukas]], [[Calista]], [[Nyx]], [[Chlorys]], Eryndor
 
 ## Scénario
 
@@ -26,7 +26,7 @@ Pnjs notables : [[Loukas]], [[Calista]], [[Nyx]], [[Chlorys]], [[Eryndor]]
 > - Il sera formé de ses 10 à 18ans et fera partie d'une escouade spéciale (genre Space Marine) : [[Loukas]], [[Calista]], [[Nyx]], [[Chlorys]]
 > - Il dera ensuite un sabotage de l'intérieur et se soulèvera avec les esclaves
 > - Il devient le visage de la révolution religieuse*
-> - ~~Tuer le Doigt [[Eryndor]] qui passait par là et fuir vers Galmag
+> - ~~Tuer le Doigt Eryndor qui passait par là et fuir vers Galmag
 > - Vie de criminel pire qu'on la connait~~
 >
 > *Il a une relation forte avec [[Chlorys]] et [[Nyx]]
@@ -56,6 +56,6 @@ Résultat :
 - [ ] Thomas
 - [ ] William
 
-|     Précédent     |      Suivant      |
-| :---------------: | :---------------: |
-| [[11 - 27.06.25]] | [[13 - 14.08.25]] |
+|         Précédent         |  Suivant  |
+| :-----------------------: | :-------: |
+| [[Arc 2 - 11 - 27.06.25]] | [[Arc 3]] |

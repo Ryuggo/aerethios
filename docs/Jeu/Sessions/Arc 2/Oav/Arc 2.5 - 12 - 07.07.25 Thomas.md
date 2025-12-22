@@ -2,7 +2,7 @@
 
 ## Détails
 
-Lieu actuel : [[Nirina]], [[Galmag]] + [[Pulmius]]
+Lieu actuel : Nirina, Galmag + Pulmius
 
 Objectif :
 
@@ -12,7 +12,7 @@ Pnjs notables : [[Theon]], Grogon, la grosse Berta
 
 ## Notes
 
-> Vie à [[Galmag]] avec son "frère" [[Theon]]
+> Vie à Galmag avec son "frère" [[Theon]]
 > Le rat de la grosse Berta
 > Assassinat de son maître/propriétaire Grogon
 >
@@ -41,6 +41,6 @@ Résultat :
 - [x] Thomas
 - [ ] William
 
-|     Précédent     |      Suivant      |
-| :---------------: | :---------------: |
-| [[11 - 27.06.25]] | [[13 - 14.08.25]] |
+|         Précédent         |  Suivant  |
+| :-----------------------: | :-------: |
+| [[Arc 2 - 11 - 27.06.25]] | [[Arc 3]] |
