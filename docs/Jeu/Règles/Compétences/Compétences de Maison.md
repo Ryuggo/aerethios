@@ -8,11 +8,13 @@ tags:
 - Accès aux quêtes de rang Argent
 - Accès aux quêtes de rang Or
 - Accès aux quêtes de rang Platine
-- Accès aux quêtes de rang Supérieur
+- Accès aux quêtes de rang Légendaire
 
 # Runild
 
--
+- Accès à l'hôtel des ventes
+- 10% de réduction
+- Vendre à 75% du prix d'achat au lieu de 50%
 
 # Scienctes
 
