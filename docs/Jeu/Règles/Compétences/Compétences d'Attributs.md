@@ -66,6 +66,10 @@ Permet de réagir à une attaque surprise (en dehors d'un combat).
 
 Permet de réagir à une attaque qui se trouve hors du champs de vision
 
+## Ambidextre
+
+Permet d'utiliser 2 armes courtes ou 1 main par tour de combat.
+
 ## Armure intermédiaire
 >Dextérité, Force, Intelligence
 
@@ -90,7 +94,7 @@ Coût et temps de réparation réduit de moitié.
 
 ## Concentration
 
-[1-5] Modificateur Maintien de l’attention, apprentissage, résistance aux distractions.
+[1-5] Modificateur lors de l'utilisation de magie élétiste.
 
 ### Imperturbable
 
@@ -102,7 +106,7 @@ Facilite l'apprentissage.
 
 ## Résistance mentale
 
-[1-5] Modificateur
+[1-5] Modificateur de contrôle de soi lors de situations stressantes.
 
 ## Armure légère
 >Intelligence, Sagesse
@@ -124,7 +128,11 @@ Coût et temps de réparation réduit de moitié.
 ---
 
 # Sagesse
-> Nombre d'améliorations disponibles : 8
+> Nombre d'améliorations disponibles : 13
+
+## Incantation
+
+[1-5] Modificateur lors de l'utilisation de magie croitiste.
 
 ## Perception
 
@@ -145,7 +153,7 @@ Avantage pour détecter les intentions des êtres vivants.
 ---
 
 # Charisme
-> Nombre d'améliorations disponibles : 7
+> Nombre d'améliorations disponibles : 24
 
 ## Veinard
 
@@ -154,7 +162,7 @@ Permet de relancer 1d20 de son choix par session.
 ## Intimidant
 >Charisme, Force
 
-Influence par la peur.
+[1-5] Modificateur d'influence par la peur.
 
 ### Parrain
 
@@ -163,17 +171,21 @@ Les gens ne parleront pas de ce que vous avez fait ou dit.
 ## Performance
 >Charisme, Dextérité
 
-Influence par la gestuelle.
+[1-5] Modificateur d'influence par la gestuelle.
+
+### Bouffon
+
+Possibilité de recevoir des pièces après avoir diverti (1d6 pa).
 
 ## Persuasif
 >Charisme, Intelligence
 
-Influence par la parole.
+[1-5] Modificateur d'influence par la parole.
 
 ## Charismatique
 >Charisme, Sagesse
 
-Influence par la prestance.
+[1-5] Modificateur d'influence par la prestance.
 
 ### Doyen
 
@@ -182,12 +194,20 @@ Les gens vanteront vos mérites, nettoyant/ améliorant votre réputation locale
 ---
 
 # Armes
-> Nombre d'améliorations disponibles : 6
+>Nombre d'améliorations disponibles : 6
 >Les armes peuvent être améliorées peu importe l'attribut qui a reçu un point.
 
 ## Court
 
 **Efficacité** : Retire les désavantages en utilisant une arme courte.
+
+### Assassin
+
+[1-4] Augmente les dégâts d'une attaque surprise :
+- 1. 1d4 +6 **ou** 3d6,
+- 2. 1d8 +12 **ou** 4d10 +2,
+- 3. 1d12 +23 **ou** 5d12 +7,
+- 4. 1d20 +40 **ou** 4d20 +16.
 
 ## 1 main
 
@@ -196,6 +216,11 @@ Les gens vanteront vos mérites, nettoyant/ améliorant votre réputation locale
 ## 2 mains
 
 **Efficacité** : Retire les désavantages en utilisant une arme à 2 mains.
+
+### Ambidextre
+>Nécessite Ambidextre (Dextérité)
+
+Permet d'avoir une arme à 2 mains dans chaque mains et de chacune les utiliser à chaque tour de combat.
 
 ## Hast
 
@@ -208,3 +233,7 @@ Les gens vanteront vos mérites, nettoyant/ améliorant votre réputation locale
 ## Bouclier
 
 **Efficacité** : Retire les désavantages en utilisant un bouclier.
+
+### Parade
+
+[1-5] Modificateur de Force ou de Dextérité pour parer une attaque ennemie et ouvrir sa garde (les dégâts infligés minimum équivalent à la moitié de la valeur maximale).
