@@ -54,9 +54,9 @@ tags:
 	- **Poings d'acier** : Bonus de dégâts pour les coups de poings en gantelet d'armure lourde.
 
 	- **Conditionnement** : Poids de l'armure lourde équipée réduit de moitié
-	
+
 	- Coût et temps de réparation réduit de moitié
-	
+
 	- **Paladin** : Annule les malus sur les magies croitistes
 
 - **Arme à 2 mains** : Proficiency
