@@ -19,17 +19,17 @@ Avantage pour casser des objets ou des structures.
 
 ## Impénétrable
 
-[1-4] Le joueur gagne 5X points d'Impénétrable.
+[1-4] Le joueur gagne 5 points d'Impénétrable.
 
 ## Armure lourde
 
 **Efficacité** : Retire les désavantages en portant une armure lourde.
 
-### Armure moins lourde
+### Conditionnement
 
-Poids de l'armure lourde équipée réduit de moitié.
+[1-5] Poids de l'armure lourde équipée réduit 10%.
 
-### Patate de forain
+### Bagarre
 
 Avantage de force pour les coups de poings en gantelet d'armure lourde.
 
@@ -75,9 +75,9 @@ Permet d'utiliser 2 armes courtes ou 1 main par tour de combat.
 
 **Efficacité** : Retire les désavantages en portant une armure intermédiaire.
 
-### Armure moins lourde
+### Conditionnement
 
-Poids de l'armure intermédiaire équipée réduit de moitié.
+[1-5] Poids de l'armure intermédiaire équipée réduit 10%.
 
 ### Souplesse
 
@@ -90,7 +90,7 @@ Coût et temps de réparation réduit de moitié.
 ---
 
 # Intelligence
-> Nombre d'améliorations disponibles : 16
+> Nombre d'améliorations disponibles : 22
 
 ## Concentration
 
@@ -108,14 +108,22 @@ Facilite l'apprentissage.
 
 [1-5] Modificateur de contrôle de soi lors de situations stressantes.
 
+## Travailleur
+
+[1-5] Modificateur pour l'artisanat.
+
+### Précis
+
+Rater plusieurs fois ne fait pas échouer la fabrication.
+
 ## Armure légère
 >Intelligence, Sagesse
 
 **Efficacité** : Retire les désavantages en portant une armure légère.
 
-### Armure moins lourde
+### Conditionnement
 
-Poids de l'armure intermédiaire équipée réduit de moitié.
+[1-5] Poids de l'armure légère équipée réduit 10%.
 
 ### Arcanes
 
@@ -125,10 +133,14 @@ Avantage d'intelligence ou de sagesse pour la magie en armure légère.
 
 Coût et temps de réparation réduit de moitié.
 
+## Magies Élétistes
+
+Permet d'ajouter 1 point dans une des magies élétistes (solide, liquide, gazeux).
+
 ---
 
 # Sagesse
-> Nombre d'améliorations disponibles : 13
+> Nombre d'améliorations disponibles : 18
 
 ## Incantation
 
@@ -149,6 +161,19 @@ Avantage lorsqu'il s'agit de magie.
 ### Mentaliste
 
 Avantage pour détecter les intentions des êtres vivants.
+
+## Ami des bêtes
+
+[1-5] Modificateur pour calmer les créatures :
+- 1.
+- 2.
+- 3.
+- 4.
+- 5.
+
+## Magies Croitistes
+
+Permet d'ajouter 1 point dans une des magies croitistes (lumière, ténèbres, foudre).
 
 ---
 
