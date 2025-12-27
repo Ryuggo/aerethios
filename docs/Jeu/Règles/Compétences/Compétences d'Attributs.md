@@ -3,7 +3,7 @@
 >A chaque fois que le joueur met 1 point dans un attribut, il peut débloquer 1 compétence liée à cet attribut (certaines compétences sont liées à plusieurs attributs et peuvent être débloqués via différents "chemin").
 
 # Force
-> Nombre d'améliorations disponibles : 18
+> Nombre d'améliorations disponibles : 19
 
 ## Athlétisme
 
@@ -19,7 +19,7 @@ Avantage pour casser des objets ou des structures.
 
 ## Impénétrable
 
-[1-4] Le joueur gagne 5 points d'Impénétrable.
+[1-5] Le joueur gagne 1 point d'Impénétrable (AC).
 
 ## Armure lourde
 
