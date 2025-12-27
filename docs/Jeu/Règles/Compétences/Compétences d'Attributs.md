@@ -140,7 +140,7 @@ Permet d'ajouter 1 point dans une des magies élétistes (solide, liquide, gazeu
 ---
 
 # Sagesse
-> Nombre d'améliorations disponibles : 18
+> Nombre d'améliorations disponibles : 17
 
 ## Incantation
 
@@ -164,12 +164,11 @@ Avantage pour détecter les intentions des êtres vivants.
 
 ## Ami des bêtes
 
-[1-5] Modificateur pour calmer les créatures :
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
+[1-4] Modificateur pour calmer les créatures :
+- 1. Naturels
+- 2. Plantes
+- 3. Hybrides
+- 4. Magiques
 
 ## Magies Croitistes
 
