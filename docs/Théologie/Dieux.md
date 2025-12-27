@@ -1,10 +1,10 @@
 # Imet
 
-## Exister
+## Dieu Patient
 
-### Dualité de la vie
+### Dualité de la Vie/ du Tout
 
-### Dualité de la mort
+### Dualité de la Mort/ du Rien
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## Avoir
 
-### Dualité de la possession/ Avarice
+### Dualité de la possession/ de l'Avarice
 
 ### Dualité du partage/ Générosité
 
@@ -32,29 +32,19 @@
 
 ## Dieu Dormant
 
-### Dualité des ambitions/ Rêves
+### Dualité de l'Ambition/ des Rêves
 
-### Dualité des craintes/ Cauchemars
-
----
-
-# Irahm
-
-## Ressentir
-
-### Dualité du courage/ Amour
-
-### Dualité de la peur/ Colère
+### Dualité du Désespoir/ des Cauchemars
 
 ---
 
 # Lurian
 
-## Faire
+## Ressentir
 
-### Dualité de Paix/ Retenue
+### Dualité de l'Amour/ Paix
 
-### Dualité de Guerre/ Pulsion
+### Dualité de la Haine/ Guerre
 
 ---
 
@@ -72,9 +62,9 @@
 
 ## Prendre
 
-### Dualité de Gourmandise/ Vol
+### Dualité de la Tempérance
 
-### Dualité de Tempérance/ Offrande
+### Dualité du Désir
 
 ---
 
@@ -90,8 +80,8 @@
 
 # Myrrhen
 
-## Savoir/ Souvenir
+## Dieu Brillant
 
-### Dualité de Mémoire/ Vérité
+### Dualité de la Vérité/ Mémoire
 
-### Dualité de Oubli/ Silence
+### Dualité du Mensonge/ Oubli

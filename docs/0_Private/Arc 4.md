@@ -2,7 +2,7 @@
 
 Lieu actuel : [[Nirina]]
 
-Objectif :
+Objectif : Analyser le culte du masque
 
 Pnjs notables : [[Syrithia]],
 
