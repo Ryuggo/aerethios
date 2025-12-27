@@ -1,70 +1,52 @@
-# Imet
+# Dieux principaux
 
-## Dieu Patient
+## Gamesh, Dieu Scintillant
 
-Dieu de la vie et de la mort.
-
-### Dualité de la Vie/ du Tout
-
-### Dualité de la Mort/ du Rien
+Dieu de la possession et du partage.
 
 ---
 
-# Raedon
+## Aerel, Grande Mère
 
-## Dieu Dormant
+Déesse de la fertilité et du plaisir.
+
+---
+
+## Radeon, Dieu Dormant
 
 Dieu des rêves et des ambitions.
 
-### Envie
- la tristesse ressentie face à la possession par autrui d'un bien, et la volonté de se l'approprier par tout moyen et à tout prix
+---
+
+## Obel, Dieu Affamé
+
+Dieu d'élévation et de grandeur
 
 ---
 
-# Gira
-
-## Dieu Pourpre
+## Kira, Dieu Pourpre
 
 Dieu de la guerre et de l'amour.
 
-### Colère
-produit des excès en paroles ou en actes : insultes, violences, meurtre.
+---
 
-###
+## Imet, Dieu Patient
+
+Dieu de la vie et de la mort.
 
 ---
 
-# Obel
+# Dieux secondaires (WIP) ?
 
-## Dieu Affamé
+## Myrrhen, Vrai Dieu
 
-### Gloutonnerie
-idée de démesure et d'aveuglement
+### Dualité de la Vérité/ Mémoire
 
----
-
-# Erel
-
-## Etre
-
-### Dualité de l'orgueil
-
-### Dualité de l'humilité
+### Dualité du Mensonge/ Oubli
 
 ---
 
-# Gamesh
-
-## Dieu Scintillant
-
-### Avarice
-au sens dominant de cupidité, soit accumulation des richesses recherchées pour elles-mêmes.
-
----
-
-# Kelyn
-
-## Pouvoir
+## Kelyn, Pouvoir
 
 ### Dualité de Zèle/ Action
 
@@ -72,9 +54,7 @@ au sens dominant de cupidité, soit accumulation des richesses recherchées pour
 
 ---
 
-# Cavor
-
-## Prendre
+## Cavor, Prendre
 
 ### Dualité de la Tempérance
 
@@ -82,20 +62,8 @@ au sens dominant de cupidité, soit accumulation des richesses recherchées pour
 
 ---
 
-# Daran
-
-## Devoir
+## Daran; Devoir
 
 ### Dualité de Obéissance/ Serment
 
 ### Dualité de Transgression/ Rupture morale
-
----
-
-# Myrrhen
-
-## Dieu Brillant
-
-### Dualité de la Vérité/ Mémoire
-
-### Dualité du Mensonge/ Oubli

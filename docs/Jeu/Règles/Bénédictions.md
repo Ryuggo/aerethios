@@ -23,7 +23,7 @@ Les bénédictions simples offrent un pouvoir précis, régis par des lois, perm
 
 A chaque réussite critique sur un D20, le joueur lance un d20 d'opportunité qu'il conserve pour l'échanger avec un futur jet (aussi D20).
 
-Il peut stocker autant de D20 d'opportunités qu'il veut, mais ne peut en utiliser que 3 par session.
+Il peut stocker autant de D20 d'opportunités qu'il veut, mais ne peut en utiliser que 1 par repos dans une lieu sécurisé.
 
 Il peut ensuite utiliser ces D20 d'opportunité pour échanger des jets de dés de son choix.
 Que ce soit entre ennemis, entre alliés, ou entre les deux.
@@ -52,6 +52,6 @@ L'échec critique devient 2 au lieu de 1 sur le résultat total.
 
 ### Bénédiction de la pièce
 
-Le joueur peut remplacer n'importe quel jet en pile ou face critique (sauf les jets de survie).
+Le joueur peut remplacer n'importe quel d20 en pile ou face critique (sauf les jets de survie).
 
-Cette compétence se recharge lors d'un repos dans une ville sécurisée.
+Cette compétence se recharge lors d'un repos dans un lieu sécurisée.
