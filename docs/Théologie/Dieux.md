@@ -2,9 +2,44 @@
 
 ## Dieu Patient
 
+Dieu de la vie et de la mort.
+
 ### Dualité de la Vie/ du Tout
 
 ### Dualité de la Mort/ du Rien
+
+---
+
+# Raedon
+
+## Dieu Dormant
+
+Dieu des rêves et des ambitions.
+
+### Envie
+ la tristesse ressentie face à la possession par autrui d'un bien, et la volonté de se l'approprier par tout moyen et à tout prix
+
+---
+
+# Gira
+
+## Dieu Pourpre
+
+Dieu de la guerre et de l'amour.
+
+### Colère
+produit des excès en paroles ou en actes : insultes, violences, meurtre.
+
+###
+
+---
+
+# Obel
+
+## Dieu Affamé
+
+### Gloutonnerie
+idée de démesure et d'aveuglement
 
 ---
 
@@ -18,33 +53,12 @@
 
 ---
 
-# Vassir
+# Gamesh
 
-## Avoir
+## Dieu Scintillant
 
-### Dualité de la possession/ de l'Avarice
-
-### Dualité du partage/ Générosité
-
----
-
-# Voan
-
-## Dieu Dormant
-
-### Dualité de l'Ambition/ des Rêves
-
-### Dualité du Désespoir/ des Cauchemars
-
----
-
-# Lurian
-
-## Ressentir
-
-### Dualité de l'Amour/ Paix
-
-### Dualité de la Haine/ Guerre
+### Avarice
+au sens dominant de cupidité, soit accumulation des richesses recherchées pour elles-mêmes.
 
 ---
 
