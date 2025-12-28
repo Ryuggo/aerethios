@@ -49,28 +49,6 @@ tags:
 
 - **Intimidant** : Influence par la peur ; conséquences possibles.
 
-- **Armure Lourde** : Proficiency
-
-	- **Poings d'acier** : Bonus de dégâts pour les coups de poings en gantelet d'armure lourde.
-
-	- **Conditionnement** : Poids de l'armure lourde équipée réduit de moitié
-
-	- Coût et temps de réparation réduit de moitié
-
-	- **Paladin** : Annule les malus sur les magies croitistes
-
-- **Arme à 2 mains** : Proficiency
-
-	- Brise Crâne : Les attaques au marteau de guerre ignore 25% de l'armure
-
-	- Plaies profondes : Les attaques avec un grande épée ont 10% de chance en plus de critique
-
-	- **Barbare** : Possibilité d'utiliser 1 main pour manier une arme à 2 mains avec désavantage
-
-		- **Paladin** : Avantage lorsqu'on utilise une arme à 2 mains avec 2 mains
-
-		- **Berserker** : Pas de désavantage lorsqu'on utilise 1 main pour manier une arme à 2 mains
-
 ## Dextérité
 
 - **Veinard** : Relance un dé par session.
@@ -79,14 +57,6 @@ tags:
 
 - **Négociateur** : Meilleures négociations ; insistance risquée.
 
-- **Armure Intermédiaire** : Proficiency
-
-	- **Conditionnement** : Poids de l'armure intermédiaire équipée réduit de moitié
-
-- **Arme à 1 main** : Proficiency
-
-- **Arme à Distance**
-
 ## Mental/ Intelligence
 
 - **Assidu** : +1 XP lors d’un apprentissage.
@@ -94,8 +64,6 @@ tags:
 - **Imperturbable** : Conserve la concentration en mouvement ; réduit les malus d’adrénaline.
 
 - **Charismatique** : Influence accrue et prix réduits ; attentes plus fortes.
-
-- **Armure Légère** : Proficiency
 
 ## Perception/ Sagesse
 

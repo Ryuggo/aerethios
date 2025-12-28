@@ -3,5 +3,5 @@ tags:
   - Règles
 ---
 [[Combat]]
-[[Compétences]]
+[[OLD - Compétences]]
 [[Métiers]]
