@@ -5,6 +5,7 @@
 ## Catégories
 >- Le dé de dégâts varie selon la catégorie de l'arme.
 >- Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété Finesse.
+>- La maîtrise est répartie sur 5 points.
 
 ### Courte
 *1d4*

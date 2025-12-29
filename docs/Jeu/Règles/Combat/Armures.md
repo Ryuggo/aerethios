@@ -73,10 +73,10 @@
 
 | Armure                      |  Prix main d'œuvre | Impénétrable (AC) | Force | Matériaux |          Propriétés           | Dégats                          |
 | --------------------------- | -----------------: | :---------------: | :---: | :-------: | :---------------------------: | ------------------------------- |
-| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |        +4         |  ---  | 2 lingots | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
-| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |        +8         |  ---  | 4 lingots |              ---              | 1d6 contondant                  |
-| Bouclier d'Estoc            |  20 pa<br>*500 gp* |        +12        |  14   | 6 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
-| Pavois<br>*Tower*           | 40 pa<br>*1500 gp* |        +16        |  17   | 8 lingots |             Lourd             | 1d8 contondant                  |
+| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |         4         |  ---  | 2 lingots | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
+| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |         8         |  ---  | 4 lingots |              ---              | 1d6 contondant                  |
+| Bouclier d'Estoc            |  20 pa<br>*500 gp* |        12         |  14   | 6 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
+| Pavois<br>*Tower*           | 40 pa<br>*1500 gp* |        16         |  17   | 8 lingots |             Lourd             | 1d8 contondant                  |
 
 ---
 
@@ -145,11 +145,11 @@
 | Matériau   | Prix/ lingot | Défense | Résistance aux températures |                               Propriétés                               | Poids/ lingot |
 | ---------- | -----------: | :-----: | :-------------------------: | :--------------------------------------------------------------------: | :-----------: |
 | Fonte      |         2 pa |    4    |             -1              |                                  ---                                   |    1.5 kg     |
-| Fer        |        10 pa |    6    |             -1              |                                  ---                                   |     1 kg      |
-| Bronze     |        25 pa |    8    |             -1              |                                  ---                                   |    1.5 kg     |
-| Acier      |        50 pa |   12    |             -1              |                                  ---                                   |     1 kg      |
-| Titane     |         1 po |   10    |             -1              |                 Ajoute la Force à l'AC de l'équipement                 |    1.5 kg     |
-| Mythril    |         5 po |   15    |             -2              | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1 kg      |
-| Palladium  |         7 po |   20    |             -2              |              Annule le désavantage en Magie (Croititiste)              |     2 kg      |
-| Adamantite |         7 po |   20    |             -2              |               Annule le désavantage en Magie (Élétiste)                |     2 kg      |
-| Orichalque |        10 po |   20    |             -3              |                 Ajoute la Force à l'AC de l'équipement                 |    2.5 kg     |
+| Fer        |        10 pa |  6 / 5  |             -1              |                                  ---                                   |     1 kg      |
+| Bronze     |        25 pa | 8 / 10  |             -1              |                                  ---                                   |    1.5 kg     |
+| Acier      |        50 pa | 12 / 15 |             -1              |                                  ---                                   |     1 kg      |
+| Titane     |         1 po | 10 / 20 |             -1              |                 Ajoute la Force à l'AC de l'équipement                 |    1.5 kg     |
+| Mythril    |         5 po | 15 / 25 |             -2              | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1 kg      |
+| Palladium  |         7 po | 20 / 30 |             -2              |              Annule le désavantage en Magie (Croititiste)              |     2 kg      |
+| Adamantite |         7 po | 20 / 30 |             -2              |               Annule le désavantage en Magie (Élétiste)                |     2 kg      |
+| Orichalque |        10 po | 20 / 30 |             -3              |                 Ajoute la Force à l'AC de l'équipement                 |    2.5 kg     |
