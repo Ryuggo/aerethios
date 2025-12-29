@@ -68,6 +68,7 @@ La difficulté va également baisser tous les 2 niveaux jusqu'au niveau 6.
 | Niveau 4                              | 6      | 8      | 12         | 16    | 22         |
 | Niveau 6                              | 4      | 6      | 8          | 12    | 18         |
 | Amélioration maximale (score minimum) | 3 (1)  | 4 (2)  | 4 (4)      | 6 (6) | 10 (8)     |
+
 > A chaque fois que le joueur utilise un ingrédient, il réduit sa difficulté de 2 s'il réussit la fabrication, sinon il la réduit de 1.
 > A force d'utiliser un ingrédient il peut diminuer la difficulté jusqu'à 0 et réussir en permanence.
 

@@ -9,7 +9,7 @@
 
 >Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs perforant), elle perd de son AC et doit être réparée pour le récupérer.
 
-![[Armures.png]]
+![[aerethios/docs/Images/Armures.png]]
 
 ### Sans armure
 

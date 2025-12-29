@@ -37,7 +37,7 @@ Pour enchanter, il faut :
 
 ---
 
-## [[Kothula]]
+## [[Kothula]] (WIP)
 >Enchanter des parties du corps pour fluidifier les flux magiques qui circulent dedans et améliorer l'utilisation de la magie.
 
 Les parties du corps enchantables sont les bras, le dos et les jambes.
@@ -82,7 +82,7 @@ En fonction du bonus souhaité, les chances de réussites varient :
 
 Une armure en os ou une arme avec le manche en os peuvent bénéficier de cette puissance.
 
-Pour enchanter, le joueur lance 1d20 + Niveau d'enchanteur (le bonus obtenu varie selon le résultat et la rareté de l'os).
+Pour enchanter, le joueur lance **1d20 + Niveau d'enchanteur** (le bonus obtenu varie selon le résultat et la rareté de l'os).
 
 Un échec critique rend l'os inutilisable.
 
@@ -117,7 +117,7 @@ Le joueur peut ajouter de nouveaux enchantements (au risque d'en perdre d'autres
 
 ### Ajouter
 
-Le joueur lance 1d20 + Niveau d'enchanteur.
+Le joueur lance **1d20 + Niveau d'enchanteur**.
 
 La difficulté de réussite change selon le nombre d'enchantements déjà présents :
 

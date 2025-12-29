@@ -45,32 +45,32 @@ Ainsi, il doit :
 
 ### Magie
 
->Jet : **1d20 + Magie + Maîtrise Magique**
+>Jet : **1d20 + Attribut (Intelligence/ Sagesse) + Maîtrise Magique**
 >*Le résultat doit être strictement supérieur aux valeurs du tableau ci-dessous.*
 
-| Niveau actuel | Magies (sauf Feu)                             | Magie de Feu                                  |
-| ------------- | --------------------------------------------- | --------------------------------------------- |
-| 1             | 14                                            | 12                                            |
-| 2             | 16                                            | 15                                            |
-| 3             | 18                                            | 18                                            |
-| 4             | 20                                            | 21                                            |
-| 5             | 22                                            | 24                                            |
-| 6             | 24                                            | 26 (nécessite au moins 1 en maîtrise magique) |
-| 7             | 26                                            | 20                                            |
-| 8             | 28 (nécessite au moins 1 en maîtrise magique) | 23                                            |
-| 9             | 25                                            | 26                                            |
-| 10            | 27                                            | 29                                            |
-| 11            | 29                                            | 32 (nécessite au moins 2 en maîtrise magique) |
-| 12            | 31                                            | 26                                            |
-| 13            | 33                                            | 29                                            |
-| 14            | 35 (nécessite au moins 2 en maîtrise magique) | 32                                            |
-| 15            | 34                                            | 35                                            |
-| 16            | 36                                            | 38 (nécessite au moins 3 en maîtrise magique) |
-| 17            | 38                                            | 35                                            |
-| 18            | 40 (nécessite au moins 3 en maîtrise magique) | 39                                            |
-| 19            | 41                                            | 43 (nécessite au moins 4 en maîtrise magique) |
+| Niveau actuel | Magies (sauf Feu) | Magie de Feu |
+| ------------- | ----------------- | ------------ |
+| 1             | 10                | 14           |
+| 2             | 10                | 14           |
+| 3             | 10                | 14           |
+| 4             | 12                | 16           |
+| 5             | 12                | 16           |
+| 6             | 12                | 16           |
+| 7             | 14                | 18           |
+| 8             | 14                | 18           |
+| 9             | 14                | 18           |
+| 10            | 16                | 20           |
+| 11            | 16                | 20           |
+| 12            | 18                | 22           |
+| 13            | 18                | 22           |
+| 14            | 20                | 24           |
+| 15            | 20                | 24           |
+| 16            | 22                | 26           |
+| 17            | 22                | 26           |
+| 18            | 24                | 28           |
+| 19            | 25                | 30           |
 
->**Exemple** : un magie d'air niveau 3 veut évoluer, le jet doit être supérieur à 18 et il doit payer 3po par jet.
+>**Exemple** : pour améliorer une magie d'air de niveau 3, le jet doit être supérieur à 10 et le joueur doit payer 3po par jet.
 
 ---
 
