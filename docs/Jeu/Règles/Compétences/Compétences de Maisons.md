@@ -14,6 +14,7 @@ tags:
 - Légendes [Diamant, Emeraude, Rubis, Topaze]
 
 ## Compétences
+> Nombre d'améliorations disponibles : 11
 
 - La guilde paie la réparation des équipements
 - [1-3] La guilde fournit la nourriture nécessaire à la quête en cours :
@@ -42,6 +43,7 @@ tags:
 - 1000 po
 
 ## Compétences
+> Nombre d'améliorations disponibles : 13
 
 - Accès à l'hôtel des ventes
 - [1-2] Améliore les relations avec la banque :
@@ -64,6 +66,7 @@ tags:
 - Magister
 
 ## Compétences
+> Nombre d'améliorations disponibles : 11
 
 - [1-5] Se concentrer pour récupérer X crystaux
 - Double la régénération passive de crystaux
@@ -81,6 +84,7 @@ tags:
 - Juge
 
 ## Compétences
+> Nombre d'améliorations disponibles : 1
 
 - Voir et interagir avec des entités planaires
 -
