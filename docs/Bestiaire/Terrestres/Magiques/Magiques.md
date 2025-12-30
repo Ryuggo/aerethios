@@ -1,5 +1,9 @@
-# Invocation
+---
+tags:
+  - Bestiaire
+---
+# [[Invocation]]
 
-# Elémentaires
+# [[Elémentaire]]
 
-# Draconides
+# [[Draconide]]

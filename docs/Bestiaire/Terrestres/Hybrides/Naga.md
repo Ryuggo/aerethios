@@ -1,3 +1,7 @@
+---
+tags:
+  - Bestiaire
+---
 Ne maîtrise qu'une seule magie, qu'ils peuvent imprégner dans un artefact d'invocation d'élémentaire
 
 Grandit infiniment, les plus grands ont été obligé de se retirer dans les océans

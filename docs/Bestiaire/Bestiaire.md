@@ -1,3 +1,7 @@
+---
+tags:
+  - Bestiaire
+---
 >Les créatures du monde se regroupent en différentes catégories.
 >Un [[Arvens]] ou un [[Templis]] se doit de connaître les catégories qui le concernent s'il souhaite être efficace dans son domaine.
 

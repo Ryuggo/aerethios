@@ -1,9 +1,13 @@
-# Vampires
+---
+tags:
+  - Bestiaire
+---
+# [[Vampires]]
 
-# Gobelins
+# [[Gobelins]]
 
-# Esprits
+# [[Esprits]]
 
-# Fantômes
+# [[Fantômes]]
 
-# Dieux
+# [[Dieux]]

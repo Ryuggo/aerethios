@@ -1,3 +1,7 @@
+---
+tags:
+  - Bestiaire
+---
 Originaire de Nirina
 
 Vivant sous la capitale avant la Grande Fracture, ils aidaient le pays en minant en échange de nourriture et étaient très proches de la couronne

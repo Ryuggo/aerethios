@@ -1,3 +1,7 @@
-# Bêtes
+---
+tags:
+  - Bestiaire
+---
+# [[Bête]]
 
-# Insectoides
+# [[Insectoïde]]

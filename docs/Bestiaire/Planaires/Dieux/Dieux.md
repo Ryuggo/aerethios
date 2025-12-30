@@ -1,3 +1,7 @@
+---
+tags:
+  - Bestiaire
+---
 # Dieux principaux
 
 ## Gamesh, Dieu Scintillant
