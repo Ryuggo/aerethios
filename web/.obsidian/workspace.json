@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "8d673170724f90bd",
+    "id": "8c9851f261d23d29",
     "type": "split",
     "children": [
       {
-        "id": "0fd51982c2a7064f",
+        "id": "7a1c8d5166145b52",
         "type": "tabs",
         "children": [
           {
-            "id": "6b69b65865b3ea99",
+            "id": "1813dafe2eb14e28",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7e774b35151bffbc",
+    "id": "70d3b29249a52769",
     "type": "split",
     "children": [
       {
-        "id": "32851c3cdcce4262",
+        "id": "e719599a3fb178d7",
         "type": "tabs",
         "children": [
           {
-            "id": "11602ef1fba2946e",
+            "id": "254ebd36fa7b5e24",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "5b5cb13ab5431df3",
+            "id": "e41e5bb3ef85cd59",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Règles",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "d11c36a662058b24",
+            "id": "f9b7b087fd2b5089",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
-    "id": "12db3b5255ce79b4",
+    "id": "4c5f40d4f1a6c563",
     "type": "split",
     "children": [
       {
-        "id": "ef170b4e54b5391b",
+        "id": "d535f5aa56e09071",
         "type": "tabs",
         "children": [
           {
-            "id": "546deee1e82f866a",
+            "id": "11cbb33ae0bed420",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jeu/Règles/Apprentissages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Apprentissages"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "dde25e1bf5ec1bc3",
+            "id": "6d1aa953802751ba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerethios/docs/Jeu/Règles/Mini-Jeux/Recherche Alchimique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Recherche Alchimique"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "e0bc30b73502344f",
+            "id": "14007ac4e719c3da",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,99 +131,89 @@
             }
           },
           {
-            "id": "2018e305f354d6a8",
+            "id": "365892bf1770fd13",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "208c6303377e4f02",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerethios/docs/Théologie/Dieux.md",
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dieux"
-            }
-          },
-          {
-            "id": "1398213a984c801d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-trim-whitespace:Trim whitespace": false,
-      "webpage-html-export:Export as HTML": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11602ef1fba2946e",
+  "active": "1813dafe2eb14e28",
   "lastOpenFiles": [
-    "aerethios/web/théologie/dieux.html",
-    "aerethios/web/théologie",
-    "aerethios/web/site-lib/styles/other-plugins.css",
-    "aerethios/web/site-lib/styles/theme.css",
-    "aerethios/web/site-lib/styles/obsidian.css",
-    "aerethios/web/site-lib/html/file-tree-content.html",
-    "aerethios/web/site-lib/styles/main-styles.css",
-    "aerethios/web/site-lib/styles/global-variable-styles.css",
-    "aerethios/web/site-lib/scripts/webpage.js",
-    "aerethios/web/site-lib/scripts/graph-wasm.wasm",
-    "aerethios/web/site-lib/scripts/graph-wasm.js",
-    "aerethios/web/site-lib/media/favicon.png",
-    "aerethios/web/site-lib/media/6155340132a851f6089e.svg",
-    "aerethios/web/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "aerethios/web/images/geography.jpg",
-    "aerethios/web/images/armures.png",
-    "aerethios/docs/index.md",
-    "aerethios/docs/Théologie/Dieux.md",
-    "aerethios/docs/Notes/Rang Arvens.md",
-    "aerethios/docs/Notes/Economie.md",
-    "aerethios/docs/Jeu/Sessions/Arc 2/Oav/Arc 2.5 - 12 - 05.08.25 Loic.md",
-    "aerethios/docs/Jeu/Sessions/Arc 2/Oav/Arc 2.5 - 12 - 11.07.25 + 08.08.25 Michel.md",
-    "aerethios/docs/Jeu/Sessions/Arc 2/Oav/Arc 2.5 - 12 - 07.07.25 Thomas.md",
-    "aerethios/docs/Jeu/Sessions/Arc 2/Oav/Arc 2.5 - 12 - 06.07.25 Diego.md",
-    "aerethios/docs/Jeu/Règles/Métiers/Érudition/Érudition.md",
-    "aerethios/docs/Jeu/Règles/Métiers/Exploration/Exploration.md",
-    "aerethios/docs/Jeu/Règles/Métiers/Alchimie/Potionniste.md",
-    "aerethios/docs/Jeu/Règles/Métiers/Alchimie/Alchimie.md",
-    "aerethios/docs/Jeu/Règles/Métiers/Alchimie/Invocateur.md",
-    "aerethios/docs/Jeu/Règles/Métiers/Alchimie/Cuisinier.md",
-    "aerethios/docs/Jeu/Règles/Métiers/Artisanat/Forgeron.md",
-    "aerethios/docs/Jeu/Règles/Métiers/Artisanat/Enchanteur.md",
-    "aerethios/docs/Jeu/Règles/Métiers/Artisanat/Artisanat.md",
-    "aerethios/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Equipements.md",
-    "aerethios/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Force.md",
-    "aerethios/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Sagesse.md",
-    "aerethios/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Intelligence.md",
-    "aerethios/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Dextérité.md",
-    "aerethios/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Charisme.md",
-    "aerethios/docs/Jeu/Sessions/Arc 3/Arc 3.md",
-    "aerethios/docs/Jeu/Sessions/Arc 3/Arc 3 - 20 - 20.12.25.md",
-    "aerethios/web/site-lib/media/favicon.png",
-    "aerethios/web/site-lib/media/6155340132a851f6089e.svg",
-    "aerethios/web/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "aerethios/web/images/geography.jpg",
-    "aerethios/web/images/armures.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "web/mkdocs.yml",
+    "web/docs/Jeu/Sessions/Arc 2/Oav/Arc 2.5 - 12 - 07.07.25 Thomas.md",
+    "web/docs/Jeu/Sessions/Arc 2/Oav/Arc 2.5 - 12 - 05.08.25 Loic.md",
+    "web/docs/Jeu/Sessions/Arc 2/Oav/Arc 2.5 - 12 - 11.07.25 + 08.08.25 Michel.md",
+    "web/docs/Jeu/Sessions/Arc 2/Oav/Arc 2.5 - 12 - 06.07.25 Diego.md",
+    "web/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Sagesse.md",
+    "web/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Intelligence.md",
+    "web/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Force.md",
+    "web/docs/Jeu/Règles/Métiers/Érudition/Érudition.md",
+    "web/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Equipements.md",
+    "web/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Charisme.md",
+    "web/docs/Jeu/Règles/Compétences/Compétences d'Attributs/Dextérité.md",
+    "web/docs/Jeu/Règles/Métiers/Alchimie/Potionniste.md",
+    "web/docs/Jeu/Règles/Métiers/Alchimie/Invocateur.md",
+    "web/docs/Jeu/Règles/Métiers/Alchimie/Cuisinier.md",
+    "web/docs/Jeu/Règles/Métiers/Artisanat/Forgeron.md",
+    "web/docs/Jeu/Règles/Métiers/Exploration/Exploration.md",
+    "web/docs/Jeu/Règles/Métiers/Alchimie/Alchimie.md",
+    "web/docs/Jeu/Règles/Métiers/Artisanat/Enchanteur.md",
+    "web/docs/Jeu/Règles/Métiers/Artisanat/Artisanat.md",
+    "web/docs/Jeu/Sessions/Arc 3/Arc 3.md",
+    "web/docs/Jeu/Sessions/Arc 3/Arc 3 - 19 - 28.11.25.md",
+    "web/docs/Jeu/Sessions/Arc 3/Arc 3 - 20 - 20.12.25.md",
+    "web/docs/Jeu/Sessions/Arc 3/Arc 3 - 18 - 14.11.25.md",
+    "web/docs/Jeu/Sessions/Arc 3/Arc 3 - 16 - 03.10.25.md",
+    "web/docs/Jeu/Sessions/Arc 3/Arc 3 - 13 - 14.08.25.md",
+    "web/docs/Jeu/Sessions/Arc 2/Oav",
+    "web/docs/Jeu/Règles/Compétences/Compétences d'Attributs",
+    "web/docs/Jeu/Règles/Métiers/Érudition",
+    "web/docs/Jeu/Règles/Métiers/Alchimie",
+    "web/docs/Jeu/Règles/Métiers/Exploration",
+    "web/docs/Jeu/Règles/Métiers/Artisanat",
+    "web/docs/Jeu/Sessions/Arc 3",
+    "web/docs/Jeu/Sessions/Arc 2",
+    "web/docs/Jeu/Sessions/Arc 1",
+    "web/docs/Jeu/Règles/Mini-Jeux"
   ]
 }
