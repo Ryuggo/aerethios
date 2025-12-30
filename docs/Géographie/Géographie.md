@@ -1,6 +1,6 @@
 ```leaflet
 id: aerethios-map
-image: [[geography.jpg]]
+image: [[Images/geography.jpg]]
 lock: true
 recenter: false
 noScrollZoom: false

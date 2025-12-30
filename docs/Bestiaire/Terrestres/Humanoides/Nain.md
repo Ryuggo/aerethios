@@ -3,7 +3,7 @@ Originaire de Nirina
 Vivant sous la capitale avant la Grande Fracture, ils aidaient le pays en minant en échange de nourriture et étaient très proches de la couronne
 Ils fabriquaient des automates et des machines Steam punk
 
-![[Machines Naines.png]]
+![[Nain Mech.png]]
 
 Ils sont faibles face au soleil et étaient obligés de vivre sous terre
 
@@ -18,7 +18,7 @@ D'autres nains sont partis vivre dans les montagnes du nord et à Crache Poussi�
 Certains vivent également plus loin, là ou le nuage voyageur ne passe que par période.
 Pendant ces périodes (1 mois) ils vivent sans armure, mais se recouvrent lorsque le nuage s'en va (4 mois) et qu'il pleut, et s'enterrent lorsqu'il fait beau (5 jours/ mois)
 
-En vivant dehors, ils ont rencontré les Dieux et ont décidé de croire à [[aerethios/docs/Théologie/Dieux#Obel, Dieu Affamé|Obel]] car c'est lui qui les a élevé hors de terre et leur a permis de grandir auprès des hommes
+En vivant dehors, ils ont rencontré les Dieux et ont décidé de croire à [[aerethios/docs/Bestiaire/Planaires/Dieux/Dieux#Obel, Dieu Affamé|Obel]] car c'est lui qui les a élevé hors de terre et leur a permis de grandir auprès des hommes
 
 Les nains sont complètement acceptés dans le pays de [[Melnavel]], mais le reste du continent n'a pas entièrement passé le cap et certains les chassent
 
