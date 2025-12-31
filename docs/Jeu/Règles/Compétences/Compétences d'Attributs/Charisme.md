@@ -32,4 +32,4 @@ Possibilité de recevoir des pièces après avoir diverti (1d6 pa).
 
 ### Doyen
 
-Les gens vanteront vos mérites, nettoyant/ améliorant votre réputation locale.
+Les gens vanteront vos mérites, améliorant votre réputation locale.

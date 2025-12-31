@@ -4,6 +4,13 @@
 
 [1-5] Modificateur lors de l'utilisation de magie croitiste.
 
+### Imperturbable
+
+Conserve la concentration en mouvement ; réduit les malus d’adrénaline.
+
+### Assidu
+
+Facilite l'apprentissage.
 ## Perception
 
 [1-5] Modificateur pour détecter des informations utiles.
