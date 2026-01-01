@@ -4,10 +4,14 @@ tags:
 ---
 >Définit les créatures ayant des origines venant d'au moins 2 espèces différentes.
 
-# [[Mutants]]
+# [[Mutations]] / Maladies
 
 # [[Evolutifs]]
 
 - [[Naga]]
 
 # [[Symbiotiques]]
+
+# [[Hommes-bêtes]]
+
+# [[Chimères]]

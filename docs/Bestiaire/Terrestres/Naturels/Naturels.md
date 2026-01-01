@@ -5,3 +5,5 @@ tags:
 # [[Bête]]
 
 # [[Insectoïde]]
+
+# [[Nécrophages]]

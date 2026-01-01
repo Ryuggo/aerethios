@@ -6,4 +6,6 @@ tags:
 
 # [[Elémentaire]]
 
+# [[Mimics]]
+
 # [[Draconide]]
