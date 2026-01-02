@@ -28,6 +28,14 @@ Possibilité de recevoir des pièces après avoir diverti (1d6 pa).
 
 Le mentalisme ne peut pas détecter vos intentions.
 
+## Flatteur
+
+[1-5] Modificateur d'influence par les compliments
+
+### Dragueur
+
+Facilitent les relations et les révélations lors des discussions post-coït.
+
 ## Charismatique
 
 [1-5] Modificateur d'influence par la prestance.

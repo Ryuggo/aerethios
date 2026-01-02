@@ -4,7 +4,7 @@
 
 ## Vêtements/ Sans armure
 
-
+[1-4] Les sorts à 1 crystal de consomme pas ce crystal.
 
 ## Armure légère
 

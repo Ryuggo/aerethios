@@ -2,6 +2,14 @@
 
 [1-5] Modificateur lors de l'utilisation de magie élétiste.
 
+### Imperturbable
+
+Conserve la concentration en mouvement ; réduit les malus d’adrénaline.
+
+### Assidu
+
+Facilite l'apprentissage.
+
 ## Sagesse
 
 [1-5] Modificateur lors de l'utilisation de magie croitiste.

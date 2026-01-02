@@ -11,9 +11,9 @@
 | [[Force#Impénétrable\|Impénétrable]]                       | [[Dextérité#Doigté\|Doigté]]                               | [[Mental#Résistance mentale\|Résistance Mentale]] | [[Perception#Travailleur\|Travailleur]]     | [[Charisme#Performance\|Performance]]     |
 |                                                            | [[Dextérité#Sixième sens\|Sixième Sens]]                   | [[Mental#Magicien\|Magicien]]                     |                                             | [[Charisme#Persuasif\|Persuasif]]         |
 |                                                            | [[Dextérité#Ambidextre\|Ambidextre]]                       |                                                   |                                             | [[Charisme#Charismatique\|Charismatique]] |
+| [[Charisme#Intimidant\|Intimidant]]                        | [[Charisme#Performance\|Performance]]                      | [[Charisme#Persuasif\|Persuasif]]                 |                                             |                                           |
 | [[Equipements#Armure intermédiaire\|Armure Intermédiaire]] | [[Equipements#Armure légère\|Armure Légère]]               | [[Equipements#Vêtements/ Sans armure\|Vêtements]] |                                             |                                           |
 | [[Equipements#Armure lourde\|Armure Lourde]]               | [[Equipements#Armure intermédiaire\|Armure Intermédiaire]] | [[Equipements#Armure légère\|Armure Légère]]      |                                             |                                           |
-| [[Charisme#Intimidant\|Intimidant]]                        | [[Charisme#Performance\|Performance]]                      | [[Charisme#Persuasif\|Persuasif]]                 |                                             |                                           |
 
 # Compétences de Maisons
 
@@ -22,29 +22,57 @@
 
 ### Rangs
 
-- Bronze 
-- Argent
-- Or
+- Bronze :
+	- la guilde fournit des rations pour la quête en cours,
+	- la guilde offre l'accès à ses bâtiments :
+		- la taverne.
+
+- Argent :
+	- la guilde fournit des rations pour la quête en cours,
+	- la guilde paie la réparation des équipements,
+	- la guilde offre l'accès à ses bâtiments :
+		- la taverne,
+		- l'auberge.
+	- la guilde paie les transports nécessaires à la quête en cours :
+		- terrestre.
+
+- Or :
+	- la guilde fournit des plats (sans touche du chef) pour la quête en cours,
+	- la guilde paie la réparation des équipements,
+	- la guilde offre l'accès à ses bâtiments :
+		- la taverne,
+		- l'auberge,
+		- la salle d'artisanat.
+	- la guilde paie les transports nécessaires à la quête en cours :
+		- terrestre,
+		- aquatique.
+
 - Platine
+	- la guilde fournit des plats (avec touche du chef) pour la quête en cours,
+	- la guilde paie la réparation des équipements,
+	- la guilde offre l'accès à ses bâtiments :
+		- la taverne,
+		- l'auberge,
+		- la salle d'artisanat,
+		- la salle d'alchimie.
+	- la guilde paie les transports nécessaires à la quête en cours :
+		- terrestre,
+		- aquatique,
+		- aérien.
+
 - Légendes [Diamant, Emeraude, Rubis, Topaze]
-
-### Compétences
-> Nombre d'améliorations disponibles : 11
-
-- La guilde paie la réparation des équipements
-- [1-3] La guilde fournit la nourriture nécessaire à la quête en cours :
-	- 1. ration,
-	- 2. plat (sans touche du chef),
-	- 3. plat (avec touche du chef).
-- [1-3] La guilde offre l'accès à ses bâtiments :
-	- 1. taverne et auberge,
-	- 2. salles d'artisanat,
-	- 3. salles d'alchimie.
-- [1-4] La guilde paie les transports nécessaires à la quête en cours :
-	- 1. terrestre,
-	- 2. aquatique,
-	- 3. aérien,
-	- 4. téléportation.
+	- la guilde fournit des plats (avec touche du chef) pour la quête en cours,
+	- la guilde paie la réparation des équipements,
+	- la guilde offre l'accès à ses bâtiments :
+		- la taverne,
+		- l'auberge,
+		- la salle d'artisanat,
+		- la salle d'alchimie.
+	- la guilde paie les transports nécessaires à la quête en cours :
+		- terrestre,
+		- aquatique,
+		- aérien,
+		- téléportation.
 
 ## Runild
 >Nombre de points Max : 5
