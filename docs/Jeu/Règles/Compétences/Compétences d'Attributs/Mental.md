@@ -2,6 +2,10 @@
 
 [1-5] Modificateur lors de l'utilisation de magie élétiste.
 
+## Incantation
+
+[1-5] Modificateur lors de l'utilisation de magie croitiste.
+
 ### Imperturbable
 
 Conserve la concentration en mouvement ; réduit les malus d’adrénaline.

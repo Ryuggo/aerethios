@@ -24,7 +24,7 @@ Possibilité de recevoir des pièces après avoir diverti (1d6 pa).
 
 [1-5] Modificateur d'influence par la parole.
 
-### 
+###
 
 ## Charismatique
 

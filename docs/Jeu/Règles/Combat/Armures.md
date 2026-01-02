@@ -11,16 +11,17 @@
 
 ![[aerethios/docs/Images/Armures.png]]
 
-### Sans armure
+### Vêtement/ Sans armure
 
 **Effets**
     - Propriété [[Propriétés#Délicat|Délicat]] (cassera avant l'armure légère)
 
-| Armure           | Prix main d'œuvre | Impénétrable (AC) |     Matériaux      |
-| ---------------- | ----------------: | :---------------: | :----------------: |
-| Sans armure      |                 - |         0         |        ---         |
-| Cape en tissu    |  10 pa<br>*10 gp* |         0         | 1 rouleau de tissu |
-| Cape de fourrure |  25 pa<br>*25 gp* |         0         |     1 fourrure     |
+| Armure             | Prix main d'œuvre | Impénétrable (AC) |      Matériaux      |
+| ------------------ | ----------------: | :---------------: | :-----------------: |
+| Sans armure        |                 - |         0         |         ---         |
+| Cape en tissu      |  10 pa<br>*10 gp* |         0         | 1 rouleau de tissu  |
+| Cape de fourrure   |  25 pa<br>*25 gp* |         0         |     1 fourrure      |
+| Vêtements en tissu |             40 pa |         0         | 4 rouleaux de tissu |
 
 ### Légère
 >**Faiblesse** : Perforant

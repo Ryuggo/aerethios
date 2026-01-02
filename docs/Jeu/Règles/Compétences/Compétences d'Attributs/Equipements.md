@@ -2,6 +2,10 @@
 
 # Armures
 
+## Vêtements/ Sans armure
+
+
+
 ## Armure légère
 
 **Efficacité** : Retire les désavantages en portant une armure légère.
