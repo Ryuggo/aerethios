@@ -4,130 +4,24 @@
 >Chaque attribut peut contenir jusqu'à 20 points.
 >A chaque fois que le joueur met 1 point dans un attribut, il peut débloquer 1 compétence liée à cet attribut (certaines compétences sont liées à plusieurs attributs et peuvent être débloqués via différents "chemin").
 
-| Force (37)                                                 | Dextérité (33)                                             | Mental (31)                                       | Perception (18)                             | Charisme (24)                             |
+| Force (37)                                                 | Dextérité (33)                                             | Mental (31)                                       | Perception (24)                             | Charisme (24)                             |
 | ---------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------- | ----------------------------------------- |
 | [[Force#Athlétisme\|Athlétisme]]                           | [[Dextérité#Acrobatie\|Acrobatie]]                         | [[Mental#Intelligence\|Intelligence]]             | [[Perception#Perception\|Perception]]       | [[Charisme#Veinard\|Veinard]]             |
 | [[Force#Mule\|Mule]]                                       | [[Dextérité#Discrétion\|Discrétion]]                       | [[Mental#Sagesse\|Sagesse]]                       | [[Perception#Ami des bêtes\|Ami des Bêtes]] | [[Charisme#Intimidant\|Intimidant]]       |
 | [[Force#Impénétrable\|Impénétrable]]                       | [[Dextérité#Doigté\|Doigté]]                               | [[Mental#Résistance mentale\|Résistance Mentale]] | [[Perception#Travailleur\|Travailleur]]     | [[Charisme#Performance\|Performance]]     |
 |                                                            | [[Dextérité#Sixième sens\|Sixième Sens]]                   | [[Mental#Magicien\|Magicien]]                     |                                             | [[Charisme#Persuasif\|Persuasif]]         |
-|                                                            | [[Dextérité#Ambidextre\|Ambidextre]]                       |                                                   |                                             | [[Charisme#Charismatique\|Charismatique]] |
-| [[Charisme#Intimidant\|Intimidant]]                        | [[Charisme#Performance\|Performance]]                      | [[Charisme#Persuasif\|Persuasif]]                 |                                             |                                           |
+|                                                            | [[Dextérité#Ambidextre\|Ambidextre]]                       |                                                   |                                             | [[Charisme#Flatteur\|Flatteur]]           |
+| [[Charisme#Intimidant\|Intimidant]]                        | [[Charisme#Performance\|Performance]]                      | [[Charisme#Persuasif\|Persuasif]]                 | [[Charisme#Flatteur\|Flatteur]]             | [[Charisme#Charismatique\|Charismatique]] |
 | [[Equipements#Armure intermédiaire\|Armure Intermédiaire]] | [[Equipements#Armure légère\|Armure Légère]]               | [[Equipements#Vêtements/ Sans armure\|Vêtements]] |                                             |                                           |
 | [[Equipements#Armure lourde\|Armure Lourde]]               | [[Equipements#Armure intermédiaire\|Armure Intermédiaire]] | [[Equipements#Armure légère\|Armure Légère]]      |                                             |                                           |
 
 # Compétences de Maisons
 
-## Arvens
->Nombre de points Max : 8
 
-### Rangs
-
-- Bronze :
-	- la guilde fournit des rations pour la quête en cours,
-	- la guilde offre l'accès à ses bâtiments :
-		- la taverne.
-
-- Argent :
-	- la guilde fournit des rations pour la quête en cours,
-	- la guilde paie la réparation des équipements,
-	- la guilde offre l'accès à ses bâtiments :
-		- la taverne,
-		- l'auberge.
-	- la guilde paie les transports nécessaires à la quête en cours :
-		- terrestre.
-
-- Or :
-	- la guilde fournit des plats (sans touche du chef) pour la quête en cours,
-	- la guilde paie la réparation des équipements,
-	- la guilde offre l'accès à ses bâtiments :
-		- la taverne,
-		- l'auberge,
-		- la salle d'artisanat.
-	- la guilde paie les transports nécessaires à la quête en cours :
-		- terrestre,
-		- aquatique.
-
-- Platine
-	- la guilde fournit des plats (avec touche du chef) pour la quête en cours,
-	- la guilde paie la réparation des équipements,
-	- la guilde offre l'accès à ses bâtiments :
-		- la taverne,
-		- l'auberge,
-		- la salle d'artisanat,
-		- la salle d'alchimie.
-	- la guilde paie les transports nécessaires à la quête en cours :
-		- terrestre,
-		- aquatique,
-		- aérien.
-
-- Légendes [Diamant, Emeraude, Rubis, Topaze]
-	- la guilde fournit des plats (avec touche du chef) pour la quête en cours,
-	- la guilde paie la réparation des équipements,
-	- la guilde offre l'accès à ses bâtiments :
-		- la taverne,
-		- l'auberge,
-		- la salle d'artisanat,
-		- la salle d'alchimie.
-	- la guilde paie les transports nécessaires à la quête en cours :
-		- terrestre,
-		- aquatique,
-		- aérien,
-		- téléportation.
-
-## Runild
->Nombre de points Max : 5
-
-### Rangs
-
-- 1 po
-- 50 po
-- 100 po
-- 500 po
-- 1000 po
-
-### Compétences
-> Nombre d'améliorations disponibles : 13
-
-- Accès à l'hôtel des ventes
-- [1-2] Améliore les relations avec la banque :
-	- 1. N'est pas taxé par la banque lors d'un retrait
-	- 2. L'argent en banque engrange de l'argent pour un taux de 5% par mois
-- [1-5] Octroie 5% de réduction par niveau
-- [1-5] Augmente le prix de vente de 5% par niveau (50% du prix d'achat de base)
-
-## Scienctes
->Nombre de points Max : 7
-
-### Rangs
-
-- Apprenti
-- Initié
-- Magicien
-- Mage
-- Archimage
-- Hiéromage
-- Magister
-
-### Compétences
-> Nombre d'améliorations disponibles : 11
-
-- [1-5] Se concentrer pour récupérer X crystaux
-- Double la régénération passive de crystaux
-- [1-5] Augmente les dégâts magiques de 2X/crystal
-
-## Templis
->Nombre de points Max : 5
-
-### Rangs
-
-- Pèlerin
-- Passeur
-- Oracle
-- Forgeron
-- Juge
-
-### Compétences
-> Nombre d'améliorations disponibles : 1
-
-- Voir et interagir avec des entités planaires
--
+| Arvens                                                                        | Runild | Scienctes | Templis |
+| ----------------------------------------------------------------------------- | ------ | --------- | ------- |
+| [[Arvens#Bronze\|Bronze]]                                                     |        |           |         |
+| [[Arvens#Argent\|Argent]]                                                     |        |           |         |
+| [[Arvens#Or\|Or]]                                                             |        |           |         |
+| [[Arvens#Platine\|Platine]]                                                   |        |           |         |
+| [[Arvens#Diamant, Emeraude, Rubis, Topaze\|Diamant, Émeraude, Rubis, Topaze]] |        |           |         |

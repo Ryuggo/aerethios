@@ -1,5 +1,3 @@
-> Nombre d'améliorations disponibles : 24
-
 ## Veinard
 
 Permet de relancer 1d20 de son choix par session.
