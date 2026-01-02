@@ -1,8 +1,4 @@
-# Apprenti
-
 # Initié
-
-# Magicien
 
 # Mage
 
