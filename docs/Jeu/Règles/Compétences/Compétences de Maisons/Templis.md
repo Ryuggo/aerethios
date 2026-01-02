@@ -1,10 +1,14 @@
-### Rangs
+# Pèlerin
 
-- Pèlerin
-- Passeur
-- Oracle
-- Forgeron
-- Juge
+# Passeur
+
+# Oracle
+
+# Forgeron
+
+# Juge
+
+---
 
 ### Compétences
 > Nombre d'améliorations disponibles : 1

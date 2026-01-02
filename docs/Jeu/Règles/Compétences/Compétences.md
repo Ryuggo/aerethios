@@ -17,11 +17,12 @@
 
 # Compétences de Maisons
 
-
-| Arvens                                                                        | Runild | Scienctes | Templis |
-| ----------------------------------------------------------------------------- | ------ | --------- | ------- |
-| [[Arvens#Bronze\|Bronze]]                                                     |        |           |         |
-| [[Arvens#Argent\|Argent]]                                                     |        |           |         |
-| [[Arvens#Or\|Or]]                                                             |        |           |         |
-| [[Arvens#Platine\|Platine]]                                                   |        |           |         |
-| [[Arvens#Diamant, Emeraude, Rubis, Topaze\|Diamant, Émeraude, Rubis, Topaze]] |        |           |         |
+| Arvens                                                                        | Runild                      | Scienctes                          | Templis              |
+| ----------------------------------------------------------------------------- | --------------------------- | ---------------------------------- | -------------------- |
+| [[Arvens#Bronze\|Bronze]]                                                     | [[Runild#1 po\|1 po]]       | [[Scienctes#Apprenti\|Apprenti]]   | [[Templis#Pèlerin]]  |
+| [[Arvens#Argent\|Argent]]                                                     | [[Runild#50 po\|50 po]]     | [[Scienctes#Initié\|Initié]]       | [[Templis#Passeur]]  |
+| [[Arvens#Or\|Or]]                                                             | [[Runild#100 po\|100 po]]   | [[Scienctes#Magicien\|Magicien]]   | [[Templis#Oracle]]   |
+| [[Arvens#Platine\|Platine]]                                                   | [[Runild#500 po\|500 po]]   | [[Scienctes#Mage\|Mage]]           | [[Templis#Forgeron]] |
+| [[Arvens#Diamant, Emeraude, Rubis, Topaze\|Diamant, Émeraude, Rubis, Topaze]] | [[Runild#1000 po\|1000 po]] | [[Scienctes#Archimage\|Archimage]] | [[Templis#Juge]]     |
+|                                                                               |                             | [[Scienctes#Hiéromage\|Hiéromage]] |                      |
+|                                                                               |                             | [[Scienctes#Magister\|Magister]]   |                      |

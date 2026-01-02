@@ -1,12 +1,18 @@
-### Rangs
+# Apprenti
 
-- Apprenti
-- Initié
-- Magicien
-- Mage
-- Archimage
-- Hiéromage
-- Magister
+# Initié
+
+# Magicien
+
+# Mage
+
+# Archimage
+
+# Hiéromage
+
+# Magister
+
+---
 
 ### Compétences
 > Nombre d'améliorations disponibles : 11
