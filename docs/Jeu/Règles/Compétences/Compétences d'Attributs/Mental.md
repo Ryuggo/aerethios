@@ -1,8 +1,8 @@
-## Concentration
+## Intelligence
 
 [1-5] Modificateur lors de l'utilisation de magie élétiste.
 
-## Incantation
+## Sagesse
 
 [1-5] Modificateur lors de l'utilisation de magie croitiste.
 
@@ -18,14 +18,8 @@ Facilite l'apprentissage.
 
 [1-5] Modificateur de contrôle de soi lors de situations stressantes.
 
-## Travailleur
+## Magicien
 
-[1-5] Modificateur pour l'artisanat.
+Permet d'ajouter 1 point dans une des magies (sauf le Feu).
 
-### Précis
-
-Rater plusieurs fois ne fait pas échouer la fabrication.
-
-## Magies Élétistes
-
-Permet d'ajouter 1 point dans une des magies élétistes (solide, liquide, gazeux).
+Si la magie n'est pas connue, il s'agit de points latents qui seront ajoutés une fois qu'elle sera apprise (ils ne peuvent aller que jusqu'à 5).

@@ -1,19 +1,19 @@
 # Compétences d'Attributs
 
->Le joueur commence avec 27 points à répartir dans ses attributs (force, dextérité, ..) et en débloquera 40 de plus en montant son niveau.
+>Le joueur commence avec X points à répartir dans ses attributs (force, dextérité, ..) et en débloquera 40 de plus en montant son niveau.
 >Chaque attribut peut contenir jusqu'à 20 points.
 >A chaque fois que le joueur met 1 point dans un attribut, il peut débloquer 1 compétence liée à cet attribut (certaines compétences sont liées à plusieurs attributs et peuvent être débloqués via différents "chemin").
 
-| Force (37)                                                 | Dextérité (33)                                             | Mental (40)                                       | Perception (40)                                     | Charisme (24)                             |
-| ---------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------- |
-| [[Force#Athlétisme\|Athlétisme]]                           | [[Dextérité#Acrobatie\|Acrobatie]]                         | [[Mental#Concentration\|Concentration]]           | [[Perception#Incantation\|Incantation]]             | [[Charisme#Veinard\|Veinard]]             |
-| [[Force#Mule\|Mule]]                                       | [[Dextérité#Discrétion\|Discrétion]]                       | [[Mental#Résistance mentale\|Résistance Mentale]] | [[Perception#Perception\|Perception]]               | [[Charisme#Intimidant\|Intimidant]]       |
-| [[Force#Impénétrable\|Impénétrable]]                       | [[Dextérité#Doigté\|Doigté]]                               | [[Mental#Travailleur\|Travailleur]]               | [[Perception#Ami des bêtes\|Ami des Bêtes]]         | [[Charisme#Performance\|Performance]]     |
-|                                                            | [[Dextérité#Sixième sens\|Sixième Sens]]                   | [[Mental#Magies Élétistes\|Magies Élétistes]]     | [[Perception#Magies Croitistes\|Magies Croitistes]] | [[Charisme#Persuasif\|Persuasif]]         |
-|                                                            | [[Dextérité#Ambidextre\|Ambidextre]]                       |                                                   |                                                     | [[Charisme#Charismatique\|Charismatique]] |
-| [[Equipements#Armure intermédiaire\|Armure Intermédiaire]] | [[Equipements#Armure légère\|Armure Légère]]               | [[Equipements#Vêtements/ Sans armure\|Vêtements]] |                                                     |                                           |
-| [[Equipements#Armure lourde\|Armure Lourde]]               | [[Equipements#Armure intermédiaire\|Armure Intermédiaire]] | [[Equipements#Armure légère\|Armure Légère]]      |                                                     |                                           |
-| [[Charisme#Intimidant\|Intimidant]]                        | [[Charisme#Performance\|Performance]]                      | [[Charisme#Persuasif\|Persuasif]]                 | [[Charisme#Charismatique\|Charismatique]]           |                                           |
+| Force (37)                                                 | Dextérité (33)                                             | Mental (31)                                       | Perception (18)                             | Charisme (24)                             |
+| ---------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------- | ----------------------------------------- |
+| [[Force#Athlétisme\|Athlétisme]]                           | [[Dextérité#Acrobatie\|Acrobatie]]                         | [[Mental#Intelligence\|Intelligence]]             | [[Perception#Perception\|Perception]]       | [[Charisme#Veinard\|Veinard]]             |
+| [[Force#Mule\|Mule]]                                       | [[Dextérité#Discrétion\|Discrétion]]                       | [[Mental#Sagesse\|Sagesse]]                       | [[Perception#Ami des bêtes\|Ami des Bêtes]] | [[Charisme#Intimidant\|Intimidant]]       |
+| [[Force#Impénétrable\|Impénétrable]]                       | [[Dextérité#Doigté\|Doigté]]                               | [[Mental#Résistance mentale\|Résistance Mentale]] | [[Perception#Travailleur\|Travailleur]]     | [[Charisme#Performance\|Performance]]     |
+|                                                            | [[Dextérité#Sixième sens\|Sixième Sens]]                   | [[Mental#Magicien\|Magicien]]                     |                                             | [[Charisme#Persuasif\|Persuasif]]         |
+|                                                            | [[Dextérité#Ambidextre\|Ambidextre]]                       |                                                   |                                             | [[Charisme#Charismatique\|Charismatique]] |
+| [[Equipements#Armure intermédiaire\|Armure Intermédiaire]] | [[Equipements#Armure légère\|Armure Légère]]               | [[Equipements#Vêtements/ Sans armure\|Vêtements]] |                                             |                                           |
+| [[Equipements#Armure lourde\|Armure Lourde]]               | [[Equipements#Armure intermédiaire\|Armure Intermédiaire]] | [[Equipements#Armure légère\|Armure Légère]]      |                                             |                                           |
+| [[Charisme#Intimidant\|Intimidant]]                        | [[Charisme#Performance\|Performance]]                      | [[Charisme#Persuasif\|Persuasif]]                 |                                             |                                           |
 
 # Compétences de Maisons
 
@@ -22,7 +22,7 @@
 
 ### Rangs
 
-- Bronze
+- Bronze 
 - Argent
 - Or
 - Platine

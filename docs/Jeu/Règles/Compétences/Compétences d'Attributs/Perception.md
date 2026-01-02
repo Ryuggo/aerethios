@@ -23,6 +23,10 @@ Avantage pour détecter les intentions des êtres vivants.
 - 3. Hybrides
 - 4. Magiques
 
-## Magies Croitistes
+## Travailleur
 
-Permet d'ajouter 1 point dans une des magies croitistes (lumière, ténèbres, foudre).
+[1-5] Modificateur pour l'artisanat.
+
+### Précis
+
+Rater plusieurs fois ne fait pas échouer la fabrication.
