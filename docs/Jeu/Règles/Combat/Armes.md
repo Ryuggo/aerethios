@@ -20,7 +20,7 @@
 | Poings  |                 - |        +1 Contondant         |     -     |
 | Objet   |                 - |             ---              |     -     |
 | Cestus  |                   |        +5 Contondant         |           |
-| Dague   |                   | +5 Perforant<br>+2 Tranchant |           |
+| Dague   |                   | +3 Perforant<br>+1 Tranchant |           |
 | Griffes |                   | +3 Tranchant<br>+2 Perforant |           |
 
 ### 1 main

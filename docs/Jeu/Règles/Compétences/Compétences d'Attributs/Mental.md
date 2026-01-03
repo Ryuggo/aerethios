@@ -1,32 +1,32 @@
-## Intelligence
+# Intelligence
 
 [1-5] Modificateur lors de l'utilisation de magie élétiste.
 
-### Imperturbable
+## Imperturbable
 
 Conserve la concentration en mouvement ; réduit les malus d’adrénaline.
 
-### Assidu
+## Assidu
 
 Facilite l'apprentissage.
 
-## Sagesse
+# Sagesse
 
 [1-5] Modificateur lors de l'utilisation de magie croitiste.
 
-### Imperturbable
+## Imperturbable
 
 Conserve la concentration en mouvement ; réduit les malus d’adrénaline.
 
-### Assidu
+## Assidu
 
 Facilite l'apprentissage.
 
-## Résistance mentale
+# Résistance mentale
 
 [1-5] Modificateur de contrôle de soi lors de situations stressantes.
 
-## Magicien
+# Magicien
 
 Permet d'ajouter 1 point dans une des magies (sauf le Feu).
 

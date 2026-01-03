@@ -1,15 +1,15 @@
-## Athlétisme
+# Athlétisme
 
 [1-5] Modificateur lors d'un effort physique prolongé ou soudain.
 
-### Destructeur
+## Destructeur
 
 Avantage pour casser des objets ou des structures.
 
-## Mule
+# Mule
 
 [1-4] Charge maximale + 50kg.
 
-## Impénétrable
+# Impénétrable
 
 [1-5] Le joueur gagne 1 point d'Impénétrable (AC).

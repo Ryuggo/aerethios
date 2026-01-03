@@ -57,7 +57,6 @@
 **Effets**
     - Perte de 2 HP pour chaque heure de marche avec l'armure équipée
     - Désavantage en Magie
-    - Impossible d'esquiver
 
 | Armure                            |  Prix main d'œuvre | Impénétrable (AC) | Force |          Matériaux          |
 | --------------------------------- | -----------------: | :---------------: | :---: | :-------------------------: |

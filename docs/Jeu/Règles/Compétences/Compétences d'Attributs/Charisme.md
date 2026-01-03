@@ -1,43 +1,43 @@
-## Veinard
+# Veinard
 
 Permet de relancer 1d20 de son choix par session.
 
-## Intimidant
+# Intimidant
 
 [1-5] Modificateur d'influence par la peur.
 
-### Parrain
+## Parrain
 
 Les gens ne parleront pas de ce que vous avez fait ou dit.
 
-## Performance
+# Performance
 
 [1-5] Modificateur d'influence par la gestuelle.
 
-### Bouffon
+## Bouffon
 
 Possibilité de recevoir des pièces après avoir diverti (1d6 pa).
 
-## Persuasif
+# Persuasif
 
 [1-5] Modificateur d'influence par la parole.
 
-### Politicien
+## Politicien
 
 Le mentalisme ne peut pas détecter vos intentions.
 
-## Flatteur
+# Flatteur
 
 [1-5] Modificateur d'influence par les compliments
 
-### Dragueur
+## Dragueur
 
 Facilitent les relations et les révélations lors des discussions post-coït.
 
-## Charismatique
+# Charismatique
 
 [1-5] Modificateur d'influence par la prestance.
 
-### Doyen
+## Doyen
 
 Les gens vanteront vos mérites, améliorant votre réputation locale.

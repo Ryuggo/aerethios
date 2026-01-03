@@ -8,9 +8,8 @@
 
 # Magister
 
----
 
-### Compétences
+# Compétences
 > Nombre d'améliorations disponibles : 11
 
 - [1-5] Se concentrer pour récupérer X crystaux

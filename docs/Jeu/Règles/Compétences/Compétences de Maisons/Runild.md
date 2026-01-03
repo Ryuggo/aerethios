@@ -10,9 +10,8 @@
  
 # 1000 po
 
----
 
-### Compétences
+# Compétences
 > Nombre d'améliorations disponibles : 13
 
 -
