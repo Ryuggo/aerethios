@@ -11,8 +11,8 @@
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|  10   |    14     |   8    |     13     |    10    |
-|   0   |    +2     |   -2   |     +1     |    0     |
+|   9   |    14     |   10   |     12     |    10    |
+|  -1   |    +2     |   0    |     +1     |    0     |
 
 ## [[Compétences]]
 >67 points à répartir dans les compétences
