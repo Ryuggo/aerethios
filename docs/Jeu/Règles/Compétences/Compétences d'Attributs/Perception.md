@@ -14,13 +14,17 @@ Avantage lorsqu'il s'agit de magie.
 
 Avantage pour détecter les intentions des êtres vivants.
 
-# Ami des bêtes
+# Survie
 
-[1-4] Modificateur pour calmer les créatures :
-- 1. Naturels
-- 2. Plantes
-- 3. Hybrides
-- 4. Magiques
+[1-5] Modificateur pour connaitre ou comprendre l'environnement.
+
+## Plantes
+
+Avantage lorsqu'il s'agit de plantes.
+
+## Animaux
+
+Avantage lorsqu'il s'agit d'animaux.
 
 # Travailleur
 

@@ -1,23 +1,29 @@
 # 1 po
 
-- Accès à l'hôtel des ventes
- 
+- Accès à l'hôtel des ventes.
+
 # 50 po
+
+- Accès à l'hôtel des ventes,
+- N'est pas taxé par la banque lors d'un retrait.
 
 # 100 po
 
+- Accès à l'hôtel des ventes,
+- N'est pas taxé par la banque lors d'un retrait,
+- Octroie 10% de réduction cher les marchands Runild,
+
 # 500 po
- 
+
+- Accès à l'hôtel des ventes,
+- N'est pas taxé par la banque lors d'un retrait,
+- Octroie 10% de réduction cher les marchands Runild,
+- Le compte bancaire peut être bloqué tous les mois pour que la somme actuellement présente engrange 1% de bénéfices.
+
 # 1000 po
 
-
-# Compétences
-> Nombre d'améliorations disponibles : 13
-
--
-- [1-2] Améliore les relations avec la banque :
-	- 1. N'est pas taxé par la banque lors d'un retrait
-	- 2. L'argent en banque engrange de l'argent pour un taux de 5% par mois
-- [1-5] Octroie 5% de réduction par niveau
-- [1-5] Augmente le prix de vente de 5% par niveau (50% du prix d'achat de base)
+- Accès à l'hôtel des ventes,
+- N'est pas taxé par la banque lors d'un retrait,
+- Octroie 10% de réduction cher les marchands Runild,
+- Le compte bancaire peut être bloqué tous les mois pour que la somme actuellement présente engrange 2% de bénéfices,
 - 

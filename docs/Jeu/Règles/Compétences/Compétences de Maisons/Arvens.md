@@ -9,8 +9,8 @@
 - la guilde fournit des rations pour la quête en cours,
 - la guilde paie la réparation des équipements,
 - la guilde offre l'accès à ses bâtiments :
-		- la taverne,
-		- l'auberge.
+	- la taverne,
+	- l'auberge.
 - la guilde paie les transports nécessaires à la quête en cours :
 	- terrestre.
 
@@ -40,7 +40,7 @@
 	- aquatique,
 	- aérien.
 
-# Légendes 
+# Légendes
 
 ## Diamant, Emeraude, Rubis, Topaze
 
