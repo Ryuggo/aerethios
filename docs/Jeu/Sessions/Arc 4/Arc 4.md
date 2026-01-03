@@ -2,15 +2,17 @@
 
 Lieu actuel : [[Nirina]]
 
-Objectif : Analyser le culte du masque
+Objectif.s : Enquêter sur le culte du masque et leurs armes pour le maîtriser, Abattre le Magala
 
 Pnjs notables : [[Syrithia]],
 
-Boss final : [[Gore Magala]] ?
+Boss final : 
 
 ## Sessions
 
 [[Arc 4 - 21 - 02.01.26]]
+
+[[Arc 4 - 22 - X.01.26]]
 
 | Précédent |  Suivant  |
 | :-------: | :-------: |
