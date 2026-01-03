@@ -21,7 +21,3 @@ Permet de réagir à une attaque surprise (en dehors d'un combat).
 ## Troisième œil
 
 Permet de réagir à une attaque qui se trouve hors du champs de vision
-
-# Ambidextre
-
-Permet d'utiliser 2 armes courtes ou 1 main par tour de combat.
