@@ -4,4 +4,4 @@ tags:
 ---
 [[Combat]]
 [[Compétences]]
-[[Métiers]]
+[[Apprentissages]]

@@ -2,17 +2,17 @@
 
 **Niveau** : 5.5
 
-|           Arvens            | Runild |        Scienctes         | Templis |
-| :-------------------------: | :----: | :----------------------: | :-----: |
-| [[Arvens#Argent\|Argent]] 2 |   -    | [[Scienctes#Mage\|Mage]] |    -    |
+|           Arvens            | Runild |             Scienctes              | Templis |
+| :-------------------------: | :----: | :--------------------------------: | :-----: |
+| [[Arvens#Argent\|Argent]] 2 |   -    | [[Scienctes#Archimage\|Archimage]] |    -    |
 
 # Attributs
 > + 10 points à répartir pour les 5 lvl
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|   8   |    14     |   15   |     12     |    6     |
-|  -1   |    +2     |   +2   |     +1     |    -2    |
+|   8   |    10     |   15   |     14     |    8     |
+|  -1   |     0     |   +2   |     +2     |    -1    |
 
 ## [[Compétences]]
 >65 points à répartir dans les compétences
@@ -27,18 +27,18 @@
 
 | Court | 1 Main | 2 Mains | Haste | Distance |
 | :---: | :----: | :-----: | :---: | :------: |
-|   -   |   -    |    -    |   6   |    2     |
+|   3   |   -    |    -    |   -   |    -     |
 
 ## Magie
 
-**Maîtrise** : 4
+**Maîtrise** : 6
 
 **Crystaux** : 14
 
 | [[Air]] | [[Liquide]] | [[Roche]] | [[Feu]] | [[Foudre]] | [[Lumière]] | [[Ténèbres]] |
 | :-----: | :---------: | :-------: | :-----: | :--------: | :---------: | :----------: |
-|    4    |      9      |     -     |    -    |     8      |      -      |      -       |
-|   1d6   |     1d8     |     -     |    -    |    1d6     |      -      |      -       |
+|    6    |      6      |     8     |   12    |     -      |      7      |      -       |
+| 1d4 +2  |   1d6 +2    |  1d6 +2   | 1d8 +2  |     -      |   1d6 +2    |      -       |
 
 # Equipement
 
@@ -54,19 +54,19 @@
 | [[Bijoutier]]                                             |        |            |
 | [[Cartographe]]                                           |        |            |
 | [[Chasseur]]                                              |        |            |
-| [[Cuisinier]]                                             |   1    |            |
+| [[Cuisinier]]                                             |        |            |
 | [[Enchanteur#Kothula (WIP)\|Enchanteur (peau - Kothula)]] |        |            |
 | [[Enchanteur#Nirina\|Enchanteur (métal – Nirina)]]        |        |            |
 | [[Enchanteur#Ovliin\|Enchanteur (os – Ovliin)]]           |        |            |
 | [[Enchanteur#Suraja\|Enchanteur (tissu – Suraja)]]        |        |            |
 | [[Équitation]]                                            |        |            |
 | [[Forgeron]]                                              |        |            |
-| [[Invocateur]]                                            |   1    |            |
+| [[Invocateur]]                                            |        |            |
 | Larcin                                                    |        |            |
 | Lire / Écrire                                             |        |            |
 | Natation                                                  |        |            |
 | [[Navigation]]                                            |        |            |
-| [[Potionniste]]                                           |   2    |     3      |
+| [[Potionniste]]                                           |        |            |
 | [[Tanneur]]                                               |        |            |
 
 # Inventaire
@@ -83,10 +83,10 @@
 
 - [[Arek]]
 - [[Dara]]
+- [[Haelrak]]
 - [[Halfdan]]
 - [[Hazdaim]]
 - [[Léoric]]
-- [[Zveindel]]
 
 - [[aerethios/docs/Bestiaire/Planaires/Dieux/Dieux#Radeon, Dieu Dormant|Dieu Dormant]]
 - [[Billy]]

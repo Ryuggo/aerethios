@@ -80,3 +80,7 @@ Pour améliorer sa maîtrise magique, le joueur doit prendre 10 jours de leçons
 | 8        | 100                           |
 | 9        | 120                           |
 | 10       | 140                           |
+
+### Crystaux
+
+Pour augmenter son nombre de crystaux, il faut généralement monter en rang chez les [[Arvens]] ou les [[Scienctes]]

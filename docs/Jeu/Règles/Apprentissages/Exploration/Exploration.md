@@ -9,23 +9,18 @@ tags:
 
 ## [[Cartographe]]
 
-
 ---
 
 ## [[Chasseur]]
-
 
 ---
 
 ## [[Equitation]]
 
-
 ---
 
 ## [[Natation]]
 
-
 ---
 
 ## [[Navigation]]
-
