@@ -16,12 +16,12 @@
 **Effets**
     - Propriété [[Propriétés#Délicat|Délicat]] (cassera avant l'armure légère)
 
-| Armure             | Prix main d'œuvre | Impénétrable (AC) |      Matériaux      |
-| ------------------ | ----------------: | :---------------: | :-----------------: |
-| Sans armure        |                 - |     10 + Dex      |         ---         |
-| Cape en tissu      |  10 pa<br>*10 gp* |         0         | 1 rouleau de tissu  |
-| Cape de fourrure   |  25 pa<br>*25 gp* |         0         |     1 fourrure      |
-| Vêtements en tissu |             40 pa |     10 + Dex      | 4 rouleaux de tissu |
+| Armure             | Prix main d'œuvre | Impénétrable (AC) |                                       Matériaux                                       |
+| ------------------ | ----------------: | :---------------: | :-----------------------------------------------------------------------------------: |
+| Sans armure        |                 - |     10 + Dex      |                                          ---                                          |
+| Cape en tissu      |  10 pa<br>*10 gp* |         0         | 1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rouleau de tissu]]  |
+| Cape de fourrure   |  25 pa<br>*25 gp* |         0         |     1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|fourrure]]      |
+| Vêtements en tissu |             40 pa |     10 + Dex      | 4 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rouleaux de tissu]] |
 
 ### Légère
 >**Faiblesse** : Perforant
@@ -29,12 +29,12 @@
 **Effets**
     - Propriété [[Propriétés#Délicat|Délicat]]
 
-| Armure                           |  Prix main d'œuvre | Impénétrable (AC) |                     Matériaux                     |
-| -------------------------------- | -----------------: | :---------------: | :-----------------------------------------------: |
-| Matelassé/ Gambison<br>*Padded*  |     5 pa<br>*5 gp* |     11 + Dex      |                  2 rembourrages                   |
-| Cuir (bouilli)<br>*Leather*      |   10 pa<br>*10 gp* |     11 + Dex      |            3 cuirs bruts<br>2 boucles             |
-| Cuir Clouté<br>*Studded Leather* |   45 pa<br>*45 gp* |     12 + Dex      | 3 cuirs bruts<br>6 morceaux de fonte<br>2 boucles |
-| Brigandine<br>*Brigandine*       | 15 po<br>*1500 gp* |     13 + Dex      |    5 cuirs bruts<br>2 boucles<br>1 rembourrage    |
+| Armure                           |  Prix main d'œuvre | Impénétrable (AC) |                                                                                                            Matériaux                                                                                                            |
+| -------------------------------- | -----------------: | :---------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Matelassé/ Gambison<br>*Padded*  |     5 pa<br>*5 gp* |     11 + Dex      |                                                                        2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrages]]                                                                         |
+| Cuir (bouilli)<br>*Leather*      |   10 pa<br>*10 gp* |     11 + Dex      |                                          3 [[aerethios/docs/Jeu/Règles/Combat/Armures#Cuirs et Peaux\|cuirs bruts]]<br>2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|boucles]]                                           |
+| Cuir Clouté<br>*Studded Leather* |   45 pa<br>*45 gp* |     12 + Dex      |    3 [[aerethios/docs/Jeu/Règles/Combat/Armures#Cuirs et Peaux\|cuirs bruts]]<br>6 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|morceaux de fonte]]<br>2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|boucles]]     |
+| Brigandine<br>*Brigandine*       | 15 po<br>*1500 gp* |     13 + Dex      | 5 [[aerethios/docs/Jeu/Règles/Combat/Armures#Cuirs et Peaux\|cuirs bruts]]<br>2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|boucles]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]] |
 
 ### Intermédiaire
 >**Faiblesse** : Tranchant
@@ -42,14 +42,14 @@
 **Effets**
     - Perte de 1 HP pour chaque heure de marche avec l'armure équipée
 
-| Armure                               |  Prix main d'œuvre | Impénétrable (AC) |                     Matériaux                      |
-| ------------------------------------ | -----------------: | :---------------: | :------------------------------------------------: |
-| Peaux<br>*Hide*                      |   10 pa<br>*10 gp* | 12 + Dex (max 2)  |        2 cuirs bruts<br>1 peau<br>2 boucles        |
-| Écailles (organique)<br>*Scale Mail* |   50 pa<br>*50 gp* | 13 + Dex (max 2)  | 25 écailles<br>5 morceaux de cuir<br>1 rembourrage |
-| Chemise de Mailles <br>*Chain Shirt* |   50 pa<br>*50 gp* | 13 + Dex (max 2)  |                     5 lingots                      |
-| Écailles (métal)<br>*Scale Mail*     |   50 pa<br>*50 gp* | 14 + Dex (max 2)  |             8 lingots<br>1 rembourrage             |
-| Cuirasse <br>*Breastplate*           |   4 po<br>*400 gp* | 14 + Dex (max 2)  |                     10 lingots                     |
-| Demi-Plate <br>*Half Plate*          | 7.5 po<br>*750 gp* | 15 + Dex (max 2)  |            16 lingots<br>1 rembourrage             |
+| Armure                               |  Prix main d'œuvre | Impénétrable (AC) |                                                                                                                   Matériaux                                                                                                                   |
+| ------------------------------------ | -----------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Peaux<br>*Hide*                      |   10 pa<br>*10 gp* | 12 + Dex (max 2)  |              2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Cuirs et Peaux\|cuirs bruts]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Cuirs et Peaux\|peau]]<br>2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|boucles]]              |
+| Écailles (organique)<br>*Scale Mail* |   50 pa<br>*50 gp* | 13 + Dex (max 2)  | 25 [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|écailles]]<br>5 [[aerethios/docs/Jeu/Règles/Combat/Armures#Cuirs et Peaux\|morceau de cuir]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]] |
+| Chemise de Mailles <br>*Chain Shirt* |   50 pa<br>*50 gp* | 13 + Dex (max 2)  |                                                                                         5 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]                                                                                         |
+| Écailles (métal)<br>*Scale Mail*     |   50 pa<br>*50 gp* | 14 + Dex (max 2)  |                                               8 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]                                                |
+| Cuirasse <br>*Breastplate*           |   4 po<br>*400 gp* | 14 + Dex (max 2)  |                                                                                        10 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]                                                                                         |
+| Demi-Plate <br>*Half Plate*          | 7.5 po<br>*750 gp* | 15 + Dex (max 2)  |                                               16 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]                                               |
 
 ### Lourde
 >**Faiblesse** : Contondant
@@ -58,12 +58,12 @@
     - Perte de 2 HP pour chaque heure de marche avec l'armure équipée
     - Désavantage en Magie
 
-| Armure                            |  Prix main d'œuvre | Impénétrable (AC) | Force |          Matériaux          |
-| --------------------------------- | -----------------: | :---------------: | :---: | :-------------------------: |
-| Broigne<br>*Ring Mail*            |   30 pa<br>*30 gp* |        14         |  ---  | 4 lingots<br>1 rembourrage  |
-| Cotte de Mailles <br>*Chain Mail* |   50 pa<br>*50 gp* |        16         |  13   | 9 lingots<br>1 rembourrage  |
-| Clibanion<br>*Splint*             |   2 po<br>*200 gp* |        17         |  15   | 12 lingots<br>1 rembourrage |
-| Harnois<br>*Plate*                | 15 po<br>*1500 gp* |        18         |  15   | 30 lingots<br>1 rembourrage |
+| Armure                            |  Prix main d'œuvre | Impénétrable (AC) | Force |                                                                     Matériaux                                                                     |
+| --------------------------------- | -----------------: | :---------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
+| Broigne<br>*Ring Mail*            |   30 pa<br>*30 gp* |        14         |  ---  | 4 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]  |
+| Cotte de Mailles <br>*Chain Mail* |   50 pa<br>*50 gp* |        16         |  13   | 9 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]  |
+| Clibanion<br>*Splint*             |   2 po<br>*200 gp* |        17         |  15   | 12 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]] |
+| Harnois<br>*Plate*                | 15 po<br>*1500 gp* |        18         |  15   | 30 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]] |
 
 ### Bouclier
 
@@ -71,12 +71,12 @@
     - Désavantage en Dextérité (Acrobatie)
     - Si l'attaque passe outre l'AC et la défense du bouclier, celui-ci est désarmé (briser en cas de réussite critique)
 
-| Armure                      |  Prix main d'œuvre | Impénétrable (AC) | Force | Matériaux |          Propriétés           | Dégats                          |
-| --------------------------- | -----------------: | :---------------: | :---: | :-------: | :---------------------------: | ------------------------------- |
-| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |        +1         |  ---  | 2 lingots | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
-| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |        +2         |  ---  | 4 lingots |              ---              | 1d6 contondant                  |
-| Bouclier d'Estoc            |  20 pa<br>*500 gp* |        +3         |  14   | 6 lingots |              ---              | 1d6 contondant<br>1d8 perforant |
-| Pavois<br>*Tower*           | 40 pa<br>*1500 gp* |        +4         |  17   | 8 lingots |             Lourd             | 1d8 contondant                  |
+| Armure                      |  Prix main d'œuvre | Impénétrable (AC) | Force |                           Matériaux                           |          Propriétés           | Dégats                          |
+| --------------------------- | -----------------: | :---------------: | :---: | :-----------------------------------------------------------: | :---------------------------: | ------------------------------- |
+| Petit Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |        +1         |  ---  | 2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
+| Bouclier<br>*Round*         |   10 pa<br>*10 gp* |        +2         |  ---  | 4 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |              ---              | 1d6 contondant                  |
+| Bouclier d'Estoc            |  20 pa<br>*500 gp* |        +3         |  14   | 6 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |              ---              | 1d6 contondant<br>1d8 perforant |
+| Pavois<br>*Tower*           | 40 pa<br>*1500 gp* |        +4         |  17   | 8 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |             Lourd             | 1d8 contondant                  |
 
 ---
 
