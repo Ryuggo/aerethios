@@ -2,11 +2,20 @@
 tags:
   - Règles
 ---
+## Ordre d'actions
+
+1. [[Combat#Motivation|Motivation]] (seulement lors du premier tour)
+2. [[Combat#Mouvement|Mouvement]]
+3. [[Combat#Attaque|Attaque]]
+
 ## Motivation
 
+Un joueur peut motiver son équipe (avantage au premier tour) ou déstabiliser l'adversaire (désavantage au premier tour) à l'aide d'une phrase de motivation en début de combat ()
 - En début de combat, un joueur peut prononcer une phrase de motivation pour booster son équipe.
 
 - Le MJ peut donner un avantage aux joueurs ou un désavantage aux ennemis selon le sens du discours.
+
+## Mouvement
 
 ## Attaque
 
@@ -26,7 +35,7 @@ Le modificateur d'attribut dépend du type d'attaque
 Le résultat doit être supérieur ou égal à l'AC de la cible pour que des dégâts soient appliqués.
 
 ### Jet.s de dégâts
->Dé d'arme + Matériaux + Dégâts magiques + Style
+>Dé d'arme + Modificateur + Matériaux + Enchantements + Style
 - Chaque arme possède un **dé d’arme** selon son matériau et ses enchantements.
 
 - Le **puissance d’attaque** se calcule ainsi :
@@ -72,38 +81,12 @@ Le résultat doit être supérieur ou égal à l'AC de la cible pour que des dé
 
 ## Réaction
 
-### Bloquer
+### 
 
-- Le bouclier sert de seconde protection (il encaisse avant l’armure).
-
-- Calcul :
-	→ **Matériau du bouclier**
-	→ + **Impénétrable**
-	→ + **Force**
-
-| Élément  | Bonus                           |
-| -------- | ------------------------------- |
-| Armure   | Matériau + Impénétrable         |
-| Bouclier | Matériau + Impénétrable + Force |
-
-### Esquiver
-
-- Jet : **D20 + Dextérité + Acrobatie** > Puissance d'attaque ennemie
-
-- La compétence **Réflexe** donne **+2** si le joueur voit l’attaque.
-
-- Une réussite critique permet **une deuxième action** immédiate.
-
-| Élément   | Bonus                                    |
-| --------- | ---------------------------------------- |
-| Dextérité | Stat principale                          |
-| Acrobatie | Compétence de soutien                    |
-| Réflexe   | +2 si l'origine de l'attaque est visible |
-| D20       | Jet principal                            |
 
 ## Concentration
 
-- Le joueur peut passer son tour pour se concentrer.
+Le joueur peut passer son tour pour se concentrer.
 
 - **Magie** : +1 par tour (cumulable).
 
