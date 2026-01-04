@@ -10,12 +10,15 @@ tags:
 
 ## Motivation
 
-Un joueur peut motiver son équipe (avantage au premier tour) ou déstabiliser l'adversaire (désavantage au premier tour) à l'aide d'une phrase de motivation en début de combat ()
-- En début de combat, un joueur peut prononcer une phrase de motivation pour booster son équipe.
-
-- Le MJ peut donner un avantage aux joueurs ou un désavantage aux ennemis selon le sens du discours.
+Un joueur peut prendre son premier tour pour motiver son équipe ou déstabiliser l'adversaire à l'aide d'une phrase de motivation. Le MJ décidera si cela donnera un avantage ou un désavantage à l'équipe du joueur ou à ses adversaires.
 
 ## Mouvement
+
+| Mouvement | Effet                                                                                |
+| --------- | ------------------------------------------------------------------------------------ |
+| Marche    | Mouvement de base                                                                    |
+| Course    | Mouvement * 2<br>Impossible d'attaquer                                               |
+| Discret   | Mouvement / 2<br>L'ennemi doit faire des jets de perceptions pour détecter le joueur |
 
 ## Attaque
 
@@ -81,8 +84,7 @@ Le résultat doit être supérieur ou égal à l'AC de la cible pour que des dé
 
 ## Réaction
 
-### 
-
+###
 
 ## Concentration
 
