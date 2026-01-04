@@ -8,7 +8,7 @@ tags:
 ## Raffinage
 Une fois que le joueur a lancé les dés pour connaitre la rareté du matériau qu'il a obtenu, il doit lancer les dés pour savoir précisément l'effet de ce matériau.
 
-### Déchets
+### Déchet
 > Métaux ou minerais bruts de faible qualité, oxydés, ou trop impurs pour produire un bon acier sans traitement lourd.
 > Souvent recyclés ou fondus en alliage.
 

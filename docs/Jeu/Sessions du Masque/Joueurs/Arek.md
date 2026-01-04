@@ -8,7 +8,7 @@
 | :-----------------: | :----: | :-------: | :-----: |
 | [[Arvens#Or\|Or]] 3 |   -    |     -     |    2    |
 
-# Attributs
+## Attributs
 > + 14 points à répartir pour les 7 lvl
 
 | Force | Dextérité | Mental | Perception | Charisme |
@@ -16,22 +16,22 @@
 |  15   |    10     |   14   |     8      |    8     |
 |  +2   |     0     |   +2   |     -1     |    -1    |
 
-## [[Compétences]]
+### [[Compétences]]
 >69 points à répartir dans les compétences
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
 |       |           |        |            |          |         |       |
 
-# Combats
+## Combats
 
-## Armes
+### Armes
 
 | Court | 1 Main | 2 Mains | Haste | Distance |
 | :---: | :----: | :-----: | :---: | :------: |
 |   5   |   8    |    -    |   -   |    -     |
 
-## Magie
+### Magie
 
 **Maîtrise** : 1
 
@@ -42,13 +42,13 @@
 |    -    |      -      |     7     |    4    |     -      |      9      |      -       |
 |    -    |      -      |    1d6    |   1d4   |     -      |   1d8 +5    |      -       |
 
-# Equipement
+## Equipement
 
-## [[Armures]]
+### [[Armures]]
 
-## [[Armes]]
+### [[Armes]]
 
-# [[Apprentissages]]
+## [[Apprentissages]]
 
 | Apprentissage                                             | Niveau | Expérience |
 | --------------------------------------------------------- | :----: | :--------: |
@@ -71,7 +71,7 @@
 | [[Potionniste]]                                           |   4    |            |
 | [[Tanneur]]                                               |        |            |
 
-# Inventaire
+## Inventaire
 
 **Poids maximum** : 60kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
@@ -81,7 +81,7 @@
 | --- | --- | ---------: |
 |     |     |            |
 
-# Connaissances
+## Connaissances
 
 - [[Dara]]
 - [[Haelrak]]

@@ -1,8 +1,8 @@
-# Court
+## Court
 
 **Efficacité** : Retire les désavantages en utilisant une arme courte.
 
-## Assassin
+### Assassin
 
 [1-4] Augmente les dégâts d'une attaque surprise :
 - 1. 1d4 +6 **ou** 3d6,
@@ -10,23 +10,23 @@
 - 3. 1d12 +23 **ou** 5d12 +7,
 - 4. 1d20 +40 **ou** 4d20 +16.
 
-# 1 main
+## 1 main
 
 **Efficacité** : Retire les désavantages en utilisant une arme à 1 main.
 
-# 2 mains
+## 2 mains
 
 **Efficacité** : Retire les désavantages en utilisant une arme à 2 mains.
 
-## Ambidextre
+### Ambidextre
 >Nécessite Ambidextre (Dextérité)
 
 Permet d'avoir une arme à 2 mains dans chaque mains et de chacune les utiliser à chaque tour de combat.
 
-# Hast
+## Hast
 
 **Efficacité** : Retire les désavantages en utilisant une arme d'hast.
 
-# Distance
+## Distance
 
 **Efficacité** : Retire les désavantages en utilisant une arme à distance.

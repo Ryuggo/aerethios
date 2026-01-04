@@ -14,8 +14,6 @@ Pour faire des invocations, il faut disposer :
 
 - et des **ingrédients nécessaires** à la préparation.
 
----
-
 ## Résultat de Fabrication
 
 - **Réussite critique** : l'invocation est **parfaite** et possède **les statistiques maximales**.
@@ -32,8 +30,6 @@ Le joueur jette **1D20 + Magie + Maîtrise magique** pour **chaque ingrédient**
 La **valeur maximale** d’une statistique ne peut **pas dépasser la somme des trois ingrédients les plus rares**.
 
 La création reste active **1 jour**, sauf mention contraire.
-
----
 
 ## Types d'invocations
 
@@ -101,7 +97,7 @@ Pour chaque type d'ingrédient, la statistique maximale ne peut pas être plus g
 | **Champignon** | +0     | +1     | +2         | +30  | +50        |
 | **Crystal**    | +0     | +1     | +2         | +3   | +4         |
 | **Créature**   | +0     | +2     | +4         | +6   | +8         |
-### **Durée et stabilité**
+### Durée et stabilité
 
 | Rareté dominante | Durée moyenne                       | Stabilité   |
 | ---------------- | ----------------------------------- | ----------- |

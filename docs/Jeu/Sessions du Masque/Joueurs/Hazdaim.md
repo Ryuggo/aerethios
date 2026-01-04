@@ -6,7 +6,7 @@
 | :-----------------: | :----: | :-------: | :-----: |
 | [[Arvens#Or\|Or]] 2 |   -    |     -     |    -    |
 
-# Attributs
+## Attributs
 > + 12 points à répartir pour les 6 lvl
 
 | Force | Dextérité | Mental | Perception | Charisme |
@@ -14,22 +14,22 @@
 |   9   |    14     |   10   |     12     |    10    |
 |  -1   |    +2     |   0    |     +1     |    0     |
 
-## [[Compétences]]
+### [[Compétences]]
 >67 points à répartir dans les compétences
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
 |       |           |        |            |          |         |       |
 
-# Combats
+## Combats
 
-## Armes
+### Armes
 
 | Court | 1 Main | 2 Mains | Haste | Distance |
 | :---: | :----: | :-----: | :---: | :------: |
 |   2   |   8    |    -    |   -   |    -     |
 
-## Magie
+### Magie
 
 **Maîtrise** : 1
 
@@ -40,13 +40,13 @@
 |    1    |      -      |     -     |    -    |     8      |      4      |      1       |
 |   1d4   |      -      |     -     |    -    |    1d6     |     1d4     |     1d4      |
 
-# Equipement
+## Equipement
 
-## [[Armures]]
+### [[Armures]]
 
-## [[Armes]]
+### [[Armes]]
 
-# [[Apprentissages]]
+## [[Apprentissages]]
 
 | Apprentissage                                             | Niveau | Expérience |
 | --------------------------------------------------------- | :----: | :--------: |
@@ -69,7 +69,7 @@
 | [[Potionniste]]                                           |        |            |
 | [[Tanneur]]                                               |        |            |
 
-# Inventaire
+## Inventaire
 
 **Poids maximum** : 40 kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
@@ -79,7 +79,7 @@
 | --- | --- | ---------: |
 |     |     |            |
 
-# Connaissances
+## Connaissances
 
 - [[Arek]]
 - [[Dara]]

@@ -16,8 +16,6 @@ Pour faire des concoctions, il faut disposer :
 
 - et des **ingrédients nécessaires** à la préparation.
 
----
-
 ## Utilisation des concoctions
 
 Le **diluant** détermine **comment la concoction s’applique** et **comment elle agit**.
@@ -31,8 +29,6 @@ Le **diluant** détermine **comment la concoction s’applique** et **comment el
 
 > Toute création alchimique est une **concoction**.
 > Sa forme finale (potion, pommade, huile, poudre…) dépend du **diluant** utilisé.
-
----
 
 ## Résultat de Fabrication
 
@@ -53,8 +49,6 @@ Le **diluant** détermine **comment la concoction s’applique** et **comment el
 > Plus on s’éloigne de 10, plus l’effet est **puissant**.
 > Il est possible de **faire analyser** la concoction contre un certain prix.
 
----
-
 ## Consommation et Intoxication
 
 Chaque concoction consommée augmente l’**intoxication** du buveur.
@@ -69,11 +63,9 @@ Dormir réduit l’intoxication de **50 points**.
 | Rare                                | +60          |
 | Légendaire                          | +80          |
 
-> Au-delà de **100**, le joueur subit des **effets secondaires cumulatifs** : vertiges, pertes de mémoire, fièvre magique, hallucinations, voire coma.
+> Au-delà de **100**, le joueur perd 10HP par pallier de 10 intoxications.
 
 Il existe des potions rares qui réduisent l'intoxication de 100, mais elles divisent également les effets actifs par 2.
-
----
 
 ## Prix indicatif par nombre d'ingrédients (pa)
 
@@ -82,22 +74,14 @@ Il existe des potions rares qui réduisent l'intoxication de 100, mais elles div
 | Ingrédients      | 0.01 – 0.2 | 0.5 – 2 | 10 – 30    | 1 00 - 2 00  | 5 00 – 10 00  |
 | Concoction finie | 0.01 – 0.2 | 1 – 5   | 30 – 1 00  | 5 00 – 10 00 | 40 00 – 80 00 |
 
----
-
 ## Types d’ingrédients et effets
 
-Lorsqu’une concoction est fabriquée avec **un seul ingrédient**, son effet agit directement sur les **compétences du joueur**.
+Lorsqu’une concoction est fabriquée avec **un seul ingrédient**, son effet agit directement sur les **statistiques du joueur**.
 Ces effets durent **1 jour**, sauf mention contraire.
 
-- Les **minerais** renforcent la **Force**
-
-- Les **plantes** améliorent la **Dextérité**
-
-- Les **champignons** affûtent la **Perception**
-
-- Les **crystaux** influencent le **Mental**
-
-- Les **morceaux de créatures** augmentent les **Maîtrises d’armes et de magies**
+| Force    | Dextérité | Mental   | Perception  | Charisme              | AC  | Max HP |
+| -------- | --------- | -------- | ----------- | --------------------- | --- | ------ |
+| Minerais | Plantes   | Crystaux | Champignons | Morceaux de créatures |     |        |
 
 | Déchet | Commun | Peu Commun | Rare | Légendaire |
 | ------ | ------ | ---------- | ---- | ---------- |

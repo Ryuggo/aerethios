@@ -1,7 +1,5 @@
 >Le type d'arme ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
 
----
-
 ## Catégories
 >- Le dé de dégâts varie selon la catégorie de l'arme.
 >- Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété Finesse.
@@ -14,8 +12,9 @@
 
 **Effets**
     - Propriété [[Propriétés#Léger|Léger]]
+    - Propriété [[Propriétés#Jetable|Jetable]]
 
-| Arme    | Prix main d'œuvre |           Maîtrise           | Matériaux |
+| Arme    | Prix main d'œuvre |            Dégâts            | Matériaux |
 | ------- | ----------------: | :--------------------------: | :-------: |
 | Poings  |                 - |        +1 Contondant         |     -     |
 | Objet   |                 - |             ---              |     -     |
@@ -61,8 +60,6 @@
 | Arme | Prix main d'œuvre | Maîtrise | Dextérité | Matériaux |
 | ---- | ----------------: | :------: | :-------: | :-------: |
 |      |                   |          |    ---    |           |
-
----
 
 ## Matériaux
 >La propriété VS double les matériaux lorsque l'attaque touche le bon type de cible.

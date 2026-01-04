@@ -3,12 +3,12 @@ tags:
   - Règles
   - Personnage
 ---
-# Compétences
+## Compétences
 
 Apprendre un apprentissage demande **temps**, **argent** et **pratique**.
 Chaque apprentissage appartient à une **catégorie principale**, sauf les apprentissages **libres**, qui peuvent être appris à tout moment.
 
-## Règles générales
+### Règles générales
 
 - Un joueur peut **s’investir dans une nouvelle catégorie** seulement **tous les 5 niveaux de personnage**.
 
@@ -20,9 +20,9 @@ Chaque apprentissage appartient à une **catégorie principale**, sauf les appre
 
 - Un niveau est gagné lorsqu’un joueur cumule l’**expérience requise**.
 
-## Apprentissages catégorisées
+### Apprentissages catégorisées
 
-### [[Alchimie]]
+#### [[Alchimie]]
 
 | Compétence          | Coût (po / leçon) | XP / niveau | Niveau max | Description                                                          |
 | ------------------- | ----------------- | ----------- | ---------- | -------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ Chaque apprentissage appartient à une **catégorie principale**, sauf les appre
 | **[[Potionniste]]** | 2 × niveau        | 20          | -          | Création de potions, huiles et remèdes                               |
 | **[[Invocateur]]**  | 3 × niveau        | 30          | -          | Animation ou transmutation d’entités à partir d’ingrédients magiques |
 
-### [[Artisanat]]
+#### [[Artisanat]]
 
 | Compétence                                                    | Coût (po / leçon) | XP / niveau | Niveau max | Description                                      |
 | ------------------------------------------------------------- | ----------------- | ----------- | ---------- | ------------------------------------------------ |
@@ -45,7 +45,7 @@ Chaque apprentissage appartient à une **catégorie principale**, sauf les appre
 
 > Tous les types d’Enchanteurs partagent la même **spécialisation Enchantement**.
 
-### [[Exploration]]
+#### [[Exploration]]
 
 | Compétence          | Coût (po / leçon) | XP / niveau | Niveau max | Description                                         |
 | ------------------- | ----------------- | ----------- | ---------- | --------------------------------------------------- |
@@ -55,14 +55,14 @@ Chaque apprentissage appartient à une **catégorie principale**, sauf les appre
 | **Natation**        | 1                 | 10          | 4          | Déplacement et survie aquatique                     |
 | **[[Navigation]]**  | 2                 | 20          | 3          | Connaissance des vents, étoiles et routes maritimes |
 
-## Apprentissages libres
+### Apprentissages libres
 
 | Compétence        | Coût (po / leçon) | XP / niveau | Niveau max | Description                                    |
 | ----------------- | ----------------- | ----------- | ---------- | ---------------------------------------------- |
 | **Larcin**        | 3                 | 10          | 4          | Vol, crochetage et discrétion                  |
 | **Lire / Écrire** | 1                 | 50          | 1          | Alphabétisation et lecture de langues communes |
 
-# Apprendre
+## Apprendre
 
 Le joueur ne peut prendre que **3 leçons par jour** (8h/ leçon).
 
@@ -70,7 +70,7 @@ Pour chaque nuit que le joueur passe à étudier plutôt que dormir, il perd 10 
 
 Pendant ses leçons, **il ne peut effectuer aucune autre activité** (pas de déplacement, d’enquête, de fabrication, ..).
 
-## Difficulté d’apprentissage
+### Difficulté d’apprentissage
 
 >Jet : **1d20 + Mental + Concentration**
 >*Le résultat doit être strictement supérieur aux valeurs du tableau ci-dessous.*
@@ -86,7 +86,7 @@ Pendant ses leçons, **il ne peut effectuer aucune autre activité** (pas de dé
 
 >**Exemple** : Quelqu'un qui veut passer du niveau 0 à 1 avec un tuteur doit faire plus que 12.
 
-## Gain d’expérience
+### Gain d’expérience
 
 | Jet              | Avec tuteur | Sans tuteur |
 | :--------------- | :---------: | :---------: |
@@ -101,7 +101,7 @@ Pendant ses leçons, **il ne peut effectuer aucune autre activité** (pas de dé
 > 	- un cuisinier doit consommer de vrais ingrédients de cuisine,
 > 	- un alchimiste de niveau 4 doit au moins faire des potions rares pour pouvoir gagner de l'expérience.
 
-# Tutorer
+## Tutorer
 
 Lorsqu’un joueur atteint le **niveau maximum/4** dans une compétence, il peut **enseigner** cette discipline à d’autres joueurs ou à des PNJ, afin de **partager son savoir** ou **gagner de l’argent**.
 

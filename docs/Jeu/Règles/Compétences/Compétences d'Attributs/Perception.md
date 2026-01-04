@@ -1,35 +1,35 @@
-# Perception
+## Perception
 
 [1-5] Modificateur pour détecter des informations utiles.
 
-## Intuition
+### Intuition
 
 Avantage pour détecter les changements dans l'environnement (vue, ouïe, odorat).
 
-## Perception magique
+### Perception magique
 
 Avantage lorsqu'il s'agit de magie.
 
-## Mentaliste
+### Mentaliste
 
 Avantage pour détecter les intentions des êtres vivants.
 
-# Survie
+## Survie
 
 [1-5] Modificateur pour connaitre ou comprendre l'environnement.
 
-## Plantes
+### Plantes
 
 Avantage lorsqu'il s'agit de plantes.
 
-## Animaux
+### Animaux
 
 Avantage lorsqu'il s'agit d'animaux.
 
-# Travailleur
+## Travailleur
 
 [1-5] Modificateur pour l'artisanat.
 
-## Précis
+### Précis
 
 Rater plusieurs fois ne fait pas échouer la fabrication.

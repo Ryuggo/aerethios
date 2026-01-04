@@ -2,16 +2,31 @@
 tags:
   - Règles
 ---
-### Motivation
+## Motivation
 
 - En début de combat, un joueur peut prononcer une phrase de motivation pour booster son équipe.
 
 - Le MJ peut donner un avantage aux joueurs ou un désavantage aux ennemis selon le sens du discours.
 
----
+## Attaque
 
-### Attaque
+### Jet pour toucher
+>1d20 + Modificateur + Maîtrise >= AC
 
+Le joueur lance 1d20 et y ajoute le modificateur d'attribut correspondant ainsi que sa maîtrise.
+
+Le modificateur d'attribut dépend du type d'attaque
+
+| Modificateur | Utilisation                                                               |
+| ------------ | ------------------------------------------------------------------------- |
+| Force        | Attaques avec une arme                                                    |
+| Dextérité    | Attaques avec une arme ayant la propriété [[Propriétés#Finesse\|finesse]] |
+| Mental       | Attaques magiques                                                         |
+
+Le résultat doit être supérieur ou égal à l'AC de la cible pour que des dégâts soient appliqués.
+
+### Jet.s de dégâts
+>Dé d'arme + Matériaux + Dégâts magiques + Style
 - Chaque arme possède un **dé d’arme** selon son matériau et ses enchantements.
 
 - Le **puissance d’attaque** se calcule ainsi :
@@ -35,18 +50,14 @@ tags:
 | Style     | Bonus/Malus selon réussite |
 | Matériau  | Bonus selon la qualité     |
 
----
-
-### Points de fatigue (HP)
+## Points de fatigue (HP)
 
 - Les **points de fatigue** ne sont pas représentatifs de la vie d'une entité.
 	→ S'ils tombent à 0, l'entité n'est pas morte, juste en trop mauvais état pour effectuer des actions directes dans le combat (Attaquer n'est pas possible, mais bouger et activer un piège l'est).
 
 - Les humanoïdes possèdent tous un **maximum de 50 HP** qui se régénèrent avec du repos (pour peu que la personne ait mangé récemment) ou de la magie.
 
----
-
-### Défense
+## Défense
 
 - Pour bloquer une attaque, on additionne :
 	→ **Matériau de l’armure**
@@ -54,18 +65,14 @@ tags:
 
 - Si ce total est **supérieur à l’attaque**, aucun dégât n’est subi.
 
----
-
-### Impénétrable
+## Impénétrable
 
 - Les bonus d'impénétrable ne s'appliquent **que sur le type d'attaque lui correspondant**.
 → Si l'armure a impénétrable en Contondant et que l'attaque est Tranchante, le bonus ne s'applique pas.
 
----
+## Réaction
 
-### Réaction
-
-#### Bloquer
+### Bloquer
 
 - Le bouclier sert de seconde protection (il encaisse avant l’armure).
 
@@ -79,9 +86,7 @@ tags:
 | Armure   | Matériau + Impénétrable         |
 | Bouclier | Matériau + Impénétrable + Force |
 
----
-
-#### Esquiver
+### Esquiver
 
 - Jet : **D20 + Dextérité + Acrobatie** > Puissance d'attaque ennemie
 
@@ -96,9 +101,7 @@ tags:
 | Réflexe   | +2 si l'origine de l'attaque est visible |
 | D20       | Jet principal                            |
 
----
-
-### Concentration
+## Concentration
 
 - Le joueur peut passer son tour pour se concentrer.
 
@@ -108,9 +111,7 @@ tags:
 
 - La compétence **Imperturbable** permet de se déplacer sans perdre le bonus.
 
----
-
-### Adrénaline
+## Adrénaline
 
 - S'active si l'une de ces situations se présentent :
 	- un allié tombe de fatigue,
@@ -128,9 +129,7 @@ tags:
 	- à la fin du combat,
 	- sur réussite d’un **D20 Mental + Concentration > 15**
 
----
-
-### Bagarre
+## Bagarre
 
 - Mode simplifié pour les combats amicaux ou de taverne.
 

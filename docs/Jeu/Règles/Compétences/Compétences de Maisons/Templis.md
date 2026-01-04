@@ -1,11 +1,11 @@
-# Pèlerin
+## Pèlerin
 
 - Voir et interagir avec des entités planaires
 
-# Passeur
+## Passeur
 
-# Oracle
+## Oracle
 
-# Forgeron
+## Forgeron
 
-# Juge
+## Juge

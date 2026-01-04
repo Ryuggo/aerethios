@@ -5,22 +5,14 @@ tags:
 ---
 >L’exploration a pour objectif de **faciliter les déplacements à travers le monde**.
 
----
+## Spécialisations
 
-## [[Cartographe]]
+### [[Cartographe]]
 
----
+### [[Chasseur]]
 
-## [[Chasseur]]
+### [[Equitation]]
 
----
+### [[Natation]]
 
-## [[Equitation]]
-
----
-
-## [[Natation]]
-
----
-
-## [[Navigation]]
+### [[Navigation]]

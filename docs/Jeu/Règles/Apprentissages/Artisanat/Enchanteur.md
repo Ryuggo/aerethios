@@ -11,8 +11,6 @@ Chaque continent possède sa technique d'enchantement.
 
 Pour l'apprendre, il faut se rendre sur le continent concerné.
 
----
-
 ## Composants
 
 Pour enchanter, il faut :
@@ -27,15 +25,11 @@ Pour enchanter, il faut :
 
 - 8h de travail continu.
 
----
-
 ## Prix du marché pour enchanter (po)
 
 | Kothula | Nirina  | Ovliin                              | Suraja                 |
 | ------- | ------- | ----------------------------------- | ---------------------- |
 | 40 - 60 | 20 - 40 | 2 - 5 * Rareté de l'Os (Commun = 1) | Nombre d'enchantements |
-
----
 
 ## [[Kothula]] (WIP)
 >Enchanter des parties du corps pour fluidifier les flux magiques qui circulent dedans et améliorer l'utilisation de la magie.
@@ -55,8 +49,6 @@ L'effet dépend de l'architecture du tatouage (non cumulables sans conséquences
 | ------------------- | --------------- | ----------- |
 | Maîtrise Magique +2 | Régénération x2 | +X crystaux |
 
----
-
 ## [[Nirina]]
 >Enchanter les métaux pour augmenter leur efficacité.
 
@@ -74,8 +66,6 @@ En fonction du bonus souhaité, les chances de réussites varient :
 | -------------------- | --- | ---- | ---- | ---- |
 | **Taux de Réussite** | -0% | -20% | -40% | -60% |
 | **Malus d'Echec**    | -1  | -2   | -3   | -4   |
-
----
 
 ## [[Ovliin]]
 >Enchanter les os pour en extraire la puissance élémentaire de son ancien "propriétaire" (si elle n'avait pas d'élément, l'os n'est pas utilisable).
@@ -105,8 +95,6 @@ Un échec critique rend l'os inutilisable.
 | **Peu Commun** | 2 - 4 |  5 - 9  | 10 - 16 | 17 - 19 | 20 + |
 | **Rare**       |   -   |  2 - 6  | 7 - 13  | 14 - 18 | 19 + |
 | **Légendaire** |   -   |    -    | 2 - 10  | 11 - 17 | 18 + |
-
----
 
 ## [[Suraja]]
 >Enchanter les tissus pour augmenter leur résistance aux éléments magiques.

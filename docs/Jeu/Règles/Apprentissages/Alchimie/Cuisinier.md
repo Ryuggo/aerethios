@@ -5,8 +5,6 @@ tags:
 ---
 > **Cuisinier** est une spécialité dérivée de l’[[Alchimie]] qui sublime les ingrédients les plus simples — parfois sans valeur apparente — pour en tirer le meilleur. Là où l’alchimiste transforme, le cuisinier **révèle**.
 
----
-
 ## Matériel
 
 Pour cuisiner, il faut disposer :
@@ -15,8 +13,6 @@ Pour cuisiner, il faut disposer :
 	- _(poids total ≈ 5 kg, coût : 1 PO)_
 
 - des **ingrédients frais**, en quantité suffisante **pour chaque convive**.
-
----
 
 ## Résultat de Fabrication
 
@@ -27,8 +23,6 @@ Pour cuisiner, il faut disposer :
 - **Échec** : le repas **nourrit** mais donne **-1 dans les compétences ciblées**.
 
 - **Échec critique** : le repas **ne nourrit pas** (il faut refaire à manger) et **inverse le bonus en malus**.
-
----
 
 ## Ingrédients
 
@@ -60,8 +54,6 @@ Si le dé tombe sur **4**, l'ingrédient n'a **aucun effet**.
 | Fruits de mer | Magie Mixte     | 0.5        | 10        |
 | Épices        | Magie de Feu    | 0.1        | 25        |
 > **Exemple** : Fruits (Magie Croitiste) → Lumière, Foudre ou Ténèbres.
-
----
 
 ## Touche du Chef
 
