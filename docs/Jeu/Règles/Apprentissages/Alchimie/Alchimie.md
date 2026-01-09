@@ -78,7 +78,7 @@ Ces lieux peuvent être loués pour **1 journée**.
 | Salle naturelle envigorée de magie aménagée      | -6    | 1 00 - 10% du prix de la création |
 | Occurrence rare d'alignement d'énergies magiques | -8    | -                                 |
 
-### Prix indicatifs (pa)
+### Prix indicatifs des ingrédients (pa)
 
 | Déchet     | Commun  | Peu Commun | Rare        | Légendaire   |
 | ---------- | ------- | ---------- | ----------- | ------------ |

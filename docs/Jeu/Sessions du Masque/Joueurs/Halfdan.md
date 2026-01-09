@@ -7,7 +7,7 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 1 |   -    |     -     |    -    |
 
 ## Attributs
-> + 8 points à répartir pour les 4 lvl
+> + 2 points pour les niveaux 4, 8, 12, 16, and 19
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
@@ -15,7 +15,7 @@
 |  +1   |    +2     |   0    |     -1     |    0     |
 
 ### [[Compétences]]
->63 points à répartir dans les compétences
+>57 points à répartir dans les compétences
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
@@ -31,14 +31,14 @@
 
 ### Magie
 
-**Maîtrise** : 0
+**Maîtrise** : 1
 
-**Crystaux** : 0
+**Crystaux** : 9
 
 | [[Air]] | [[Liquide]] | [[Roche]] | [[Feu]] | [[Foudre]] | [[Lumière]] | [[Ténèbres]] |
 | :-----: | :---------: | :-------: | :-----: | :--------: | :---------: | :----------: |
-|    -    |      -      |     -     |    -    |     -      |      -      |      -       |
-|    -    |      -      |     -     |    -    |     -      |      -      |      -       |
+|    -    |      -      |     -     |    -    |     2      |      2      |      -       |
+|    -    |      -      |     -     |    -    |    1d4     |     1d4     |      -       |
 
 ## Equipement
 

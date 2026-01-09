@@ -7,7 +7,7 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 2 | [[Runild#100 po\|Riche]] |     -     |    -    |
 
 ## Attributs
-> + 12 points à répartir pour les 6 lvl
+> + 2 points pour les niveaux 4, 8, 12, 16, and 19
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
@@ -15,7 +15,7 @@
 |  -2   |    +2     |   +2   |     +1     |    -2    |
 
 ### [[Compétences]]
->67 points à répartir dans les compétences
+>57 points à répartir dans les compétences
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
@@ -31,7 +31,7 @@
 
 ### Magie
 
-**Maîtrise** : 1
+**Maîtrise** : 2
 
 **Crystaux** : 9
 
