@@ -4,7 +4,7 @@
 
 |       Arvens        | Runild |        Scienctes         | Templis |
 | :-----------------: | :----: | :----------------------: | :-----: |
-| [[Arvens#Or\|Or]] 1 |   -    | [[Scienctes#Mage\|Mage]] |    -    |
+| [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 1 |   -    | [[Scienctes#Mage\|Mage]] |    -    |
 
 ## Attributs
 > + 12 points à répartir pour les 6 lvl

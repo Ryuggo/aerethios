@@ -83,4 +83,4 @@ Pour améliorer sa maîtrise magique, le joueur doit prendre 10 jours de leçons
 
 ### Crystaux
 
-Pour augmenter son nombre de crystaux, il faut généralement monter en rang chez les [[Arvens]] ou les [[Scienctes]]
+Pour augmenter son nombre de crystaux, il faut généralement monter en rang chez les [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens]] ou les [[Scienctes]]

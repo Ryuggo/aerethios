@@ -3,13 +3,13 @@ tags:
   - Bestiaire
 ---
 >Les créatures du monde se regroupent en différentes catégories.
->Un [[Arvens]] ou un [[Templis]] se doit de connaître les catégories qui le concernent s'il souhaite être efficace dans son domaine.
+>Un [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens]] ou un [[Templis]] se doit de connaître les catégories qui le concernent s'il souhaite être efficace dans son domaine.
 
 ---
 
 # Créatures Terrestres
 
-Entités combattues par les [[Arvens]] à l'aide de méthodes de combat conventionnelles.
+Entités combattues par les [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens]] à l'aide de méthodes de combat conventionnelles.
 
 ---
 

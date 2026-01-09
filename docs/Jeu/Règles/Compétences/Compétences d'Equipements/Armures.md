@@ -1,7 +1,3 @@
-## Vêtements/ Sans armure
-
-[1-4] Les sorts à X crystaux ne consomme pas de crystaux.
-
 ## Armure légère
 
 **Efficacité** : Retire les désavantages en portant une armure légère.

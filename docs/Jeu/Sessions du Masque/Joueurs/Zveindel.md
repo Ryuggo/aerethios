@@ -4,7 +4,7 @@
 
 |           Arvens            | Runild |             Scienctes              | Templis |
 | :-------------------------: | :----: | :--------------------------------: | :-----: |
-| [[Arvens#Argent\|Argent]] 2 |   -    | [[Scienctes#Archimage\|Archimage]] |    -    |
+| [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Argent\|Argent]] 2 |   -    | [[Scienctes#Archimage\|Archimage]] |    -    |
 
 ## Attributs
 > + 10 points à répartir pour les 5 lvl

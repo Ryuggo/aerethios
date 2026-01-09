@@ -4,24 +4,28 @@
 
 ### Assassin
 
-[1-4] Augmente les dégâts d'une attaque surprise :
-- 1. 1d4 +6 **ou** 3d6,
-- 2. 1d8 +12 **ou** 4d10 +2,
-- 3. 1d12 +23 **ou** 5d12 +7,
-- 4. 1d20 +40 **ou** 4d20 +16.
+Une réussite critique sur le d20 tue la cible en un coup.
 
 ## 1 main
 
 **Efficacité** : Retire les désavantages en utilisant une arme à 1 main.
+
+### Ambidextre
+
+Jeter les dés pour chaque arme, et prenez le plus grand résultat pour les 2 armes.
+
+Si le joueur à un avantage, il jette un troisième dé.
 
 ## 2 mains
 
 **Efficacité** : Retire les désavantages en utilisant une arme à 2 mains.
 
 ### Ambidextre
->Nécessite Ambidextre (Dextérité)
+>Nécessite Ambidextre (1 main)
 
-Permet d'avoir une arme à 2 mains dans chaque mains et de chacune les utiliser à chaque tour de combat.
+Permet de tenir une arme à 2 mains avec 1 main.
+
+Le joueur ne peut qu'avoir un bouclier dans l'autre main, pas une arme.
 
 ## Hast
 

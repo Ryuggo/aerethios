@@ -6,7 +6,7 @@
 | :------: | :--------------: | :---------------: |
 |    5     |        2         |         3         |
 
-- se concentrer pour récupérer 1 crystal.
+- **se concentrer pour récupérer 1 crystal.**
 
 ## Mage
 
@@ -17,7 +17,7 @@
 |    10    |        4         |         4         |
 
 - se concentrer pour récupérer 1 crystal,
-- la régénération passive de crystaux est doublée.
+- **la régénération passive de crystaux est doublée.**
 
 ## Archimage
 
@@ -29,7 +29,7 @@
 
 - se concentrer pour récupérer 1 crystal,
 - la régénération passive de crystaux est doublée,
-- augmente les dégâts magiques de 2 par crystal.
+- **augmente les dégâts magiques de 2 par crystal.**
 
 ## Hiéromage
 
@@ -39,7 +39,7 @@
 | :------: | :--------------: | :---------------: |
 |    20    |        8         |         6         |
 
-- se concentrer pour récupérer 2 crystaux,
+- se concentrer pour récupérer **2 crystaux**,
 - la régénération passive de crystaux est doublée,
 - augmente les dégâts magiques de 2 par crystal.
 
@@ -53,4 +53,4 @@
 
 - se concentrer pour récupérer 2 crystaux,
 - la régénération passive de crystaux est doublée,
-- augmente les dégâts magiques de 5 par crystal.
+- **augmente les dégâts magiques de 5 par crystal.**

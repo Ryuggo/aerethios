@@ -1,9 +1,8 @@
+>Ces rangs se gagnent en aidant le peuple de diverses manières.
+>Si un Arvens rate trop souvent ses missions ou n'est plus actif, ses rangs vont diminuer petit à petit (sauf une fois qu'il devient une légende).
+
 ## Bronze
 >Niveau 1 à 3 = Poids morts
-
-La majorité des gens qui rejoignent les Arvens ne se rendent pas compte du danger qui les attend et meurent lors de leurs aventures.
-
-### Avantages
 
 - **la guilde fournit des rations pour la quête en cours,**
 - **la guilde offre l'accès à ses bâtiments :**
@@ -11,12 +10,6 @@ La majorité des gens qui rejoignent les Arvens ne se rendent pas compte du dang
 
 ## Argent
 >Niveau 4 à 7 = Débutants
-
-Ceux qui arrivent au rang argent on fait le plus dur et resteront sûrement encore en vie quelque temps.
-
-Il est donc intéressant pour les plus expérimentés de les épauler pour prendre la relève plus tard.
-
-### Avantages
 
 | Crystaux | Maîtrise Magique | Magie Débloquée |
 | :------: | :--------------: | :-------------: |
@@ -32,10 +25,6 @@ Il est donc intéressant pour les plus expérimentés de les épauler pour prend
 
 ## Or
 >Niveau 8 à 12 = Aventuriers
-
-Les rangs or ont fait leur preuve et sont capables d'effectuer des quêtes sans l'aide de rangs supérieurs.
-
-### Avantages
 
 | Crystaux | Maîtrise Magique | Magies Débloquées |
 | :------: | :--------------: | :---------------: |
@@ -53,12 +42,6 @@ Les rangs or ont fait leur preuve et sont capables d'effectuer des quêtes sans 
 
 ## Platine
 >Niveau 13 à 18 = Héros
-
-Les platines sont rares et réduisent le nombre d'aventures qu'ils font afin de conserver leurs forces pour les missions les plus dangereuses.
-
-Ils profitent de ce temps libre supplémentaire pour accompagner les rangs argents.
-
-### Avantages
 
 | Crystaux | Maîtrise Magique | Magies Débloquées |
 | :------: | :--------------: | :---------------: |
@@ -83,12 +66,6 @@ Ils profitent de ce temps libre supplémentaire pour accompagner les rangs argen
 >- **Emeraude** (Nirina),
 >- **Rubis** (Kothula),
 >- **Topaze** (Suraja).
-
-Rares sont ceux qui possèdent ne serait-ce qu'un de ces titres
-
-Ils deviennent généralement des ambassadeurs de dirigeants, des chefs de guerre ou autre rôle empli de puissance.
-
-### Avantages
 
 | Crystaux | Maîtrise Magique | Magies Débloquées |
 | :------: | :--------------: | :---------------: |

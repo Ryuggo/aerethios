@@ -1,65 +1,45 @@
 >Le type d'arme ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
 
 ## Catégories
->- Le dé de dégâts varie selon la catégorie de l'arme.
 >- Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété Finesse.
 >- La maîtrise est répartie sur 5 points.
 
-### Courte
-*1d4*
-
->Un objet qui ne ressemble pas à une arme tombe dans cette catégorie
-
-**Effets**
-    - Propriété [[Propriétés#Léger|Léger]]
-    - Propriété [[Propriétés#Jetable|Jetable]]
-
-| Arme    | Prix main d'œuvre |            Dégâts            | Matériaux |
-| ------- | ----------------: | :--------------------------: | :-------: |
-| Poings  |                 - |        +1 Contondant         |     -     |
-| Objet   |                 - |             ---              |     -     |
-| Cestus  |                   |        +5 Contondant         |           |
-| Dague   |                   | +3 Perforant<br>+1 Tranchant |           |
-| Griffes |                   | +3 Tranchant<br>+2 Perforant |           |
-
-### 1 main
-*1d6*
-
-**Effets**
-    -
-
-| Arme | Prix main d'œuvre | Maîtrise | Matériaux |
-| ---- | ----------------: | :------: | :-------: |
-|      |                   |          |           |
-
-### 2 mains
-*1d8*
-
-**Effets**
-    -
-
-| Arme | Prix main d'œuvre | Maîtrise | Propriété | Matériaux |
-| ---- | ----------------: | :------: | --------- | :-------: |
-|      |                   |          |           |           |
-
-### Haste
-*2d4*
-
-**Effets**
-    -
-
-| Arme | Prix main d'œuvre | Maîtrise | Force | Matériaux |
-| ---- | ----------------: | :------: | :---: | :-------: |
-|      |                   |          |  ---  |           |
-
-### Distance
-
-**Effets**
-    -
-
-| Arme | Prix main d'œuvre | Maîtrise | Dextérité | Matériaux |
-| ---- | ----------------: | :------: | :-------: | :-------: |
-|      |                   |          |    ---    |           |
+| Arme                  |     Catégorie      | Prix main d'œuvre |            1 main            | 2 mains | Matériaux | Propriétés |
+| --------------------- | :----------------: | ----------------: | :--------------------------: | :-----: | :-------: | ---------- |
+| Objets                |       Courte       |                 - |             1d4              |    -    |     -     |            |
+| Poings                |       Courte       |                   |             1d4              |    -    |     -     |            |
+| Griffes               |       Courte       |                   | +3 Tranchant<br>+2 Perforant |         |           |            |
+| Griffes bestiales     |       Courte       |                   |                              |         |           |            |
+| Dagues                |       Courte       |                   | +3 Perforant<br>+1 Tranchant |         |           |            |
+| Lames de lancer       | Courte<br>Distance |                   |                              |         |           |            |
+| Epées droites         |                    |                   |                              |         |           |            |
+| Espadons légers       |                    |                   |                              |         |           |            |
+| Espadons              |                    |                   |                              |         |           |            |
+| Epées colossales      |                    |                   |                              |         |           |            |
+| Epées d'estoc         |                    |                   |                              |         |           |            |
+| Epées d'estoc lourdes |                    |                   |                              |         |           |            |
+| Epées courbées        |                    |                   |                              |         |           |            |
+| Espadons courbés      |                    |                   |                              |         |           |            |
+| Lames-revers          |                    |                   |                              |         |           |            |
+| Katanas               |                    |                   |                              |         |           |            |
+| Grands katanas        |                    |                   |                              |         |           |            |
+| Lames doubles         |                    |                   |                              |         |           |            |
+| Haches                |                    |                   |                              |         |           |            |
+| Grandes haches        |                    |                   |                              |         |           |            |
+| Marteaux              |                    |                   |                              |         |           |            |
+| Fléaux d'arme         |                    |                   |                              |         |           |            |
+| Marteaux de guerre    |                    |                   |                              |         |           |            |
+| Armes colossales      |                    |                   |                              |         |           |            |
+| Lances                |                    |                   |                              |         |           |            |
+| Grandes lances        |                    |                   |                              |         |           |            |
+| Hallebardes           |                    |                   |                              |         |           |            |
+| Fauchards             |                    |                   |                              |         |           |            |
+| Fouets                |                    |                   |                              |         |           |            |
+| Arcs courts           |      Distance      |                   |                              |         |           |            |
+| Arcs longs            |      Distance      |                   |                              |         |           |            |
+| Arcs géants           |      Distance      |                   |                              |         |           |            |
+| Arbalètes             |      Distance      |                   |                              |         |           |            |
+| Balistes              |      Distance      |                   |                              |         |           |            |
 
 ## Matériaux
 >La propriété VS double les matériaux lorsque l'attaque touche le bon type de cible.

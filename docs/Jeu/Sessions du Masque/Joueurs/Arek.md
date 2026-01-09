@@ -6,7 +6,7 @@
 
 |       Arvens        | Runild | Scienctes | Templis |
 | :-----------------: | :----: | :-------: | :-----: |
-| [[Arvens#Or\|Or]] 3 |   -    |     -     |    2    |
+| [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 3 |   -    |     -     |    2    |
 
 ## Attributs
 > + 14 points à répartir pour les 7 lvl
