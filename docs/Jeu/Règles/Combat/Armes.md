@@ -1,7 +1,7 @@
 >Le type d'arme ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
 
 ## Catégories
->- Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété Finesse.
+>- Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|finesse]].
 >- La maîtrise est répartie sur 5 points.
 
 | Arme                  |     Catégorie      | Prix main d'œuvre |            1 main            | 2 mains | Matériaux | Propriétés |
