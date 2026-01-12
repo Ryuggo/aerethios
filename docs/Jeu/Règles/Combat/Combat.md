@@ -30,9 +30,14 @@ La majorité des entités possèdent 6 cases (30ft) de déplacement.
 | Sauter (avec 10ft d'élan) | Distance = Force                       |
 | Sauter (sans élan)        | Distance = Force / 2                   |
 
+Le mouvement peut être "interrompu" par une action avant de rependre, et ce à plusieurs reprises si besoin.
+
 On ne peut traverser une créature hostile que s'il est 2 fois plus grand/ petit que soi.
 
+On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
+
 ## Attaque
+>Magique ou physique
 
 ### Jet pour toucher
 >1d20 + Modificateur + Maîtrise >= AC

@@ -4,7 +4,7 @@
 
 ### Assassin
 
-Une réussite critique sur le d20 tue la cible en un coup.
+Une attaque surprise fait les dégâts maximum x 1d4.
 
 ## 1 main
 

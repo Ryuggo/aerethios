@@ -4,42 +4,42 @@
 >- Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|finesse]].
 >- La maîtrise est répartie sur 5 points.
 
-| Arme                  |     Catégorie      | Prix main d'œuvre |            1 main            | 2 mains | Matériaux | Propriétés |
-| --------------------- | :----------------: | ----------------: | :--------------------------: | :-----: | :-------: | ---------- |
-| Objets                |       Courte       |                 - |             1d4              |    -    |     -     |            |
-| Poings                |       Courte       |                   |             1d4              |    -    |     -     |            |
-| Griffes               |       Courte       |                   | +3 Tranchant<br>+2 Perforant |         |           |            |
-| Griffes bestiales     |       Courte       |                   |                              |         |           |            |
-| Dagues                |       Courte       |                   | +3 Perforant<br>+1 Tranchant |         |           |            |
-| Lames de lancer       | Courte<br>Distance |                   |                              |         |           |            |
-| Epées droites         |                    |                   |                              |         |           |            |
-| Espadons légers       |                    |                   |                              |         |           |            |
-| Espadons              |                    |                   |                              |         |           |            |
-| Epées colossales      |                    |                   |                              |         |           |            |
-| Epées d'estoc         |                    |                   |                              |         |           |            |
-| Epées d'estoc lourdes |                    |                   |                              |         |           |            |
-| Epées courbées        |                    |                   |                              |         |           |            |
-| Espadons courbés      |                    |                   |                              |         |           |            |
-| Lames-revers          |                    |                   |                              |         |           |            |
-| Katanas               |                    |                   |                              |         |           |            |
-| Grands katanas        |                    |                   |                              |         |           |            |
-| Lames doubles         |                    |                   |                              |         |           |            |
-| Haches                |                    |                   |                              |         |           |            |
-| Grandes haches        |                    |                   |                              |         |           |            |
-| Marteaux              |                    |                   |                              |         |           |            |
-| Fléaux d'arme         |                    |                   |                              |         |           |            |
-| Marteaux de guerre    |                    |                   |                              |         |           |            |
-| Armes colossales      |                    |                   |                              |         |           |            |
-| Lances                |                    |                   |                              |         |           |            |
-| Grandes lances        |                    |                   |                              |         |           |            |
-| Hallebardes           |                    |                   |                              |         |           |            |
-| Fauchards             |                    |                   |                              |         |           |            |
-| Fouets                |                    |                   |                              |         |           |            |
-| Arcs courts           |      Distance      |                   |                              |         |           |            |
-| Arcs longs            |      Distance      |                   |                              |         |           |            |
-| Arcs géants           |      Distance      |                   |                              |         |           |            |
-| Arbalètes             |      Distance      |                   |                              |         |           |            |
-| Balistes              |      Distance      |                   |                              |         |           |            |
+| Arme                  |     Catégorie      | Prix main d'œuvre |            1 main            | 2 mains | Matériaux | Styles |
+| --------------------- | :----------------: | ----------------: | :--------------------------: | :-----: | :-------: | ------ |
+| Objets                |       Courte       |                 - |             1d4              |    -    |     -     |        |
+| Poings                |       Courte       |                   |             1d4              |    -    |     -     |        |
+| Griffes               |       Courte       |                   | +3 Tranchant<br>+2 Perforant |         |           |        |
+| Griffes bestiales     |       Courte       |                   |                              |         |           |        |
+| Dagues                |       Courte       |                   | +3 Perforant<br>+1 Tranchant |         |           |        |
+| Lames de lancer       | Courte<br>Distance |                   |                              |         |           |        |
+| Epées droites         |       1 Main       |                   |                              |         |           |        |
+| Espadons légers       | 1 Main<br>2 Mains  |                   |                              |         |           |        |
+| Espadons              | 1 Main<br>2 Mains  |                   |                              |         |           |        |
+| Epées colossales      |      2 Mains       |                   |                              |         |           |        |
+| Epées d'estoc         |       1 Main       |                   |                              |         |           |        |
+| Epées d'estoc lourdes |  2 Mains<br>Haste  |                   |                              |         |           |        |
+| Epées courbées        |       1 Main       |                   |                              |         |           |        |
+| Espadons courbés      | 1 Main<br>2 Mains  |                   |                              |         |           |        |
+| Lames-revers          |       1 Main       |                   |                              |         |           |        |
+| Katanas               | 1 Main<br>2 Mains  |                   |                              |         |           |        |
+| Grands katanas        |      2 Mains       |                   |                              |         |           |        |
+| Lames doubles         |      2 Mains       |                   |                              |         |           |        |
+| Haches                |       1 Main       |                   |                              |         |           |        |
+| Grandes haches        | 1 Main<br>2 Mains  |                   |                              |         |           |        |
+| Marteaux              |       1 Main       |                   |                              |         |           |        |
+| Fléaux d'arme         |       1 Main       |                   |                              |         |           |        |
+| Marteaux de guerre    |      2 Mains       |                   |                              |         |           |        |
+| Armes colossales      |      2 Mains       |                   |                              |         |           |        |
+| Lances                |       Haste        |                   |                              |         |           |        |
+| Grandes lances        |       Haste        |                   |                              |         |           |        |
+| Hallebardes           |       Haste        |                   |                              |         |           |        |
+| Fauchards             |       Haste        |                   |                              |         |           |        |
+| Fouets                | 1 Main<br>Distance |                   |                              |         |           |        |
+| Arcs courts           |      Distance      |                   |                              |         |           |        |
+| Arcs longs            |      Distance      |                   |                              |         |           |        |
+| Arcs géants           |      Distance      |                   |                              |         |           |        |
+| Arbalètes             |      Distance      |                   |                              |         |           |        |
+| Balistes              |      Distance      |                   |                              |         |           |        |
 
 ## Matériaux
 >La propriété VS double les matériaux lorsque l'attaque touche le bon type de cible.
