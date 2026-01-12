@@ -14,11 +14,23 @@ Un joueur peut prendre son premier tour pour motiver son équipe ou déstabilise
 
 ## Mouvement
 
-| Mouvement | Effet                                                                                |
-| --------- | ------------------------------------------------------------------------------------ |
-| Marche    | Mouvement de base                                                                    |
-| Course    | Mouvement * 2<br>Impossible d'attaquer                                               |
-| Discret   | Mouvement / 2<br>L'ennemi doit faire des jets de perceptions pour détecter le joueur |
+[DnD 5e détails](https://dnd5e.info/combat/movement-and-position/)
+
+### Résumé
+
+La majorité des entités possèdent 6 cases (30ft) de déplacement.
+
+| Mouvement                 | Effet                                  |
+| ------------------------- | -------------------------------------- |
+| Marche                    | Mouvement de base                      |
+| Course                    | Mouvement * 2<br>Impossible d'attaquer |
+| Terrain difficile         | Mouvement / 2                          |
+| Ramper                    | Mouvement / 2                          |
+| Se relever                | 50% mouvement                          |
+| Sauter (avec 10ft d'élan) | Distance = Force                       |
+| Sauter (sans élan)        | Distance = Force / 2                   |
+
+On ne peut traverser une créature hostile que s'il est 2 fois plus grand/ petit que soi.
 
 ## Attaque
 
