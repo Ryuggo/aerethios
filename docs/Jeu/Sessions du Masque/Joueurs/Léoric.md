@@ -1,4 +1,4 @@
->
+>Si vous voulez une image, envoyez-la moi et je la transforme pour avoir un style graphique similaire au reste
 
 **Niveau** : 6
 
@@ -15,7 +15,7 @@
 |   0   |     0     |   0    |     0      |    0     |
 
 ### [[Compétences]]
->57 points à répartir dans les compétences
+>57 points à répartir dans les [[Compétences]]
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
@@ -30,8 +30,9 @@
 |   7   |   -    |    -    |   -   |    -     |
 
 ### Magie
+>Ajouter 9 points dans les magies débloquées (max 11 dans une stat)
 
-**Maîtrise** : 2
+**Maîtrise** : 3
 
 **Crystaux** : 9
 

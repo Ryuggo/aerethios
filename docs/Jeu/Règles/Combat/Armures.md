@@ -69,12 +69,12 @@
     - Si le bouclier est équipé en main, l'AC n'est pris en compte que si l'attaque vient de face
     - Si le bouclier est rangé dans le dos, l'AC n'est pris en compte que si l'attaque vient de dos
 
-| Armure                 |  Prix main d'œuvre | Impénétrable (AC) | Force |                           Matériaux                           |          Propriétés           | Dégats                          |
-| ---------------------- | -----------------: | :---------------: | :---: | :-----------------------------------------------------------: | :---------------------------: | ------------------------------- |
-|  Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |        +1         |  ---  | 2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] | [[Propriétés#Parade\|Parade]] | 1d4 contondant                  |
-| Bouclier<br>*Round*    |   10 pa<br>*10 gp* |        +2         |  ---  | 4 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |              ---              | 1d6 contondant                  |
-| Bouclier d'Estoc       |  20 pa<br>*500 gp* |        +3         |  14   | 6 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |              ---              | 1d6 contondant<br>1d8 perforant |
-| Pavois<br>*Tower*      | 40 pa<br>*1500 gp* |        +4         |  17   | 8 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |             Lourd             | 1d8 contondant                  |
+| Armure                |  Prix main d'œuvre | Impénétrable (AC) | Force |                           Matériaux                           |          Propriétés           | Dégats         |
+| --------------------- | -----------------: | :---------------: | :---: | :-----------------------------------------------------------: | :---------------------------: | -------------- |
+| Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |        +1         |  ---  | 2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] | [[Propriétés#Parade\|Parade]] | 1d4 C          |
+| Bouclier<br>*Round*   |   10 pa<br>*10 gp* |        +2         |  ---  | 4 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |              ---              | 1d6 C          |
+| Bouclier d'Estoc      |  20 pa<br>*500 gp* |        +3         |  14   | 6 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |              ---              | 1d6 C<br>1d8 P |
+| Pavois<br>*Tower*     | 40 pa<br>*1500 gp* |        +4         |  17   | 8 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |             Lourd             | 1d8 C          |
 
 ## Matériaux
 

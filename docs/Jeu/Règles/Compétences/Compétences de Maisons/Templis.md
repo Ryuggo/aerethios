@@ -9,7 +9,7 @@
 ## Oracle
 >Offrir un sens aux Dieux soi-même (généralement la vue).
 
-- Possibilité de voir les entités planaires et d'être moins affecté par leur présence.
+- Possibilité de détecter les entités planaires et d'être moins affecté par leur présence.
 
 ## Forgeron
 >Supporter une présence divine ?

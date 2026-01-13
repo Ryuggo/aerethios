@@ -4,7 +4,7 @@
 
 ### Imperturbable
 
-Conserve la concentration en mouvement ; réduit les malus d’adrénaline.
+Conserve la concentration en mouvement.
 
 ### Assidu
 

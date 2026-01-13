@@ -1,11 +1,9 @@
->
-
 ![[Arek.png]]
 
 **Niveau** : 8
 
-|       Arvens        | Runild | Scienctes | Templis |
-| :-----------------: | :----: | :-------: | :-----: |
+|                                      Arvens                                      | Runild | Scienctes | Templis |
+| :------------------------------------------------------------------------------: | :----: | :-------: | :-----: |
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 3 |   -    |     -     |    2    |
 
 ## Attributs
@@ -17,7 +15,7 @@
 |  +2   |     0     |   +2   |     -1     |    -1    |
 
 ### [[Compétences]]
->59 points à répartir dans les compétences
+>59 points à répartir dans les [[Compétences]]
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |

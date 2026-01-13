@@ -1,4 +1,4 @@
->
+>Si vous voulez une image, envoyez-la moi et je la transforme pour avoir un style graphique similaire au reste
 
 **Niveau** : 5.5
 
@@ -15,7 +15,7 @@
 |  -1   |    +2     |   +2   |     +1     |    -2    |
 
 ### [[Compétences]]
->57 points à répartir dans les compétences
+>57 points à répartir dans les [[Compétences]]
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
@@ -30,14 +30,16 @@
 |   -   |   -    |    -    |   6   |    2     |
 
 ### Magie
+>Avoir 30 points dans les magies débloquées (max 11 dans une stat)
+>Choisir une magie à débloquer en plus qui commence à 3 (1d20 = 20 pour avoir le feu)
 
-**Maîtrise** : 2
+**Maîtrise** : 3
 
 **Crystaux** : 14
 
 | [[Air]] | [[Liquide]] | [[Roche]] | [[Feu]] | [[Foudre]] | [[Lumière]] | [[Ténèbres]] |
 | :-----: | :---------: | :-------: | :-----: | :--------: | :---------: | :----------: |
-|    4    |      9      |     -     |    -    |     8      |      -      |      -       |
+|    3    |      9      |     -     |    -    |     8      |      -      |      -       |
 |   1d6   |     1d8     |     -     |    -    |    1d6     |      -      |      -       |
 
 ## Equipement

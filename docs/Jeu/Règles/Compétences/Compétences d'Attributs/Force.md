@@ -10,6 +10,10 @@ Avantage pour casser des objets ou des structures.
 
 [1-4] Charge maximale + 20kg.
 
+### Grosse Berta
+
+Permet de lancer une chose pesant maximum 50% de la charge maximum (Mule compris). La cible touchée prend des dégâts équivalent au poids de l'objet. L'objet lancé prends des dégâts équivalent à la moitié de son poids.
+
 ## Impénétrable
 
 [1-5] Le joueur gagne 1 point d'Impénétrable (AC).

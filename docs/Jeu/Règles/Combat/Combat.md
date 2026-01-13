@@ -2,16 +2,6 @@
 tags:
   - Règles
 ---
-## Ordre d'actions
-
-1. [[Combat#Motivation|Motivation]] (seulement lors du premier tour)
-2. [[Combat#Mouvement|Mouvement]]
-3. [[Combat#Action|Action]]
-
-## Motivation
-
-Un joueur peut prendre son premier tour pour motiver son équipe ou déstabiliser l'adversaire à l'aide d'une phrase de motivation. Le MJ décidera si cela donnera un avantage ou un désavantage à l'équipe du joueur ou à ses adversaires.
-
 ## Mouvement
 
 [DnD 5e détails](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat)
@@ -35,21 +25,21 @@ On ne peut traverser une créature hostile que s'il est 2 fois plus grand/ petit
 
 On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 
-## Action
+## Actions
 
-| Action                   | Effet                                                                                                                                                                                   |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Motiver                  | Seulement au premier tour, seulement 1 joueur<br>Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour leur donner un désavantage (selon l'approbation du MJ) |
-| Attaquer (arme ou magie) |                                                                                                                                                                                         |
-| Courir                   | Mouvement * 2<br>Impossible d'attaquer                                                                                                                                                  |
-| Se désengager            | Éviter une attaque d'opportunité en s'éloignant d'un adversaire<br>Impossible d'attaquer                                                                                                |
-| Esquiver                 | Désavantage pour ceux qui attaquent                                                                                                                                                     |
-|                          | S'annule si le mouvement tombe à 0                                                                                                                                                      |
-| Aider                    | Avantage pour celui qu'on aide                                                                                                                                                          |
-| Se cacher                | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise                                                                                                       |
-| Se préparer              | Citer ce que l'on attend qu'il se passe afin de pouvoir y réagir en dehors de son tour                                                                                                  |
-| Chercher                 | Jet de Perception (Perception) pour trouver quelque chose                                                                                                                               |
-| Utiliser un objet        | La même                                                                                                                                                                                 |
+| Action                   | Effet                                                                                                                                                                                     |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Motiver                  | Seulement au premier tour, seulement un joueur.<br>Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour leur donner un désavantage (selon l'approbation du MJ) |
+| Attaquer (arme ou magie) |                                                                                                                                                                                           |
+| Courir                   | Mouvement * 2<br>Impossible d'attaquer                                                                                                                                                    |
+| Se désengager            | Éviter une attaque d'opportunité en s'éloignant d'un adversaire<br>Impossible d'attaquer                                                                                                  |
+| Esquiver                 | Désavantage pour ceux qui attaquent                                                                                                                                                       |
+|                          | S'annule si le mouvement tombe à 0                                                                                                                                                        |
+| Aider                    | Avantage pour celui qu'on aide                                                                                                                                                            |
+| Se cacher                | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise                                                                                                         |
+| Se préparer              | Citer ce que l'on attend qu'il se passe afin de pouvoir y réagir en dehors de son tour                                                                                                    |
+| Chercher                 | Jet de Perception (Perception) pour trouver quelque chose                                                                                                                                 |
+| Utiliser un objet        | La même                                                                                                                                                                                   |
 
 ### Attaquer
 >Armes ou Magie
@@ -71,19 +61,10 @@ Le résultat doit être supérieur ou égal à l'AC de la cible pour que des dé
 
 #### Jet.s de dégâts
 >Dé d'arme + Modificateur + Matériaux + Enchantements + Style
-- Chaque arme possède un **dé d’arme** selon son matériau et ses enchantements.
 
-- Le **puissance d’attaque** se calcule ainsi :
-	→ Jet de **Dé d’arme**
-	→ + **Maîtrise d’arme**
-	→ + **Maîtrise de type**
-	→ + **Bonus de style**
+- Le score doit être supérieur à l’armure ennemie pour infliger des dégâts.
 
-- On rajoute le **matériau** de l'arme à la puissance d'attaque obtenue pour déterminer les **dégâts infligés**
-
-- Le score doit être **supérieur à l’armure ennemie** pour infliger des dégâts.
-
-- Les **styles de combat** offrent un bonus si réussis, mais retirent ce bonus en cas d’échec.
+- Les styles de combat offrent un bonus si réussis, mais retirent ce bonus en cas d’échec.
 
 - La **réussite du style** dépend de son type.
 
@@ -110,24 +91,6 @@ Le joueur peut passer son tour pour se concentrer.
 - **Autres compétences** : +2 (non cumulable).
 
 - La compétence **Imperturbable** permet de se déplacer sans perdre le bonus.
-
-## Adrénaline
-
-- S'active si l'une de ces situations se présentent :
-	- un allié tombe de fatigue,
-	- le joueur tombe en dessous de 10 PV,
-	- le combat entre dans une nouvelle phase.
-
-- Bonus :
-	→ **+D10 en Maîtrise de Combat**
-	→ **+D10 en Force ou Dextérité**
-
-- Malus :
-	→ **–D10 en Maîtrise de Magie**
-
-- L’état disparaît :
-	- à la fin du combat,
-	- sur réussite d’un **D20 Mental + Concentration > 15**
 
 ## Bagarre
 

@@ -3,7 +3,7 @@
 >Chaque attribut peut contenir jusqu'à 20 points.
 >A chaque fois que le joueur met 1 point dans un attribut, il peut débloquer 1 compétence liée à cet attribut (certaines compétences sont liées à plusieurs attributs et peuvent être débloqués via différents "chemin").
 
-| Force (21)                           | Dextérité (24)                           | Mental (23)                                       | Perception (27)                         | Charisme (24)                             |
+| Force (22)                           | Dextérité (24)                           | Mental (23)                                       | Perception (27)                         | Charisme (24)                             |
 | ------------------------------------ | ---------------------------------------- | ------------------------------------------------- | --------------------------------------- | ----------------------------------------- |
 | [[Force#Athlétisme\|Athlétisme]]     | [[Dextérité#Acrobatie\|Acrobatie]]       | [[Mental#Intelligence\|Intelligence]]             | [[Perception#Perception\|Perception]]   | [[Charisme#Veinard\|Veinard]]             |
 | [[Force#Mule\|Mule]]                 | [[Dextérité#Discrétion\|Discrétion]]     | [[Mental#Sagesse\|Sagesse]]                       | [[Perception#Survie\|Survie]]           | [[Charisme#Intimidant\|Intimidant]]       |
@@ -24,6 +24,7 @@
 |                                                                                                                 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Distance\|Distance]] |
 
 # Compétences de Maisons
+>Le joueur les débloque en montant de rang dans sa maison.
 
 | Arvens                                                                        | Runild                      | Scienctes                          | Templis              |
 | ----------------------------------------------------------------------------- | --------------------------- | ---------------------------------- | -------------------- |

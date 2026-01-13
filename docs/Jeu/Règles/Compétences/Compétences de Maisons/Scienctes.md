@@ -2,9 +2,9 @@
 
 ### Avantages
 
-| Crystaux | Maîtrise Magique | Magies Débloquées |
-| :------: | :--------------: | :---------------: |
-|    5     |        2         |         3         |
+| Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
+| :------: | :--------------: | :---------------: | :-------------: |
+|    5     |        2         |         3         |    20 [2-10]    |
 
 - **se concentrer pour récupérer 1 crystal.**
 
@@ -12,9 +12,9 @@
 
 ### Avantages
 
-| Crystaux | Maîtrise Magique | Magies Débloquées |
-| :------: | :--------------: | :---------------: |
-|    10    |        4         |         4         |
+| Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
+| :------: | :--------------: | :---------------: | :-------------: |
+|    10    |        3         |         4         |    30 [3-11]    |
 
 - se concentrer pour récupérer 1 crystal,
 - **la régénération passive de crystaux est doublée.**
@@ -23,9 +23,9 @@
 
 ### Avantages
 
-| Crystaux | Maîtrise Magique | Magies Débloquées |
-| :------: | :--------------: | :---------------: |
-|    15    |        6         |         5         |
+| Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
+| :------: | :--------------: | :---------------: | :-------------: |
+|    15    |        4         |         5         |    40 [4-12]    |
 
 - se concentrer pour récupérer 1 crystal,
 - la régénération passive de crystaux est doublée,
@@ -35,9 +35,9 @@
 
 ### Avantages
 
-| Crystaux | Maîtrise Magique | Magies Débloquées |
-| :------: | :--------------: | :---------------: |
-|    20    |        8         |         6         |
+| Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
+| :------: | :--------------: | :---------------: | :-------------: |
+|    20    |        5         |         6         |    50 [5-13]    |
 
 - se concentrer pour récupérer **2 crystaux**,
 - la régénération passive de crystaux est doublée,
@@ -47,9 +47,9 @@
 
 ### Avantages
 
-| Crystaux | Maîtrise Magique | Magies Débloquées |
-| :------: | :--------------: | :---------------: |
-|    20    |        10        |         7         |
+| Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
+| :------: | :--------------: | :---------------: | :-------------: |
+|    20    |        6         |         7         |    60 [6-14]    |
 
 - se concentrer pour récupérer 2 crystaux,
 - la régénération passive de crystaux est doublée,
