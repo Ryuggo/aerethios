@@ -37,22 +37,19 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 
 ## Action
 
-
-| Action                   | Effet                                                                                                                                  |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Attaquer (arme ou magie) |                                                                                                                                        |
-| Courir                   | Mouvement * 2<br>Impossible d'attaquer                                                                                                 |
-| Se désengager            | Éviter une attaque d'opportunité en s'éloignant d'un adversaire                                                                        |
-|                          | Impossible d'attaquer                                                                                                                  |
-| Esquiver                 | Désavantage pour ceux qui attaquent                                                                                                    |
-|                          | S'annule si le mouvement tombe à 0                                                                                                     |
-| Aider                    | Avantage pour celui qu'on aide                                                                                                         |
-| Se cacher                | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise                                                      |
-| Se préparer              | Citer ce que l'on attend qu'il se passe afin de pouvoir y réagir en dehors de son tour                                                 |
-| Chercher                 | Jet de Perception (Perception) pour trouver quelque chose                                                                              |
-| Utiliser un objet        | La même                                                                                                                                |
-| Motiver                  | Seulement au premier tour, seulement 1 joueur                                                                                          |
-|                          | Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour leur donner un désavantage (selon l'approbation du MJ) |
+| Action                   | Effet                                                                                                                                                                                   |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Motiver                  | Seulement au premier tour, seulement 1 joueur<br>Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour leur donner un désavantage (selon l'approbation du MJ) |
+| Attaquer (arme ou magie) |                                                                                                                                                                                         |
+| Courir                   | Mouvement * 2<br>Impossible d'attaquer                                                                                                                                                  |
+| Se désengager            | Éviter une attaque d'opportunité en s'éloignant d'un adversaire<br>Impossible d'attaquer                                                                                                |
+| Esquiver                 | Désavantage pour ceux qui attaquent                                                                                                                                                     |
+|                          | S'annule si le mouvement tombe à 0                                                                                                                                                      |
+| Aider                    | Avantage pour celui qu'on aide                                                                                                                                                          |
+| Se cacher                | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise                                                                                                       |
+| Se préparer              | Citer ce que l'on attend qu'il se passe afin de pouvoir y réagir en dehors de son tour                                                                                                  |
+| Chercher                 | Jet de Perception (Perception) pour trouver quelque chose                                                                                                                               |
+| Utiliser un objet        | La même                                                                                                                                                                                 |
 
 ### Attaquer
 >Armes ou Magie
@@ -103,23 +100,6 @@ Le résultat doit être supérieur ou égal à l'AC de la cible pour que des dé
 	→ S'ils tombent à 0, l'entité n'est pas morte, juste en trop mauvais état pour effectuer des actions directes dans le combat (Attaquer n'est pas possible, mais bouger et activer un piège l'est).
 
 - Les humanoïdes possèdent tous un **maximum de 50 HP** qui se régénèrent avec du repos (pour peu que la personne ait mangé récemment) ou de la magie.
-
-## Défense
-
-- Pour bloquer une attaque, on additionne :
-	→ **Matériau de l’armure**
-	→ + **Impénétrable**
-
-- Si ce total est **supérieur à l’attaque**, aucun dégât n’est subi.
-
-## Impénétrable
-
-- Les bonus d'impénétrable ne s'appliquent **que sur le type d'attaque lui correspondant**.
-→ Si l'armure a impénétrable en Contondant et que l'attaque est Tranchante, le bonus ne s'applique pas.
-
-## Réaction
-
-###
 
 ## Concentration
 
