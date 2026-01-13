@@ -6,7 +6,7 @@ tags:
 
 1. [[Combat#Motivation|Motivation]] (seulement lors du premier tour)
 2. [[Combat#Mouvement|Mouvement]]
-3. [[Combat#Attaque|Attaque]]
+3. [[Combat#Action|Action]]
 
 ## Motivation
 
@@ -14,7 +14,7 @@ Un joueur peut prendre son premier tour pour motiver son équipe ou déstabilise
 
 ## Mouvement
 
-[DnD 5e détails](https://dnd5e.info/combat/movement-and-position/)
+[DnD 5e détails](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat)
 
 ### Résumé
 
@@ -23,7 +23,6 @@ La majorité des entités possèdent 6 cases (30ft) de déplacement.
 | Mouvement                 | Effet                                  |
 | ------------------------- | -------------------------------------- |
 | Marche                    | Mouvement de base                      |
-| Course                    | Mouvement * 2<br>Impossible d'attaquer |
 | Terrain difficile         | Mouvement / 2                          |
 | Ramper                    | Mouvement / 2                          |
 | Se relever                | 50% mouvement                          |
@@ -36,10 +35,29 @@ On ne peut traverser une créature hostile que s'il est 2 fois plus grand/ petit
 
 On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 
-## Attaque
->Magique ou physique
+## Action
 
-### Jet pour toucher
+
+| Action                   | Effet                                                                                                                                  |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Attaquer (arme ou magie) |                                                                                                                                        |
+| Courir                   | Mouvement * 2<br>Impossible d'attaquer                                                                                                 |
+| Se désengager            | Éviter une attaque d'opportunité en s'éloignant d'un adversaire                                                                        |
+|                          | Impossible d'attaquer                                                                                                                  |
+| Esquiver                 | Désavantage pour ceux qui attaquent                                                                                                    |
+|                          | S'annule si le mouvement tombe à 0                                                                                                     |
+| Aider                    | Avantage pour celui qu'on aide                                                                                                         |
+| Se cacher                | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise                                                      |
+| Se préparer              | Citer ce que l'on attend qu'il se passe afin de pouvoir y réagir en dehors de son tour                                                 |
+| Chercher                 | Jet de Perception (Perception) pour trouver quelque chose                                                                              |
+| Utiliser un objet        | La même                                                                                                                                |
+| Motiver                  | Seulement au premier tour, seulement 1 joueur                                                                                          |
+|                          | Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour leur donner un désavantage (selon l'approbation du MJ) |
+
+### Attaquer
+>Armes ou Magie
+
+#### Jet pour toucher
 >1d20 + Modificateur + Maîtrise >= AC
 
 Le joueur lance 1d20 et y ajoute le modificateur d'attribut correspondant ainsi que sa maîtrise.
@@ -54,7 +72,7 @@ Le modificateur d'attribut dépend du type d'attaque
 
 Le résultat doit être supérieur ou égal à l'AC de la cible pour que des dégâts soient appliqués.
 
-### Jet.s de dégâts
+#### Jet.s de dégâts
 >Dé d'arme + Modificateur + Matériaux + Enchantements + Style
 - Chaque arme possède un **dé d’arme** selon son matériau et ses enchantements.
 
