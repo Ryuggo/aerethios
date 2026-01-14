@@ -15,7 +15,7 @@
 |  +1   |    +2     |   0    |     -1     |    0     |
 
 ### [[Compétences]]
->57 points à répartir dans les  [[Compétences]]
+>57 points à répartir dans les [[Compétences]]
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
@@ -37,8 +37,8 @@
 
 | [[Air]] | [[Liquide]] | [[Roche]] | [[Feu]] | [[Foudre]] | [[Lumière]] | [[Ténèbres]] |
 | :-----: | :---------: | :-------: | :-----: | :--------: | :---------: | :----------: |
-|    -    |      -      |     -     |    -    |     2      |      2      |      -       |
-|    -    |      -      |     -     |    -    |    1d4     |     1d4     |      -       |
+|    -    |      -      |     -     |    -    |     7      |      3      |      -       |
+|    -    |      -      |     -     |    -    |    1d6     |     1d4     |      -       |
 
 ## Equipement
 

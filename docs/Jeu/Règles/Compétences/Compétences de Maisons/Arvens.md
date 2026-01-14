@@ -11,9 +11,9 @@
 ## Argent
 >Niveau 4 à 7 = Débutants
 
-| Crystaux | Maîtrise Magique | Magie Débloquée |
-| :------: | :--------------: | :-------------: |
-|    5     |        1         |        1        |
+| Crystaux | Maîtrise Magique | Magie Débloquée | Points magiques |
+| :------: | :--------------: | :-------------: | :-------------: |
+|    5     |        0         |        1        |     5 [1-5]     |
 
 - la guilde fournit des rations pour la quête en cours,
 - **la guilde paie la réparation des équipements,**
@@ -26,9 +26,9 @@
 ## Or
 >Niveau 8 à 12 = Aventuriers
 
-| Crystaux | Maîtrise Magique | Magies Débloquées |
-| :------: | :--------------: | :---------------: |
-|  **10**  |      **2**       |       **2**       |
+| Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
+| :------: | :--------------: | :---------------: | :-------------: |
+|  **10**  |      **1**       |       **2**       |  **10 [1-7]**   |
 
 - **la guilde fournit des plats (sans touche du chef) pour la quête en cours,**
 - la guilde paie la réparation des équipements,
@@ -43,9 +43,9 @@
 ## Platine
 >Niveau 13 à 18 = Héros
 
-| Crystaux | Maîtrise Magique | Magies Débloquées |
-| :------: | :--------------: | :---------------: |
-|    10    |      **3**       |       **3**       |
+| Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
+| :------: | :--------------: | :---------------: | :-------------: |
+|    10    |        1         |       **3**       |  **15 [1-9]**   |
 
 - la guilde fournit des plats (**avec touche du chef**) pour la quête en cours,
 - la guilde paie la réparation des équipements,
@@ -67,9 +67,9 @@
 >- **Rubis** (Kothula),
 >- **Topaze** (Suraja).
 
-| Crystaux | Maîtrise Magique | Magies Débloquées |
-| :------: | :--------------: | :---------------: |
-|    10    |        3         |         3         |
+| Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
+| :------: | :--------------: | :---------------: | :-------------: |
+|    10    |      **2**       |         3         |  **20 [2-11]**  |
 
 - la guilde fournit des plats (avec touche du chef) pour la quête en cours,
 - la guilde paie la réparation des équipements,
