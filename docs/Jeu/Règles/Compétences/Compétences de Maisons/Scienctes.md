@@ -6,7 +6,7 @@
 | :------: | :--------------: | :---------------: | :-------------: |
 |    5     |        2         |         3         |    20 [2-10]    |
 
-- **se concentrer pour récupérer 1 crystal.**
+- **se concentrer pour récupérer 1 crystal (ne permet pas de prendre 10/20).**
 
 ## Mage
 

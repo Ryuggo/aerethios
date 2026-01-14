@@ -4,6 +4,32 @@
 >- Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|finesse]].
 >- La maîtrise est répartie sur 5 points.
 
+### Courte
+
+| Arme   | Prix main d'œuvre | 1 main | Matériaux | Styles |
+| ------ | ----------------: | :----: | :-------: | ------ |
+| Objets |                 - |  1d4   |     -     |        |
+
+### 1 Main
+
+| Arme   | Prix main d'œuvre | 1 main | 2 mains | Matériaux | Styles |
+| ------ | ----------------: | :----: | :-----: | :-------: | ------ |
+| Objets |                 - |  1d4   |    -    |     -     |        |
+
+### 2 Mains
+
+| Arme   | Prix main d'œuvre | 1 main | 2 mains | Matériaux | Styles |
+| ------ | ----------------: | :----: | :-----: | :-------: | ------ |
+| Objets |                 - |  1d4   |    -    |     -     |        |
+
+### Haste
+
+| Arme   | Prix main d'œuvre | 2 mains | Matériaux | Styles |
+| ------ | ----------------: | :-----: | :-------: | ------ |
+| Objets |                 - |    -    |     -     |        |
+
+### Distance
+
 | Arme                  |     Catégorie      | Prix main d'œuvre |     1 main     | 2 mains | Matériaux | Styles |
 | --------------------- | :----------------: | ----------------: | :------------: | :-----: | :-------: | ------ |
 | Objets                |       Courte       |                 - |      1d4       |    -    |     -     |        |
