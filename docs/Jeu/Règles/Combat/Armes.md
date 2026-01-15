@@ -52,29 +52,35 @@ Chaque arme 1 Main/ 2 Mains peut venir avec une sous-catégorie offrant un bonus
 >Désavantage pour attaquer une cible à 5ft (1 case) de soi.
 >Portée = + 5ft (1 case).
 
+![[Weapon - Hast.png]]
+
 | Arme                          | Prix main d'œuvre |     2 mains     | Matériaux |           Propriétés            | Styles |
 | ----------------------------- | ----------------: | :-------------: | :-------: | :-----------------------------: | ------ |
 | Pique<br>*Spear*              |                   | 1d10 T<br>1d4 P |           | [[Propriétés#Jetable\|Jetable]] |        |
 | Hallebarde<br>*Halberd*       |                   | 1d8 T<br>1d6 P  |           |                                 |        |
 | Glaive/ Fauchard<br>*Glaive*  |                   | 1d8 P<br>1d6 T  |           |                                 |        |
-| Lance<br>*Lance*              |                   |     1d12 P      |           |    [[Propriétés#Lent\|Lent]]    |        |
 | Trident (Spetum)<br>*Ranseur* |                   |      3d4 P      |           | [[Propriétés#Jetable\|Jetable]] |        |
+| Lance<br>*Lance*              |                   |     1d12 P      |           |    [[Propriétés#Lent\|Lent]]    |        |
 | Bâton<br>*Quarterstaff*       |                   |      1d8 C      |           | [[Propriétés#Finesse\|Finesse]] |        |
 
 ### Distance
 > **Modificateur** : Dextérité
 
-| Arme      | Prix main d'œuvre | 1 main | 2 mains | Matériaux | Styles |
-| --------- | ----------------: | :----: | :-----: | :-------: | ------ |
-| Fronde    |                   |        |    -    |           |        |
-| Arc       |                   |   -    |         |           |        |
-| Arbalète  |                   |        |    -    |           |        |
-| Baliste   |                   |   -    |         |           |        |
-| Pistolet  |                   |        |    -    |           |        |
-| Fusil     |                   |   -    |         |           |        |
-| Mousquet  |                   |   -    |         |           |        |
-| Arquebuse |                   |   -    |         |           |        |
-| Canon     |                   |   -    |         |           |        |
+![[Weapon - Range.png]]
+
+| Arme          | Prix main d'œuvre | 1 main | 2 mains | Matériaux | Styles |
+| ------------- | ----------------: | :----: | :-----: | :-------: | ------ |
+| Fronde        |                   |        |    -    |           |        |
+| Arc Court     |                   |        |    -    |           |        |
+| Arc Composite |                   |   -    |         |           |        |
+| Arc Long      |                   |   -    |         |           |        |
+| Arbalète      |                   |        |    -    |           |        |
+| Baliste       |                   |   -    |         |           |        |
+| Pistolet      |                   |        |    -    |           |        |
+| Fusil         |                   |   -    |         |           |        |
+| Mousquet      |                   |   -    |         |           |        |
+| Arquebuse     |                   |   -    |         |           |        |
+| Canon         |                   |   -    |         |           |        |
 
 ## Matériaux
 >La propriété VS double les matériaux lorsque l'attaque touche le bon type de cible.
