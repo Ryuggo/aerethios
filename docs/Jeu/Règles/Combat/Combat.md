@@ -38,12 +38,13 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Motiver *                           | Seulement au premier tour, seulement un joueur.<br>Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour leur donner un désavantage (effet et durée selon le MJ) |
 | Attaquer *                          |                                                                                                                                                                                            |
-| Courir                              | Mouvement * 2<br>Impossible d'attaquer                                                                                                                                                     |
+| Courir                              | Mouvement x2<br>Impossible d'attaquer                                                                                                                                                      |
 | Se désengager                       | Éviter une attaque d'opportunité en s'éloignant d'un adversaire<br>Impossible d'attaquer                                                                                                   |
+| Pousser                             | Jet de Force (Athlétisme) pour éloigner la cible de 10ft (2 cases) de soi                                                                                                                  |
 | Esquiver                            | Désavantage pour ceux qui attaquent<br>S'annule si le mouvement tombe à 0                                                                                                                  |
 | Prendre 10/20<br>(Se concentrer * ) | Prendre son temps (sans se faire perturber) pour réussir les DC de 10 (1 tour) / 20 (2 tours)<br>Permet également de régénérer sa magie                                                    |
 | Aider                               | Avantage pour celui qu'on aide (ne se cumule pas)                                                                                                                                          |
-| Se cacher                           | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise                                                                                                          |
+| Se cacher                           | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise<br>Si ça rate, il faut s'éloigner d'au moins 25ft (5 cases) avant de recommencer                         |
 | Se préparer                         | Citer ce que l'on attend qu'il se passe afin de pouvoir y réagir en dehors de son tour                                                                                                     |
 | Chercher                            | Jet de Perception (Perception) pour trouver quelque chose                                                                                                                                  |
 | Utiliser un objet                   | La même                                                                                                                                                                                    |
@@ -55,31 +56,23 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 
 | Type d'attaque |                   Jet à faire                    | Score à atteindre |
 | -------------- | :----------------------------------------------: | :---------------: |
-| **Melée**      |        1d20 + Force/ Dextérité + Maîtrise        |  AC + Précision   |
-| **Distance**   |           1d20 + Dextérité + Maîtrise            |  AC + Précision   |
-| **Magique**    | 1d20 + Mental (Intelligence/ Sagesse) + Maîtrise |  AC + Précision   |
+| **Mêlée**      |        1d20 + Force/ Dextérité + Maîtrise        |        AC         |
+| **Distance**   |           1d20 + Dextérité + Maîtrise            |        AC         |
+| **Magique**    | 1d20 + Mental (Intelligence/ Sagesse) + Maîtrise |        AC         |
 
-##### Précision
->Exemple pour une entité de taille normale.
+##### WIP - Coup précis (mêlée et distance)
+>Uniquement pour les armes à distance ?
 
-| Distance (m) | Torse | Bras/ Jambes | Tête |
-| :----------: | :---: | :----------: | :--: |
-|      2       |  + 0  |     + 0      | + 1  |
-|    3 - 5     |  + 0  |     + 1      | + 2  |
-|    6 - 10    |  + 1  |     + 2      | + 3  |
-|   10 - 15    |  + 2  |     + 4      | + 6  |
-|   16 - 20    |  + 3  |     + 6      | + 9  |
-|   20 - 30    |  + 4  |     + 8      | + 12 |
-|     30+      |  + 5  |     + 10     | + 15 |
+Si le jet est supérieur au double de l'AC, le joueur peut toucher un point sensible.
 
-Le modificateur de précision varie selon la taille de l'entité (ne peut pas descendre la précision en dessous de 0) :
+On peut ensuite soustraire 2AC du résultat du jet, et ajouter 1 pour déterminer le multiplicateur de dégâts (seulement ceux qui passent outre l'armure).
 
-| Minuscule | Petit | Normal | Grand | Enorme | Titanesque |
-| :-------: | :---: | :----: | :---: | :----: | :--------: |
-|    + 4    |  + 2  |   0    |  - 1  |  - 3   |    - 5     |
+>Exemple : Jet(32) - 2 AC(15) + 1 = 3(Multiplicateur de dégâts)
 
 #### Jet.s de dégâts
 >Dé d'arme + Modificateur + Matériaux + Enchantements + Style
+
+- Le modificateur est le même que celui utilisé pour toucher la cible.
 
 - Le score doit être supérieur à l’armure ennemie pour infliger des dégâts.
 

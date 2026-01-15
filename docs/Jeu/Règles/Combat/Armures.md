@@ -3,9 +3,8 @@
 ## Catégorie
 	Note pour moi-même : Sans la compétence pour porter un type d'armure, vous jetez vos dés avec désavantage lorsqu'il s'agit de Force, de Dextérité, ou d'Attaque, et vous ne pouvez pas utiliser la magie.
 
->Les HP ne se régénèrent pas tant qu'une armure est équipée.
-
->Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs dégât perforant), elle perd de sa défense et doit être réparée pour le récupérer.
+>- Les HP ne se régénèrent pas tant qu'une armure est équipée.
+>- Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs dégât perforant), elle perd de sa défense et doit être réparée pour le récupérer.
 
 ![[aerethios/docs/Images/Armures.png]]
 

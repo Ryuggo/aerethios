@@ -17,3 +17,17 @@ Cette arme ne peut pas elle-même utiliser sa propriété Léger.
 
 ## Jetable
 L'arme peut être jetée en utilisant ses jets de dégâts et ses modificateurs comme une attaque normale.
+
+## Lent
+L'arme empêche de faire d'autres actions pendant le tour si on s'en sert pour attaquer.
+
+## Saignement
+[Sur une arme] : 1d6 -> 6 inflige le statut saignement à la cible.
+
+[Sur une cible] : la cible perd 1d6 HP par tour jusqu'à être soignée.
+
+## Critique
+Les attaques dans le dos et les attaques surprises doublent les dégâts (cumulables).
+
+## Double
+Permet d'attaquer une deuxième fois avec la même arme.

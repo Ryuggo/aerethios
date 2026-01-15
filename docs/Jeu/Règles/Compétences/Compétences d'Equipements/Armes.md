@@ -4,7 +4,7 @@
 
 ### Assassin
 
-Une attaque surprise fait les dégâts maximum x 1d4.
+Une attaque surprise fait les dégâts maximum.
 
 ## 1 main
 
