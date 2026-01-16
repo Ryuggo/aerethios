@@ -1,6 +1,8 @@
 ## Armure légère
 
-**Efficacité** : Retire les désavantages en portant une armure légère.
+### Efficacité
+
+Retire les désavantages en portant une armure légère.
 
 ### Conditionnement
 
@@ -16,7 +18,9 @@ Coût et temps de réparation réduit de moitié.
 
 ## Armure intermédiaire
 
-**Efficacité** : Retire les désavantages en portant une armure intermédiaire.
+### Efficacité
+
+Retire les désavantages en portant une armure intermédiaire.
 
 ### Conditionnement
 
@@ -32,7 +36,9 @@ Coût et temps de réparation réduit de moitié.
 
 ## Armure lourde
 
-**Efficacité** : Retire les désavantages en portant une armure lourde.
+### Efficacité
+
+Retire les désavantages en portant une armure lourde.
 
 ### Conditionnement
 
@@ -48,7 +54,9 @@ Coût et temps de réparation réduit de moitié.
 
 ## Bouclier
 
-**Efficacité** : Retire les désavantages en utilisant un bouclier.
+### Efficacité
+
+Retire les désavantages en utilisant un bouclier.
 
 ### Parade
 

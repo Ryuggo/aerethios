@@ -1,6 +1,8 @@
 ## Court
 
-**Efficacité** : Retire les désavantages en utilisant une arme courte.
+### Efficacité
+
+Retire les désavantages en utilisant une arme courte.
 
 ### Assassin
 
@@ -8,7 +10,9 @@ Une attaque surprise fait les dégâts maximum.
 
 ## 1 main
 
-**Efficacité** : Retire les désavantages en utilisant une arme à 1 main.
+### Efficacité
+
+Retire les désavantages en utilisant une arme à 1 main.
 
 ### Ambidextre
 
@@ -18,7 +22,9 @@ Si le joueur à un avantage, il jette un troisième dé.
 
 ## 2 mains
 
-**Efficacité** : Retire les désavantages en utilisant une arme à 2 mains.
+### Efficacité
+
+Retire les désavantages en utilisant une arme à 2 mains.
 
 ### Ambidextre
 >Nécessite Ambidextre (1 main)
@@ -29,11 +35,15 @@ Le joueur ne peut qu'avoir un bouclier dans l'autre main, pas une arme.
 
 ## Hast
 
-**Efficacité** : Retire les désavantages en utilisant une arme d'hast.
+### Efficacité
+
+Retire les désavantages en utilisant une arme d'hast.
 
 ## Distance
 
-**Efficacité** : Retire les désavantages en utilisant une arme à distance.
+### Efficacité
+
+Retire les désavantages en utilisant une arme à distance.
 
 ### Précoce
 >Seulement pour les arcs
