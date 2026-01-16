@@ -31,3 +31,5 @@ Facilite l'apprentissage.
 [1-30] Permet d'ajouter 1 point (5 max) dans chaque magie (sauf le Feu).
 
 Il ne peut s'agir que des 5 premiers points.
+
+La magie peut ne pas être débloquée et les points seront en attente.

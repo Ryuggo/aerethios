@@ -5,6 +5,7 @@
 ## Catégorie
 >- Les HP ne se régénèrent pas tant qu'une armure est équipée.
 >- Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs dégât perforant), sa défense diminue de la différence entre l'AC et le jet pour toucher (il faut la réparer pour récupérer cette défense).
+>- S'il y a plusieurs matériaux dans une armure, on additionne la défense des deux.
 
 ![[aerethios/docs/Images/Armures.png]]
 
@@ -96,11 +97,11 @@
 | Denim (coton)                 |     3 pa |              1              |                           -                           |
 | Polyester                     |     3 pa |              1              |                           -                           |
 | Laine                         |     5 pa |              3              |                           -                           |
-| Velours (coton/ laine)        | 5/ 10 pa |              2              |   Les sorts solide à 2 crystaux ne les consomme pas   |
-| Velours côtelé (coton/ laine) | 5/ 10 pa |              2              |   Les sorts gazeux à 2 crystaux ne les consomme pas   |
-| Soie                          |    10 pa |              1              | Les sorts de lumière à 2 crystaux ne les consomme pas |
-| Satin (soie)                  |    15 pa |              1              |  Les sorts liquide à 2 crystaux ne les consomme pas   |
-| Suède/ Daim                   |    15 pa |              2              | Les sorts de foudre à 2 crystaux ne les consomme pas  |
+| Velours (coton/ laine)        | 5/ 10 pa |              2              |   Les sorts solide à 1 crystaux ne les consomme pas   |
+| Velours côtelé (coton/ laine) | 5/ 10 pa |              2              |   Les sorts gazeux à 1 crystaux ne les consomme pas   |
+| Soie                          |    10 pa |              1              | Les sorts de lumière à 1 crystaux ne les consomme pas |
+| Satin (soie)                  |    15 pa |              1              |  Les sorts liquide à 1 crystaux ne les consomme pas   |
+| Suède/ Daim                   |    15 pa |              2              | Les sorts de foudre à 1 crystaux ne les consomme pas  |
 | Alpaga                        |    25 pa |              3              |  Les sorts croitistes à 1 crystal ne le consomme pas  |
 | Fourrure                      |    25 pa |              3              |  Les sorts élétistes à 1 crystal ne le consomme pas   |
 | Cachemire                     |    30 pa |              3              |    Les sorts de feu à 1 crystal ne le consomme pas    |
@@ -117,7 +118,7 @@
 | Matériau |   Prix/ unité | Défense  |                   Propriétés                    | Poids/ unité |
 | -------- | ------------: | :------: | :---------------------------------------------: | :----------: |
 | Peau     | 2 ^ rareté pa | [1 - 10] | Résiste à [[Propriétés#Saignement\|Saignement]] |     1 kg     |
-| Cuir     | 3 ^ rareté pa | [5 - 15] |     Résiste à [[Propriétés#Poison\|Poison]]     |     1 kg     |
+| Cuir     | 3 ^ rareté pa | [3 - 15] |     Résiste à [[Propriétés#Poison\|Poison]]     |     1 kg     |
 
 ### Écailles et Os
 *Armures Intermédiaires & Lourdes*

@@ -11,15 +11,19 @@
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|   8   |    14     |   15   |     12     |    6     |
-|  -1   |    +2     |   +2   |     +1     |    -2    |
+|   8   |    15     |   16   |     12     |    6     |
+|  -1   |    +2     |   +3   |     +1     |    -2    |
 
 ### [[Compétences]]
 >57 points à répartir dans les [[Compétences]]
 
-| Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
-| :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
-|       |           |        |            |          |         |       |
+|     Force      |   Dextérité    |     Mental     |     Perception     |    Charisme     |       Armures        |     Armes      |
+| :------------: | :------------: | :------------: | :----------------: | :-------------: | :------------------: | :------------: |
+|  Athlétisme 3  |  Acrobatie 5   | Intelligence 5 |    Détection 5     |     Veinard     |        Légère        |     Courte     |
+|     Mule 1     |  Discrétion 2  |   Sagesse 5    |     Intuition      | Charismatique 4 |   Légère - Arcanes   |      Hast      |
+| Impénétrable 3 |  Sixième Sens  | Imperturbable  | Perception Magique |      Doyen      | Légère - Maintenance | Hast - Précoce |
+|                | Troisième Oeil |     Assidu     |      Survie 4      |                 |                      |    Distance    |
+|                |                |   Magicien 4   |  Survie - Plante   |                 |                      |                |
 
 ## Combats
 
@@ -27,26 +31,33 @@
 
 | Court | 1 Main | 2 Mains | Haste | Distance |
 | :---: | :----: | :-----: | :---: | :------: |
-|   -   |   -    |    -    |   6   |    2     |
+|   0   |   -    |    -    |   6   |    2     |
 
 ### Magie
->Avoir 30 points dans les magies débloquées (max 11 dans une stat)
->Choisir une magie à débloquer en plus qui commence à 3 (1d20 = 20 pour avoir le feu)
 
 **Maîtrise** : 3
 
 **Crystaux** : 14
 
 | **[[Air]]** | **[[Eau]]** | **[[Roche]]** | **[[Feu]]** | **[[Foudre]]** | **[[Lumière]]** | **[[Ténèbres]]** |
-| :--------: | :---------: | :--------: | :-----: | :--------: | :---------: | :----------: |
-|     3      |      9      |     -      |    -    |     8      |      -      |      -       |
-|    1d6     |     1d8     |     -      |    -    |    1d6     |      -      |      -       |
+| :---------: | :---------: | :-----------: | :---------: | :------------: | :-------------: | :--------------: |
+|      8      |     11      |       -       |     (4)     |       11       |        -        |        -         |
+|     1d6     |     1d8     |       -       |      -      |      1d8       |        -        |        -         |
 
 ## Equipement
 
 ### [[Armures]]
 
+| Armure                      |              AC               |  Défense   |  Enchantement  | Poids (kg) | Dégâts | Température |                    Propriétés                     |
+| --------------------------- | :---------------------------: | :--------: | :------------: | :--------: | :----: | :---------: | :-----------------------------------------------: |
+| Cuir clouté                 | 12 + 2(Dex) + 3(Impénétrable) | 9 + 4 = 13 |       -        |     6      |   -    |     -1      |      Résiste à [[Propriétés#Poison\|Poison]]      |
+| Veste longue Velours côtelé |               -               |     -      | Air 1<br>Feu 1 |     1      |   -    |      2      | Les sorts gazeux à 2 crystaux ne les consomme pas |
+
 ### [[Armes]]
+
+| Arme    | 1 Main | 2 Mains |              Attaque              | Enchantements | Poids (kg) |           Propriétés            |
+| ------- | :----: | :-----: | :-------------------------------: | :-----------: | :--------: | :-----------------------------: |
+| Trident |   -    |  3d4 P  | 3 (Fer) + Electrum<br>VS Magiques |       -       |     4      | [[Propriétés#Jetable\|Jetable]] |
 
 ## [[Apprentissages]]
 
@@ -73,7 +84,7 @@
 
 ## Inventaire
 
-**Poids maximum** : 38kg
+**Poids maximum** : 58kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
 - *Force < 10 : 40 + (Force Modificateur x 2)*
 

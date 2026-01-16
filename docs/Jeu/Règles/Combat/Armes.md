@@ -2,10 +2,10 @@
 
 	Attaque maximale sans buff magique :
 	Mêlée :
-		Lame double : 4d4T + 5 + 22 + 10 élém = [41-53] x Style x 2(VS)
-		Dague : 1d4T + 5 + 22 + 10 élém = [38-41] x4 (Crit) x Style x 2(VS)
+		Lame double : 4d4T x 2(VS) + 5(Force) + 22 + 10élém = [45-69] x Style
+		Dague : 1d4T x 2(VS) + 5(Force) + 22 + 10élém = [39-45] x4(Crit) x Style
 	Distance :
-		Canon : 60 + 5 + 1d6(Poison) = [66-71] x 4(Proche) x 2(VS)
+		Canon : 60 + 5(Force) + 1d6(Poison) x 2(VS) = [67-77] (?x 4(Proche)?)
 
 ## Catégories
 >Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|Finesse]].
@@ -87,7 +87,7 @@ Chaque arme 1 Main/ 2 Mains peut venir avec une sous-catégorie offrant un bonus
 | Pistolet                            |              5 po |      20       |           |                     [[Propriétés#Léger\|Léger]]                      |
 | Mousquet<br>+Baïonnette             |             10 po | 40<br>+ 1d4 P |           |               [[Propriétés#Préparation\|Préparation]]                |
 | Canon                               |             20 po |      60       |           | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]] |
-#### Distance
+#### WIP - Distance ?
 > Les dégâts changent selon la distance avec la cible.
 
 | Propriété                   | < 5 ft (1 case) | 5 - 10 ft | 11 - 20 ft | 21 - 40 ft | 41 - 80 ft | 81+ ft |

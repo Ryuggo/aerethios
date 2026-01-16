@@ -8,7 +8,7 @@ Avantage pour casser des objets ou des structures.
 
 ## Mule
 
-[1-4] Charge maximale + 20kg.
+[1-4] Charge maximale + 20kg par point.
 
 ### Grosse Berta
 

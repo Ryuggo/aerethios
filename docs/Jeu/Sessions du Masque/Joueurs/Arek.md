@@ -11,15 +11,19 @@
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|  15   |    10     |   14   |     8      |    8     |
-|  +2   |     0     |   +2   |     -1     |    -1    |
+|  16   |    10     |   15   |     10     |    8     |
+|  +3   |     0     |   +2   |     0      |    -1    |
 
 ### [[Compétences]]
->59 points à répartir dans les [[Compétences]]
 
-| Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
-| :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
-|       |           |        |            |          |         |       |
+|     Force      |   Dextérité    |        Mental        |     Perception     |   Charisme   |         Armures         |        Armes        |
+| :------------: | :------------: | :------------------: | :----------------: | :----------: | :---------------------: | :-----------------: |
+|  Athlétisme 5  |  Acrobatie 5   |    Intelligence 5    |    Détection 5     |   Veinard    |         Lourde          |       1 Main        |
+|  Destructeur   |  Sixième Sens  |    Imperturbable     |     Intuition      | Intimidant 5 | Lourde - Poids réduit 2 | 1 Main - Ambidextre |
+|     Mule 4     | Troisième Oeil |        Assidu        | Perception Magique |   Parrain    |    Lourde - Bagarre     |       2 Mains       |
+|  Grosse Berta  |                | Résistance Mentale 5 |                    |              |  Lourde - Maintenance   |                     |
+| Impénétrable 5 |                |                      |                    |              |        Bouclier         |                     |
+|                |                |                      |                    |              |    Bouclier - Miroir    |                     |
 
 ## Combats
 
@@ -44,9 +48,19 @@
 
 ### [[Armures]]
 
-Gammoth 30 kg
+| Armure           |          AC          |       Défense        |   Enchantement    |  Poids (kg)   |     Dégâts     | Température |                     Propriétés                     |
+| ---------------- | :------------------: | :------------------: | :---------------: | :-----------: | :------------: | :---------: | :------------------------------------------------: |
+| Gammoth          | 18 + 5(Impénétrable) | 20 (rare) + 3(Force) |      Glace 4      | 32 - 20% = 25 |       -        |      3      |                        ---                         |
+| Cape Fourrure    |          -           |          -           | Feu 2<br>Foudre 1 |       1       |       -        |      3      | Les sorts élétistes à 1 crystal ne le consomme pas |
+| Bouclier d'Estoc |          3           |   50 (Orichalque)    |     Foudre 5      |      15       | 1d6 C<br>1d8 P |      -      |           [[Propriétés#Charge\|Charge]]            |
 
 ### [[Armes]]
+
+| Arme           |     1 Main     |    2 Mains     |           Attaque            | Enchantements | Propriétés |                                       |
+| -------------- | :------------: | :------------: | :--------------------------: | :-----------: | :--------: | ------------------------------------- |
+| Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons | + 10 Ténèbres |    ---     |                                       |
+| Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons | + 10 Ténèbres |    ---     |                                       |
+| Epée (lourde)  | 1d8 P<br>1d6 T | 2d6 P<br>1d8 T |  10 (Palladium)<br>VS Anges  | + 10 Ténèbres |    ---     | A touché le sang du Dieu de la guerre |
 
 ## [[Apprentissages]]
 
@@ -73,7 +87,7 @@ Gammoth 30 kg
 
 ## Inventaire
 
-**Poids maximum** : 60kg
+**Poids maximum** : 140kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
 - *Force < 10 : 40 + (Force Modificateur x 2)*
 
