@@ -1,4 +1,4 @@
-## Perception
+## Détection
 
 [1-5] Modificateur pour détecter des informations utiles.
 

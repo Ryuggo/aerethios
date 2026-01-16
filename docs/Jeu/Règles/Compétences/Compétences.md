@@ -5,7 +5,7 @@
 
 | Force (22)                           | Dextérité (24)                           | Mental (23)                                       | Perception (27)                         | Charisme (24)                             |
 | ------------------------------------ | ---------------------------------------- | ------------------------------------------------- | --------------------------------------- | ----------------------------------------- |
-| [[Force#Athlétisme\|Athlétisme]]     | [[Dextérité#Acrobatie\|Acrobatie]]       | [[Mental#Intelligence\|Intelligence]]             | [[Perception#Perception\|Perception]]   | [[Charisme#Veinard\|Veinard]]             |
+| [[Force#Athlétisme\|Athlétisme]]     | [[Dextérité#Acrobatie\|Acrobatie]]       | [[Mental#Intelligence\|Intelligence]]             | [[Perception#Détection\|Détection]]     | [[Charisme#Veinard\|Veinard]]             |
 | [[Force#Mule\|Mule]]                 | [[Dextérité#Discrétion\|Discrétion]]     | [[Mental#Sagesse\|Sagesse]]                       | [[Perception#Survie\|Survie]]           | [[Charisme#Intimidant\|Intimidant]]       |
 | [[Force#Impénétrable\|Impénétrable]] | [[Dextérité#Doigté\|Doigté]]             | [[Mental#Résistance mentale\|Résistance Mentale]] | [[Perception#Travailleur\|Travailleur]] | [[Charisme#Performance\|Performance]]     |
 |                                      | [[Dextérité#Sixième sens\|Sixième Sens]] | [[Mental#Magicien\|Magicien]]                     |                                         | [[Charisme#Persuasif\|Persuasif]]         |
