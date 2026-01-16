@@ -58,6 +58,6 @@ Coût et temps de réparation réduit de moitié.
 
 Retire les désavantages en utilisant un bouclier.
 
-### Parade
+### Miroir
 
-[1-5] Modificateur de Force ou de Dextérité pour parer une attaque ennemie et ouvrir sa garde (les dégâts infligés minimum équivalent à la moitié de la valeur maximale).
+Une attaque ennemie qui ne dépasse pas l'AC fait perdre 5HP à l'attaquant.

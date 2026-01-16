@@ -44,6 +44,8 @@
 
 ### [[Armures]]
 
+Gammoth 30 kg
+
 ### [[Armes]]
 
 ## [[Apprentissages]]

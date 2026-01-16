@@ -26,10 +26,10 @@ Avantage lorsqu'il s'agit de plantes.
 
 Avantage lorsqu'il s'agit d'animaux.
 
-## Travailleur
+## WIP - Travailleur
 
 [1-5] Modificateur pour l'artisanat.
 
-### Précis
+### WIP - Précis
 
 Rater plusieurs fois ne fait pas échouer la fabrication.

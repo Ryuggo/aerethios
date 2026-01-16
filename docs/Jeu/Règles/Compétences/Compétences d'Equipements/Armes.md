@@ -39,6 +39,10 @@ Le joueur ne peut qu'avoir un bouclier dans l'autre main, pas une arme.
 
 Retire les désavantages en utilisant une arme d'hast.
 
+### Pénétrator
+
+Permet de taper une seconde fois avec désavantage.
+
 ## Distance
 
 ### Efficacité

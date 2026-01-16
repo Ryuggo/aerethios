@@ -28,6 +28,6 @@ Facilite l'apprentissage.
 
 ## Magicien
 
-Permet d'ajouter 1 point dans une des magies (sauf le Feu).
+[1-30] Permet d'ajouter 1 point (5 max) dans chaque magie (sauf le Feu).
 
-Si la magie n'est pas connue, il s'agit de points latents qui seront ajoutés une fois qu'elle sera apprise (ils ne peuvent aller que jusqu'à 5).
+Il ne peut s'agir que des 5 premiers points.

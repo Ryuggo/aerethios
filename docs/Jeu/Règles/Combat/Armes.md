@@ -5,6 +5,7 @@
 		Lame double : 4d4T + 5 + 22 + 10 élém = [41-53] x Style x 2(VS)
 		Dague : 1d4T + 5 + 22 + 10 élém = [38-41] x4 (Crit) x Style x 2(VS)
 	Distance :
+		Canon : 60 + 5 + 1d6(Poison) = [66-71] x 4(Proche) x 2(VS)
 
 ## Catégories
 >Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|Finesse]].
@@ -26,17 +27,17 @@
 >Les armes à 1 main ont [[Propriétés#Finesse|Finesse]]
 >Matériaux : 2 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|métaux]] (sauf fouet)
 
-| Arme                             |                                                     Prix main d'œuvre |     1 main     |     2 mains     |                Propriétés                 | Styles |
-| -------------------------------- | --------------------------------------------------------------------: | :------------: | :-------------: | :---------------------------------------: | ------ |
-| Epée droite<br>*Shortsword*      |                                                      10 pa<br>*10 gp* | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  |                                           |        |
-| Epée d'estoc<br>*Rapier/ Estoc*  |                                                      25 pa<br>*25 gp* |     1d8 P      |      2d6 P      |                                           |        |
-| Katana/ Sabre<br>*Katana/ Saber* |                                              25/ 50 pa<br>*25/ 50 gp* | 1d6 T<br>1d4 P | 2d4 T<br>1d6 P  |                                           |        |
-| Epée courbée<br>*Scimitar*       |                                                      25 pa<br>*25 gp* |     1d8 T      |      2d6 T      |                                           |        |
-| Fléau d'arme<br>*Flail*          |                                                      10 pa<br>*10 gp* | 1d6 C<br>1d4 P | 2d4 C<br>1d6 P  |                                           |        |
-| Marteau/ Masse<br>*Hammer/ Club* |                                           2 pa/ 20 pc<br>*2 gp/ 2 sp* |     1d8 C      |      2d6 C      |                                           |        |
-| Hachette<br>*Handaxe*            |                                                        5 pa<br>*5 gp* | 1d6 T<br>1d4 C | 2d4 T<br>1d6 C  |                                           |        |
-| Lame double                      | 25 pa + 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] |     1d4 P      | 1d10 P<br>1d6 T |      [[Propriétés#Double\|Double]] T      |        |
-| Fouet<br>*Whip*                  |                                                        5 pa<br>*2 gp* |     1d4 T      |        -        | [[Propriétés#Lacération\|Lacération]]<br> |        |
+| Arme                             |                                                     Prix main d'œuvre |     1 main     |     2 mains     | Force |                Propriétés                 | Styles |
+| -------------------------------- | --------------------------------------------------------------------: | :------------: | :-------------: | :---: | :---------------------------------------: | ------ |
+| Epée droite<br>*Shortsword*      |                                                      10 pa<br>*10 gp* | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  |       |                                           |        |
+| Epée d'estoc<br>*Rapier/ Estoc*  |                                                      25 pa<br>*25 gp* |     1d8 P      |      2d6 P      |       |                                           |        |
+| Katana/ Sabre<br>*Katana/ Saber* |                                              25/ 50 pa<br>*25/ 50 gp* | 1d6 T<br>1d4 P | 2d4 T<br>1d6 P  |       |                                           |        |
+| Epée courbée<br>*Scimitar*       |                                                      25 pa<br>*25 gp* |     1d8 T      |      2d6 T      |       |                                           |        |
+| Fléau d'arme<br>*Flail*          |                                                      10 pa<br>*10 gp* | 1d6 C<br>1d4 P | 2d4 C<br>1d6 P  |       |                                           |        |
+| Marteau/ Masse<br>*Hammer/ Club* |                                           2 pa/ 20 pc<br>*2 gp/ 2 sp* |     1d8 C      |      2d6 C      |       |                                           |        |
+| Hachette<br>*Handaxe*            |                                                        5 pa<br>*5 gp* | 1d6 T<br>1d4 C | 2d4 T<br>1d6 C  |       |                                           |        |
+| Lame double                      | 25 pa + 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] |     1d4 P      | 1d10 P<br>1d6 T |       |      [[Propriétés#Double\|Double]] T      |        |
+| Fouet<br>*Whip*                  |                                                        5 pa<br>*2 gp* |     1d4 T      |        -        |       | [[Propriétés#Lacération\|Lacération]]<br> |        |
 
 #### Sous-catégories
 
@@ -83,9 +84,9 @@ Chaque arme 1 Main/ 2 Mains peut venir avec une sous-catégorie offrant un bonus
 | Arbalète légère<br>*Light Crossbow* |  50 pa<br>*25 gp* |       4       |           |                     [[Propriétés#Léger\|Léger]]                      |
 | Arbalète<br>*Crossbow*              |  75 pa<br>*75 gp* |       8       |           |               [[Propriétés#Préparation\|Préparation]]                |
 | Baliste<br>*Heavy Crossbow*         |   1 po<br>*50 gp* |      12       |           | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]] |
-| Pistolet                            |              5 po |      10       |           |                     [[Propriétés#Léger\|Léger]]                      |
-| Mousquet<br>+Baïonnette             |             10 po | 15<br>+ 1d4 P |           |               [[Propriétés#Préparation\|Préparation]]                |
-| Canon                               |             20 po |      20       |           | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]] |
+| Pistolet                            |              5 po |      20       |           |                     [[Propriétés#Léger\|Léger]]                      |
+| Mousquet<br>+Baïonnette             |             10 po | 40<br>+ 1d4 P |           |               [[Propriétés#Préparation\|Préparation]]                |
+| Canon                               |             20 po |      60       |           | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]] |
 #### Distance
 > Les dégâts changent selon la distance avec la cible.
 
@@ -115,6 +116,7 @@ En fonction de la façon dont les munitions sont créées, des effets additionne
 | Balle    | Fusils         |                  ---                  |           10 + 2d6           |
 | Boulet   | Canon          |     [[Conditions#Couché\|Couché]]     |              1               |
 | Shrapnel | Fusils & Canon | [[Propriétés#Lacération\|Lacération]] |           6 + 2d4            |
+| Potion   | Fusils & Canon |                                       |                              |
 
 ## Matériaux
 >La propriété VS double les matériaux lorsque l'attaque touche le bon type de cible.
