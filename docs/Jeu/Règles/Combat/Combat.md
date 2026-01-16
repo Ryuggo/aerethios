@@ -70,6 +70,13 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 | Style<br>*(multiplicateur final ?)* | Distance/ Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
 | (2d6 T + 2 + (6 + 4 + 6 Feu)) x ?   | (1d8 P + 2 + 10 T) x 3                          | (1d4 + 2 + 1) x 7 crystaux                     |
 
+##### Précision
+>Si le jet est supérieur au double de l'AC, le joueur multiplie ses dégâts.
+
+On peut ensuite soustraire 2AC du résultat du jet, et ajouter 1 pour déterminer le multiplicateur de dégâts (seulement ceux qui passent outre l'armure).
+
+>Exemple : Jet(32) - 2 AC(15) + 1 = 3(Multiplicateur de dégâts)
+
 ## Actions Bonus
 >Peuvent être utilisées en plus d'une action normale
 

@@ -97,6 +97,7 @@ Un échec critique rend l'os inutilisable.
 | **Légendaire** |   -   |    -    | 2 - 10  | 11 - 17 | 18 + |
 
 ## [[Suraja]]
+
 >Enchanter les tissus pour augmenter leur résistance aux éléments magiques.
 
 Un tissu peut cumuler plusieurs enchantements (le maximum dépend du type de tissu).
@@ -125,8 +126,4 @@ Le joueur lance 1d6, la valeur de l'enchantement est le résultat obtenu.
 
 Si le dé fait 6, la valeur devient 0 (l'enchantement est désactivé mais pas supprimé).
 
-L'enchantement disparaît si :
-
-- le joueur fait 6 deux fois de suite,
-
-- le joueur fait un nombre inférieur à la valeur actuelle deux fois de suite.
+L'enchantement disparaît si le joueur fait 6 ou un nombre inférieur à la valeur actuelle deux fois de suite.

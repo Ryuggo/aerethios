@@ -25,22 +25,10 @@ L'arme nécessite de passer son tour à la préparer avant de pouvoir s'en servi
 L'arme empêche de faire d'autres actions pendant le tour si on s'en sert pour attaquer.
 
 ## Lacération
-1d6 -> 6 inflige le statut [[Propriétés#Saignement|Saignement]] à la cible.
-
-## Saignement
-La cible perd 2 + 1d4 HP par tour jusqu'à être soignée.
-
-## Poison
-La cible prend 1d4 HP (cumulable) par tour pendant 3 tours ou jusqu'à être soigné.
-
-## Surcharge
-La cible perd 1d4 crystaux et prend 1d6 HP par crystal perdu (passe outre l'armure).
-
-## Etourdi
-La cible
+Une fois par tour, augmente l'affliction [[Conditions#Saignement|Saignement]] de 1 sur la cible.
 
 ## Critique
-Les attaques dans le dos et les attaques surprises doublent les dégâts (cumulables).
+Les attaques dans le dos et les attaques surprises doublent les dégâts finaux (cumulables).
 
 ## Double
 Permet d'attaquer une deuxième fois avec la même arme.

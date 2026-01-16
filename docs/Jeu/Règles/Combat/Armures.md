@@ -1,10 +1,10 @@
 >Le type d'amure ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
 
-## Catégorie
-	Note pour moi-même : Sans la compétence pour porter un type d'armure, vous jetez vos dés avec désavantage lorsqu'il s'agit de Force, de Dextérité, ou d'Attaque, et vous ne pouvez pas utiliser la magie.
+	Défense maximale sans buff magique : 27 AC + 70 Def (+50% élémentaire)
 
+## Catégorie
 >- Les HP ne se régénèrent pas tant qu'une armure est équipée.
->- Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs dégât perforant), elle perd de sa défense et doit être réparée pour le récupérer.
+>- Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs dégât perforant), sa défense diminue de la différence entre l'AC et le jet pour toucher (il faut la réparer pour récupérer cette défense).
 
 ![[aerethios/docs/Images/Armures.png]]
 
@@ -43,10 +43,10 @@
 | ------------------------------------ | -----------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Peaux<br>*Hide*                      |   10 pa<br>*10 gp* | 12 + Dex (max 2)  |              2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Cuirs et Peaux\|cuirs bruts]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Cuirs et Peaux\|peau]]<br>2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|boucles]]              |
 | Écailles (organique)<br>*Scale Mail* |   50 pa<br>*50 gp* | 13 + Dex (max 2)  | 25 [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|écailles]]<br>5 [[aerethios/docs/Jeu/Règles/Combat/Armures#Cuirs et Peaux\|morceau de cuir]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]] |
-| Chemise de Mailles <br>*Chain Shirt* |   50 pa<br>*50 gp* | 13 + Dex (max 2)  |                                                                                         5 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]                                                                                         |
-| Écailles (métal)<br>*Scale Mail*     |   50 pa<br>*50 gp* | 14 + Dex (max 2)  |                                               8 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]                                                |
-| Cuirasse <br>*Breastplate*           |   4 po<br>*400 gp* | 14 + Dex (max 2)  |                                                                                        10 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]                                                                                         |
-| Demi-Plate <br>*Half Plate*          | 7.5 po<br>*750 gp* | 15 + Dex (max 2)  |                                               16 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]                                               |
+| Chemise de Mailles <br>*Chain Shirt* |   50 pa<br>*50 gp* | 13 + Dex (max 2)  |                                                        5 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] / [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|os]]                                                        |
+| Écailles (métal)<br>*Scale Mail*     |   50 pa<br>*50 gp* | 14 + Dex (max 2)  |              8 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] / [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|os]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]               |
+| Cuirasse <br>*Breastplate*           |   4 po<br>*400 gp* | 14 + Dex (max 2)  |                                                       10 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] / [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|os]]                                                        |
+| Demi-Plate <br>*Half Plate*          | 7.5 po<br>*750 gp* | 15 + Dex (max 2)  |              16 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] / [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|os]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]              |
 
 ### Lourde
 >**Faiblesse** : Contondant
@@ -55,12 +55,12 @@
     - Perte de 2 HP pour chaque heure de marche avec l'armure équipée
     - Désavantage en Magie
 
-| Armure                            |  Prix main d'œuvre | Impénétrable (AC) | Force |                                                                     Matériaux                                                                     |
-| --------------------------------- | -----------------: | :---------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-| Broigne<br>*Ring Mail*            |   30 pa<br>*30 gp* |        14         |  ---  | 4 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]  |
-| Cotte de Mailles <br>*Chain Mail* |   50 pa<br>*50 gp* |        16         |  13   | 9 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]  |
-| Clibanion<br>*Splint*             |   2 po<br>*200 gp* |        17         |  15   | 12 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]] |
-| Harnois<br>*Plate*                | 15 po<br>*1500 gp* |        18         |  15   | 30 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]] |
+| Armure                            |  Prix main d'œuvre | Impénétrable (AC) | Force |                                                                                                      Matériaux                                                                                                      |
+| --------------------------------- | -----------------: | :---------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Broigne<br>*Ring Mail*            |   30 pa<br>*30 gp* |        14         |  ---  | 4 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] / [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|os]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]  |
+| Cotte de Mailles <br>*Chain Mail* |   50 pa<br>*50 gp* |        16         |  13   | 9 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] / [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|os]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]]  |
+| Clibanion<br>*Splint*             |   2 po<br>*200 gp* |        17         |  15   | 12 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] / [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|os]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]] |
+| Harnois<br>*Plate*                | 15 po<br>*1500 gp* |        18         |  15   | 30 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] / [[aerethios/docs/Jeu/Règles/Combat/Armures#Écailles et Os\|os]]<br>1 [[aerethios/docs/Jeu/Règles/Combat/Armures#Tissus et Fourrures\|rembourrage]] |
 
 ### Bouclier
 
@@ -126,10 +126,10 @@
     + Se répare auprès d'un potionniste
     - Désavantage en Dextérité (Discrétion)
 
-| Matériau |   Prix/ unité | Défense  |                                Propriétés                                | Poids/ unité |
-| -------- | ------------: | :------: | :----------------------------------------------------------------------: | :----------: |
-| Écaille  | 4 ^ rareté pa | [5 - 20] |                   Résistance magique + rareté [1 - 5]                    |    1.5 kg    |
-| Os       | 5 ^ rareté pa | [8 - 16] | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]]<br>Impénétrable + (AC / 4) |     1 kg     |
+| Matériau |    Prix/ unité |     Défense      |                  Propriétés                   | Poids/ unité |
+| -------- | -------------: | :--------------: | :-------------------------------------------: | :----------: |
+| Écaille  |  8 ^ rareté pc |     [4 - 20]     |           Résistance aux conditions           |    1.5 kg    |
+| Os       | 10 ^ rareté pc | [5 - 25] + Force | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]] |     1 kg     |
 
 ### Métaux
 *Armures Lourdes*
@@ -142,11 +142,11 @@
 | Matériau   | Prix/ lingot | Défense | Résistance aux températures |                               Propriétés                               | Poids/ lingot |
 | ---------- | -----------: | :-----: | :-------------------------: | :--------------------------------------------------------------------: | :-----------: |
 | Fonte      |         2 pa |    4    |             -1              |                                  ---                                   |    1.5 kg     |
-| Fer        |        10 pa |  6 / 5  |             -1              |                                  ---                                   |     1 kg      |
-| Bronze     |        25 pa | 8 / 10  |             -1              |                                  ---                                   |    1.5 kg     |
-| Acier      |        50 pa | 12 / 15 |             -1              |                                  ---                                   |     1 kg      |
-| Titane     |         1 po | 10 / 20 |             -1              |               Ajoute la Dextérité à l'AC de l'équipement               |    1.5 kg     |
-| Mythril    |         5 po | 15 / 25 |             -2              | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1 kg      |
-| Palladium  |         7 po | 20 / 30 |             -2              |              Annule le désavantage en Magie (Croititiste)              |     2 kg      |
-| Adamantite |         7 po | 20 / 30 |             -2              |               Annule le désavantage en Magie (Élétiste)                |     2 kg      |
-| Orichalque |        10 po |   30    |             -3              |                                  ---                                   |    2.5 kg     |
+| Fer        |        10 pa |    5    |             -1              |                                  ---                                   |     1 kg      |
+| Bronze     |        25 pa |   10    |             -1              |                                  ---                                   |    1.5 kg     |
+| Acier      |        50 pa |   15    |             -1              |                                  ---                                   |     1 kg      |
+| Titane     |         1 po |   20    |             -1              |               Ajoute la Dextérité à l'AC de l'équipement               |    1.5 kg     |
+| Mythril    |         5 po |   25    |             -2              | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1 kg      |
+| Palladium  |         7 po |   30    |             -2              |              Annule le désavantage en Magie (Croititiste)              |     2 kg      |
+| Adamantite |         7 po |   30    |             -2              |               Annule le désavantage en Magie (Élétiste)                |     2 kg      |
+| Orichalque |        10 po |   50    |             -3              |                                  ---                                   |    2.5 kg     |

@@ -4,8 +4,10 @@ tags:
 ---
 >Définit les entités se tenant debout dotées d'une intelligence sociale inter-espèce
 
-# [[Humain]]
+## [[Humain]]
 
-# [[Nain]]
+## [[Nain]]
 
-# [[Elf]]
+## [[Elf]]
+
+## [[Géant]]
