@@ -88,23 +88,23 @@
     + Les propriétés d'un tissu ne fonctionnent qu'en tant que vêtements (pas de cape ou foulard)
     + Les propriétés d'un tissu ne sont actives que si l'équipement ne contient pas de métaux
 
-| Matériau                      |     Prix | Résistance aux températures |                      Propriétés                       |
-| ----------------------------- | -------: | :-------------------------: | :---------------------------------------------------: |
-| Coton                         |     1 pa |              1              |                           -                           |
-| Lin                           |     2 pa |              0              |                           -                           |
-| Chanvre                       |     2 pa |              0              |                           -                           |
-| Nylon                         |     2 pa |              0              |                           -                           |
-| Denim (coton)                 |     3 pa |              1              |                           -                           |
-| Polyester                     |     3 pa |              1              |                           -                           |
-| Laine                         |     5 pa |              3              |                           -                           |
-| Velours (coton/ laine)        | 5/ 10 pa |              2              |   Les sorts solide à 1 crystaux ne les consomme pas   |
-| Velours côtelé (coton/ laine) | 5/ 10 pa |              2              |   Les sorts gazeux à 1 crystaux ne les consomme pas   |
-| Soie                          |    10 pa |              1              | Les sorts de lumière à 1 crystaux ne les consomme pas |
-| Satin (soie)                  |    15 pa |              1              |  Les sorts liquide à 1 crystaux ne les consomme pas   |
-| Suède/ Daim                   |    15 pa |              2              | Les sorts de foudre à 1 crystaux ne les consomme pas  |
-| Alpaga                        |    25 pa |              3              |  Les sorts croitistes à 1 crystal ne le consomme pas  |
-| Fourrure                      |    25 pa |              3              |  Les sorts élétistes à 1 crystal ne le consomme pas   |
-| Cachemire                     |    30 pa |              3              |    Les sorts de feu à 1 crystal ne le consomme pas    |
+| Matériau                      |     Prix | Résistance aux températures |                      Propriétés                      |
+| ----------------------------- | -------: | :-------------------------: | :--------------------------------------------------: |
+| Coton                         |     1 pa |              1              |                          -                           |
+| Lin                           |     2 pa |              0              |                          -                           |
+| Chanvre                       |     2 pa |              0              |                          -                           |
+| Nylon                         |     2 pa |              0              |                          -                           |
+| Denim (coton)                 |     3 pa |              1              |                          -                           |
+| Polyester                     |     3 pa |              1              |                          -                           |
+| Laine                         |     5 pa |              3              |                          -                           |
+| Velours (coton/ laine)        | 5/ 10 pa |              2              |   Les sorts solide à 1 crystal ne les consomme pas   |
+| Velours côtelé (coton/ laine) | 5/ 10 pa |              2              |   Les sorts gazeux à 1 crystal ne les consomme pas   |
+| Soie                          |    10 pa |              1              | Les sorts de lumière à 1 crystal ne les consomme pas |
+| Satin (soie)                  |    15 pa |              1              |  Les sorts liquide à 1 crystal ne les consomme pas   |
+| Suède/ Daim                   |    15 pa |              2              | Les sorts de foudre à 1 crystal ne les consomme pas  |
+| Alpaga                        |    25 pa |              3              | Les sorts croitistes à 1 crystal ne le consomme pas  |
+| Fourrure                      |    25 pa |              3              |  Les sorts élétistes à 1 crystal ne le consomme pas  |
+| Cachemire                     |    30 pa |              3              |   Les sorts de feu à 1 crystal ne le consomme pas    |
 
 ### Cuirs et Peaux
 *Armures Légères & Intermédiaires*

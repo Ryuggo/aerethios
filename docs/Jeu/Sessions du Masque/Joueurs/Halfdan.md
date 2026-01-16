@@ -44,7 +44,15 @@
 
 ### [[Armures]]
 
+| Armure | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
+| ------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
+|        |     |         |              |            |        |             |            |
+
 ### [[Armes]]
+
+| Arme | 1 Main | 2 Mains | Attaque | Enchantements | Propriétés |
+| ---- | :----: | :-----: | :-----: | :-----------: | :--------: |
+|      |        |         |         |               |            |
 
 ## [[Apprentissages]]
 

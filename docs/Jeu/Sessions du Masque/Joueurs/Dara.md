@@ -15,7 +15,7 @@
 |  -2   |    +2     |   +2   |     +1     |    -2    |
 
 ### [[Compétences]]
->57 points à répartir dans les  [[Compétences]]
+>57 points à répartir dans les [[Compétences]]
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
@@ -44,7 +44,15 @@
 
 ### [[Armures]]
 
+| Armure | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
+| ------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
+|        |     |         |              |            |        |             |            |
+
 ### [[Armes]]
+
+| Arme | 1 Main | 2 Mains | Attaque | Enchantements | Propriétés |
+| ---- | :----: | :-----: | :-----: | :-----------: | :--------: |
+|      |        |         |         |               |            |
 
 ## [[Apprentissages]]
 

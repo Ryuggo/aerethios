@@ -15,7 +15,7 @@
 |  -1   |    +2     |   0    |     +1     |    0     |
 
 ### [[Compétences]]
->57 points à répartir dans les  [[Compétences]]
+>57 points à répartir dans les [[Compétences]]
 
 | Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
 | :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
@@ -44,7 +44,15 @@
 
 ### [[Armures]]
 
+| Armure | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
+| ------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
+|        |     |         |              |            |        |             |            |
+
 ### [[Armes]]
+
+| Arme | 1 Main | 2 Mains | Attaque | Enchantements | Propriétés |
+| ---- | :----: | :-----: | :-----: | :-----------: | :--------: |
+|      |        |         |         |               |            |
 
 ## [[Apprentissages]]
 
@@ -56,13 +64,13 @@
 | [[Chasseur]]                                              |   1    |     6      |
 | [[Cuisinier]]                                             |        |            |
 | [[Enchanteur#Kothula (WIP)\|Enchanteur (peau - Kothula)]] |        |            |
-| [[Enchanteur#Nirina\|Enchanteur (métal – Nirina)]]        |   1    |            |
+| [[Enchanteur#Nirina\|Enchanteur (métal – Nirina)]]        |   1    |     4      |
 | [[Enchanteur#Ovliin\|Enchanteur (os – Ovliin)]]           |        |            |
 | [[Enchanteur#Suraja\|Enchanteur (tissu – Suraja)]]        |        |            |
 | [[Équitation]]                                            |        |            |
 | [[Forgeron]]                                              |        |            |
 | [[Invocateur]]                                            |        |            |
-| Larcin                                                    |   1    |            |
+| Larcin                                                    |   1    |     3      |
 | Lire / Écrire                                             |   1    |            |
 | Natation                                                  |        |            |
 | [[Navigation]]                                            |   1    |            |
@@ -71,7 +79,7 @@
 
 ## Inventaire
 
-**Poids maximum** : 40 kg
+**Poids maximum** : 38 kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
 - *Force < 10 : 40 + (Force Modificateur x 2)*
 

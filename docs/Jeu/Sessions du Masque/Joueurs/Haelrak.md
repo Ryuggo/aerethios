@@ -15,7 +15,6 @@
 |  -1   |    +2     |   +3   |     +1     |    -2    |
 
 ### [[Compétences]]
->57 points à répartir dans les [[Compétences]]
 
 |     Force      |   Dextérité    |     Mental     |     Perception     |    Charisme     |       Armures        |     Armes      |
 | :------------: | :------------: | :------------: | :----------------: | :-------------: | :------------------: | :------------: |
