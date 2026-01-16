@@ -47,42 +47,32 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 | Se cacher                           | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise<br>Si ça rate, il faut s'éloigner d'au moins 25ft (5 cases) avant de recommencer                         |
 | Se préparer                         | Citer ce que l'on attend qu'il se passe afin de pouvoir y réagir en dehors de son tour                                                                                                     |
 | Chercher                            | Jet de Perception (Perception) pour trouver quelque chose                                                                                                                                  |
-| Utiliser un objet                   | La même                                                                                                                                                                                    |
 
 ### Attaquer
 
 #### Jet pour toucher
 >Est-ce que l'attaque passe l'armure et la dextérité de la cible.
 
-| Type d'attaque |                   Jet à faire                    | Score à atteindre |
-| -------------- | :----------------------------------------------: | :---------------: |
-| **Mêlée**      |        1d20 + Force/ Dextérité + Maîtrise        |        AC         |
-| **Distance**   |           1d20 + Dextérité + Maîtrise            |        AC         |
-| **Magique**    | 1d20 + Mental (Intelligence/ Sagesse) + Maîtrise |        AC         |
-
-##### WIP - Coup précis (mêlée et distance)
->Uniquement pour les armes à distance ?
-
-Si le jet est supérieur au double de l'AC, le joueur peut toucher un point sensible.
-
-On peut ensuite soustraire 2AC du résultat du jet, et ajouter 1 pour déterminer le multiplicateur de dégâts (seulement ceux qui passent outre l'armure).
-
->Exemple : Jet(32) - 2 AC(15) + 1 = 3(Multiplicateur de dégâts)
+| Type d'attaque |                   Jet à faire                    |         Score à atteindre          |
+| -------------- | :----------------------------------------------: | :--------------------------------: |
+| **Mêlée**      |        1d20 + Force/ Dextérité + Maîtrise        |                 AC                 |
+| **Distance**   |           1d20 + Dextérité + Maîtrise            |                 AC                 |
+| **Magique**    | 1d20 + Mental (Intelligence/ Sagesse) + Maîtrise | AC + Nombre de crystaux à utiliser |
 
 #### Jet.s de dégâts
->Dé d'arme + Modificateur + Matériaux + Enchantements + Style
+>Résultat - Défense = Dégâts au HP.
 
-- Le modificateur est le même que celui utilisé pour toucher la cible.
+| Mêlée                               | Distance                                        | Magie                                          |
+| ----------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| Dégâts d'arme                       | Dégâts d'arme                                   | Dégâts de magie                                |
+| Matériaux (& Enchantements)         | Munition                                        | Toile céleste                                  |
+| Style<br>*(multiplicateur final ?)* | Distance/ Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
+| (2d6 T + (6 + 4 + 6 Feu)) x ?       | (1d8 P + 10 T) x 3                              | (1d4 + 1) x 7 crystaux                         |
 
-- Le score doit être supérieur à l’armure ennemie pour infliger des dégâts.
+## Actions Bonus
+>Peuvent être utilisées en plus d'une action normale
 
-- Les styles de combat offrent un bonus si réussis, mais retirent ce bonus en cas d’échec.
-
-- La **réussite du style** dépend de son type.
-
-| Élément   | Description                |
-| --------- | -------------------------- |
-| Dé d’arme | Varie selon arme           |
-| Maîtrises | Arme + Type                |
-| Style     | Bonus/Malus selon réussite |
-| Matériau  | Bonus selon la qualité     |
+| Action            | Effet                                                                                                          |
+| ----------------- | -------------------------------------------------------------------------------------------------------------- |
+| Magie de soutient | Utiliser des sorts magiques qui ne nécessitent pas de faire un jet pour toucher (soins, buffs, mouvements, ..) |
+| Utiliser un objet | Dans le titre                                                                                                  |

@@ -68,12 +68,12 @@
     - Si le bouclier est équipé en main, l'AC n'est pris en compte que si l'attaque vient de face
     - Si le bouclier est rangé dans le dos, l'AC n'est pris en compte que si l'attaque vient de dos
 
-| Armure                |  Prix main d'œuvre | Impénétrable (AC) | Force |                           Matériaux                           |          Propriétés           | Dégats         |
-| --------------------- | -----------------: | :---------------: | :---: | :-----------------------------------------------------------: | :---------------------------: | -------------- |
-| Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |        +1         |  ---  | 2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] | [[Propriétés#Parade\|Parade]] | 1d4 C          |
-| Bouclier<br>*Round*   |   10 pa<br>*10 gp* |        +2         |  ---  | 4 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |              ---              | 1d6 C          |
-| Bouclier d'Estoc      |  20 pa<br>*500 gp* |        +3         |  14   | 6 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |              ---              | 1d6 C<br>1d8 P |
-| Pavois<br>*Tower*     | 40 pa<br>*1500 gp* |        +4         |  17   | 8 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |             Lourd             | 1d8 C          |
+| Armure                |  Prix main d'œuvre | Impénétrable (AC) | Force |                           Matériaux                           |                         Propriétés                         | Dégats         |
+| --------------------- | -----------------: | :---------------: | :---: | :-----------------------------------------------------------: | :--------------------------------------------------------: | -------------- |
+| Bouclier<br>*Buckler* |     5 pa<br>*5 gp* |        +1         |  ---  | 2 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |               [[Propriétés#Parade\|Parade]]                | 1d4 C          |
+| Bouclier<br>*Round*   |   10 pa<br>*10 gp* |        +2         |  ---  | 4 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |                            ---                             | 1d6 C          |
+| Bouclier d'Estoc      |  20 pa<br>*500 gp* |        +3         |  14   | 6 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] |               [[Propriétés#Charge\|Charge]]                | 1d6 C<br>1d8 P |
+| Pavois<br>*Tower*     | 40 pa<br>*1500 gp* |        +4         |  17   | 8 [[aerethios/docs/Jeu/Règles/Combat/Armures#Métaux\|métaux]] | [[Propriétés#Charge\|Charge]]<br>[[Propriétés#Lent\|Lent]] | 1d8 C          |
 
 ## Matériaux
 
@@ -114,10 +114,10 @@
 
 >La rareté varie entre 1 et 5 (Déchet, Commun, Peu commun, Rare, Légendaire)
 
-| Matériau |   Prix/ unité | Défense  | Propriétés | Poids/ unité |
-| -------- | ------------: | :------: | :--------: | :----------: |
-| Peau     | 2 ^ rareté pa | [1 - 10] |            |     1 kg     |
-| Cuir     | 3 ^ rareté pa | [5 - 15] |            |     1 kg     |
+| Matériau |   Prix/ unité | Défense  |                   Propriétés                    | Poids/ unité |
+| -------- | ------------: | :------: | :---------------------------------------------: | :----------: |
+| Peau     | 2 ^ rareté pa | [1 - 10] | Résiste à [[Propriétés#Saignement\|Saignement]] |     1 kg     |
+| Cuir     | 3 ^ rareté pa | [5 - 15] |     Résiste à [[Propriétés#Poison\|Poison]]     |     1 kg     |
 
 ### Écailles et Os
 *Armures Intermédiaires & Lourdes*
@@ -145,8 +145,8 @@
 | Fer        |        10 pa |  6 / 5  |             -1              |                                  ---                                   |     1 kg      |
 | Bronze     |        25 pa | 8 / 10  |             -1              |                                  ---                                   |    1.5 kg     |
 | Acier      |        50 pa | 12 / 15 |             -1              |                                  ---                                   |     1 kg      |
-| Titane     |         1 po | 10 / 20 |             -1              |                 Ajoute la Force à l'AC de l'équipement                 |    1.5 kg     |
+| Titane     |         1 po | 10 / 20 |             -1              |               Ajoute la Dextérité à l'AC de l'équipement               |    1.5 kg     |
 | Mythril    |         5 po | 15 / 25 |             -2              | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1 kg      |
 | Palladium  |         7 po | 20 / 30 |             -2              |              Annule le désavantage en Magie (Croititiste)              |     2 kg      |
 | Adamantite |         7 po | 20 / 30 |             -2              |               Annule le désavantage en Magie (Élétiste)                |     2 kg      |
-| Orichalque |        10 po | 20 / 30 |             -3              |                 Ajoute la Force à l'AC de l'équipement                 |    2.5 kg     |
+| Orichalque |        10 po |   30    |             -3              |                                  ---                                   |    2.5 kg     |

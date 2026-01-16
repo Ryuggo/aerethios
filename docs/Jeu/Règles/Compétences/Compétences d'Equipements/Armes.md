@@ -34,3 +34,8 @@ Le joueur ne peut qu'avoir un bouclier dans l'autre main, pas une arme.
 ## Distance
 
 **Efficacité** : Retire les désavantages en utilisant une arme à distance.
+
+### Précoce
+>Seulement pour les arcs
+
+Le joueur tire son coup suffisamment vite pour tirer une seconde fois.
