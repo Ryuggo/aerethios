@@ -117,8 +117,8 @@
 
 | Matériau |   Prix/ unité | Défense  |                   Propriétés                    | Poids/ unité |
 | -------- | ------------: | :------: | :---------------------------------------------: | :----------: |
-| Peau     | 2 ^ rareté pa | [1 - 10] | Résiste à [[Propriétés#Saignement\|Saignement]] |     1 kg     |
-| Cuir     | 3 ^ rareté pa | [3 - 15] |     Résiste à [[Propriétés#Poison\|Poison]]     |     1 kg     |
+| Peau     | 2 ^ rareté pa | [1 - 10] | Résiste à [[Conditions#Saignement\|Saignement]] |     1 kg     |
+| Cuir     | 3 ^ rareté pa | [3 - 15] |     Résiste à [[Conditions#Poison\|Poison]]     |     1 kg     |
 
 ### Écailles et Os
 *Armures Intermédiaires & Lourdes*

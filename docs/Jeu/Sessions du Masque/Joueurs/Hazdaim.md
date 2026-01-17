@@ -11,15 +11,20 @@
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|   9   |    14     |   10   |     12     |    10    |
-|  -1   |    +2     |   0    |     +1     |    0     |
+|   9   |    14     |   10   |     12     |    12    |
+|  -1   |    +2     |   0    |     +1     |    +1    |
 
 ### [[Compétences]]
->57 points à répartir dans les [[Compétences]]
 
-| Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
-| :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
-|       |           |        |            |          |         |       |
+|     Force      |   Dextérité    |        Mental        |     Perception     |   Charisme    |     Armures      |        Armes        |
+| :------------: | :------------: | :------------------: | :----------------: | :-----------: | :--------------: | :-----------------: |
+|  Athlétisme 4  |  Acrobatie 5   |      Sagesse 4       |    Détection 2     |    Veinard    |      Légère      |       1 Main        |
+|     Mule 2     |  Discrétion 3  |    Imperturbable     |     Intuition      | Performance 2 | Légère - Arcanes | 1 Main - Ambidextre |
+| Impénétrable 3 |    Doigté 3    |        Assidu        | Perception Magique |  Persuasif 3  |                  |        Hast         |
+|                |  Sixième Sens  | Résistance Mentale 3 |     Mentaliste     |  Politicien   |                  |      Distance       |
+|                | Troisième Oeil |      Magicien 1      |      Survie 2      |  Flatteur 2   |                  |                     |
+|                |                |                      |      Plantes       |     Doyen     |                  |                     |
+|                |                |                      |      Animaux       |               |                  |                     |
 
 ## Combats
 
@@ -36,23 +41,26 @@
 **Crystaux** : 9
 
 | **[[Air]]** | **[[Eau]]** | **[[Roche]]** | **[[Feu]]** | **[[Foudre]]** | **[[Lumière]]** | **[[Ténèbres]]** |
-| :--------: | :---------: | :--------: | :-----: | :--------: | :---------: | :----------: |
-|     1      |      -      |     -      |    -    |     8      |      4      |      1       |
-|    1d4     |      -      |     -      |    -    |    1d6     |     1d4     |     1d4      |
+| :---------: | :---------: | :-----------: | :---------: | :------------: | :-------------: | :--------------: |
+|      1      |      -      |       -       |      -      |       8        |        5        |        1         |
+|     1d4     |      -      |       -       |      -      |      1d6       |       1d6       |       1d4        |
 
 ## Equipement
 
 ### [[Armures]]
 
-| Armure | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
-| ------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
-|        |     |         |              |            |        |             |            |
+| Armure      |                 AC                 |         Défense         |   Enchantement   | Poids (kg) | Dégâts | Température |                     Propriétés                      |
+| ----------- | :--------------------------------: | :---------------------: | :--------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
+| Cuir clouté | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) + 4 = 13 | Roche 2<br>Feu 2 |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape Alpaga |                 -                  |            -            |    Ténèbres 5    |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
-| Arme | 1 Main | 2 Mains | Attaque | Enchantements | Propriétés |
-| ---- | :----: | :-----: | :-----: | :-----------: | :--------: |
-|      |        |         |         |               |            |
+| Arme                | 1 Main | 2 Mains |                Matériaux                | Enchantements | Propriétés |
+| ------------------- | :----: | :-----: | :-------------------------------------: | :-----------: | :--------: |
+| Lame Revers         | 1d8 T  |  2d6 T  |      4 (Titane)<br>VS Invocations       |  + 5 (métal)  |            |
+| Lame Revers         | 1d8 T  |  2d6 T  |      4 (Titane)<br>VS Invocations       |  + 6 (métal)  |            |
+| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 (Os)<br>Enchantements élémentaires x2 |  + 8 Glace    |            |
 
 ## [[Apprentissages]]
 
@@ -79,7 +87,7 @@
 
 ## Inventaire
 
-**Poids maximum** : 38 kg
+**Poids maximum** : 78 kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
 - *Force < 10 : 40 + (Force Modificateur x 2)*
 

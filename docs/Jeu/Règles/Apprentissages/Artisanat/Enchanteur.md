@@ -27,9 +27,9 @@ Pour enchanter, il faut :
 
 ## Prix du marché pour enchanter (po)
 
-| Kothula | Nirina  | Ovliin                              | Suraja                 |
-| ------- | ------- | ----------------------------------- | ---------------------- |
-| 40 - 60 | 20 - 40 | 2 - 5 * Rareté de l'Os (Commun = 1) | Nombre d'enchantements |
+| Kothula | Nirina  | Ovliin                              | Suraja                                 |
+| ------- | ------- | ----------------------------------- | -------------------------------------- |
+| 40 - 60 | 20 - 40 | 2 - 5 * Rareté de l'Os (Commun = 1) | Nombre d'enchantements * niveau actuel |
 
 ## [[Kothula]] (WIP)
 >Enchanter des parties du corps pour fluidifier les flux magiques qui circulent dedans et améliorer l'utilisation de la magie.
@@ -110,8 +110,8 @@ Le joueur lance **1d20 + Niveau d'enchanteur**.
 
 La difficulté de réussite change selon le nombre d'enchantements déjà présents :
 
-| Nombre d'enchantements présents sur le tissu |  0  |  1  | 2   | 3   | 4   | 5   | 6   |
-| -------------------------------------------- | :-: | :-: | --- | --- | --- | --- | --- |
+| Nombre d'enchantements présents sur le tissu | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
+| -------------------------------------------- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | **Valeur minimale à obtenir** (<)            | 10  | 12  | 14  | 16  | 18  | 20  | 22  |
 
 Résultats :

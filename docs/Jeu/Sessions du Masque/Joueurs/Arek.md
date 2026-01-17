@@ -48,15 +48,15 @@
 
 ### [[Armures]]
 
-| Armure           |          AC          |       Défense        |   Enchantement    |  Poids (kg)   |     Dégâts     | Température |                     Propriétés                     |
-| ---------------- | :------------------: | :------------------: | :---------------: | :-----------: | :------------: | :---------: | :------------------------------------------------: |
-| Gammoth          | 18 + 5(Impénétrable) | 20 (rare) + 3(Force) |      Glace 4      | 32 - 20% = 25 |       -        |      3      |                        ---                         |
-| Cape Fourrure    |          -           |          -           | Feu 2<br>Foudre 1 |       1       |       -        |      3      | Les sorts élétistes à 1 crystal ne le consomme pas |
-| Bouclier d'Estoc |          3           |   50 (Orichalque)    |     Foudre 5      |      15       | 1d6 C<br>1d8 P |      -      |           [[Propriétés#Charge\|Charge]]            |
+| Armure           |              AC               |       Défense        |   Enchantement    |  Poids (kg)   |     Dégâts     | Température |                     Propriétés                     |
+| ---------------- | :---------------------------: | :------------------: | :---------------: | :-----------: | :------------: | :---------: | :------------------------------------------------: |
+| Gammoth          | 18 + 5(Impénétrable)<br> = 23 | 20 (rare) + 3(Force) |      Glace 4      | 32 - 20% = 25 |       -        |      3      |                        ---                         |
+| Cape Fourrure    |               -               |          -           | Feu 5<br>Foudre 1 |       1       |       -        |      3      | Les sorts élétistes à 1 crystal ne le consomme pas |
+| Bouclier d'Estoc |               3               |   50 (Orichalque)    |     Foudre 5      |      15       | 1d6 C<br>1d8 P |      -      |           [[Propriétés#Charge\|Charge]]            |
 
 ### [[Armes]]
 
-| Arme           |     1 Main     |    2 Mains     |           Attaque            | Enchantements | Propriétés |                                       |
+| Arme           |     1 Main     |    2 Mains     |          Matériaux           | Enchantements | Propriétés |                                       |
 | -------------- | :------------: | :------------: | :--------------------------: | :-----------: | :--------: | ------------------------------------- |
 | Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons | + 10 Ténèbres |    ---     |                                       |
 | Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons | + 10 Ténèbres |    ---     |                                       |

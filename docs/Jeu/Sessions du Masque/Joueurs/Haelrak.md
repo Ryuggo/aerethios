@@ -47,14 +47,14 @@
 
 ### [[Armures]]
 
-| Armure                      |              AC               |  Défense   |  Enchantement  | Poids (kg) | Dégâts | Température |                    Propriétés                     |
-| --------------------------- | :---------------------------: | :--------: | :------------: | :--------: | :----: | :---------: | :-----------------------------------------------: |
-| Cuir clouté                 | 12 + 2(Dex) + 3(Impénétrable) | 9 + 4 = 13 |       -        |     6      |   -    |     -1      |      Résiste à [[Propriétés#Poison\|Poison]]      |
-| Veste longue Velours côtelé |               -               |     -      | Air 1<br>Feu 1 |     1      |   -    |      2      | Les sorts gazeux à 2 crystaux ne les consomme pas |
+| Armure                      |                 AC                 |         Défense         |  Enchantement  | Poids (kg) | Dégâts | Température |                    Propriétés                     |
+| --------------------------- | :--------------------------------: | :---------------------: | :------------: | :--------: | :----: | :---------: | :-----------------------------------------------: |
+| Cuir clouté                 | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) + 4 = 13 |       -        |     6      |   -    |     -1      |      Résiste à [[Conditions#Poison\|Poison]]      |
+| Veste longue Velours côtelé |                 -                  |            -            | Air 1<br>Feu 1 |     1      |   -    |      2      | Les sorts gazeux à 2 crystaux ne les consomme pas |
 
 ### [[Armes]]
 
-| Arme    | 1 Main | 2 Mains |              Attaque              | Enchantements | Poids (kg) |           Propriétés            |
+| Arme    | 1 Main | 2 Mains |             Matériaux             | Enchantements | Poids (kg) |           Propriétés            |
 | ------- | :----: | :-----: | :-------------------------------: | :-----------: | :--------: | :-----------------------------: |
 | Trident |   -    |  3d4 P  | 3 (Fer) + Electrum<br>VS Magiques |       -       |     4      | [[Propriétés#Jetable\|Jetable]] |
 

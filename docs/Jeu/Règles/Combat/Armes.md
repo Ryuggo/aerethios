@@ -75,7 +75,7 @@ Chaque arme 1 Main/ 2 Mains peut venir avec une sous-catégorie offrant un bonus
 
 ![[Weapon - Range.png]]
 
-| Arme                                | Prix main d'œuvre |    2 mains    | Matériaux |                              Propriétés                              |
+| Arme                                | Prix main d'œuvre |    Dégâts     | Matériaux |                              Propriétés                              |
 | ----------------------------------- | ----------------: | :-----------: | :-------: | :------------------------------------------------------------------: |
 | Fronde<br>*Sling*                   |   10 pa<br>*1 sp* |     1d4 C     |           |                     [[Propriétés#Léger\|Léger]]                      |
 | Arc Court<br>*Shortbow*             |  25 pa<br>*25 gp* |     1d6 P     |           |                     [[Propriétés#Léger\|Léger]]                      |
