@@ -1,4 +1,4 @@
->Si vous voulez une image, envoyez-la moi et je la transforme pour avoir un style graphique similaire au reste
+![[Hazdaim.png]]
 
 **Niveau** : 6
 
@@ -7,7 +7,7 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 2 |   -    |     -     |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux 4, 8, 12, 16, and 19
+> + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |

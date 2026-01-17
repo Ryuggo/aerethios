@@ -7,7 +7,7 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Argent\|Argent]] 3 |   -    | [[Scienctes#Mage\|Mage]] |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux 4, 8, 12, 16, and 19
+> + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
