@@ -104,8 +104,8 @@ D'autres [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|matériaux]] peuve
 | Matériaux  | Arme             | Prix/ unité |                     Propriétés                      |
 | ---------- | ---------------- | ----------: | :-------------------------------------------------: |
 | Obsidienne | Arcs & Arbalètes |        5 pa |                        10 T                         |
-| Plomb      | Fusil & Canon    |       10 pa |           [[Conditions#Poison\|Poison]]            |
-| Crystaux   | Tout             |        1 po | [[Conditions#Surcharge\|Surcharge]]<br>5 munitions |
+| Plomb      | Fusil & Canon    |       10 pa |           [[Afflictions#Poison\|Poison]]            |
+| Crystaux   | Tout             |        1 po | [[Afflictions#Surcharge\|Surcharge]]<br>5 munitions |
 
 En fonction de la façon dont les munitions sont créées, des effets additionnels peuvent s'ajouter.
 

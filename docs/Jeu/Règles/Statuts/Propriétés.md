@@ -11,7 +11,7 @@ Permet d'utiliser la Dextérité plutôt que la Force comme modificateur de jet 
 L'arme peut être utilisée avec 1 ou 2 mains, ce qui change son dé de dégâts.
 
 ## Léger
-Permet d'utiliser une arme supplémentaire de catégorie Courte ou 1 main lors de son tour.
+Permet d'utiliser une arme supplémentaire de catégorie Courte lors de son tour.
 
 Cette arme ne peut pas elle-même utiliser sa propriété Léger.
 
@@ -25,7 +25,7 @@ L'arme nécessite de passer son tour à la préparer avant de pouvoir s'en servi
 L'arme empêche de faire d'autres actions pendant le tour si on s'en sert pour attaquer.
 
 ## Lacération
-Une fois par tour, augmente l'affliction [[Conditions#Saignement|Saignement]] de 1 sur la cible.
+Une fois par tour, augmente l'affliction [[Afflictions#Saignement|Saignement]] de 1 sur la cible.
 
 ## Critique
 Les attaques dans le dos et les attaques surprises doublent les dégâts finaux (cumulables).
