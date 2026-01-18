@@ -50,9 +50,10 @@
 
 ### [[Armes]]
 
-| Arme | 1 Main | 2 Mains | Matériaux | Enchantements | Propriétés |
-| ---- | :----: | :-----: | :-------: | :-----------: | :--------: |
-|      |        |         |           |               |            |
+| Arme | 1 Main | 2 Mains | Matériaux | Enchantements | Poids (kg) | Propriétés |
+| ---- | :----: | :-----: | :-------: | :-----------: | :--------: | :--------: |
+|      |        |         |           |               |            |            |
+
 
 ## [[Apprentissages]]
 

@@ -56,11 +56,12 @@
 
 ### [[Armes]]
 
-| Arme                | 1 Main | 2 Mains |                Matériaux                | Enchantements | Propriétés |
-| ------------------- | :----: | :-----: | :-------------------------------------: | :-----------: | :--------: |
-| Lame Revers         | 1d8 T  |  2d6 T  |      4 (Titane)<br>VS Invocations       |  + 5 (métal)  |            |
-| Lame Revers         | 1d8 T  |  2d6 T  |      4 (Titane)<br>VS Invocations       |  + 6 (métal)  |            |
-| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 (Os)<br>Enchantements élémentaires x2 |  + 8 Glace    |            |
+| Arme                | 1 Main | 2 Mains |                Matériaux                | Enchantements | Poids (kg) | Propriétés |
+| ------------------- | :----: | :-----: | :-------------------------------------: | :-----------: | :--------: | :--------: |
+| Lame Revers         | 1d8 T  |  2d6 T  |      4 (Titane)<br>VS Invocations       |  + 5 (métal)  |            |            |
+| Lame Revers         | 1d8 T  |  2d6 T  |      4 (Titane)<br>VS Invocations       |  + 6 (métal)  |            |            |
+| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 (Os)<br>Enchantements élémentaires x2 |   + 8 Glace   |            |            |
+| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 (Os)<br>Enchantements élémentaires x2 |   + 8 Glace   |            |            |
 
 ## [[Apprentissages]]
 
