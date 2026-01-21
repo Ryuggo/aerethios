@@ -46,19 +46,19 @@
 
 | Armure           | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
 | ---------------- | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
-| Cuir Bouilli     |     |         |              |            |        |             |            |
-| Cape en fourrure |     |         |              |            |        |             |            |
+| Cuir Bouilli     |     |         |              |            |   -    |      0      |            |
+| Cape en fourrure |  -  |    -    |              |     1      |   -    |      3      |            |
+| Bouclier         |     |         |              |            |        |      -      |            |
 
 ### [[Armes]]
 
 | Arme     | 1 Main | 2 Mains |    Matériaux     | Enchantements | Poids (kg) | Propriétés |
 | -------- | :----: | :-----: | :--------------: | :-----------: | :--------: | :--------: |
-| 4 Dagues |        |         |       Fer        |               |            |            |
-| Dague    |        |         | Titane + Platine |               |            |            |
+| 4 Dagues |        |         |       Fer        |               |   1 x 4    |            |
+| Dague    |        |         | Titane + Platine |               |     1      |            |
 | Lance    |        |         |       Fer        |               |            |            |
 | Épée     |        |         |       Fer        |               |            |            |
 | Hache    |        |         |      Titane      |     +4 os     |            |            |
-| Bouclier |        |         |       Fer        |               |            |            |
 
 ## [[Apprentissages]]
 
