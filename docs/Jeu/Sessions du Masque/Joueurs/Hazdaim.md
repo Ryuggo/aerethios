@@ -51,15 +51,15 @@
 
 | Armure      |                 AC                 |         Défense         |   Enchantement   | Poids (kg) | Dégâts | Température |                     Propriétés                      |
 | ----------- | :--------------------------------: | :---------------------: | :--------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
-| Cuir clouté | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) + 4 = 13 | Roche 2<br>Feu 2 |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cuir clouté | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) + 5 = 14 | Roche 2<br>Feu 2 |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
 | Cape Alpaga |                 -                  |            -            |    Ténèbres 5    |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
 | Arme                | 1 Main | 2 Mains |                Matériaux                | Enchantements | Poids (kg) | Propriétés |
 | ------------------- | :----: | :-----: | :-------------------------------------: | :-----------: | :--------: | :--------: |
-| Lame Revers         | 1d8 T  |  2d6 T  |      4 (Titane)<br>VS Invocations       |  + 5 (métal)  |            |            |
-| Lame Revers         | 1d8 T  |  2d6 T  |      4 (Titane)<br>VS Invocations       |  + 6 (métal)  |            |            |
+| Lame Revers         | 1d8 T  |  2d6 T  |      6 (Titane)<br>VS Invocations       |  + 5 (métal)  |            |            |
+| Lame Revers         | 1d8 T  |  2d6 T  |      6 (Titane)<br>VS Invocations       |  + 6 (métal)  |            |            |
 | Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 (Os)<br>Enchantements élémentaires x2 |   + 8 Glace   |            |            |
 | Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 (Os)<br>Enchantements élémentaires x2 |   + 8 Glace   |            |            |
 

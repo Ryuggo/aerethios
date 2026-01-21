@@ -36,24 +36,27 @@
 **Crystaux** : 9
 
 | **[[Air]]** | **[[Eau]]** | **[[Roche]]** | **[[Feu]]** | **[[Foudre]]** | **[[Lumière]]** | **[[Ténèbres]]** |
-| :--------: | :---------: | :--------: | :-----: | :--------: | :---------: | :----------: |
-|     -      |      6      |     -      |    4    |     -      |      -      |      19      |
-|     -      |     1d6     |     -      |   1d4   |     -      |      -      |     1d12     |
+| :---------: | :---------: | :-----------: | :---------: | :------------: | :-------------: | :--------------: |
+|      -      |      6      |       -       |      4      |       -        |        -        |        19        |
+|      -      |     1d6     |       -       |     1d4     |       -        |        -        |       1d12       |
 
 ## Equipement
 
 ### [[Armures]]
 
-| Armure              |        AC        |    Défense     | Enchantement | Poids (kg) | Dégâts | Température |                      Propriétés                       |
-| ------------------- | :--------------: | :------------: | :----------: | :--------: | :----: | :---------: | :---------------------------------------------------: |
-| Cuir Bouilli        | 11 + 2(Dex) = 13 | 9 (peu commun) |              |     2      |   -    |      0      |        Résiste à [[Conditions#Poison\|Poison]]        |
-| Cape en satin/ soie |        -         |       -        |              |     1      |   -    |      1      | Les sorts de ténèbres à 1 crystal ne les consomme pas |
+| Armure           |        AC        |    Défense     |     Enchantement     | Poids (kg) | Dégâts | Température |                     Propriétés                      |
+| ---------------- | :--------------: | :------------: | :------------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
+| Cuir Bouilli     | 11 + 2(Dex) = 13 | 9 (peu commun) |          -           |     2      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape en velour   |        -         |       -        |  Feu 2<br>Foudre 2   |     1      |   -    |      1      |  Les sorts solides à 1 crystal ne les consomme pas  |
+| Cape en fourrure |        -         |       -        | Glace 3<br>Liquide 1 |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
-| Arme        | 1 Main |     2 Mains     | Matériaux | Enchantements | Poids (kg) |           Propriétés            |
-| ----------- | :----: | :-------------: | :-------: | :-----------: | :--------: | :-----------------------------: |
-| Lame double | 1d4 P  | 1d10 P<br>1d6 T |           |               |            | [[Propriétés#Double\|Double]] T |
+| Arme                   | 1 Main |     2 Mains     |         Matériaux         | Enchantements | Poids (kg) |           Propriétés            |
+| ---------------------- | :----: | :-------------: | :-----------------------: | :-----------: | :--------: | :-----------------------------: |
+| Lame double            | 1d4 P  | 1d10 P<br>1d6 T | Orichalque + Argent revêt |      +6       |            | [[Propriétés#Double\|Double]] T |
+| Lame double de Gammoth | 1d4 P  | 1d10 P<br>1d6 T |          4 (Os)           |   +10 Glace   |            |                                 |
+| Épée longue            |        |                 |  Adamantite + Sombronce   |      +6       |            |                                 |
 
 ## [[Apprentissages]]
 

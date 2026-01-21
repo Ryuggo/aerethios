@@ -45,15 +45,17 @@
 
 ### [[Armures]]
 
-| Armure | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
-| ------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
-|        |     |         |              |            |        |             |            |
+| Armure             | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température |                     Propriétés                     |
+| ------------------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :------------------------------------------------: |
+| Chemise de mailles | 13  |    5    |      -       |     5      |   -    |      -      |                         -                          |
+| Cape en fourrure   |  -  |    -    |              |     1      |   -    |      3      | Les sorts élétistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
-| Arme | 1 Main | 2 Mains | Matériaux | Enchantements | Poids (kg) | Propriétés |
-| ---- | :----: | :-----: | :-------: | :-----------: | :--------: | :--------: |
-|      |        |         |           |               |            |            |
+| Arme                | 1 Main | 2 Mains |                Matériaux                | Enchantements | Poids (kg) |         Propriétés          |
+| ------------------- | :----: | :-----: | :-------------------------------------: | :-----------: | :--------: | :-------------------------: |
+| 2 Poings            | 1d6 C  |    -    |      6 (Titane)<br>VS Invocations       |   +6 Glace    |     1      | [[Propriétés#Léger\|Léger]] |
+| 2 Poings de Gammoth | 1d6 C  |    -    | 4 (Os)<br>Enchantements élémentaires x2 |   +10 Glace   |     1      | [[Propriétés#Léger\|Léger]] |
 
 ## [[Apprentissages]]
 

@@ -49,7 +49,7 @@
 
 | Armure                      |                 AC                 |         Défense         |  Enchantement  | Poids (kg) | Dégâts | Température |                    Propriétés                     |
 | --------------------------- | :--------------------------------: | :---------------------: | :------------: | :--------: | :----: | :---------: | :-----------------------------------------------: |
-| Cuir clouté                 | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) + 4 = 13 |       -        |     6      |   -    |     -1      |      Résiste à [[Conditions#Poison\|Poison]]      |
+| Cuir clouté                 | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) + 5 = 14 |       -        |     6      |   -    |     -1      |      Résiste à [[Conditions#Poison\|Poison]]      |
 | Veste longue Velours côtelé |                 -                  |            -            | Air 1<br>Feu 1 |     1      |   -    |      2      | Les sorts gazeux à 2 crystaux ne les consomme pas |
 
 ### [[Armes]]

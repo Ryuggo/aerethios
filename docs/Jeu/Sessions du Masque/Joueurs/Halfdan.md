@@ -44,15 +44,21 @@
 
 ### [[Armures]]
 
-| Armure | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
-| ------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
-|        |     |         |              |            |        |             |            |
+| Armure           | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
+| ---------------- | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
+| Cuir Bouilli     |     |         |              |            |        |             |            |
+| Cape en fourrure |     |         |              |            |        |             |            |
 
 ### [[Armes]]
 
-| Arme | 1 Main | 2 Mains | Matériaux | Enchantements | Poids (kg) | Propriétés |
-| ---- | :----: | :-----: | :-------: | :-----------: | :--------: | :--------: |
-|      |        |         |           |               |            |            |
+| Arme     | 1 Main | 2 Mains |    Matériaux     | Enchantements | Poids (kg) | Propriétés |
+| -------- | :----: | :-----: | :--------------: | :-----------: | :--------: | :--------: |
+| 4 Dagues |        |         |       Fer        |               |            |            |
+| Dague    |        |         | Titane + Platine |               |            |            |
+| Lance    |        |         |       Fer        |               |            |            |
+| Épée     |        |         |       Fer        |               |            |            |
+| Hache    |        |         |      Titane      |     +4 os     |            |            |
+| Bouclier |        |         |       Fer        |               |            |            |
 
 ## [[Apprentissages]]
 
