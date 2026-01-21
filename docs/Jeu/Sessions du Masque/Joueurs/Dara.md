@@ -44,16 +44,16 @@
 
 ### [[Armures]]
 
-| Armure | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
-| ------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
-|        |     |         |              |            |        |             |            |
+| Armure              |        AC        |    Défense     | Enchantement | Poids (kg) | Dégâts | Température |                      Propriétés                       |
+| ------------------- | :--------------: | :------------: | :----------: | :--------: | :----: | :---------: | :---------------------------------------------------: |
+| Cuir Bouilli        | 11 + 2(Dex) = 13 | 9 (peu commun) |              |     2      |   -    |      0      |        Résiste à [[Conditions#Poison\|Poison]]        |
+| Cape en satin/ soie |        -         |       -        |              |     1      |   -    |      1      | Les sorts de ténèbres à 1 crystal ne les consomme pas |
 
 ### [[Armes]]
 
-| Arme | 1 Main | 2 Mains | Matériaux | Enchantements | Poids (kg) | Propriétés |
-| ---- | :----: | :-----: | :-------: | :-----------: | :--------: | :--------: |
-|      |        |         |           |               |            |            |
-
+| Arme        | 1 Main |     2 Mains     | Matériaux | Enchantements | Poids (kg) |           Propriétés            |
+| ----------- | :----: | :-------------: | :-------: | :-----------: | :--------: | :-----------------------------: |
+| Lame double | 1d4 P  | 1d10 P<br>1d6 T |           |               |            | [[Propriétés#Double\|Double]] T |
 
 ## [[Apprentissages]]
 
