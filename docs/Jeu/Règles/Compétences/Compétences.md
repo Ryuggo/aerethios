@@ -9,7 +9,7 @@
 | [[Force#Mule\|Mule]]                 | [[Dextérité#Discrétion\|Discrétion]]     | [[Mental#Sagesse\|Sagesse]]                       | [[Perception#Survie\|Survie]]                 | [[Charisme#Intimidant\|Intimidant]]       |
 | [[Force#Impénétrable\|Impénétrable]] | [[Dextérité#Doigté\|Doigté]]             | [[Mental#Résistance mentale\|Résistance Mentale]] | [[Perception#WIP - Travailleur\|Travailleur]] | [[Charisme#Performance\|Performance]]     |
 |                                      | [[Dextérité#Sixième sens\|Sixième Sens]] | [[Mental#Magicien\|Magicien]]                     |                                               | [[Charisme#Persuasif\|Persuasif]]         |
-|                                      |                                          |                                                   |                                               | [[Charisme#Flatteur\|Flatteur]]           |
+|                                      | [[Dextérité#Rapide\|Rapide]]             |                                                   |                                               | [[Charisme#Flatteur\|Flatteur]]           |
 | [[Charisme#Intimidant\|Intimidant]]  | [[Charisme#Performance\|Performance]]    | [[Charisme#Persuasif\|Persuasif]]                 | [[Charisme#Flatteur\|Flatteur]]               | [[Charisme#Charismatique\|Charismatique]] |
 
 ## Compétences d'Equipement

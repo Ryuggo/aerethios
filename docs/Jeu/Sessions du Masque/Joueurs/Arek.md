@@ -16,14 +16,14 @@
 
 ### [[Compétences]]
 
-|     Force      |   Dextérité    |        Mental        |     Perception     |   Charisme   |         Armures         |        Armes        |
-| :------------: | :------------: | :------------------: | :----------------: | :----------: | :---------------------: | :-----------------: |
-|  Athlétisme 5  |  Acrobatie 5   |    Intelligence 5    |    Détection 5     |   Veinard    |         Lourde          |       1 Main        |
-|  Destructeur   |  Sixième Sens  |    Imperturbable     |     Intuition      | Intimidant 5 | Lourde - Poids réduit 2 | 1 Main - Ambidextre |
-|     Mule 4     | Troisième Oeil |        Assidu        | Perception Magique |   Parrain    |    Lourde - Bagarre     |       2 Mains       |
-|  Grosse Berta  |                | Résistance Mentale 5 |                    |              |  Lourde - Maintenance   |                     |
-| Impénétrable 5 |                |                      |                    |              |        Bouclier         |                     |
-|                |                |                      |                    |              |    Bouclier - Miroir    |                     |
+|                 Force                  |                  Dextérité                  |                       Mental                        |                      Perception                       |               Charisme                |         Armures         |                                                      Armes                                                       |
+| :------------------------------------: | :-----------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------: | :---------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|   [[Force#Athlétisme\|Athlétisme]] 5   |    [[Dextérité#Acrobatie\|Acrobatie]] 5     |       [[Mental#Intelligence\|Intelligence]] 5       |         [[Perception#Détection\|Détection]] 5         |     [[Charisme#Veinard\|Veinard]]     |         Lourde          |       [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#1 main#Efficacité\|1 Main]]        |
+|   [[Force#Destructeur\|Destructeur]]   |  [[Dextérité#Sixième sens\|Sixième Sens]]   |       [[Mental#Imperturbable\|Imperturbable]]       |          [[Perception#Intuition\|Intuition]]          | [[Charisme#Intimidant\|Intimidant]] 5 | Lourde - Poids réduit 2 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#1 main#Ambidextre\|1 Main - Ambidextre]] |
+|         [[Force#Mule\|Mule]] 4         | [[Dextérité#Troisième œil\|Troisième oeil]] |              [[Mental#Assidu\|Assidu]]              | [[Perception#Perception magique\|Perception Magique]] |     [[Charisme#Parrain\|Parrain]]     |    Lourde - Bagarre     |      [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#2 mains#Efficacité\|2 Mains]]       |
+|  [[Force#Grosse Berta\|Grosse Berta]]  |                                             | [[Mental#Résistance mentale\|Résistance Mentale]] 5 |                                                       |                                       |  Lourde - Maintenance   |                                                                                                                  |
+| [[Force#Impénétrable\|Impénétrable]] 5 |                                             |                                                     |                                                       |                                       |        Bouclier         |                                                                                                                  |
+|                                        |                                             |                                                     |                                                       |                                       |    Bouclier - Miroir    |                                                                                                                  |
 
 ## Combats
 

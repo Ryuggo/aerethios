@@ -14,6 +14,10 @@ Les petits objets (bourses, bijoux, clefs, ..) ne peuvent pas être trouvé lors
 
 [1-5] Modificateur lors de pickpocket/ crochetage
 
+## Rapide
+
+[1-5] Augmente le mouvement de 5ft (1 case) par point.
+
 ## Sixième sens
 
 Permet de réagir à une attaque surprise (en dehors d'un combat).
