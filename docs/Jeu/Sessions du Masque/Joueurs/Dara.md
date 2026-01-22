@@ -63,7 +63,7 @@
 | ---------------------- | :------------: | :-------------: | :----------------------------------------: | :-----------: | :--------: | :-----------------------------: |
 | Lame double            |     1d4 P      | 1d10 P<br>1d6 T |  12 (Orichalque) + Argent<br>VS Hybrides   |  +6 (métal)   |    7.5     | [[Propriétés#Double\|Double]] T |
 | Lame double de Gammoth |     1d4 P      | 1d10 P<br>1d6 T |  4 (Os)<br>Enchantements élémentaires x2   |    Glace 8    |     3      | [[Propriétés#Double\|Double]] T |
-| Épée droite (grande)   | 1d8 P<br>1d6 T | 2d6 P<br>1d8 T  | 10 (Adamantite) + Sombronce<br>VS Naturels |  +6 (métal)   |     6      |   Force > 15 pour s'en servir   |
+| Épée droite            | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  | 10 (Adamantite) + Sombronce<br>VS Naturels |  +6 (métal)   |     6      |               ---               |
 | Arme courte Sharah     |                |                 |                                            |               |            |                                 |
 
 ## [[Apprentissages]]

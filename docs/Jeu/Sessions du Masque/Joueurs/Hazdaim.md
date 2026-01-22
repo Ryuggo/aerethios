@@ -62,7 +62,7 @@
 | Lame Revers         | 1d8 T  |  2d6 T  |      6 (Titane)<br>VS Invocations       |  +6 (métal)   |            |            |
 | Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 (Os)<br>Enchantements élémentaires x2 |    Glace 8    |            |            |
 | Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 (Os)<br>Enchantements élémentaires x2 |    Glace 8    |            |            |
-| Epée Sharah         |        |         |                                         |               |            |            |
+| Arbalète Sharah     |        |         |                                         |               |            |            |
 
 ## [[Apprentissages]]
 

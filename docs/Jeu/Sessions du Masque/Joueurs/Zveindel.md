@@ -1,4 +1,4 @@
->Si vous voulez une image, envoyez-la moi et je la transforme pour avoir un style graphique similaire au reste
+![[Zveindel.png]]
 
 **Niveau** : 5.5
 
@@ -45,9 +45,9 @@
 
 ### [[Armures]]
 
-| Armure | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
-| ------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
-|        |     |         |              |            |        |             |            |
+| Armure               | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
+| -------------------- | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
+| Armure légère Sharah |     |         |              |            |        |             |            |
 
 ### [[Armes]]
 

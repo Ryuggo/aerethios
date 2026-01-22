@@ -56,7 +56,7 @@
 | ------------------- | :----: | :-----: | :-------------------------------------: | :-----------: | :--------: | :-------------------------: |
 | 2 Poings            | 1d6 C  |    -    |      6 (Titane)<br>VS Invocations       |   +6 Glace    |     1      | [[Propriétés#Léger\|Léger]] |
 | 2 Poings de Gammoth | 1d6 C  |    -    | 4 (Os)<br>Enchantements élémentaires x2 |   +10 Glace   |     1      | [[Propriétés#Léger\|Léger]] |
-| 2 poings Sharah ?   |        |         |                                         |               |            |                             |
+| 2 poings Sharah     |        |         |                                         |               |            |                             |
 
 ## [[Apprentissages]]
 
