@@ -7,19 +7,25 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 2 | [[Runild#100 po\|Riche]] |     -     |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux 4, 8, 12, 16, and 19
+> + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|   6   |    15     |   14   |     13     |    7     |
-|  -2   |    +2     |   +2   |     +1     |    -2    |
+|   6   |    17     |   14   |     13     |    7     |
+|  -2   |    +3     |   +2   |     +1     |    -2    |
 
 ### [[Compétences]]
 >57 points à répartir dans les [[Compétences]]
 
-| Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
-| :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
-|       |           |        |            |          |         |       |
+|                Force 6                 |                     Dextérité 17                      |                      Mental 13                      |                          Perception 8                           |                 Charisme 7                  |                                                          Armures 3                                                          |                                                  Armes 3                                                   |
+| :------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+|         [[Force#Mule\|Mule]] 1         |         [[Dextérité#Acrobatie\|Acrobatie]] 5          |            [[Mental#Sagesse\|Sagesse]] 5            |              [[Perception#Détection\|Détection]] 5              |        [[Charisme#Veinard\|Veinard]]        |        [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Efficacité\|Légère]]         |     [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court#Efficacité\|Court]]      |
+| [[Force#Impénétrable\|Impénétrable]] 5 |        [[Dextérité#Discrétion\|Discrétion]] 4         |       [[Mental#Intelligence\|Intelligence]] 1       |          [[Perception#Détection#Intuition\|Intuition]]          | [[Charisme#Charismatique\|Charismatique]] 3 |     [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Arcanes\|Légère - Arcanes]]     | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court#Assassin\|Court - Assassin]] |
+|                                        | [[Dextérité#Discrétion#Dissimulation\|Dissimulation]] |       [[Mental#Imperturbable\|Imperturbable]]       | [[Perception#Détection#Perception magique\|Perception Magique]] |   [[Charisme#Charismatique#Doyen\|Doyen]]   | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Maintenance\|Légère - Maintenance]] |   [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#2 mains#Efficacité\|2 mains]]    |
+|                                        |            [[Dextérité#Doigté\|Doigté]] 2             |              [[Mental#Assidu\|Assidu]]              |         [[Perception#Détection#Mentaliste\|Mentaliste]]         |  [[Charisme#Intimidant\|Intimidant]] 1<br>  |                                                                                                                             |                                                                                                            |
+|                                        |       [[Dextérité#Sixième sens\|Sixième Sens]]        | [[Mental#Résistance mentale\|Résistance Mentale]] 5 |                                                                 |  [[Charisme#Intimidant#Parrain\|Parrain]]   |                                                                                                                             |                                                                                                            |
+|                                        |      [[Dextérité#Troisième œil\|Troisième oeil]]      |                                                     |                                                                 |                                             |                                                                                                                             |                                                                                                            |
+|                                        |            [[Dextérité#Rapide\|Rapide]] 3             |                                                     |                                                                 |                                             |                                                                                                                             |                                                                                                            |
 
 ## Combats
 
@@ -27,7 +33,7 @@
 
 | Court | 1 Main | 2 Mains | Haste | Distance |
 | :---: | :----: | :-----: | :---: | :------: |
-|   -   |   2    |    8    |   -   |    -     |
+|   4   |   2    |    8    |   -   |    -     |
 
 ### Magie
 
@@ -44,12 +50,12 @@
 
 ### [[Armures]]
 
-| Armure                   |        AC        |    Défense     |     Enchantement     | Poids (kg) | Dégâts | Température |                     Propriétés                      |
-| ------------------------ | :--------------: | :------------: | :------------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
-| Cuir Bouilli             | 11 + 2(Dex) = 13 | 9 (peu commun) |          -           |     2      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
-| Cape en velour           |        -         |       -        |  Feu 2<br>Foudre 2   |     1      |   -    |      1      |  Les sorts solides à 1 crystal ne les consomme pas  |
-| Cape de fourrure         |        -         |       -        | Glace 3<br>Liquide 1 |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
-| Cape de fourrure (tigre) |        -         |       -        |                      |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Armure                   |                 AC                 |         Défense         |     Enchantement     | Poids (kg) | Dégâts | Température |                     Propriétés                      |
+| ------------------------ | :--------------------------------: | :---------------------: | :------------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
+| Cuir clouté              | 11 + 3(Dex) + 5(Impénétrable) = 19 | 9 (peu commun) + 5 = 14 |          -           |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape en velour           |                 -                  |            -            |  Feu 2<br>Foudre 2   |     1      |   -    |      1      |  Les sorts solides à 1 crystal ne les consomme pas  |
+| Cape de fourrure         |                 -                  |            -            | Glace 3<br>Liquide 1 |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Cape de fourrure (tigre) |                 -                  |            -            |                      |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
@@ -58,6 +64,7 @@
 | Lame double            |     1d4 P      | 1d10 P<br>1d6 T |  12 (Orichalque) + Argent<br>VS Hybrides   |  +6 (métal)   |    7.5     | [[Propriétés#Double\|Double]] T |
 | Lame double de Gammoth |     1d4 P      | 1d10 P<br>1d6 T |  4 (Os)<br>Enchantements élémentaires x2   |    Glace 8    |     3      | [[Propriétés#Double\|Double]] T |
 | Épée droite (grande)   | 1d8 P<br>1d6 T | 2d6 P<br>1d8 T  | 10 (Adamantite) + Sombronce<br>VS Naturels |  +6 (métal)   |     6      |   Force > 15 pour s'en servir   |
+| Arme courte Sharah     |                |                 |                                            |               |            |                                 |
 
 ## [[Apprentissages]]
 
@@ -84,7 +91,7 @@
 
 ## Inventaire
 
-**Poids maximum** : 36kg
+**Poids maximum** : 56kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
 - *Force < 10 : 40 + (Force Modificateur x 2)*
 

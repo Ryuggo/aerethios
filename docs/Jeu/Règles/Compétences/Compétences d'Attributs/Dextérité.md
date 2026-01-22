@@ -8,7 +8,7 @@
 
 ### Dissimulation
 
-Les petits objets (bourses, bijoux, clefs, ..) ne peuvent pas être trouvé lorsqu'on est fouillé.
+Les petits objets (bourses, bijoux, clefs, couteau, crochet, ..) ne peuvent pas être trouvé lorsqu'on est fouillé.
 
 ## Doigté
 

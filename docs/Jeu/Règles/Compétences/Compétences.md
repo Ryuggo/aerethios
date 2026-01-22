@@ -17,7 +17,7 @@
 
 | Armures (30)                                                                                                    | Armes                                                                                        |
 | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère\|Légère]]               | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court\|Courte]]      |
+| [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère\|Légère]]               | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court\|Court]]       |
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure intermédiaire\|Intermédiaire]] | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#1 main\|1 main]]     |
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure lourde\|Lourde]]               | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#2 mains\|2 mains]]   |
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Bouclier\|Bouclier]]                  | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Hast\|Hast]]         |

@@ -30,7 +30,7 @@
 
 | Court | 1 Main | 2 Mains | Haste | Distance |
 | :---: | :----: | :-----: | :---: | :------: |
-|   0   |   -    |    -    |   6   |    2     |
+|   -   |   -    |    -    |   6   |    2     |
 
 ### Magie
 
@@ -54,9 +54,10 @@
 
 ### [[Armes]]
 
-| Arme    | 1 Main | 2 Mains |             Matériaux             | Enchantements | Poids (kg) |           Propriétés            |
-| ------- | :----: | :-----: | :-------------------------------: | :-----------: | :--------: | :-----------------------------: |
-| Trident |   -    |  3d4 P  | 3 (Fer) + Electrum<br>VS Magiques |       -       |     4      | [[Propriétés#Jetable\|Jetable]] |
+| Arme            | 1 Main | 2 Mains |             Matériaux             | Enchantements | Poids (kg) |           Propriétés            |
+| --------------- | :----: | :-----: | :-------------------------------: | :-----------: | :--------: | :-----------------------------: |
+| Trident         |   -    |  3d4 P  | 3 (Fer) + Electrum<br>VS Magiques |       -       |     4      | [[Propriétés#Jetable\|Jetable]] |
+| Arbalète Sharah |        |         |                                   |               |            |                                 |
 
 ## [[Apprentissages]]
 

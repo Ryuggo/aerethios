@@ -32,7 +32,7 @@ Ainsi, il doit :
 |   3 réussites consécutives   |   5 réussites consécutives   |                             +2 points |
 | 3 réussites non consécutives | 5 réussites non consécutives |                              +1 point |
 |              -               |     3 échecs consécutifs     | réinitialise le compteur de réussites |
-|   niveau actuel PO/ leçon    |           gratuit            |                                     - |
+|  niveau actuel +1 PO/ leçon  |           gratuit            |                                     - |
 
 ---
 
@@ -83,4 +83,4 @@ Pour améliorer sa maîtrise magique, le joueur doit prendre 10 jours de leçons
 
 ### Crystaux
 
-Pour augmenter son nombre de crystaux, il faut généralement monter en rang chez les [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens]] ou les [[Scienctes]]
+Pour augmenter son nombre de crystaux, il faut généralement monter en rang chez les [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens|Arvens]] ou les [[Scienctes]]
