@@ -97,12 +97,12 @@
 | Denim (coton)                 |     3 pa |              1              |                           -                           |
 | Polyester                     |     3 pa |              1              |                           -                           |
 | Laine                         |     5 pa |              3              |                           -                           |
-| Velours (coton/ laine)        | 5/ 10 pa |              2              |   Les sorts solide à 1 crystal ne les consomme pas    |
-| Velours côtelé (coton/ laine) | 5/ 10 pa |              2              |   Les sorts gazeux à 1 crystal ne les consomme pas    |
+| Velours (coton/ laine)        | 5/ 10 pa |              2              |  Les sorts de roche à 1 crystal ne les consomme pas   |
+| Velours côtelé (coton/ laine) | 5/ 10 pa |              2              |    Les sorts d'air à 1 crystal ne les consomme pas    |
 | Soie                          |    10 pa |              1              | Les sorts de lumière à 1 crystal ne les consomme pas  |
 | Satin (soie)                  |    15 pa |              1              | Les sorts de ténèbres à 1 crystal ne les consomme pas |
 | Suède/ Daim                   |    15 pa |              2              |  Les sorts de foudre à 1 crystal ne les consomme pas  |
-| Alpaga                        |    20 pa |              3              |   Les sorts liquide à 1 crystal ne les consomme pas   |
+| Alpaga                        |    20 pa |              3              |    Les sorts d'eau à 1 crystal ne les consomme pas    |
 | Fourrure                      |    25 pa |              3              |  Les sorts croitistes à 1 crystal ne le consomme pas  |
 | Cachemire                     |    30 pa |              3              |  Les sorts élétistes à 1 crystal ne le consomme pas   |
 

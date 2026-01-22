@@ -45,10 +45,10 @@
 
 ### [[Armures]]
 
-| Armure             | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température |                     Propriétés                     |
-| ------------------ | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :------------------------------------------------: |
-| Chemise de mailles | 13  |    5    |      -       |     5      |   -    |      -      |                         -                          |
-| Cape en fourrure   |  -  |    -    |              |     1      |   -    |      3      | Les sorts élétistes à 1 crystal ne le consomme pas |
+| Armure             |                 AC                 | Défense |      Enchantement      | Poids (kg) | Dégâts | Température |                     Propriétés                     |
+| ------------------ | :--------------------------------: | :-----: | :--------------------: | :--------: | :----: | :---------: | :------------------------------------------------: |
+| Chemise de mailles | 13 + 0(Dex) + 0(Impénétrable) = 13 | 5 (Fer) |           -            |     5      |   -    |      -      |                         -                          |
+| Cape en fourrure   |                 -                  |    -    | Ténèbres 2<br>Foudre 1 |     1      |   -    |      3      | Les sorts élétistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 

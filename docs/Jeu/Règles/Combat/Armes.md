@@ -24,7 +24,7 @@
 | Dague<br>*Dagger*         |    2 pa<br>*2 gp* | 1d4 T<br>1d4 P | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |        |
 
 ### 1 Main / 2 Mains
->Les armes à 1 main ont [[Propriétés#Finesse|Finesse]]
+>Les armes utilisées avec 1 main ont [[Propriétés#Finesse|Finesse]]
 >Matériaux : 2 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|métaux]] (sauf fouet)
 
 | Arme                             |                                                     Prix main d'œuvre |     1 main     |     2 mains     | Force |                Propriétés                 | Styles |

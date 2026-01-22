@@ -58,9 +58,9 @@
 
 | Arme           |     1 Main     |    2 Mains     |          Matériaux           | Enchantements | Propriétés | Poids (kg) |                                       |
 | -------------- | :------------: | :------------: | :--------------------------: | :-----------: | :--------: | :--------: | ------------------------------------- |
-| Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons | + 10 Ténèbres |    ---     |            |                                       |
-| Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons | + 10 Ténèbres |    ---     |            |                                       |
-| Epée (lourde)  | 1d8 P<br>1d6 T | 2d6 P<br>1d8 T |  10 (Palladium)<br>VS Anges  | + 10 Ténèbres |    ---     |            | A touché le sang du Dieu de la guerre |
+| Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons |  Ténèbres 10  |    ---     |            |                                       |
+| Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons |  Ténèbres 10  |    ---     |            |                                       |
+| Epée (lourde)  | 1d8 P<br>1d6 T | 2d6 P<br>1d8 T |  10 (Palladium)<br>VS Anges  |  Ténèbres 10  |    ---     |            | A touché le sang du Dieu de la guerre |
 
 ## [[Apprentissages]]
 

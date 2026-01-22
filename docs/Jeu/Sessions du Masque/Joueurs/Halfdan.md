@@ -44,21 +44,21 @@
 
 ### [[Armures]]
 
-| Armure           | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
-| ---------------- | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
-| Cuir Bouilli     |     |         |              |            |   -    |      0      |            |
-| Cape en fourrure |  -  |    -    |              |     1      |   -    |      3      |            |
-| Bouclier         |     |         |              |            |        |      -      |            |
+| Armure           |                 AC                 |  Défense   | Enchantement | Poids (kg) | Dégâts | Température |                     Propriétés                      |
+| ---------------- | :--------------------------------: | :--------: | :----------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
+| Cuir Bouilli     | 11 + 2(Dex) + 0(Impénétrable) = 13 | 6 (commun) |      -       |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape en fourrure |                 -                  |     -      |   Foudre 2   |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Bouclier         |                 +2                 |  5 (Fer)   |      -       |     4      | 1d6 C  |      -      |                          -                          |
 
 ### [[Armes]]
 
-| Arme     | 1 Main | 2 Mains |    Matériaux     | Enchantements | Poids (kg) | Propriétés |
-| -------- | :----: | :-----: | :--------------: | :-----------: | :--------: | :--------: |
-| 4 Dagues |        |         |       Fer        |               |   1 x 4    |            |
-| Dague    |        |         | Titane + Platine |               |     1      |            |
-| Lance    |        |         |       Fer        |               |            |            |
-| Épée     |        |         |       Fer        |               |            |            |
-| Hache    |        |         |      Titane      |     +4 os     |            |            |
+| Arme     |     1 Main     |    2 Mains     |              Matériaux               |              Enchantements              | Poids (kg) |                              Propriétés                              |
+| -------- | :------------: | :------------: | :----------------------------------: | :-------------------------------------: | :--------: | :------------------------------------------------------------------: |
+| 4 Dagues | 1d4 T<br>1d4 P |       -        |         3 (Fer)<br>VS Bêtes          |                    -                    |   1 x 4    | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
+| Dague    | 1d4 T<br>1d4 P |       -        | 6 (Titane) + Electrum<br>VS Magiques |                    -                    |     1      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
+| Épée     | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T |         3 (Fer)<br>VS Bêtes          |                    -                    |     2      |                                  -                                   |
+| Hache    | 1d6 T<br>1d4 C | 2d4 T<br>1d6 C |     6 (Titane)<br>VS Invocations     | 4 (Os)<br>Enchantements élémentaires x2 |     2      |                                  -                                   |
+| Lance    |       -        |     2d6 P      |         3 (Fer)<br>VS Bêtes          |                    -                    |     4      |                      [[Propriétés#Lent\|Lent]]                       |
 
 ## [[Apprentissages]]
 
