@@ -52,13 +52,13 @@
 
 ### [[Armes]]
 
-| Arme     |     1 Main     |    2 Mains     |              Matériaux               |              Enchantements              | Poids (kg) |                              Propriétés                              |
-| -------- | :------------: | :------------: | :----------------------------------: | :-------------------------------------: | :--------: | :------------------------------------------------------------------: |
-| 4 Dagues | 1d4 T<br>1d4 P |       -        |         3 (Fer)<br>VS Bêtes          |                    -                    |   1 x 4    | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
-| Dague    | 1d4 T<br>1d4 P |       -        | 6 (Titane) + Electrum<br>VS Magiques |                    -                    |     1      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
-| Épée     | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T |         3 (Fer)<br>VS Bêtes          |                    -                    |     2      |                                  -                                   |
-| Hache    | 1d6 T<br>1d4 C | 2d4 T<br>1d6 C |     6 (Titane)<br>VS Invocations     | 4 (Os)<br>Enchantements élémentaires x2 |     2      |                                  -                                   |
-| Lance    |       -        |     2d6 P      |         3 (Fer)<br>VS Bêtes          |                    -                    |     4      |                      [[Propriétés#Lent\|Lent]]                       |
+| Arme     |     1 Main     |    2 Mains     | Dégâts                                           | Poids (kg) |                              Propriétés                              |
+| -------- | :------------: | :------------: | ------------------------------------------------ | :--------: | :------------------------------------------------------------------: |
+| 4 Dagues | 1d4 T<br>1d4 P |       -        | 3 Fer<br>x 2 VS Bêtes<br>= 3-6                   |   1 x 4    | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
+| Dague    | 1d4 T<br>1d4 P |       -        | 6 Titane<br>x 2 VS Magiques (Electrum)<br>= 6-12 |     1      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
+| Épée     | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T | 3 Fer<br>x 2 VS Bêtes<br>= 3-6                   |     2      |                                  -                                   |
+| Hache    | 1d6 T<br>1d4 C | 2d4 T<br>1d6 C | 6 Titane<br>x 2 VS Invocations<br>= 6-12         |     2      |                                  -                                   |
+| Lance    |       -        |     2d6 P      | 3 Fer<br>x 2 VS Bêtes<br>= 3-6                   |     4      |                      [[Propriétés#Lent\|Lent]]                       |
 
 ## [[Apprentissages]]
 

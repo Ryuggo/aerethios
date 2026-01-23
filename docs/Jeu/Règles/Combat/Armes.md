@@ -51,7 +51,7 @@ Chaque arme 1 Main/ 2 Mains peut venir avec une sous-catégorie offrant un bonus
 | Dextérité > 15 pour s'en servir                                 | Force > 15 pour s'en servir                                     | Force > 17 pour s'en servir                                      |
 | Descend le.s dé.s d'un niveau                                   | Monte le.s dé.s d'un niveau                                     | Monte le.s dé.s d'un niveau double<br>*1d6 = 2d4, 2d4 = 2d6*     |
 | Empêche de l'utiliser à 2 mains                                 | Perd la propriété [[Propriétés#Finesse\|Finesse]]               | Empêche de l'utiliser à 1 main                                   |
-| [[Propriétés#Léger\|Léger]]                                     |                                                                 | [[Propriétés#Lent\|Lent]]                                        |
+| [[Propriétés#Léger\|Léger]]                                     |                                                                 | [[Propriétés#Lent\|Lent]] sauf si Force > 19                     |
 
 ### Hast
 >[[Propriétés#Charge|Charge]]

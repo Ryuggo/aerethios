@@ -52,11 +52,11 @@
 
 ### [[Armes]]
 
-| Arme                       | 1 Main | 2 Mains |                Matériaux                | Enchantements | Poids (kg) |         Propriétés          |
-| -------------------------- | :----: | :-----: | :-------------------------------------: | :-----------: | :--------: | :-------------------------: |
-| 2 Poings                   | 1d6 C  |    -    |      6 (Titane)<br>VS Invocations       |   +6 Glace    |     1      | [[Propriétés#Léger\|Léger]] |
-| 2 Poings de Gammoth        | 1d6 C  |    -    | 4 (Os)<br>Enchantements élémentaires x2 |   +10 Glace   |     1      | [[Propriétés#Léger\|Léger]] |
-| 2 Poings de Sharah (lourd) |        |         | 10 (Adamantite)<br>+ Or<br>VS Mythiques |               |            |                             |
+| Arme                       | 1 Main | 2 Mains | Dégâts                                                                    | Poids (kg) |         Propriétés          |
+| -------------------------- | :----: | :-----: | ------------------------------------------------------------------------- | :--------: | :-------------------------: |
+| 2 Poings                   | 1d6 C  |    -    | 6 Titane<br>x 2 VS Invocations<br>+ 6 Glace<br>= 6-18                     |     1      | [[Propriétés#Léger\|Léger]] |
+| 2 Poings de Gammoth        | 1d6 C  |    -    | 4 Os<br>+ 2x10 Glace<br>= 4-24                                            |     1      | [[Propriétés#Léger\|Léger]] |
+| 2 Poings de Sharah (lourd) |        |         | 10 Adamantite<br>+ 8 métal<br>x 2 VS Mythiques (Or)<br>+ 8 Air<br>= 18-44 |            |                             |
 
 ## [[Apprentissages]]
 

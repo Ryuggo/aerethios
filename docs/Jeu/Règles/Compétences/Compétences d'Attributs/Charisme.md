@@ -1,4 +1,5 @@
 ## Veinard
+>Nécessite 12 en Charisme
 
 Permet de relancer 1d20 de son choix par session.
 

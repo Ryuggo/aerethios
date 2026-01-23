@@ -45,15 +45,15 @@
 
 ### [[Armures]]
 
-| Armure               | AC  | Défense | Enchantement | Poids (kg) | Dégâts | Température | Propriétés |
-| -------------------- | :-: | :-----: | :----------: | :--------: | :----: | :---------: | :--------: |
-| Armure légère Sharah |     |         |              |            |        |             |            |
+| Armure               |                 AC                 | Défense |      Enchantement       | Poids (kg) | Dégâts | Température |                                         Propriétés                                         |
+| -------------------- | :--------------------------------: | :-----: | :---------------------: | :--------: | :----: | :---------: | :----------------------------------------------------------------------------------------: |
+| Armure légère Sharah | 11 + 0(Dex) + 0(Impénétrable) = 11 |   12    | Air 5<br>Feu 5<br>Eau 5 |     3      |   -    |      3      | Résiste à [[Conditions#Poison\|Poison]]<br>Résiste à [[Conditions#Saignement\|Saignement]] |
 
 ### [[Armes]]
 
-| Arme | 1 Main | 2 Mains | Matériaux | Enchantements | Poids (kg) | Propriétés |
-| ---- | :----: | :-----: | :-------: | :-----------: | :--------: | :--------: |
-|      |        |         |           |               |            |            |
+| Arme | 1 Main | 2 Mains | Dégâts | Poids (kg) | Propriétés |
+| ---- | :----: | :-----: | ------ | :--------: | :--------: |
+|      |        |         |        |            |            |
 
 ## [[Apprentissages]]
 

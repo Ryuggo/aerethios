@@ -22,7 +22,7 @@ Retire les désavantages en utilisant une arme à 1 main.
 >Nécessite :
 >- 1 Main - Efficacité
 >- Maîtrise 1 Main > 5
->- Dextérité > 14
+>- Dextérité/ Force > 14
 
 Permet d'utiliser 2 armes à 1 main en même temps.
 
