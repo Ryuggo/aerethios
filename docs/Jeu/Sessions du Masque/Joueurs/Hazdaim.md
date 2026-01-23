@@ -49,10 +49,10 @@
 
 ### [[Armures]]
 
-| Armure      |                 AC                 |         Défense         |   Enchantement   | Poids (kg) | Dégâts | Température |                     Propriétés                      |
-| ----------- | :--------------------------------: | :---------------------: | :--------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
-| Cuir clouté | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) + 5 = 14 | Roche 2<br>Feu 2 |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
-| Cape Alpaga |                 -                  |            -            |    Ténèbres 5    |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Armure        |                 AC                 |         Défense         |   Enchantement   | Poids (kg) | Dégâts | Température |                     Propriétés                      |
+| ------------- | :--------------------------------: | :---------------------: | :--------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
+| Cuir clouté   | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) + 5 = 14 | Roche 2<br>Feu 2 |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape Fourrure |                 -                  |            -            |    Ténèbres 5    |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
