@@ -54,10 +54,10 @@
 
 ### [[Armes]]
 
-| Arme            | 1 Main | 2 Mains |             Matériaux             | Enchantements | Poids (kg) |           Propriétés            |
-| --------------- | :----: | :-----: | :-------------------------------: | :-----------: | :--------: | :-----------------------------: |
-| Trident         |   -    |  3d4 P  | 3 (Fer) + Electrum<br>VS Magiques |       -       |     4      | [[Propriétés#Jetable\|Jetable]] |
-| Arbalète Sharah |        |         |                                   |               |            |                                 |
+| Arme            | 1 Main | 2 Mains |                Matériaux                | Enchantements | Poids (kg) |           Propriétés            |
+| --------------- | :----: | :-----: | :-------------------------------------: | :-----------: | :--------: | :-----------------------------: |
+| Trident         |   -    |  3d4 P  |    3 (Fer) + Electrum<br>VS Magiques    |       -       |     4      | [[Propriétés#Jetable\|Jetable]] |
+| Arbalète Sharah |        |         | 10 (Adamantite)<br>+ Or<br>VS Mythiques |               |            |                                 |
 
 ## [[Apprentissages]]
 

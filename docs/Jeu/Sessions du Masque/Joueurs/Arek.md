@@ -56,12 +56,12 @@
 
 ### [[Armes]]
 
-| Arme           |     1 Main     |    2 Mains     |          Matériaux           | Enchantements | Propriétés | Poids (kg) |                                       |
-| -------------- | :------------: | :------------: | :--------------------------: | :-----------: | :--------: | :--------: | ------------------------------------- |
-| Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons |  Ténèbres 10  |    ---     |            |                                       |
-| Hache (lourde) | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 (Orichalque)<br>VS Démons |  Ténèbres 10  |    ---     |            |                                       |
-| Epée (lourde)  | 1d8 P<br>1d6 T | 2d6 P<br>1d8 T |  10 (Palladium)<br>VS Anges  |  Ténèbres 10  |    ---     |            | A touché le sang du Dieu de la guerre |
-| Marteau Sharah |                |                |                              |               |            |            |                                       |
+| Arme                       |     1 Main     |    2 Mains     |                Matériaux                |          Enchantements          | Poids (kg) |                             Propriétés                             |
+| -------------------------- | :------------: | :------------: | :-------------------------------------: | :-----------------------------: | :--------: | :----------------------------------------------------------------: |
+| Hache (lourde)             | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C |      12 (Orichalque)<br>VS Démons       |           Ténèbres 10           |    7.5     |                             Force > 15                             |
+| Hache (lourde)             | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C |      12 (Orichalque)<br>VS Démons       |           Ténèbres 10           |    7.5     |                             Force > 15                             |
+| Epée (lourde)              | 1d8 P<br>1d6 T | 2d6 P<br>1d8 T |       10 (Palladium)<br>VS Anges        |       Ténèbres 10<br><br>       |     3      | Force > 15<br>Sang de dieu : [[Propriétés#Lacération\|Lacération]] |
+| Marteau Sharah (colossale) |       -        |     2d10 C     | 10 (Adamantite)<br>+ Or<br>VS Mythiques | +8 (métal)<br>Air 8<br><br><br> |     13     |              Force > 16<br>[[Propriétés#Lent\|Lent]]               |
 
 ## [[Apprentissages]]
 
