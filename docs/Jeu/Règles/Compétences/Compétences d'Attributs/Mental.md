@@ -3,10 +3,12 @@
 [1-5] Modificateur lors de l'utilisation de magie élétiste.
 
 ### Imperturbable
+>Nécessite Intelligence/ Sagesse 3
 
 Conserve la concentration en mouvement.
 
 ### Assidu
+>Nécessite Intelligence/ Sagesse 5 + Imperturbable
 
 Facilite l'apprentissage.
 
@@ -15,10 +17,12 @@ Facilite l'apprentissage.
 [1-5] Modificateur lors de l'utilisation de magie croitiste.
 
 ### Imperturbable
+>Nécessite Intelligence/ Sagesse 3
 
-Conserve la concentration en mouvement ; réduit les malus d’adrénaline.
+Conserve la concentration en mouvement.
 
 ### Assidu
+>Nécessite Intelligence/ Sagesse 5 + Imperturbable
 
 Facilite l'apprentissage.
 

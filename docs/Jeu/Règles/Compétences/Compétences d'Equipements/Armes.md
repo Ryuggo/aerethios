@@ -27,7 +27,7 @@ Si le joueur à un avantage, il jette un troisième dé.
 Retire les désavantages en utilisant une arme à 2 mains.
 
 ### Ambidextre
->Nécessite Ambidextre (1 main)
+>Nécessite 1 Main - Ambidextre
 
 Permet de tenir une arme à 2 mains avec 1 main.
 

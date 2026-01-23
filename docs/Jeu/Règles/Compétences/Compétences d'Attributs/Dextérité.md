@@ -7,6 +7,7 @@
 [1-5] Modificateur lorsqu'on souhaite cacher sa présence
 
 ### Dissimulation
+>Nécessite Discrétion 5
 
 Les petits objets (bourses, bijoux, clefs, couteau, crochet, ..) ne peuvent pas être trouvé lorsqu'on est fouillé.
 
@@ -18,10 +19,12 @@ Les petits objets (bourses, bijoux, clefs, couteau, crochet, ..) ne peuvent pas 
 
 [1-5] Augmente le mouvement de 5ft (1 case) par point.
 
-## Sixième sens
+### Sixième sens
+>Nécessite Rapide 3
 
 Permet de réagir à une attaque surprise (en dehors d'un combat).
 
 ### Troisième œil
+>Nécessite Rapide 5 + Sixième Sens
 
 Permet de réagir à une attaque qui se trouve hors du champs de vision
