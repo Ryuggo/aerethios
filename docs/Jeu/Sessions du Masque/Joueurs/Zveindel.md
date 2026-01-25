@@ -7,19 +7,24 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Argent\|Argent]] 2 |   -    | [[Scienctes#Archimage\|Archimage]] |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux 4, 8, 12, 16, and 19
+> + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|   8   |    10     |   15   |     14     |    8     |
-|  -1   |     0     |   +2   |     +2     |    -1    |
+|  10   |    10     |   15   |     14     |    8     |
+|   0   |     0     |   +2   |     +2     |    -1    |
 
 ### [[Compétences]]
->57 points à répartir dans les [[Compétences]]
 
-| Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
-| :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
-|       |           |        |            |          |         |       |
+|                Force 10                |                         Dextérité 10                         |                      Mental 15                      |                                Perception 13                                |                              Charisme 8                              |                                                   Armures                                                    | Armes |
+| :------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---: |
+|   [[Force#Athlétisme\|Athlétisme]] 2   |             [[Dextérité#Acrobatie\|Acrobatie]] 2             |            [[Mental#Sagesse\|Sagesse]] 5            |                    [[Perception#Détection\|Détection]] 5                    |          [[Charisme#Intimidant\|Intimidant]] 3 + 1 (Force)           | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Efficacité\|Légère]] |       |
+|         [[Force#Mule\|Mule]] 3         |            [[Dextérité#Discrétion\|Discrétion]] 1            |       [[Mental#Intelligence\|Intelligence]] 5       |          [[Perception#Détection#Intuition\|Détection - Intuition]]          |               [[Charisme#Persuasif\|Persuasif]] 3<br>                |                                                                                                              |       |
+| [[Force#Impénétrable\|Impénétrable]] 4 |                [[Dextérité#Doigté\|Doigté]] 4                |       [[Mental#Imperturbable\|Imperturbable]]       | [[Perception#Détection#Perception magique\|Détection - Perception Magique]] |            [[Charisme#Flatteur\|Flatteur]] 2 (Perception)            |                                                                                                              |       |
+|                                        |                [[Dextérité#Rapide\|Rapide]] 2                |              [[Mental#Assidu\|Assidu]]              |                       [[Perception#Survie\|Survie]] 2                       | ~~[[Charisme#Flatteur#Dragueur\|Flatteur - Dragueur]] (Perception)~~ |                                                                                                              |       |
+|                                        | ~~[[Dextérité#Rapide#Sixième sens\|Rapide - Sixième Sens]]~~ | [[Mental#Résistance mentale\|Résistance Mentale]] 3 |               [[Perception#Survie#Plantes\|Survie - Plantes]]               |             [[Charisme#Charismatique\|Charismatique]] 1              |                                                                                                              |       |
+|                                        |                                                              |                                                     |                                                                             |      ~~[[Charisme#Charismatique#Doyen\|Charismatique Doyen]]~~       |                                                                                                              |       |
+
 
 ## Combats
 
@@ -30,16 +35,15 @@
 |   3   |   -    |    -    |   -   |    -     |
 
 ### Magie
->Ajouter 1 point dans les magies débloquées (sauf le Feu)
 
 **Maîtrise** : 4
 
 **Crystaux** : 14
 
 | **[[Air]]** | **[[Eau]]** | **[[Roche]]** | **[[Feu]]** | **[[Foudre]]** | **[[Lumière]]** | **[[Ténèbres]]** |
-| :------------: | :-------------: | :------------: | :---------: | :------------: | :-------------: | :--------------: |
-|       6        |        6        |       8        |     12      |       -        |        7        |        -         |
-|     1d4 +2     |     1d6 +2      |     1d6 +2     |   1d8 +2    |       -        |     1d6 +2      |        -         |
+| :---------: | :---------: | :-----------: | :---------: | :------------: | :-------------: | :--------------: |
+|      7      |      6      |       8       |     12      |       -        |        7        |        -         |
+|   1d6 +2    |   1d6 +2    |    1d6 +2     |   1d8 +2    |       -        |     1d6 +2      |        -         |
 
 ## Equipement
 
