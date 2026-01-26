@@ -1,11 +1,13 @@
 >Le type d'amure ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
 
-	Défense maximale sans buff magique : 27 AC + 70 Def (+50% élémentaire)
+	Défense maximale sans buff magique :
+	Armure légère : 19AC + 15+100% DR = 13(brigandine)+5(dex)+1(buclker) AC + 15(cuir)+(100% magique) DR
+	Armure intermédiaire : 19AC + 30+50% DR = 15(demi-plate)+2(dex)+2(bouclier) AC + 25+5(os)+(50% magique) DR
+	Armure lourde : 22AC + 70 DR = 18(plate)+4(pavois) AC + 50(orichalque)+20(Nirina) DR
 
 ## Catégorie
 >- Les HP ne se régénèrent pas tant qu'une armure est équipée.
 >- Lorsqu'une armure se fait toucher par sa faiblesse (ex, armure légère vs dégât perforant), sa défense diminue de la différence entre l'AC et le jet pour toucher (il faut la réparer pour récupérer cette défense).
->- S'il y a plusieurs matériaux dans une armure, on additionne la défense des deux.
 
 ![[aerethios/docs/Images/Armures.png]]
 
