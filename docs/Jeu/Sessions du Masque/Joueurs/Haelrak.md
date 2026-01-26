@@ -54,11 +54,11 @@
 
 ### [[Armes]]
 
-| Arme                                  | 1 Main |    2 Mains     | Dégâts                                                                      | Poids (kg) |                                         Propriétés                                          |
-| ------------------------------------- | :----: | :------------: | --------------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------------------: |
-| Trident                               |   -    |     3d4 P      | 3 Fer<br>x 2 VS Magiques (Electrum)<br>= 3-6                                |     4      |              [[Propriétés#Portée\|Portée]]<br>[[Propriétés#Jetable\|Jetable]]               |
-| Fauchard Sharah<br>(lier au pistolet) |   -    | 2d4 P<br>1d6 T | 10 Adamantite<br>+ 8 Métal<br>x 2 VS Mythiques (Or)<br>+ 8 Air<br>= 18-44   |     8      |                              [[Propriétés#Portée\|Portée]]<br>                              |
-| Pistolet Sharah<br>(lier au fauchard) |   -    |       15       | Voir le détail des munitions                                                |     2      |                                                                                             |
+| Arme                                  | 1 Main |    2 Mains     | Dégâts                                                                    | Poids (kg) |                            Propriétés                            |
+| ------------------------------------- | :----: | :------------: | ------------------------------------------------------------------------- | :--------: | :--------------------------------------------------------------: |
+| Trident                               |   -    |     3d4 P      | 3 Fer<br>x 2 VS Magiques (Electrum)<br>= 3-6                              |     4      | [[Propriétés#Portée\|Portée]]<br>[[Propriétés#Jetable\|Jetable]] |
+| Fauchard Sharah<br>(lier au pistolet) |   -    | 2d4 P<br>1d6 T | 10 Adamantite<br>+ 6 Métal<br>x 2 VS Mythiques (Or)<br>+ 6 Air<br>= 16-38 |     8      |                [[Propriétés#Portée\|Portée]]<br>                 |
+| Pistolet Sharah<br>(lier au fauchard) |   -    |       15       | Voir le détail des munitions                                              |     2      |                                                                  |
 
 ## [[Apprentissages]]
 

@@ -56,12 +56,12 @@
 
 ### [[Armes]]
 
-| Arme                       |     1 Main     |    2 Mains     | Dégâts                                                                                     | Poids (kg) |                                             Propriétés                                             |
-| -------------------------- | :------------: | :------------: | ------------------------------------------------------------------------------------------ | :--------: | :------------------------------------------------------------------------------------------------: |
-| Hache (lourde)             | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 Orichalque<br>x 2 VS Démons<br>+ 10 Ténèbres<br>= 12-34                                 |    7.5     |                                             Force > 15                                             |
-| Hache (lourde)             | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 Orichalque<br>x 2 VS Démons<br>+ 10 Ténèbres<br>= 12-34                                 |    7.5     |                                             Force > 15                                             |
-| Epée (lourde)              | 1d8 P<br>1d6 T | 2d6 P<br>1d8 T | 10 Palladium<br>x 2 VS Anges<br>+ 10 Ténèbres<br>= 10-30                                   |     3      |                 Force > 15<br>Sang de dieu : [[Propriétés#Lacération\|Lacération]]                 |
-| Marteau Sharah (colossale) |       -        |     2d8 C      | 10 Adamantite<br>+ 8 Métal<br>x 2 Colossale<br>x 2 VS Mythiques (Or)<br>+ 8 Air<br>= 36-80 |     15     | Force > 15<br>(si Force > 17, +10 métal & +10 air)<br>[[Propriétés#Lent\|Lent]] sauf si Force > 19 |
+| Arme                      |     1 Main     |    2 Mains     | Dégâts                                                                                     | Poids (kg) |                                             Propriétés                                             |
+| ------------------------- | :------------: | :------------: | ------------------------------------------------------------------------------------------ | :--------: | :------------------------------------------------------------------------------------------------: |
+| Hache (lourde)            | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 Orichalque<br>x 2 VS Démons<br>+ 10 Ténèbres<br>= 12-34                                 |    7.5     |                                             Force > 15                                             |
+| Hache (lourde)            | 1d8 T<br>1d6 C | 2d6 T<br>1d8 C | 12 Orichalque<br>x 2 VS Démons<br>+ 10 Ténèbres<br>= 12-34                                 |    7.5     |                                             Force > 15                                             |
+| Epée (lourde)             | 1d8 P<br>1d6 T | 2d6 P<br>1d8 T | 10 Palladium<br>x 2 VS Anges<br>+ 10 Ténèbres<br>= 10-30                                   |     3      |                 Force > 15<br>Sang de dieu : [[Propriétés#Lacération\|Lacération]]                 |
+| Marteau Sharah (colossal) |       -        |     2d8 C      | 10 Adamantite<br>+ 8 Métal<br>x 2 Colossale<br>x 2 VS Mythiques (Or)<br>+ 8 Air<br>= 36-80 |     15     | Force > 15<br>(si Force > 17, +10 métal & +10 air)<br>[[Propriétés#Lent\|Lent]] sauf si Force > 19 |
 
 ## [[Apprentissages]]
 
