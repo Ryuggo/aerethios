@@ -52,11 +52,11 @@
 
 ### [[Armes]]
 
-| Arme                       | 1 Main | 2 Mains | Dégâts                                                                    | Poids (kg) |         Propriétés          |
-| -------------------------- | :----: | :-----: | ------------------------------------------------------------------------- | :--------: | :-------------------------: |
-| 2 Poings                   | 1d6 C  |    -    | 6 Titane<br>x 2 VS Invocations<br>+ 6 Glace<br>= 6-18                     |     1      | [[Propriétés#Léger\|Léger]] |
-| 2 Poings de Gammoth        | 1d6 C  |    -    | 4 Os<br>+ 2x10 Glace<br>= 4-24                                            |     1      | [[Propriétés#Léger\|Léger]] |
-| 2 Poings de Sharah (lourd) |        |         | 10 Adamantite<br>+ 8 métal<br>x 2 VS Mythiques (Or)<br>+ 8 Air<br>= 18-44 |            |                             |
+| Arme                | 1 Main | 2 Mains | Dégâts                                                                      | Poids (kg) |         Propriétés          |
+| ------------------- | :----: | :-----: | --------------------------------------------------------------------------- | :--------: | :-------------------------: |
+| 2 Poings            | 1d6 C  |    -    | 6 Titane<br>x 2 VS Invocations<br>+ 6 Glace<br>= 6-18                       |     1      | [[Propriétés#Léger\|Léger]] |
+| 2 Poings de Gammoth | 1d6 C  |    -    | 4 Os<br>+ 2x10 Glace<br>= 4-24                                              |     1      | [[Propriétés#Léger\|Léger]] |
+| 2 Poings de Sharah  | 1d6 C  |    -    | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 10 Air<br>= 20-50 |     1      | [[Propriétés#Léger\|Léger]] |
 
 ## [[Apprentissages]]
 

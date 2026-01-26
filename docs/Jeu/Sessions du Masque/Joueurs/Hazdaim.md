@@ -49,20 +49,20 @@
 
 ### [[Armures]]
 
-| Armure        |                 AC                 |         Défense         |   Enchantement   | Poids (kg) | Dégâts | Température |                     Propriétés                      |
-| ------------- | :--------------------------------: | :---------------------: | :--------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
-| Cuir clouté   | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) + 5 = 14 | Roche 2<br>Feu 2 |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
-| Cape Fourrure |                 -                  |            -            |    Ténèbres 5    |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Armure        |                 AC                 |            Défense            |   Enchantement   | Poids (kg) | Dégâts | Température |                     Propriétés                      |
+| ------------- | :--------------------------------: | :---------------------------: | :--------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
+| Cuir clouté   | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) +5(clous) = 14 | Roche 2<br>Feu 2 |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape Fourrure |                 -                  |               -               |    Ténèbres 5    |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
-| Arme                | 1 Main | 2 Mains | Dégâts                                                                       | Poids (kg) | Propriétés |
-| ------------------- | :----: | :-----: | ---------------------------------------------------------------------------- | :--------: | :--------: |
-| Lame Revers         | 1d8 T  |  2d6 T  | 6 Titane<br>+ 5 métal<br>x 2 VS Invocations<br>= 11-22                       |            |            |
-| Lame Revers         | 1d8 T  |  2d6 T  | 6 Titane<br>+ 6 métal<br>x 2 VS Invocations<br>= 12-24                       |            |            |
-| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 Os<br>+ 2x8 Glace<br>= 4-20                                                |            |            |
-| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 Os<br>+ 2x8 Glace<br>= 4-20                                                |            |            |
-| Arbalète Sharah     |        |         | 10 Adamantite<br>+ 8 métal<br>x 2 VS Mythiques (Or)<br>+ 8 Air<br>= 18-44 |            |            |
+| Arme                | 1 Main | 2 Mains | Dégâts                                                                      | Poids (kg) |         Propriétés          |
+| ------------------- | :----: | :-----: | --------------------------------------------------------------------------- | :--------: | :-------------------------: |
+| Lame Revers         | 1d8 T  |  2d6 T  | 6 Titane<br>+ 5 Métal<br>x 2 VS Invocations<br>= 11-22                      |     3      |                             |
+| Lame Revers         | 1d8 T  |  2d6 T  | 6 Titane<br>+ 6 Métal<br>x 2 VS Invocations<br>= 12-24                      |     3      |                             |
+| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 Os<br>+ 2x8 Glace<br>= 4-20                                               |     2      |                             |
+| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 Os<br>+ 2x8 Glace<br>= 4-20                                               |     2      |                             |
+| Arbalète Sharah     |   4    |    -    | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 10 Air<br>= 20-50 |            | [[Propriétés#Léger\|Léger]] |
 
 ## [[Apprentissages]]
 
@@ -89,7 +89,7 @@
 
 ## Inventaire
 
-**Poids maximum** : 78 kg
+**Poids maximum** : 38+40 = 78kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
 - *Force < 10 : 40 + (Force Modificateur x 2)*
 

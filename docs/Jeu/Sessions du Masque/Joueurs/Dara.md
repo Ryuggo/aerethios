@@ -49,21 +49,21 @@
 
 ### [[Armures]]
 
-| Armure                   |                 AC                 |         Défense         |     Enchantement     | Poids (kg) | Dégâts | Température |                     Propriétés                      |
-| ------------------------ | :--------------------------------: | :---------------------: | :------------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
-| Cuir clouté              | 11 + 3(Dex) + 5(Impénétrable) = 19 | 9 (peu commun) + 5 = 14 |          -           |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
-| Cape en velour           |                 -                  |            -            |  Feu 2<br>Foudre 2   |     1      |   -    |      1      |  Les sorts solides à 1 crystal ne les consomme pas  |
-| Cape de fourrure         |                 -                  |            -            | Glace 3<br>Liquide 1 |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
-| Cape de fourrure (tigre) |                 -                  |            -            |                      |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Armure                   |                 AC                 |            Défense            |     Enchantement     | Poids (kg) | Dégâts | Température |                     Propriétés                      |
+| ------------------------ | :--------------------------------: | :---------------------------: | :------------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
+| Cuir clouté              | 11 + 3(Dex) + 5(Impénétrable) = 19 | 9 (peu commun) +5(clous) = 14 |          -           |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape en velour           |                 -                  |               -               |  Feu 2<br>Foudre 2   |     1      |   -    |      1      |  Les sorts solides à 1 crystal ne les consomme pas  |
+| Cape de fourrure         |                 -                  |               -               | Glace 3<br>Liquide 1 |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Cape de fourrure (tigre) |                 -                  |               -               |                      |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
 | Arme                   |     1 Main     |     2 Mains     | Dégâts                                                                           | Poids (kg) |                              Propriétés                              |
 | ---------------------- | :------------: | :-------------: | -------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------: |
-| Lame double            |     1d4 P      | 1d10 P<br>1d6 T | 12 Oricalque<br>+ 6 métal<br>x 2 VS Hybrides (Argent)<br>= 18-36                 |    7.5     |                   [[Propriétés#Double\|Double]] T                    |
+| Lame double            |     1d4 P      | 1d10 P<br>1d6 T | 12 Oricalque<br>+ 6 Métal<br>x 2 VS Hybrides (Argent)<br>= 18-36                 |    7.5     |                   [[Propriétés#Double\|Double]] T                    |
 | Lame double de Gammoth |     1d4 P      | 1d10 P<br>1d6 T | 4 Os<br>+ 2x8 Glace<br>= 4-20                                                    |     3      |                   [[Propriétés#Double\|Double]] T                    |
-| Épée droite            | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  | 10 Adamantite<br>+ 6 métal<br>x 2 VS Draconides/ Naturels (Sombronce)<br>= 16-32 |     6      |                                 ---                                  |
-| Dague Sharah           | 1d4 T<br>1d4 P |        -        | 10 Adamantite<br>+ 8 métal<br>x 2 VS Mythiques (Or)<br>+ 8 Air<br>= 18-44        |     4      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
+| Épée droite            | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  | 10 Adamantite<br>+ 6 Métal<br>x 2 VS Draconides/ Naturels (Sombronce)<br>= 16-32 |     6      |                                 ---                                  |
+| Dague Sharah           | 1d4 T<br>1d4 P |        -        | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 10 Air<br>= 20-50      |     4      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
 
 ## [[Apprentissages]]
 
@@ -90,7 +90,7 @@
 
 ## Inventaire
 
-**Poids maximum** : 56kg
+**Poids maximum** : 36+20 = 56kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
 - *Force < 10 : 40 + (Force Modificateur x 2)*
 

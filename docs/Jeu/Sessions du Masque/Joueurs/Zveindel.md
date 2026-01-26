@@ -25,7 +25,6 @@
 |                                        | ~~[[Dextérité#Rapide#Sixième sens\|Rapide - Sixième Sens]]~~ | [[Mental#Résistance mentale\|Résistance Mentale]] 3 |               [[Perception#Survie#Plantes\|Survie - Plantes]]               |             [[Charisme#Charismatique\|Charismatique]] 1              |                                                                                                              |       |
 |                                        |                                                              |                                                     |                                                                             |      ~~[[Charisme#Charismatique#Doyen\|Charismatique Doyen]]~~       |                                                                                                              |       |
 
-
 ## Combats
 
 ### Armes
@@ -84,7 +83,7 @@
 
 ## Inventaire
 
-**Poids maximum** : 38kg
+**Poids maximum** : 38+60 = 98kg
 - *Force > 10 : 40 + (Force Modificateur x 10)*
 - *Force < 10 : 40 + (Force Modificateur x 2)*
 

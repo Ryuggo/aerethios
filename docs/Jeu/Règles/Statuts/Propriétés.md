@@ -35,3 +35,6 @@ Permet d'attaquer une deuxième fois avec la même arme.
 
 ## Charge
 Permet de déplacer un ennemi de (Force x 5ft (1 case)) en ligne droite avec soi tout en lui faisant des dégâts.
+
+## Portée
+Ajoute 5ft (1 case) de portée à l'arme.
