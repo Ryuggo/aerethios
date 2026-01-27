@@ -1,3 +1,12 @@
+## Utilisation
+>1d20 + Mental + Intelligence/Sagesse > (DC / AC) + Nombre de crystaux à utiliser.
+
+Lorsqu'il arrive à lancer son sort, le joueur peut choisir ce qu'il veut faire :
+
+- Attaquer en lançant les dés de dégâts lié à la magie qu'il utilise.
+
+-
+
 ## Offensive
 >Regroupe tous les sorts faisant des dégâts direct.
 
