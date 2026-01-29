@@ -2,8 +2,8 @@
 
 	Attaque maximale sans buff magique :
 	Mêlée :
-		Lame double : 4d4T x 2(VS) + 22 + 10élém = [40-64] x Style
-		Dague : 1d4T x 2(VS) + 22 + 10élém = [34-40] x4(Crit) x Style
+		Lame double : 4d4T x 2(VS) + 8 + 6ench + 10élém = [28-56] x Style
+		Dague : 1d4T x 2(VS) + 8 + 6ench + 10élém = [25-32] x4(Crit)/Style
 	Distance :
 		Canon : 60 + (1d6(Poison) x 2(VS)) = [61-72]
 
@@ -124,15 +124,15 @@ En fonction de la façon dont les munitions sont créées, des effets additionne
 | Matériau   |   Prix/ unité |    Dégâts    |          Propriétés           | Poids/ unité |
 | ---------- | ------------: | :----------: | :---------------------------: | :----------: |
 | Os         | 5 ^ rareté pa | rareté (1-5) | Enchantements élémentaires x2 |     1 kg     |
-| Fonte      |          2 pa |      2       |        VS Nécrophages         |    1.5 kg    |
-| Fer        |         10 pa |      3       |           VS Bêtes            |     1 kg     |
-| Bronze     |         25 pa |      4       |        VS Insectoides         |    1.5 kg    |
-| Acier      |         50 pa |      5       |          VS Mutants           |     1 kg     |
-| Titane     |          1 po |      6       |        VS Invocations         |    1.5 kg    |
-| Mythril    |          5 po |      8       |        VS Elementaires        |     1 kg     |
-| Palladium  |          7 po |      10      |           VS Anges            |     2 kg     |
-| Adamantite |          7 po |      10      |         VS Draconides         |     2 kg     |
-| Orichalque |         10 po |      12      |           VS Démons           |    2.5 kg    |
+| Fonte      |          2 pa |      0       |        VS Nécrophages         |    1.5 kg    |
+| Fer        |         10 pa |      1       |           VS Bêtes            |     1 kg     |
+| Bronze     |         25 pa |      2       |        VS Insectoides         |    1.5 kg    |
+| Acier      |         50 pa |      3       |          VS Mutants           |     1 kg     |
+| Titane     |          1 po |      4       |        VS Invocations         |    1.5 kg    |
+| Mythril    |          5 po |      5       |        VS Elementaires        |     1 kg     |
+| Palladium  |          7 po |      6       |           VS Anges            |     2 kg     |
+| Adamantite |          7 po |      7       |         VS Draconides         |     2 kg     |
+| Orichalque |         10 po |      8       |           VS Démons           |    2.5 kg    |
 
 ### Revêtements
 
