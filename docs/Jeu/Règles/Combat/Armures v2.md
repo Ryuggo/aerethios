@@ -1,9 +1,9 @@
 >AC (Armor Class) = Mobilité d'esquive naturelle
 >DR (Damage Reduction) = Réduction des dégâts
 
-	Armure en tissu : [16-21]AC (6AC + 5Mental + 5Sag/Int +[0-5]crystaux) + [0-5] DR
-	Armure en cuir : 16AC (6AC + 5Dex + 5Accro) + [5-35] DR
-	Armure en métal : 6AC (6AC) + [30-70] DR
+	Armure en tissu : [16-21]AC (6AC + 5Mental + 5Sag/Int +[0-5]crystaux) + [0-10] DR
+	Armure en cuir : 16AC (6AC + 5Dex + 5Accro) + 25 DR ([2-25] +25% set complet)
+	Armure en métal : 6AC (6AC) + 50 DR ([15-40] +25% set complet)
 
 ## Equipement
 >Détermine l'AC, ce qui permet d'esquiver les attaques.
@@ -48,9 +48,9 @@ Les enchantements ne s'appliquent que sur des armures complètes d'un même mat�
 
 | Armure           | AC  | Matériaux | Prix main d'œuvre | DR (basée sur les matériaux) | Force |                         Propriétés                         | Dégats         |
 | ---------------- | :-: | :-------: | ----------------: | :--------------------------: | :---: | :--------------------------------------------------------: | -------------- |
-| *Buckler*        | -1  |     2     |              5 pa |             20%              |  ---  |               [[Propriétés#Parade\|Parade]]                | 1d4 C          |
-| Bouclier         | -2  |     4     |             10 pa |             40%              |  ---  |                            ---                             | 1d6 C          |
-| Bouclier d'Estoc | -3  |     6     |             20 pa |             70%              |  14   |               [[Propriétés#Charge\|Charge]]                | 1d6 C<br>1d8 P |
+| *Buckler*        | -1  |     2     |              5 pa |             25%              |  ---  |               [[Propriétés#Parade\|Parade]]                | 1d4 C          |
+| Bouclier         | -2  |     4     |             10 pa |             50%              |  ---  |                            ---                             | 1d6 C          |
+| Bouclier d'Estoc | -3  |     6     |             20 pa |             75%              |  14   |               [[Propriétés#Charge\|Charge]]                | 1d6 C<br>1d8 P |
 | Pavois           | -4  |     8     |             40 pa |             100%             |  17   | [[Propriétés#Charge\|Charge]]<br>[[Propriétés#Lent\|Lent]] | 1d8 C          |
 
 ## Matériaux
@@ -69,15 +69,15 @@ Les enchantements ne s'appliquent que sur des armures complètes d'un même mat�
 
 | Matériau    | DR  |  Prix |                Propriétés                 | Poids (kg) |
 | ----------- | :-: | ----: | :---------------------------------------: | :--------: |
-| Coton       |  0  | 10 pa |    Air = 2 crystaux bonus par attaque     |    0.25    |
-| Chanvre     |  0  | 10 pa |    Eau = 2 crystaux bonus par attaque     |    0.25    |
-| Lin         |  0  | 10 pa |   Roche = 2 crystaux bonus par attaque    |    0.25    |
-| Soie        |  0  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |    0.25    |
-| Suède/ Daim |  0  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |    0.25    |
-| Laine       |  0  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |    0.25    |
-| Cachemire   |  0  | 25 pa | Elétistes = 1 crystal gratuit par action  |    0.5     |
-| Alpaga      |  0  | 25 pa | Croitistes = 1 crystal gratuit par action |    0.5     |
-| Fourrure    |  0  | 40 pa |   Fusion = 1 crystal gratuit par action   |    0.5     |
+| Coton       |  2  | 10 pa |    Air = 2 crystaux bonus par attaque     |    0.25    |
+| Chanvre     |  2  | 10 pa |    Eau = 2 crystaux bonus par attaque     |    0.25    |
+| Lin         |  2  | 10 pa |   Roche = 2 crystaux bonus par attaque    |    0.25    |
+| Soie        |  2  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |    0.25    |
+| Suède/ Daim |  2  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |    0.25    |
+| Laine       |  2  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |    0.25    |
+| Cachemire   |  2  | 25 pa | Elétistes = 1 crystal gratuit par action  |    0.5     |
+| Alpaga      |  2  | 25 pa | Croitistes = 1 crystal gratuit par action |    0.5     |
+| Fourrure    |  2  | 40 pa |   Fusion = 1 crystal gratuit par action   |    0.5     |
 
 >Les crystaux bonus par attaque nécessite d'en consommer au moins 1 pour s'appliquer (ex : 1 consommer +2 gratuits).
 
@@ -108,8 +108,8 @@ Les enchantements ne s'appliquent que sur des armures complètes d'un même mat�
 
 | Matériau |     DR     |           Prix |                  Propriétés                   | Poids (kg) |
 | -------- | :--------: | -------------: | :-------------------------------------------: | :--------: |
-| Os       | 5 * rareté |  8 ^ rareté pc | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]] |     1      |
-| Écaille  | 4 * rareté | 16 ^ rareté pc |           Résistance aux conditions           |    1.5     |
+| Écaille  | 4 * rareté |  8 ^ rareté pc |           Résistance aux conditions           |    1.5     |
+| Os       | 5 * rareté | 10 ^ rareté pc | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]] |     1      |
 
 ### Métaux
 
@@ -124,12 +124,12 @@ Les enchantements ne s'appliquent que sur des armures complètes d'un même mat�
 
 | Matériau   | DR  |  Prix |                               Propriétés                               | Poids (kg) |
 | ---------- | :-: | ----: | :--------------------------------------------------------------------: | :--------: |
-| Fonte      |  3  |  2 pa |                                  ---                                   |    1.5     |
-| Fer        |  5  | 10 pa |                                  ---                                   |     1      |
-| Bronze     | 10  | 25 pa |                                  ---                                   |    1.5     |
-| Acier      | 15  | 50 pa |                                  ---                                   |     1      |
-| Titane     | 20  |  1 po |                                  ---                                   |    1.5     |
-| Mythril    | 25  |  5 po | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1      |
-| Palladium  | 30  |  7 po |              Annule le désavantage en Magie (Croititiste)              |     2      |
-| Adamantite | 30  |  7 po |               Annule le désavantage en Magie (Élétiste)                |     2      |
-| Orichalque | 50  | 10 po |                                  ---                                   |    2.5     |
+| Fonte      | 15  |  2 pa |                                  ---                                   |    1.5     |
+| Fer        | 18  | 10 pa |                                  ---                                   |     1      |
+| Bronze     | 21  | 25 pa |                                  ---                                   |    1.5     |
+| Acier      | 24  | 50 pa |                                  ---                                   |     1      |
+| Titane     | 27  |  1 po |                                  ---                                   |    1.5     |
+| Mythril    | 30  |  5 po | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1      |
+| Palladium  | 35  |  7 po |              Annule le désavantage en Magie (Croititiste)              |     2      |
+| Adamantite | 35  |  7 po |               Annule le désavantage en Magie (Élétiste)                |     2      |
+| Orichalque | 40  | 10 po |                                  ---                                   |    2.5     |
