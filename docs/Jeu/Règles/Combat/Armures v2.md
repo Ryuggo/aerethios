@@ -79,6 +79,8 @@ Les enchantements ne s'appliquent que sur des armures complètes d'un même mat�
 | Alpaga      |  0  | 25 pa | Croitistes = 1 crystal gratuit par action |    0.5     |
 | Fourrure    |  0  | 40 pa |   Fusion = 1 crystal gratuit par action   |    0.5     |
 
+>Les crystaux bonus par attaque nécessite d'en consommer au moins 1 pour s'appliquer (ex : 1 consommer +2 gratuits).
+
 ### Cuirs et Peaux
 
 **Faiblesse**
