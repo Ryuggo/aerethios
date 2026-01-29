@@ -1,7 +1,5 @@
 ## Initié
 
-### Avantages
-
 | Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
 | :------: | :--------------: | :---------------: | :-------------: |
 |    5     |        2         |         3         |    20 [2-10]    |
@@ -9,8 +7,6 @@
 - **se concentrer pour récupérer 1 crystal (ne permet pas de prendre 10/20 en même temps).**
 
 ## Mage
-
-### Avantages
 
 | Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
 | :------: | :--------------: | :---------------: | :-------------: |
@@ -20,8 +16,6 @@
 - **la régénération passive de crystaux est doublée.**
 
 ## Archimage
-
-### Avantages
 
 | Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
 | :------: | :--------------: | :---------------: | :-------------: |
@@ -33,8 +27,6 @@
 
 ## Hiéromage
 
-### Avantages
-
 | Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
 | :------: | :--------------: | :---------------: | :-------------: |
 |    **20**    |        **5**         |         **6**         |    **50 [5-13]**    |
@@ -44,8 +36,6 @@
 - augmente les dégâts magiques de 2 par crystal.
 
 ## Magister
-
-### Avantages
 
 | Crystaux | Maîtrise Magique | Magies Débloquées | Points magiques |
 | :------: | :--------------: | :---------------: | :-------------: |
