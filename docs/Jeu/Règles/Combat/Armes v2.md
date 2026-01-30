@@ -2,12 +2,12 @@
 
 	Attaque maximale sans buff magique :
 	Mêlée :
-		Lame double : 4d4T x 2(VS) + 8orich + 6ench + 10élém = [28-56] x Style
-		Dague : 1d4T x 2(VS) + 8orich + 6ench + 10élém = [25-32] x4(Crit)/Style
+		Lame double : 4d4T + 8orich + 6ench + 10élém = [28-56] x Style
+		Dague : 1d4T + 8orich + 6ench + 10élém = [25-32] x4(Crit)/Style
 	Distance :
 		Arc : (1d8P + 10T) x2(précoce) + 8orich = [30-44]
 		Arbalète : 8 + 10T + 8orich = []
-		Canon : 60 + (1d6(Poison) x 2(VS)) = [61-72]
+		Canon : 60 + 1d6(Poison) = [61-72]
 
 ## Catégories
 >Les armes utilisent la Force comme modificateur pour toucher, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|Finesse]].

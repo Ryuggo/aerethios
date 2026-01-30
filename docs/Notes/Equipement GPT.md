@@ -125,41 +125,67 @@ Selon le nombre de pièces utilisant le même matériaux, le modificateur maximu
 
 ## Combat
 
-### Jet pour toucher
+### Jets pour toucher
 
-| Type d'attaque |                   Jet à faire                    |         Score à atteindre          |
-| -------------- | :----------------------------------------------: | :--------------------------------: |
-| **Mêlée**      |        1d20 + Force/ Dextérité + Maîtrise        |                 AC                 |
-| **Distance**   |           1d20 + Dextérité + Maîtrise            |                 AC                 |
-| **Magique**    | 1d20 + Mental (Intelligence/ Sagesse) + Maîtrise | AC + Nombre de crystaux à utiliser |
+|Type d'attaque|Jet à effectuer|Score à atteindre|
+|---|---|---|
+|**Mêlée**|1d20 + modificateur|AC de la cible|
+|**Distance**|1d20 + modificateur|AC de la cible|
+|**Magique**|1d20 + modificateur|AC de la cible + Nombre de crystaux dépensés|
 
-### Jet.s de dégâts
->Résultat - Défense (DR) = Dégâts au HP.
+#### Précision (armes à distance)
 
-| Mêlée                               | Distance                              | Magie                                          |
-| ----------------------------------- | ------------------------------------- | ---------------------------------------------- |
-| Dégâts d'arme                       | Dégâts d'arme                         | Dégâts de magie                                |
-| Matériaux (& Enchantements)         | Munition (& Matériaux)                | Toile céleste                                  |
-| Style<br>*(multiplicateur final )*  | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
-
-#### Précision
->Seulement pour les armes à distance.
-
-Si le jet est supérieur au double de l'AC, le joueur double ses dés de dégâts.
+Si le jet dépasse le double de l’AC de la cible, le joueur double les dés de dégâts.
 
 ## Joueurs
->Ils ont 50 HP
+> Tous les joueurs ont 50 HP au début.
 
-| Joueur   | Modificateur pour toucher | AC              | DR                  | Arme     | Magie  | Crystaux |
-| -------- | ------------------------- | --------------- | ------------------- | -------- | ------ | -------- |
-| Arek     | 11                        | 6 (-2 bouclier) | 25+5 (+25 bouclier) | 2d8 + 34 | 1d8 +5 | 9        |
-| Dara     | 11                        | 14              | 11+5                | 1d4 + 23 | 1d12   | 9        |
-| Haelrak  | 8                         | 13              | 11+3                | 2d4 + 17 | 1d8    | 14       |
-| Hazdaim  | 10                        | 13              | 11+3                | 4 + 23   | 1d6    | 9        |
-| Zveindel | 11                        | 13              | 15+4                | -        | 1d8 +2 | 14       |
+| Joueur   | Modificateur toucher | AC                 | DR                     | Faiblesse | Arme                | Magie  | Crystaux |
+| -------- | -------------------- | ------------------ | ---------------------- | --------- | ------------------- | ------ | -------- |
+| Arek     | 11                   | 6<br>(-2 bouclier) | 25+5<br>(+25 bouclier) | C         | 2d8 + 34 C          | 1d8 +5 | 9        |
+| Dara     | 11                   | 14                 | 11+5                   | T         | 1d4 + 23 P / T      | 1d12   | 9        |
+| Haelrak  | 8                    | 13                 | 11+3                   | T         | 2d4 + 17 P          | 1d8    | 14       |
+| Hazdaim  | 10                   | 13                 | 11+3                   | T         | 4 + 23 T (distance) | 1d6    | 9        |
+| Zveindel | 11                   | 13                 | 15+4                   | T         | -                   | 1d8 +2 | 14       |
+| Léoric   | 7                    | 6                  | 18+3                   | C         | 1d6 + 23 C          | 1d8    | 9        |
+## Simulation
+IMPORTANT : Suis les instructions à la lettre. Ne fais aucune explication, aucun commentaire, aucune justification, aucun calcul intermédiaire. Respecte strictement le format fourni pour chaque attaque. Utilise uniquement les règles et données ci-dessous. Choisis les équipes et cibles aléatoirement si nécessaire, et effectue la simulation tour par tour jusqu’à ce que je dise d’arrêter. Affiche uniquement les lignes dans le format demandé.
 
-magie = Nombre de crystaux * Dé = dmg
+FORMAT À RESPECTER :
+Joueur vs cible:
+Touche : [résultat touche] > AC
+Dégâts : [résultat dégâts] - DR = dmg
+Cible HP : [nouveaux HP]
 
-Il y a 2 équipes, réparti les joueurs dedans et fais les attaquer aléatoirement (arek est dans une équipe de 2 et pas avec zveindel)
-Simule un combat entre les équipes jusqu'à un gagnant
-Utilise un nombre de crystaux approprié à la cible (il ne régénère pas)
+RÈGLES :
+- Attaques physiques : 1d20 + modificateur > AC de la cible
+- Attaques magiques : 1d20 + modificateur > AC + cristaux dépensés
+- Chaque attaque magique dépense un nombre choisi de cristaux. Si le joueur n’a plus assez de cristaux, il ne peut pas attaquer magiquement.
+- DR de la cible : réduire de 50% si attaque correspond à sa faiblesse
+- Dégâts distance doublés si jet > 2 × AC cible
+- HP initial : 50 pour tous les joueurs
+
+JOUEURS :
+
+| Joueur   | Modificateur toucher | AC                  | DR                     | Faiblesse | Arme                | Magie  | Crystaux |
+| -------- | -------------------- | ------------------- | ---------------------- | --------- | ------------------- | ------ | -------- |
+| Arek     | 11                   | 6 <br>(-2 bouclier) | 25+5<br>(+25 bouclier) | C         | 2d8 + 34 C          | 1d8 +5 | 9        |
+| Dara     | 11                   | 14                  | 11+5                   | T         | 1d4 + 23 P / T      | 1d12   | 9        |
+| Haelrak  | 8                    | 13                  | 11+3                   | T         | 2d4 + 17 P          | 1d8    | 14       |
+| Hazdaim  | 10                   | 13                  | 11+3                   | T         | 4 + 23 T (distance) | 1d6    | 9        |
+| Zveindel | 11                   | 13                  | 15+4                   | T         | -                   | 1d8 +2 | 14       |
+| Léoric   | 7                    | 6                   | 18+3                   | C         | 1d6 + 23 C          | 1d8    | 9        |
+
+INSTRUCTIONS :
+1. Forme deux équipes de 3 joueurs aléatoirement.
+2. Chaque joueur attaque une cible de manière stratégique (choix d’attaque et de cible) en suivant les règles.
+3. L'ordre d'action des joueurs est aléatoire.
+4. Pour chaque attaque, affiche **uniquement** le résultat dans le format demandé.
+5. Mets à jour les HP et les cristaux après chaque attaque.
+6. Continue le combat tour par tour jusqu’à ce qu’une équipe soit entièrement hors de combat.
+7. Précise les équipes au début et précise chaque nouveau tour
+8. Utilises des emojis et du formatage aux endroits clefs
+9. donne le résultat final avec les HP restants
+10. Ne fais rien d’autre.
+
+Commence la simulation.
