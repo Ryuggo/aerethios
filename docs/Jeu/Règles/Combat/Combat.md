@@ -51,7 +51,7 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 ### Attaquer
 
 #### Jet pour toucher
->Est-ce que l'attaque passe l'armure et la dextérité de la cible.
+>Est-ce que l'attaque passe a capacité à esquiver de la cible.
 
 | Type d'attaque |                   Jet à faire                    |         Score à atteindre          |
 | -------------- | :----------------------------------------------: | :--------------------------------: |
@@ -60,21 +60,19 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 | **Magique**    | 1d20 + Mental (Intelligence/ Sagesse) + Maîtrise | AC + Nombre de crystaux à utiliser |
 
 #### Jet.s de dégâts
->Résultat - Défense = Dégâts au HP.
+>Résultat - Défense (DR) = Dégâts au HP.
 
-| Mêlée                               | Distance                                        | Magie                                          |
-| ----------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| Dégâts d'arme                       | Dégâts d'arme                                   | Dégâts de magie                                |
-| Matériaux (& Enchantements)         | Munition                                        | Toile céleste                                  |
-| Style<br>*(multiplicateur final ?)* | Distance/ Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
-| (2d6 T + 2 + (6 + 4 + 6 Feu)) x ?   | (1d8 P + 2 + 10 T) x 3                          | (1d4 + 2 + 1) x 7 crystaux                     |
+| Mêlée                               | Distance                              | Magie                                          |
+| ----------------------------------- | ------------------------------------- | ---------------------------------------------- |
+| Dégâts d'arme                       | Dégâts d'arme                         | Dégâts de magie                                |
+| Matériaux (& Enchantements)         | Munition (& Matériaux)                | Toile céleste                                  |
+| Style<br>*(multiplicateur final )*  | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
+| (2d6 T + 6 (+4ench + 6feu)) x style | (1d8 P + 10 T +())                    | (1d4 + 1) x 7 crystaux                         |
 
 ##### Précision
->Si le jet est supérieur au double de l'AC, le joueur multiplie ses dégâts.
+>Seulement pour les armes à distance.
 
-On peut ensuite soustraire 2AC du résultat du jet, et ajouter 1 pour déterminer le multiplicateur de dégâts (seulement ceux qui passent outre l'armure).
-
->Exemple : Jet(32) - 2 AC(15) + 1 = 3(Multiplicateur de dégâts)
+Si le jet est supérieur au double de l'AC, le joueur double ses dés de dégâts.
 
 ## Actions Bonus
 >Peuvent être utilisées en plus d'une action normale

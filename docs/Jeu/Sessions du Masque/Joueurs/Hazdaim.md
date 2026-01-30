@@ -47,7 +47,7 @@
 
 ## Equipement
 
-### [[aerethios/docs/Jeu/Règles/Combat/Armures]]
+### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
 | Armure        |                 AC                 |            Défense            |   Enchantement   | Poids (kg) | Dégâts | Température |                     Propriétés                      |
 | ------------- | :--------------------------------: | :---------------------------: | :--------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
@@ -56,13 +56,13 @@
 
 ### [[Armes]]
 
-| Arme                | 1 Main | 2 Mains | Dégâts                                                                      | Poids (kg) |         Propriétés          |
-| ------------------- | :----: | :-----: | --------------------------------------------------------------------------- | :--------: | :-------------------------: |
-| Lame Revers         | 1d8 T  |  2d6 T  | 6 Titane<br>+ 5 Métal<br>x 2 VS Invocations<br>= 11-22                      |     3      |                             |
-| Lame Revers         | 1d8 T  |  2d6 T  | 6 Titane<br>+ 6 Métal<br>x 2 VS Invocations<br>= 12-24                      |     3      |                             |
-| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 Os<br>+ 2x8 Glace<br>= 4-20                                               |     2      |                             |
-| Lame Revers Gammoth | 1d8 T  |  2d6 T  | 4 Os<br>+ 2x8 Glace<br>= 4-20                                               |     2      |                             |
-| Arbalète Sharah     |   4    |    -    | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 10 Air<br>= 20-50 |            | [[Propriétés#Léger\|Léger]] |
+| Arme                   | 1 Main | 2 Mains | Dégâts                                                                      | Poids (kg) |         Propriétés          |
+| ---------------------- | :----: | :-----: | --------------------------------------------------------------------------- | :--------: | :-------------------------: |
+| Lame Revers            | 1d8 T  |  2d6 T  | 6 Titane<br>+ 5 Métal<br>x 2 VS Invocations<br>= 11-22                      |     3      |              -              |
+| Lame Revers            | 1d8 T  |  2d6 T  | 6 Titane<br>+ 6 Métal<br>x 2 VS Invocations<br>= 12-24                      |     3      |              -              |
+| Lame Revers Gammoth    | 1d8 T  |  2d6 T  | 4 Os<br>+ 2x8 Glace<br>= 4-20                                               |     2      |              -              |
+| Lame Revers Gammoth    | 1d8 T  |  2d6 T  | 4 Os<br>+ 2x8 Glace<br>= 4-20                                               |     2      |              -              |
+| Arbalète légère Sharah |   4    |    -    | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 10 Air<br>= 20-50 |     1      | [[Propriétés#Léger\|Léger]] |
 
 ## [[Apprentissages]]
 

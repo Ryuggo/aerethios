@@ -10,7 +10,7 @@
 >AC = Base + Pièces d'armures + Modificateurs (+ Bouclier)
 
 ### Armure
->Lorsqu'une armure se fait toucher par sa faiblesse, sa DR diminue selon le dé de dégâts reçu (il faut la réparer pour récupérer cette DR).
+>Lorsqu'une armure se fait toucher par sa faiblesse, seul 50% de sa DR est pris en compte.
 
 L'armure se constitue de plusieurs pièces, chacune permettant d'avoir plus de DR, mais réduisant l'AC.
 
@@ -40,6 +40,8 @@ Selon le nombre de pièces utilisant le même matériaux, le modificateur maximu
 | **Bonus**        |  -  |  -  | +10% DR | +25% DR |
 
 Les enchantements ne s'appliquent que sur des armures complètes d'un même matériaux ou sur des capes/ foulards.
+
+Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en combat.
 
 ### Boucliers
 

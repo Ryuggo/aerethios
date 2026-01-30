@@ -46,7 +46,7 @@
 
 ## Equipement
 
-### [[aerethios/docs/Jeu/Règles/Combat/Armures]]
+### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
 | Armure               |                 AC                 | Défense |      Enchantement       | Poids (kg) | Dégâts | Température |                                         Propriétés                                         |
 | -------------------- | :--------------------------------: | :-----: | :---------------------: | :--------: | :----: | :---------: | :----------------------------------------------------------------------------------------: |

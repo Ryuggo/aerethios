@@ -34,7 +34,7 @@ Les attaques dans le dos et les attaques surprises doublent les dégâts finaux 
 Permet d'attaquer une deuxième fois avec la même arme.
 
 ## Charge
-Permet de déplacer un ennemi de (Force x 5ft (1 case)) en ligne droite avec soi tout en lui faisant des dégâts.
+Permet de déplacer un ennemi de (Force x 5ft (1 case)) en ligne droite avec soi tout en lui faisant des dégâts (1d4C + Force).
 
 ## Portée
 Ajoute 5ft (1 case) de portée à l'arme.

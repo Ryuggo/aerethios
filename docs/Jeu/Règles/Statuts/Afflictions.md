@@ -16,6 +16,7 @@ Soin :
 	- sort de soutien de DC 15.
 
 ## Surcharge
+
 La cible perd 1d4 crystaux et prend 1d6 HP par crystal perdu.
 
-Si les dégâts sont supérieurs à 12, elle doit se concentrer pour pouvoir réutiliser sa magie.
+Si les dégâts sont supérieurs à 12, elle doit se concentrer pour pouvoir réutiliser sa magie et régénérer ses crystaux.

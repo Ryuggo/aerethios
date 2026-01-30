@@ -2,13 +2,15 @@
 
 	Attaque maximale sans buff magique :
 	Mêlée :
-		Lame double : 4d4T x 2(VS) + 8 + 6ench + 10élém = [28-56] x Style
-		Dague : 1d4T x 2(VS) + 8 + 6ench + 10élém = [25-32] x4(Crit)/Style
+		Lame double : 4d4T x 2(VS) + 8orich + 6ench + 10élém = [28-56] x Style
+		Dague : 1d4T x 2(VS) + 8orich + 6ench + 10élém = [25-32] x4(Crit)/Style
 	Distance :
+		Arc : (1d8P + 10T) x2(précoce) + 8orich = [30-44]
+		Arbalète : 8 + 10T + 8orich = []
 		Canon : 60 + (1d6(Poison) x 2(VS)) = [61-72]
 
 ## Catégories
->Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|Finesse]].
+>Les armes utilisent la Force comme modificateur pour toucher, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|Finesse]].
 
 ### Courte
 >[[Propriétés#Finesse|Finesse]]
@@ -76,18 +78,18 @@ Chaque arme 1 Main/ 2 Mains peut venir avec une sous-catégorie offrant un bonus
 
 ![[Weapon - Range.png]]
 
-| Arme                                | Prix main d'œuvre |    Dégâts     |                                                            Matériaux                                                             |                              Propriétés                              |
-| ----------------------------------- | ----------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: |
-| Fronde<br>*Sling*                   |         20 pc<br> |     1d4 C     |                                                                -                                                                 |                     [[Propriétés#Léger\|Léger]]                      |
-| Arc Court<br>*Shortbow*             |         10 pa<br> |     1d6 P     |                                                                -                                                                 |                     [[Propriétés#Léger\|Léger]]                      |
-| Arc Composite<br>*Composite bow*    |         25 pa<br> |     1d8 P     |                                                                -                                                                 |                                 ---                                  |
-| Arc Long<br>*Longbow*               |         50 pa<br> |    1d10 P     |                                                                -                                                                 |                                 ---                                  |
-| Arbalète légère<br>*Light Crossbow* |         50 pa<br> |       4       |                                                                -                                                                 |                     [[Propriétés#Léger\|Léger]]                      |
-| Arbalète<br>*Crossbow*              |          1 pa<br> |       8       |                                                                -                                                                 |               [[Propriétés#Préparation\|Préparation]]                |
-| Baliste<br>*Heavy Crossbow*         |          2 po<br> |      12       |                                                                -                                                                 | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]] |
-| Pistolet                            |              5 po |      20       |                                  1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]]                                   |                     [[Propriétés#Léger\|Léger]]                      |
-| Mousquet<br>+Baïonnette             |             10 po | 40<br>+ 1d4 P | 3 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]<br>+1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] |          [[Propriétés#Préparation\|Préparation]] pour tirer          |
-| Canon                               |             20 po |      60       |                                  6 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]                                  | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]] |
+| Arme                                | Prix main d'œuvre |    Dégâts     |                                                            Matériaux                                                             |                               Propriétés                               |
+| ----------------------------------- | ----------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| Fronde<br>*Sling*                   |         20 pc<br> |     1d4 C     |                                                                -                                                                 |                      [[Propriétés#Léger\|Léger]]                       |
+| Arc Court<br>*Shortbow*             |         10 pa<br> |     1d6 P     |                                                                -                                                                 |                      [[Propriétés#Léger\|Léger]]                       |
+| Arc Composite<br>*Composite bow*    |         25 pa<br> |     1d8 P     |                                                                -                                                                 |                                  ---                                   |
+| Arc Long<br>*Longbow*               |         50 pa<br> |    1d10 P     |                                                                -                                                                 |                                  ---                                   |
+| Arbalète légère<br>*Light Crossbow* |         50 pa<br> |       4       |                                                                -                                                                 |                      [[Propriétés#Léger\|Léger]]                       |
+| Arbalète<br>*Crossbow*              |          1 pa<br> |       8       |                                                                -                                                                 | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Léger\|Léger]] |
+| Baliste<br>*Heavy Crossbow*         |          2 po<br> |      12       |                                                                -                                                                 |                [[Propriétés#Préparation\|Préparation]]                 |
+| Pistolet                            |              5 po |      20       |                                  1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]]                                   |                      [[Propriétés#Léger\|Léger]]                       |
+| Mousquet<br>+Baïonnette             |             10 po | 40<br>+ 1d4 P | 3 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]<br>+1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] |           [[Propriétés#Préparation\|Préparation]] pour tirer           |
+| Canon                               |             20 po |      60       |                                  6 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]                                  |  [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]]  |
 
 #### Munitions
 
@@ -97,23 +99,23 @@ D'autres [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|matériaux]] peuve
 
 | Matériaux  | Arme             | Prix/ unité |                     Propriétés                      |
 | ---------- | ---------------- | ----------: | :-------------------------------------------------: |
+| Tissu      | Arcs & Arbalètes |        1 pa |                      Enflammé                       |
 | Obsidienne | Arcs & Arbalètes |        5 pa |                        10 T                         |
 | Plomb      | Fusils & Canons  |       10 pa |           [[Afflictions#Poison\|Poison]]            |
 | Crystaux   | Tout             |        1 po | [[Afflictions#Surcharge\|Surcharge]]<br>5 munitions |
 
 En fonction de la façon dont les munitions sont créées, des effets additionnels peuvent s'ajouter.
 
-| Type     | Arme            |              Propriétés               | Nombre de munition/ matériau |
-| -------- | --------------- | :-----------------------------------: | :--------------------------: |
-| Flèche   | Arcs            |                  ---                  |           12 + 2d4           |
-| Carreau  | Arbalètes       |                  ---                  |           12 + 2d6           |
-| Balle    | Fusils          |                  ---                  |           10 + 2d6           |
-| Boulet   | Canons          |     [[Conditions#Couché\|Couché]]     |              1               |
-| Shrapnel | Fusils & Canons | [[Propriétés#Lacération\|Lacération]] |           6 + 2d4            |
-| Potion   | Fusils & Canons |                                       |                              |
+| Type                                | Arme             |                         Propriétés                         | Nombre de munition/ matériau |
+| ----------------------------------- | ---------------- | :--------------------------------------------------------: | :--------------------------: |
+| Basique<br>(flèche, carreau, balle) | Tout             |                            ---                             |           12 + 2d4           |
+|                                     | Arcs & Arbalètes |                                                            |                              |
+| Boulet                              | Canons           |    La cible touchée est [[Conditions#Couché\|Couchée]]     |              1               |
+| Shrapnel                            | Fusils & Canons  | [[Propriétés#Lacération\|Lacération]]<br>Portée Max = 10ft |           6 + 2d4            |
+| Potion                              | Fusils & Canons  |                Zone d'effet de 5ft de rayon                |              1               |
 
 ## Matériaux
->La propriété VS double les matériaux lorsque l'attaque touche le bon type de cible.
+>La propriété VS double le dé de dégâts lorsque l'attaque touche le bon type de cible.
 
 ### Principaux
 
@@ -135,6 +137,7 @@ En fonction de la façon dont les munitions sont créées, des effets additionne
 | Orichalque |         10 po |      8       |           VS Démons           |    2.5 kg    |
 
 ### Revêtements
+>Le revêtement retire les propriétés du matériau principal et applique le sien à la place.
 
 | Matériau  | Prix/ unité |  Propriétés   | Poids/ unité |
 | --------- | ----------: | :-----------: | :----------: |
