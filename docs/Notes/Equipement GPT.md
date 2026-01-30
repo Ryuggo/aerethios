@@ -150,31 +150,16 @@ Si le jet est supérieur au double de l'AC, le joueur double ses dés de dégât
 ## Joueurs
 >Ils ont 50 HP
 
-Arek :
-AC 6 (-2 bouclier)
-DR 20 (+25 bouclier)
-"1 main" 2d6 (x2 vs démons) + 18
-"1 main" 2d8 (x2 vs Mythiques) + 34
+| Joueur   | Modificateur pour toucher | AC              | DR                  | Arme     | Magie  | Crystaux |
+| -------- | ------------------------- | --------------- | ------------------- | -------- | ------ | -------- |
+| Arek     | 11                        | 6 (-2 bouclier) | 25+5 (+25 bouclier) | 2d8 + 34 | 1d8 +5 | 9        |
+| Dara     | 11                        | 14              | 11+5                | 1d4 + 23 | 1d12   | 9        |
+| Haelrak  | 8                         | 13              | 11+3                | 2d4 + 17 | 1d8    | 14       |
+| Hazdaim  | 10                        | 13              | 11+3                | 4 + 23   | 1d6    | 9        |
+| Zveindel | 11                        | 13              | 15+4                | -        | 1d8 +2 | 14       |
 
-Dara :
-AC 6 + 8
-DR 9
-1 main 1d4 + 13
-Courte 1d4 (x2 vs Mythiques) + 23
+magie = Nombre de crystaux * Dé = dmg
 
-Haelrak :
-AC 6 + 5
-DR 9
-Hast 2d4 (x2 vs Mythiques) + 17
-Fusil 15 + munition
-
-Hazdaim :
-AC 6 + 5
-DR 9
-1 main 1d8 + 8
-Arbalète 4 (x2 vs Mythiques) + 23 + munition
-
-Zveindel :
-AC 6 + 4
-DR 12
-magie = 14 crystaux (dé = 1d8 +2) -> Nombre de crystaux * Dé = dmg
+Il y a 2 équipes, réparti les joueurs dedans et fais les attaquer aléatoirement (arek est dans une équipe de 2 et pas avec zveindel)
+Simule un combat entre les équipes jusqu'à un gagnant
+Utilise un nombre de crystaux approprié à la cible (il ne régénère pas)

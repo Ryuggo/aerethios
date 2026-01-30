@@ -58,12 +58,12 @@
 
 ### [[Armes]]
 
-| Arme                   |     1 Main     |     2 Mains     | Dégâts                                                                           | Poids (kg) |                              Propriétés                              |
-| ---------------------- | :------------: | :-------------: | -------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------: |
-| Lame double            |     1d4 P      | 1d10 P<br>1d6 T | 12 Oricalque<br>+ 6 Métal<br>x 2 VS Hybrides (Argent)<br>= 18-36                 |    7.5     |                   [[Propriétés#Double\|Double]] T                    |
-| Lame double de Gammoth |     1d4 P      | 1d10 P<br>1d6 T | 4 Os<br>+ 2x8 Glace<br>= 4-20                                                    |     3      |                   [[Propriétés#Double\|Double]] T                    |
-| Épée droite            | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  | 10 Adamantite<br>+ 6 Métal<br>x 2 VS Draconides/ Naturels (Sombronce)<br>= 16-32 |     6      |                                 ---                                  |
-| Dague Sharah           | 1d4 T<br>1d4 P |        -        | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 10 Air<br>= 20-50      |     4      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
+| Arme                   |     1 Main     |     2 Mains     | Dégâts                                                                      | Poids (kg) |                              Propriétés                              |
+| ---------------------- | :------------: | :-------------: | --------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------: |
+| Lame double            |     1d4 P      | 1d10 P<br>1d6 T | 12 Orichalque<br>+ 6 Métal<br>x 2 VS Hybrides (Argent)<br>= 18-36           |    7.5     |                   [[Propriétés#Double\|Double]] T                    |
+| Lame double de Gammoth |     1d4 P      | 1d10 P<br>1d6 T | 4 Os<br>+ 2x8 Glace<br>= 4-20                                               |     3      |                   [[Propriétés#Double\|Double]] T                    |
+| Épée droite            | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  | 10 Adamantite<br>+ 6 Métal<br>x 2 VS Naturels (Sombronce)<br>= 16-32        |     6      |                                 ---                                  |
+| Dague Sharah           | 1d4 T<br>1d4 P |        -        | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 10 Air<br>= 20-50 |     4      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
 
 ## [[Apprentissages]]
 
