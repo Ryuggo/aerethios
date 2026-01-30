@@ -28,9 +28,10 @@ L'armure se constitue de plusieurs pièces, chacune permettant d'avoir plus de D
 Le modificateur utilisé pour l'AC dépend du type de matériaux de chaque pièce.
 On ne peut utiliser qu'un seul type de modificateur (le modificateur le plus élevé est pris par défaut).
 
-|                Tissu                |  Cuir, Peaux, Ecailles, Os  | Métal |
-| :---------------------------------: | :-------------------------: | :---: |
-| Mental<br>(+ Sagesse/ Intelligence) | Dextérité<br>(+ Accrobatie) |   -   |
+|            Tissu            |  Cuir, Peaux, Ecailles, Os  | Métal |
+| :-------------------------: | :-------------------------: | :---: |
+| Dextérité<br>(+ Accrobatie) | Dextérité<br>(+ Accrobatie) |   -   |
+|  + Crystaux (max = Mental)  |                             |       |
 
 Selon le nombre de pièces utilisant le même matériaux, le modificateur maximum change et d'autres bonus s'appliquent (sur la DR totale actuelle).
 
@@ -66,7 +67,7 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
 
 **Effets**
     + [[Enchanteur#Suraja|Enchantements de Suraja]]
-    + Les propriétés d'un tissu ne sont actives que si l'équipement ne contient pas de métaux
+    + Les propriétés d'un tissu ne sont actives que si l'armure ne contient pas de métaux
     + Pendant son tour, le joueur peut convertir des crystaux en AC (1:1, Max = Modificateur Mental). Il perd ce bonus une fois touché
 
 | Matériau    | DR  |  Prix |                Propriétés                 | Poids (kg) |

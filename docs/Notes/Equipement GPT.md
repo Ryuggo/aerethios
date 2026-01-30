@@ -127,11 +127,11 @@ Selon le nombre de pièces utilisant le même matériaux, le modificateur maximu
 
 ### Jets pour toucher
 
-|Type d'attaque|Jet à effectuer|Score à atteindre|
-|---|---|---|
-|**Mêlée**|1d20 + modificateur|AC de la cible|
-|**Distance**|1d20 + modificateur|AC de la cible|
-|**Magique**|1d20 + modificateur|AC de la cible + Nombre de crystaux dépensés|
+| Type d'attaque | Jet à effectuer     | Score à atteindre                            |
+| -------------- | ------------------- | -------------------------------------------- |
+| **Mêlée**      | 1d20 + modificateur | AC de la cible                               |
+| **Distance**   | 1d20 + modificateur | AC de la cible                               |
+| **Magique**    | 1d20 + modificateur | AC de la cible + Nombre de crystaux dépensés |
 
 #### Précision (armes à distance)
 
@@ -142,7 +142,7 @@ Si le jet dépasse le double de l’AC de la cible, le joueur double les dés de
 
 | Joueur   | Modificateur toucher | AC                 | DR                     | Faiblesse | Arme                | Magie  | Crystaux |
 | -------- | -------------------- | ------------------ | ---------------------- | --------- | ------------------- | ------ | -------- |
-| Arek     | 11                   | 6<br>(-2 bouclier) | 25+5<br>(+25 bouclier) | C         | 2d8 + 34 C          | 1d8 +5 | 9        |
+| Arek     | 11                   | 6<br>(-2 bouclier) | 25+5<br>(+30 bouclier) | C         | 2d8 + 34 C          | 1d8 +5 | 9        |
 | Dara     | 11                   | 14                 | 11+5                   | T         | 1d4 + 23 P / T      | 1d12   | 9        |
 | Haelrak  | 8                    | 13                 | 11+3                   | T         | 2d4 + 17 P          | 1d8    | 14       |
 | Hazdaim  | 10                   | 13                 | 11+3                   | T         | 4 + 23 T (distance) | 1d6    | 9        |
@@ -169,7 +169,7 @@ JOUEURS :
 
 | Joueur   | Modificateur toucher | AC                  | DR                     | Faiblesse | Arme                | Magie  | Crystaux |
 | -------- | -------------------- | ------------------- | ---------------------- | --------- | ------------------- | ------ | -------- |
-| Arek     | 11                   | 6 <br>(-2 bouclier) | 25+5<br>(+25 bouclier) | C         | 2d8 + 34 C          | 1d8 +5 | 9        |
+| Arek     | 11                   | 11<br>(-2 bouclier) | 25+5<br>(+30 bouclier) | P         | 2d8 + 34 C          | 1d8 +5 | 9        |
 | Dara     | 11                   | 14                  | 11+5                   | T         | 1d4 + 23 P / T      | 1d12   | 9        |
 | Haelrak  | 8                    | 13                  | 11+3                   | T         | 2d4 + 17 P          | 1d8    | 14       |
 | Hazdaim  | 10                   | 13                  | 11+3                   | T         | 4 + 23 T (distance) | 1d6    | 9        |

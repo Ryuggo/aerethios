@@ -25,7 +25,8 @@ L'arme nécessite de passer son tour à la préparer avant de pouvoir s'en servi
 L'arme empêche de faire d'autres actions pendant le tour si on s'en sert pour attaquer.
 
 ## Lacération
-Une fois par tour, augmente l'affliction [[Afflictions#Saignement|Saignement]] de 1 sur la cible.
+
+Une fois par tour, augmente l'affliction [[Afflictions#Saignement|Saignement]] de 1 sur la cible touchée si les dégâts passent outre le DR.
 
 ## Critique
 Les attaques dans le dos et les attaques surprises doublent les dégâts finaux (cumulables).
