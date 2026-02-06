@@ -11,15 +11,19 @@
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|  12   |    11     |   12   |     11     |    11    |
-|   0   |     0     |   0    |     0      |    0     |
+|  11   |    11     |   13   |     11     |    11    |
+|   0   |     0     |   +1   |     0      |    0     |
 
 ### [[Compétences]]
->57 points à répartir dans les [[Compétences]]
 
-| Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
-| :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
-|       |           |        |            |          |         |       |
+|                          Force 11                          |                        Dextérité 11                         |                      Mental 13                      |                                Perception 11                                |                      Charisme 9                       | Armures                                                                                                                    | Armes                                                                                             |
+| :--------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------------------------: | :---------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+|             [[Force#Athlétisme\|Athlétisme]] 5             |            [[Dextérité#Acrobatie\|Acrobatie]] 4             |       [[Mental#Intelligence\|Intelligence]] 5       |                    [[Perception#Détection\|Détection]] 5                    |      [[Charisme#Charismatique\|Charismatique]] 5      | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure intermédiaire#Efficacité\|Intermédiaire]] | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court#Efficacité\|Court]] |
+| [[Force#Athlétisme#Destructeur\|Athlétisme - Destructeur]] |             [[Dextérité#Rapide\|Rapide]] 5<br>              |            [[Mental#Sagesse\|Sagesse]] 4            |          [[Perception#Détection#Intuition\|Détection - Intuition]]          | [[Charisme#Charismatique#Doyen\|Charismatique Doyen]] |                                                                                                                            |                                                                                                   |
+|           [[Force#Impénétrable\|Impénétrable]] 5           |  [[Dextérité#Rapide#Sixième sens\|Rapide - Sixième Sens]]   |              [[Mental#Assidu\|Assidu]]              | [[Perception#Détection#Perception magique\|Détection - Perception Magique]] |         [[Charisme#Intimidant\|Intimidant]] 3         |                                                                                                                            |                                                                                                   |
+|                                                            | [[Dextérité#Rapide#Troisième œil\|Rapide - Troisième oeil]] | [[Mental#Résistance mentale\|Résistance Mentale]] 3 |         [[Perception#Détection#Mentaliste\|Détection - Mentaliste]]         |                                                       |                                                                                                                            |                                                                                                   |
+|                                                            |                                                             |                                                     |                       [[Perception#Survie\|Survie]] 2                       |                                                       |                                                                                                                            |                                                                                                   |
+|                                                            |                                                             |                                                     |               [[Perception#Survie#Plantes\|Survie - Plantes]]               |                                                       |                                                                                                                            |                                                                                                   |
 
 ## Combats
 
