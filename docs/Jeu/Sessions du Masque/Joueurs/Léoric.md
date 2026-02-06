@@ -7,11 +7,11 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 1 |   -    | [[Scienctes#Mage\|Mage]] |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux 4, 8, 12, 16, and 19
+> + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|  11   |    11     |   11   |     11     |    11    |
+|  12   |    11     |   12   |     11     |    11    |
 |   0   |     0     |   0    |     0      |    0     |
 
 ### [[Compétences]]
@@ -30,16 +30,15 @@
 |   7   |   -    |    -    |   -   |    -     |
 
 ### Magie
->Ajouter 9 points dans les magies débloquées (max 11 dans une stat)
 
 **Maîtrise** : 3
 
 **Crystaux** : 9
 
 | **[[Air]]** | **[[Eau]]** | **[[Roche]]** | **[[Feu]]** | **[[Foudre]]** | **[[Lumière]]** | **[[Ténèbres]]** |
-| :--------: | :---------: | :--------: | :-----: | :--------: | :---------: | :----------: |
-|     -      |      -      |     2      |   10    |     3      |      -      |      6       |
-|     -      |      -      |    1d4     |   1d8   |    1d4     |      -      |     1d6      |
+| :---------: | :---------: | :-----------: | :---------: | :------------: | :-------------: | :--------------: |
+|      -      |      -      |       5       |     10      |       5        |        -        |        9         |
+|      -      |      -      |      1d6      |     1d8     |      1d6       |        -        |       1d8        |
 
 ## Equipement
 
