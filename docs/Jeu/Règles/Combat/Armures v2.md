@@ -28,12 +28,12 @@ L'armure se constitue de plusieurs pièces, chacune permettant d'avoir plus de D
 Le modificateur utilisé pour l'AC dépend du type de matériaux de chaque pièce.
 On ne peut utiliser qu'un seul type de modificateur (le modificateur le plus élevé est pris par défaut).
 
-|            Tissu            |  Cuir, Peaux, Ecailles, Os  | Métal |
-| :-------------------------: | :-------------------------: | :---: |
-| Dextérité<br>(+ Accrobatie) | Dextérité<br>(+ Accrobatie) |   -   |
-|  + Crystaux (max = Mental)  |                             |       |
+|            Tissu            | Cuir, Peaux, Écailles, Os et Mailles (métal) | Plate (métal) |
+| :-------------------------: | :------------------------------------------: | :-----------: |
+| Dextérité<br>(+ Accrobatie) |         Dextérité<br>(+ Accrobatie)          |       -       |
+|  + Crystaux (max = Mental)  |                                              |               |
 
-Selon le nombre de pièces utilisant le même matériaux, le modificateur maximum change et d'autres bonus s'appliquent (sur la DR totale actuelle).
+Selon le nombre de pièces utilisant le même type de matériaux (tissu, cuir, métal, ..), le modificateur maximum change et d'autres bonus s'appliquent (sur la DR totale actuelle).
 
 | Nombre de pièces |  1  |  2  |    3    |    4    |
 | :--------------- | :-: | :-: | :-----: | :-----: |
@@ -100,19 +100,22 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
 | Peau           | 2 * rareté | 2 ^ rareté pa | Résiste à [[Conditions#Saignement\|Saignement]] |     1      |
 | Cuir (bouilli) | 3 * rareté | 4 ^ rareté pa |     Résiste à [[Conditions#Poison\|Poison]]     |     1      |
 
-### Écailles et Os
+### Écailles, Os et Mailles
 
 **Faiblesse**
 	Perforant
 
 **Effets**
-    + Se répare auprès d'un potionniste
+    + Se répare auprès d'un potionniste (écailles et os)
     - Désavantage en Dextérité (Discrétion)
+    - Désavantage en Magies en combat
 
-| Matériau |     DR     |           Prix |                  Propriétés                   | Poids (kg) |
-| -------- | :--------: | -------------: | :-------------------------------------------: | :--------: |
-| Écaille  | 4 * rareté |  8 ^ rareté pc |           Résistance aux conditions           |    1.5     |
-| Os       | 5 * rareté | 10 ^ rareté pc | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]] |     1      |
+| Matériau |     DR     |           Prix |                   Propriétés                   | Poids (kg) |
+| -------- | :--------: | -------------: | :--------------------------------------------: | :--------: |
+| Écaille  | 4 * rareté |  8 ^ rareté pc |           Résistance aux conditions            |    1.5     |
+| Os       | 5 * rareté | 10 ^ rareté pc | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]]  |     1      |
+| Mailles  | 50% Métal  |      50% Métal | [[Enchanteur#Nirina\|Enchantements de Nirina]] | 50% Métal  |
+|          |            |                |           Pas de pré-requis en Force           |            |
 
 ### Métaux
 
@@ -123,16 +126,17 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
     + [[Enchanteur#Nirina|Enchantements de Nirina]]
     + Se répare dans une forge/ avec la magie de métal
     - Dextérité (Discrétion) impossible
-    - Nécessite +1 Force pour chaque pièce d'équipement en métal à partir de la deuxième pièce.
+    - Magies impossibles en combat
+    - Nécessite +1 Force pour chaque pièce d'équipement en métal à partir de la deuxième pièce
 
-| Matériau   | DR  |  Prix |                               Propriétés                               | Poids (kg) |
-| ---------- | :-: | ----: | :--------------------------------------------------------------------: | :--------: |
-| Fonte      | 15  |  2 pa |                                  ---                                   |    1.5     |
-| Fer        | 18  | 10 pa |                                  ---                                   |     1      |
-| Bronze     | 21  | 25 pa |                                  ---                                   |    1.5     |
-| Acier      | 24  | 50 pa |                                  ---                                   |     1      |
-| Titane     | 27  |  1 po |                                  ---                                   |    1.5     |
-| Mythril    | 30  |  5 po | Force requise -3<br>Annule le désavantage<br>en Dextérité (Discrétion) |     1      |
-| Palladium  | 35  |  7 po |              Annule le désavantage en Magie (Croititiste)              |     2      |
-| Adamantite | 35  |  7 po |               Annule le désavantage en Magie (Élétiste)                |     2      |
-| Orichalque | 40  | 10 po |                                  ---                                   |    2.5     |
+| Matériau   | DR  |  Prix |                    Propriétés                    | Poids (kg) |
+| ---------- | :-: | ----: | :----------------------------------------------: | :--------: |
+| Fonte      | 15  |  2 pa |                       ---                        |    1.5     |
+| Fer        | 18  | 10 pa |                       ---                        |     1      |
+| Bronze     | 21  | 25 pa |                       ---                        |    1.5     |
+| Acier      | 24  | 50 pa |                       ---                        |     1      |
+| Titane     | 27  |  1 po |                       ---                        |    1.5     |
+| Mythril    | 30  |  5 po | Dextérité (Discrétion) possible avec désavantage |     1      |
+| Palladium  | 35  |  7 po | Magies (Croititiste) possibles avec désavantage  |     2      |
+| Adamantite | 35  |  7 po |   Magies (Élétiste) possibles avec désavantage   |     2      |
+| Orichalque | 40  | 10 po |                       ---                        |    2.5     |
