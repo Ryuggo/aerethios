@@ -12,18 +12,20 @@
 ### Armure
 >Lorsqu'une armure se fait toucher par sa faiblesse, seul 50% de sa DR est pris en compte.
 
-L'armure se constitue de plusieurs pièces, chacune permettant d'avoir plus de DR, mais réduisant l'AC.
+L'armure se constitue de plusieurs pièces, chacune permettant d'avoir plus de DR, mais réduisant l'AC (le métal en mailles et en plates double cette réduction).
+
+L'AC minimum est 6.
 
 | Pièce         | AC  | Matériaux | Prix main d'œuvre | DR (basée sur les matériaux) |
 | ------------- | :-: | :-------: | ----------------: | :--------------------------: |
-| Base          | 12  |     -     |                 - |              -               |
+| Base          | 15  |     -     |                 - |              -               |
 | Cape/ Foulard |  0  |     1     |              5 pa |              -               |
 | Casque        | -1  |     2     |             10 pa |             20%              |
 | Bras d'armure | -1  |     4     |             20 pa |             10%              |
 | Plastron      | -2  |     8     |             40 pa |             40%              |
 | Jambières     | -2  |    10     |             50 pa |             30%              |
 
->Exemple : un joueur avec un casque en orichalque (50 DR) aura 11 AC et 10 DR.
+>Exemple : un joueur avec un casque en orichalque (40 DR) aura 11 AC et 8 DR.
 
 Le modificateur utilisé pour l'AC dépend du type de matériaux de chaque pièce.
 On ne peut utiliser qu'un seul type de modificateur (le modificateur le plus élevé est pris par défaut).
@@ -127,7 +129,7 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
     + Se répare dans une forge/ avec la magie de métal
     - Dextérité (Discrétion) impossible
     - Magies impossibles en combat
-    - Nécessite +1 Force pour chaque pièce d'équipement en métal à partir de la deuxième pièce
+    - Nécessite +1 Force pour chaque pièce d'équipement en métal à partir de la deuxième pièce (Ex : 2pièces= +1, 4p = +3)
 
 | Matériau   | DR  |  Prix |                    Propriétés                    | Poids (kg) |
 | ---------- | :-: | ----: | :----------------------------------------------: | :--------: |

@@ -29,7 +29,7 @@ Le mouvement peut être "interrompu" par une action avant de rependre, et ce à 
 
 On ne peut traverser une créature hostile que si elle est 2 fois plus grande/ petite que soi.
 
-On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
+On peut passer un passage étroit que s'il n'est que 1 fois plus petit que soi.
 
 ## Actions
 >Les actions personnalisées sont dotées d'un * .
@@ -38,11 +38,11 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Motiver *                           | Seulement au premier tour, seulement un joueur.<br>Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour leur donner un désavantage (effet et durée selon le MJ) |
 | Attaquer *                          |                                                                                                                                                                                            |
+| Prendre 10/20<br>(Se concentrer * ) | Prendre son temps (sans se faire perturber) pour réussir les DC de 10 (1 tour) / 20 (2 tours)<br>Permet également de régénérer sa magie                                                    |
 | Courir                              | Mouvement x2<br>Impossible d'attaquer                                                                                                                                                      |
 | Se désengager                       | Éviter une attaque d'opportunité en s'éloignant d'un adversaire<br>Impossible d'attaquer                                                                                                   |
 | Pousser                             | Jet de Force (Athlétisme) pour éloigner la cible de 10ft (2 cases) de soi                                                                                                                  |
 | Esquiver                            | Désavantage pour ceux qui attaquent<br>S'annule si le mouvement tombe à 0                                                                                                                  |
-| Prendre 10/20<br>(Se concentrer * ) | Prendre son temps (sans se faire perturber) pour réussir les DC de 10 (1 tour) / 20 (2 tours)<br>Permet également de régénérer sa magie                                                    |
 | Aider                               | Avantage pour celui qu'on aide (ne se cumule pas)                                                                                                                                          |
 | Se cacher                           | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise<br>Si ça rate, il faut s'éloigner d'au moins 25ft (5 cases) avant de recommencer                         |
 | Se préparer                         | Citer ce que l'on attend qu'il se passe afin de pouvoir y réagir en dehors de son tour                                                                                                     |
@@ -51,7 +51,7 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 ### Attaquer
 
 #### Jet pour toucher
->Est-ce que l'attaque passe a capacité à esquiver de la cible.
+>Est-ce que l'attaque passe la capacité à esquiver de la cible.
 
 | Type d'attaque |                   Jet à faire                    |         Score à atteindre          |
 | -------------- | :----------------------------------------------: | :--------------------------------: |
@@ -66,7 +66,7 @@ On peut passer un passage étroit que s'il n'est qu'une fois plus petit que soi.
 | ----------------------------------- | ------------------------------------- | ---------------------------------------------- |
 | Dégâts d'arme                       | Dégâts d'arme                         | Dégâts de magie                                |
 | Matériaux (& Enchantements)         | Munition (& Matériaux)                | Toile céleste                                  |
-| Style<br>*(multiplicateur final )*  | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
+| 1 Multiplicateur final (Style, )    | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
 | (2d6 T + 6 (+4ench + 6feu)) x style | (1d8 P + 10 T +())                    | (1d4 + 1) x 7 crystaux                         |
 
 ##### Précision
