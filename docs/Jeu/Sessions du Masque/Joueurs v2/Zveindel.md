@@ -36,7 +36,7 @@
 
 ### Magie
 
-**Maîtrise** : 4
+**Maîtrise** : 3
 
 **Crystaux** : 14
 
@@ -94,12 +94,12 @@
 
 ## Connaissances
 
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Arek]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Dara]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Haelrak]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Halfdan]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Hazdaim]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Léoric]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Arek]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Dara]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Haelrak]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Halfdan]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Hazdaim]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Léoric]]
 
 - [[aerethios/docs/Bestiaire/Planaires/Dieux/Dieux#Radeon, Dieu Dormant|Dieu Dormant]]
 - [[Billy]]

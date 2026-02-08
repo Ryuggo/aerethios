@@ -1,5 +1,11 @@
 ## Utilisation
->1d20 + Mental + Intelligence/Sagesse > (DC / AC) + Nombre de crystaux à utiliser.
+>1d20 + Mental + Intelligence|Sagesse > (DC | AC) + Nombre de crystaux à utiliser.
+
+Le modificateur dépend de la magie utilisée.
+
+| Magie Elétiste | Magie Croitiste |                    Magie de Feu                     |                    Magie de Fusion                     |
+| :------------: | :-------------: | :-------------------------------------------------: | :----------------------------------------------------: |
+|  Intelligence  |     Sagesse     | (Intelligence + Sagesse) / 2<br>Arrondi vers le bas | (Elétiste\|Croitiste + Feu) / 2<br>Arrondi vers le bas |
 
 Lorsqu'il arrive à lancer son sort, le joueur peut choisir ce qu'il veut faire :
 

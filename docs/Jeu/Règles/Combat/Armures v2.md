@@ -22,8 +22,8 @@ L'AC minimum est 6.
 | Cape/ Foulard |  0  |     1     |              5 pa |              -               |
 | Casque        | -1  |     2     |             10 pa |             20%              |
 | Bras d'armure | -1  |     4     |             20 pa |             10%              |
-| Plastron      | -2  |     8     |             40 pa |             40%              |
-| Jambières     | -2  |    10     |             50 pa |             30%              |
+| Jambières     | -2  |     8     |             40 pa |             30%              |
+| Plastron      | -2  |    10     |             50 pa |             40%              |
 
 >Exemple : un joueur avec un casque en orichalque (40 DR) aura 11 AC et 8 DR.
 
@@ -49,7 +49,7 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
 ### Boucliers
 
 **Effets**
-    - La DR du bouclier ne s'ajoute que si le bouclier fait face à la source de l'attaque (attaque de front/ dans le dos).
+    - La DR du bouclier ne s'ajoute que si le bouclier fait face à la source de l'attaque (attaque de front/ dans le dos)
 
 | Armure           | AC  | Matériaux | Prix main d'œuvre | DR (basée sur les matériaux) | Force |                         Propriétés                         | Dégats         |
 | ---------------- | :-: | :-------: | ----------------: | :--------------------------: | :---: | :--------------------------------------------------------: | -------------- |
@@ -70,7 +70,8 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
 **Effets**
     + [[Enchanteur#Suraja|Enchantements de Suraja]]
     + Les propriétés d'un tissu ne sont actives que si l'armure ne contient pas de métaux
-    + Pendant son tour, le joueur peut convertir des crystaux en AC (1:1, Max = Modificateur Mental). Il perd ce bonus une fois touché
+	    + Pendant son tour, le joueur peut convertir des crystaux en AC (1:1, Max = Modificateur Mental)
+	      Il perd ce bonus une fois touché/ Il doit faire 1d20 + Mental (Concentration) > Jet pour toucher
 
 | Matériau    | DR  |  Prix |                Propriétés                 | Poids (kg) |
 | ----------- | :-: | ----: | :---------------------------------------: | :--------: |
@@ -112,12 +113,11 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
     - Désavantage en Dextérité (Discrétion)
     - Désavantage en Magies en combat
 
-| Matériau |     DR     |           Prix |                   Propriétés                   | Poids (kg) |
-| -------- | :--------: | -------------: | :--------------------------------------------: | :--------: |
-| Écaille  | 4 * rareté |  8 ^ rareté pc |           Résistance aux conditions            |    1.5     |
-| Os       | 5 * rareté | 10 ^ rareté pc | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]]  |     1      |
-| Mailles  | 50% Métal  |      50% Métal | [[Enchanteur#Nirina\|Enchantements de Nirina]] | 50% Métal  |
-|          |            |                |           Pas de pré-requis en Force           |            |
+| Matériau |     DR     |           Prix |                                  Propriétés                                  | Poids (kg) |
+| -------- | :--------: | -------------: | :--------------------------------------------------------------------------: | :--------: |
+| Écaille  | 4 * rareté |  8 ^ rareté pc |                          Résistance aux conditions                           |    1.5     |
+| Os       | 5 * rareté | 10 ^ rareté pc |                [[Enchanteur#Ovliin\|Enchantements d'Ovliin]]                 |     1      |
+| Mailles  | 50% Métal  |      50% Métal | [[Enchanteur#Nirina\|Enchantements de Nirina]]<br>Pas de pré-requis en Force | 50% Métal  |
 
 ### Métaux
 
@@ -129,7 +129,7 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
     + Se répare dans une forge/ avec la magie de métal
     - Dextérité (Discrétion) impossible
     - Magies impossibles en combat
-    - Nécessite +1 Force pour chaque pièce d'équipement en métal à partir de la deuxième pièce (Ex : 2pièces= +1, 4p = +3)
+    - Nécessite +1 Force pour chaque pièce d'équipement en métal à partir de la deuxième pièce (Ex : 2pièces = +1, 4p = +3)
 
 | Matériau   | DR  |  Prix |                    Propriétés                    | Poids (kg) |
 | ---------- | :-: | ----: | :----------------------------------------------: | :--------: |

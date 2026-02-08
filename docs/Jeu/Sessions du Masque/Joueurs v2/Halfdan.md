@@ -96,12 +96,12 @@
 
 ## Connaissances
 
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Arek]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Dara]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Haelrak]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Hazdaim]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Léoric]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Zveindel]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Arek]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Dara]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Haelrak]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Hazdaim]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Léoric]]
+- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs v2/Zveindel]]
 
 - [[Billy]]
 - [[Bryumnes]]

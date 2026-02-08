@@ -55,9 +55,9 @@ On peut passer un passage étroit que s'il n'est que 1 fois plus petit que soi.
 
 | Type d'attaque |                   Jet à faire                    |         Score à atteindre          |
 | -------------- | :----------------------------------------------: | :--------------------------------: |
-| **Mêlée**      |        1d20 + Force/ Dextérité + Maîtrise        |                 AC                 |
+| **Mêlée**      |        1d20 + Force\|Dextérité + Maîtrise        |                 AC                 |
 | **Distance**   |           1d20 + Dextérité + Maîtrise            |                 AC                 |
-| **Magique**    | 1d20 + Mental (Intelligence/ Sagesse) + Maîtrise | AC + Nombre de crystaux à utiliser |
+| **Magique**    | 1d20 + Mental (Intelligence\|Sagesse) + Maîtrise | AC + Nombre de crystaux à utiliser |
 
 #### Jet.s de dégâts
 >Résultat - Défense (DR) = Dégâts au HP.
@@ -67,7 +67,6 @@ On peut passer un passage étroit que s'il n'est que 1 fois plus petit que soi.
 | Dégâts d'arme                       | Dégâts d'arme                         | Dégâts de magie                                |
 | Matériaux (& Enchantements)         | Munition (& Matériaux)                | Toile céleste                                  |
 | 1 Multiplicateur final (Style, )    | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
-| (2d6 T + 6 (+4ench + 6feu)) x style | (1d8 P + 10 T +())                    | (1d4 + 1) x 7 crystaux                         |
 
 ##### Précision
 >Seulement pour les armes à distance.

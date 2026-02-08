@@ -34,14 +34,10 @@ Ainsi, il doit :
 |              -               |     3 échecs consécutifs     | réinitialise le compteur de réussites |
 |  niveau actuel +1 PO/ leçon  |           gratuit            |                                     - |
 
----
-
 ### Maîtrise d’Arme
 
 >Jet : **1d10**
 >*Le résultat doit être strictement supérieur à sa maîtrise actuelle*
-
----
 
 ### Magie
 
@@ -62,25 +58,6 @@ Ainsi, il doit :
 
 >**Exemple** : pour améliorer une magie d'air de niveau 3, le jet doit être supérieur à 10 et le joueur doit payer 3po par jet.
 
----
+### Maîtrise magique & Crystaux
 
-### Maîtrise magique
-
-Pour améliorer sa maîtrise magique, le joueur doit prendre 10 jours de leçons (1 leçon = niveau actuel en po) ainsi qu'avoir un prérequis de points magiques répartis dans les 7 magies.
-
-| Maîtrise | Points magiques totaux requis |
-| -------- | ----------------------------- |
-| 1        | 10                            |
-| 2        | 20                            |
-| 3        | 30                            |
-| 4        | 40                            |
-| 5        | 50                            |
-| 6        | 60                            |
-| 7        | 80                            |
-| 8        | 100                           |
-| 9        | 120                           |
-| 10       | 140                           |
-
-### Crystaux
-
-Pour augmenter son nombre de crystaux, il faut généralement monter en rang chez les [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens|Arvens]] ou les [[Scienctes]]
+Pour augmenter son nombre de crystaux ou sa maîtrise magique, il faut généralement monter en rang chez les [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens|Arvens]] ou les [[Scienctes]].
