@@ -30,10 +30,10 @@ L'AC minimum est 6.
 Le modificateur utilisé pour l'AC dépend du type de matériaux de chaque pièce.
 On ne peut utiliser qu'un seul type de modificateur (le modificateur le plus élevé est pris par défaut).
 
-|            Tissu            | Cuir, Peaux, Écailles, Os et Mailles (métal) | Plate (métal) |
-| :-------------------------: | :------------------------------------------: | :-----------: |
-| Dextérité<br>(+ Accrobatie) |         Dextérité<br>(+ Accrobatie)          |       -       |
-|  + Crystaux (max = Mental)  |                                              |               |
+|     Tissu<br>*(Légère)*     | Cuir, Peaux, Écailles, Os et Mailles (métal)<br>*(Intermédiaire)* | Plate (métal)<br>*(Lourde)* |
+| :-------------------------: | :---------------------------------------------------------------: | :-------------------------: |
+| Dextérité<br>(+ Accrobatie) |                    Dextérité<br>(+ Accrobatie)                    |              -              |
+|  + Crystaux (max = Mental)  |                                                                   |                             |
 
 Selon le nombre de pièces utilisant le même type de matériaux (tissu, cuir, métal, ..), le modificateur maximum change et d'autres bonus s'appliquent (sur la DR totale actuelle).
 

@@ -31,7 +31,7 @@ Retire les désavantages en portant une armure intermédiaire.
 [1-5] Poids de l'armure intermédiaire équipée réduit 10%.
 
 ### Maintenance
->Nécessite Armure Intermédiaire - Conditionnement 1 
+>Nécessite Armure Intermédiaire - Conditionnement 1
 
 Coût et temps de réparation réduit de moitié.
 
