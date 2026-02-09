@@ -137,7 +137,7 @@ En fonction de la façon dont les munitions sont créées, des effets additionne
 | Orichalque |         10 po |      8       |           VS Démons           |    2.5 kg    |
 
 ### Revêtements
->Le revêtement retire les propriétés du matériau principal et applique le sien à la place.
+>Le revêtement retire les propriétés du matériau principal et applique le sien à la place.è§
 
 | Matériau  | Prix/ unité |  Propriétés   | Poids/ unité |
 | --------- | ----------: | :-----------: | :----------: |
