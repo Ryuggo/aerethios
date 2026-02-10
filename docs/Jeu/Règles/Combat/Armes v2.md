@@ -9,6 +9,32 @@
 		Arbalète : 8 + 10T + 8orich = []
 		Canon : 60 + 1d6(Poison) = [61-72]
 
+## Dégâts
+
+| Catégorie                      | Dégâts                     | Modificateur          |            Propriétés             |
+| ------------------------------ | -------------------------- | --------------------- | :-------------------------------: |
+| Courte                         | Dé                         | Dextérité\|Force      | [[Propriétés#Critique\|Critique]] |
+| 1 Main                         | Dé + Modificateur          | Dextérité\|Force      |                                   |
+| 2 Mains                        | Dé + Modificateur          | Force                 |                                   |
+| Haste                          | Dé x 2                     | Force\|Dextérité      |   [[Propriétés#Portée\|Portée]]   |
+| Distance<br>(Arcs & Arbalètes) | Taille x Modificateur      | Dextérité\|Perception |                                   |
+| Distance<br>(Fusils & Canons)  | Taille + Modificateur x 10 | Perception            |     [[Propriétés#Lent\|Lent]]     |
+
+>Le dé de dégâts est déterminé dans le tableau ci-dessous.
+
+### Amélioration
+
+Enchanter une arme permet d'augmenter son dé de dégâts.
+
+Si l'arme est en métal, seul les [[Enchanteur#Nirina|Enchantements de Nirina]] sont efficaces.
+
+Si l'arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] sont efficaces.
+
+|     Enchantement      | Base |   +1   |   +2   |   +3   |   +4   |   +5    |
+| :-------------------: | :--: | :----: | :----: | :----: | :----: | :-----: |
+| **Réussite normale**  | 1d6  |  1d8   |  1d10  |  1d12  | 2d6 +2 | 2d6 +4  |
+| **Réussite critique** |  -   | 1d6 +2 | 1d6 +4 | 1d6 +6 | 1d6 +8 | 1d6 +10 |
+
 ## Catégories
 >Les armes utilisent la Force comme modificateur pour toucher, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|Finesse]].
 

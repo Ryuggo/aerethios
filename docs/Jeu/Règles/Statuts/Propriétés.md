@@ -29,7 +29,10 @@ L'arme empêche de faire d'autres actions pendant le tour si on s'en sert pour a
 Une fois par tour, augmente l'affliction [[Afflictions#Saignement|Saignement]] de 1 sur la cible touchée si les dégâts passent outre le DR.
 
 ## Critique
-Les attaques dans le dos et les attaques surprises doublent les dégâts finaux (cumulables).
+Double les dégâts des :
+- attaques dans le dos,
+- attaques surprises,
+- réussites critiques.
 
 ## Double
 Permet d'attaquer une deuxième fois avec la même arme.
@@ -39,3 +42,7 @@ Permet de déplacer un ennemi de (Force x 5ft (1 case)) en ligne droite avec soi
 
 ## Portée
 Ajoute 5ft (1 case) de portée à l'arme.
+
+Les dégâts dans un rayon de 5ft (1 case) sont réduits de moitié.
+
+La zone d'attaque d'opportunité du joueur n'est plus un rayon de 5ft, mais un rayon entre 5ft et 10ft (1 case de distance).

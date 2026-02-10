@@ -68,11 +68,13 @@ En fonction du bonus souhaité, les chances de réussites varient :
 | **Malus d'Echec**    | -1  | -2   | -3   | -4   |
 
 ## [[Ovliin]]
->Enchanter les os pour en extraire la puissance élémentaire de son ancien "propriétaire" (si elle n'avait pas d'élément, l'os n'est pas utilisable).
+>Enchanter les os pour en extraire la puissance élémentaire de son ancien "propriétaire".
 
 Une armure en os ou une arme avec le manche en os peuvent bénéficier de cette puissance.
 
 Pour enchanter, le joueur lance **1d20 + Niveau d'enchanteur** (le bonus obtenu varie selon le résultat et la rareté de l'os).
+
+Un échec diminue la rareté de l'os de 1.
 
 Un échec critique rend l'os inutilisable.
 
