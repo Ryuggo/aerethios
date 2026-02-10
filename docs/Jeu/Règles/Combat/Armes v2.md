@@ -1,121 +1,94 @@
 >Le type d'arme ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
 
-	Attaque maximale sans buff magique :
-	Mêlée :
-		Lame double : 4d4T + 8orich + 6ench + 10élém = [28-56] x Style
-		Dague : 1d4T + 8orich + 6ench + 10élém = [25-32] x4(Crit)/Style
-	Distance :
-		Arc : (1d8P + 10T) x2(précoce) + 8orich = [30-44]
-		Arbalète : 8 + 10T + 8orich = []
-		Canon : 60 + 1d6(Poison) = [61-72]
-
 ## Dégâts
 
-| Catégorie                      | Dégâts                     | Modificateur          |            Propriétés             |
-| ------------------------------ | -------------------------- | --------------------- | :-------------------------------: |
-| Courte                         | Dé                         | Dextérité\|Force      | [[Propriétés#Critique\|Critique]] |
-| 1 Main                         | Dé + Modificateur          | Dextérité\|Force      |                                   |
-| 2 Mains                        | Dé + Modificateur          | Force                 |                                   |
-| Haste                          | Dé x 2                     | Force\|Dextérité      |   [[Propriétés#Portée\|Portée]]   |
-| Distance<br>(Arcs & Arbalètes) | Taille x Modificateur      | Dextérité\|Perception |                                   |
-| Distance<br>(Fusils & Canons)  | Taille + Modificateur x 10 | Perception            |     [[Propriétés#Lent\|Lent]]     |
+| Catégorie                      | Prix main d'œuvre | Dégâts                       | Modificateur          |            Propriétés             |   Matériaux |
+| ------------------------------ | ----------------: | ---------------------------- | --------------------- | :-------------------------------: | ----------: |
+| Courte                         |              5 pa | Dé                           | Dextérité\|Force      | [[Propriétés#Critique\|Critique]] |  1 Matériau |
+| 1 Main                         |             10 pa | Dé + Modif                   | Dextérité\|Force      |    [[Propriétés#Léger\|Léger]]    | 2 Matériaux |
+| 2 Mains                        |             20 pa | Dé + 2xModif                 | Force\|Dextérité      |                                   | 3 Matériaux |
+| Haste                          |             40 pa | Dé x 2                       | Force\|Dextérité      |   [[Propriétés#Portée\|Portée]]   | 5 Matériaux |
+| Distance<br>(Arcs & Arbalètes) |             20 pa | Taille x Modificateur        | Dextérité\|Perception |                                   |           - |
+| Distance<br>(Fusils & Canons)  |              1 po | (Taille + Modificateur) x 10 | Perception            |     [[Propriétés#Lent\|Lent]]     |             |
 
 >Le dé de dégâts est déterminé dans le tableau ci-dessous.
 
-### Amélioration
+### Enchantements
 
 Enchanter une arme permet d'augmenter son dé de dégâts.
 
 Si l'arme est en métal, seul les [[Enchanteur#Nirina|Enchantements de Nirina]] sont efficaces.
 
-Si l'arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] sont efficaces.
+Si l'arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] sont efficaces (en plus de lui ajouter un effet magique).
 
 |     Enchantement      | Base |   +1   |   +2   |   +3   |   +4   |   +5    |
 | :-------------------: | :--: | :----: | :----: | :----: | :----: | :-----: |
 | **Réussite normale**  | 1d6  |  1d8   |  1d10  |  1d12  | 2d6 +2 | 2d6 +4  |
 | **Réussite critique** |  -   | 1d6 +2 | 1d6 +4 | 1d6 +6 | 1d6 +8 | 1d6 +10 |
 
+### Modifications
+
+Une arme à 1 ou 2 Mains peut être modifiée pour altérer ses dégâts.
+
+| Léger                           | Normal    | Lourd                       | Colossal                                     |
+| :------------------------------ | --------- | :-------------------------- | :------------------------------------------- |
+| -1 Matériau                     | -         | x2 Matériaux                | x3 Matériaux                                 |
+| Modif = 5                       | Modif = 2 | Modif = 5                   | Modif = 10                                   |
+| Dextérité > 14 pour s'en servir | -         | Force > 14 pour s'en servir | Force > 17 pour s'en servir                  |
+| Devient une arme à 1 Main       | -         | Devient une arme à 2 Mains  | Devient une arme à 2 Mains                   |
+| [[Propriétés#Léger\|Léger]]     |           |                             | [[Propriétés#Lent\|Lent]] sauf si Force > 19 |
+
 ## Catégories
->Les armes utilisent la Force comme modificateur pour toucher, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|Finesse]].
 
 ### Courte
->[[Propriétés#Finesse|Finesse]]
->[[Propriétés#Léger|Léger]]
->Matériaux : 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|métal]] (sauf objet)
 
-| Arme                      | Prix main d'œuvre |     1 main     |                              Propriétés                              | Styles |
-| ------------------------- | ----------------: | :------------: | :------------------------------------------------------------------: | ------ |
-| Objet                     |                 - |      1d4       |                   [[Propriétés#Jetable\|Jetable]]                    | -      |
-| Poing<br>*Brass Knuckles* |          5 pa<br> |     1d6 C      |                                 ---                                  |        |
-| Griffes                   |             20 pa |     1d6 P      |                   [[Propriétés#Double\|Double]] P                    |        |
-| Griffes bestiales         |             20 pa |     1d6 T      |              [[Propriétés#Lacération\|Lacération]]<br>               |        |
-| Dague<br>*Dagger*         |          2 pa<br> | 1d4 T<br>1d4 P | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |        |
+| Arme                      |                 Dégâts |                              Propriétés                              | Styles |
+| ------------------------- | ---------------------: | :------------------------------------------------------------------: | ------ |
+| Objet                     |                      - |                   [[Propriétés#Jetable\|Jetable]]                    | -      |
+| Poing<br>*Brass Knuckles* |         Contondant<br> |                                 ---                                  |        |
+| Griffes                   |              Perforant |                   [[Propriétés#Double\|Double]] P                    |        |
+| Griffes bestiales         |              Tranchant |              [[Propriétés#Lacération\|Lacération]]<br>               |        |
+| Dague<br>*Dagger*         | Tranchant<br>Perforant | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |        |
 
 ### 1 Main / 2 Mains
->Les armes utilisées avec 1 main ont [[Propriétés#Finesse|Finesse]]
->Matériaux : 2 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|métaux]] (sauf fouet)
 
-| Arme                             |                                                     Prix main d'œuvre |     1 main     |     2 mains     |                Propriétés                 | Styles |
-| -------------------------------- | --------------------------------------------------------------------: | :------------: | :-------------: | :---------------------------------------: | ------ |
-| Epée droite<br>*Shortsword*      |                                                             10 pa<br> | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  |                                           |        |
-| Epée d'estoc<br>*Rapier/ Estoc*  |                                                             25 pa<br> |     1d8 P      |      2d6 P      |                                           |        |
-| Katana/ Sabre<br>*Katana/ Saber* |                                                             10 pa<br> | 1d6 T<br>1d4 P | 2d4 T<br>1d6 P  |                                           |        |
-| Epée courbée<br>*Scimitar*       |                                                             25 pa<br> |     1d8 T      |      2d6 T      |                                           |        |
-| Fléau d'arme<br>*Flail*          |                                                             10 pa<br> | 1d6 C<br>1d4 P | 2d4 C<br>1d6 P  |                                           |        |
-| Marteau/ Masse<br>*Hammer/ Club* |                                                             25 pa<br> |     1d8 C      |      2d6 C      |                                           |        |
-| Hachette<br>*Handaxe*            |                                                             10 pa<br> | 1d6 T<br>1d4 C | 2d4 T<br>1d6 C  |                                           |        |
-| Lame double                      | 40 pa + 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] |     1d4 P      | 1d10 P<br>1d6 T |      [[Propriétés#Double\|Double]] T      |        |
-| Fouet<br>*Whip*                  |                                                             15 pa<br> |     1d4 T      |        -        | [[Propriétés#Lacération\|Lacération]]<br> |        |
-
-#### Sous-catégories
-
-Chaque arme 1 Main/ 2 Mains peut venir avec une sous-catégorie offrant un bonus à celle-ci.
-
->Niveau de dé : *(1d4 -> 1d6 -> 1d8) = 2d4 -> (1d10 -> 1d12) = 2d6 -> 2d8*
-
-| Légère                                                          | Grande/ Lourde                                                  | Colossale                                                        |
-| :-------------------------------------------------------------- | :-------------------------------------------------------------- | :--------------------------------------------------------------- |
-| - 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] | x2 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]] | x 3 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]] |
-| Dextérité > 15 pour s'en servir                                 | Force > 15 pour s'en servir                                     | Force > 17 pour s'en servir                                      |
-| Descend le.s dé.s d'un niveau                                   | Monte le.s dé.s d'un niveau                                     | Monte le.s dé.s d'un niveau<br>Dégâts de matériaux x2            |
-| Empêche de l'utiliser à 2 mains                                 | Perd la propriété [[Propriétés#Finesse\|Finesse]]               | Empêche de l'utiliser à 1 main                                   |
-| [[Propriétés#Léger\|Léger]]                                     |                                                                 | [[Propriétés#Lent\|Lent]] sauf si Force > 19                     |
+| Arme                             |                  Dégâts |                   Propriétés                    | Styles |
+| -------------------------------- | ----------------------: | :---------------------------------------------: | ------ |
+| Epée droite<br>*Shortsword*      |  Perforant<br>Tranchant |                                                 |        |
+| Epée d'estoc<br>*Rapier/ Estoc*  |               Perforant |                                                 |        |
+| Katana/ Sabre<br>*Katana/ Saber* |  Tranchant<br>Perforant |                                                 |        |
+| Epée courbée<br>*Scimitar*       |               Tranchant |                                                 |        |
+| Fléau d'arme<br>*Flail*          | Contondant<br>Perforant |                                                 |        |
+| Marteau/ Masse<br>*Hammer/ Club* |              Contondant |                                                 |        |
+| Hachette<br>*Handaxe*            | Tranchant<br>Contondant |                                                 |        |
+| Lame double                      |  Perforant<br>Tranchant | [[Propriétés#Double\|Double]] T<br>+ 1 Matériau |        |
+| Fouet<br>*Whip*                  |               Tranchant |    [[Propriétés#Lacération\|Lacération]]<br>    |        |
 
 ### Hast
->[[Propriétés#Charge|Charge]]
->[[Propriétés#Portée|Portée]]
->Désavantage pour attaquer une cible à 5ft (1 case) de soi.
->Matériaux : 4 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|métaux]] (sauf Bâton)
 
-![[Weapon - Hast.png]]
-
-| Arme                                  |                                                         Prix main d'œuvre |     2 mains     |           Propriétés            | Styles |
-| ------------------------------------- | ------------------------------------------------------------------------: | :-------------: | :-----------------------------: | ------ |
-| Pique<br>*Spear*                      |                                                                 15 pa<br> | 1d10 P<br>1d4 T | [[Propriétés#Jetable\|Jetable]] |        |
-| Hallebarde<br>*Halberd*               |                                                                 25 pa<br> | 2d4 T<br>1d6 P  |               ---               |        |
-| Glaive/ Fauchard<br>*Glaive*          |                                                                 25 pa<br> | 2d4 P<br>1d6 T  |               ---               |        |
-| Trident/ Spetum<br>*Trident/ Ranseur* |                                                                 50 pa<br> |      3d4 P      | [[Propriétés#Jetable\|Jetable]] |        |
-| Lance<br>*Lance*                      | 40 pa + 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]]<br> |      2d6 P      |    [[Propriétés#Lent\|Lent]]    |        |
-| Bâton<br>*Quarterstaff*               |                                                                 20 pc<br> |      1d8 C      | [[Propriétés#Finesse\|Finesse]] |        |
+| Arme                                  |                 Dégâts |                Propriétés                 | Styles |
+| ------------------------------------- | ---------------------: | :---------------------------------------: | ------ |
+| Pique<br>*Spear*                      | Perforant<br>Tranchant |      [[Propriétés#Jetable\|Jetable]]      |        |
+| Hallebarde<br>*Halberd*               | Tranchant<br>Perforant |                    ---                    |        |
+| Glaive/ Fauchard<br>*Glaive*          | Perforant<br>Tranchant |                    ---                    |        |
+| Trident/ Spetum<br>*Trident/ Ranseur* |              Perforant |      [[Propriétés#Jetable\|Jetable]]      |        |
+| Lance<br>*Lance*                      |              Perforant | [[Propriétés#Lent\|Lent]]<br>+ 1 Matériau |        |
+| Bâton<br>*Quarterstaff*               |             Contondant |      [[Propriétés#Finesse\|Finesse]]      |        |
 
 ### Distance
-> **Modificateur** : Dextérité
-> Fusils : Les dégâts diminuent de 1 pour chaque ft qui sépare le tireur de la cible (-5 dmg par case).
 
-![[Weapon - Range.png]]
-
-| Arme                                | Prix main d'œuvre |    Dégâts     |                                                            Matériaux                                                             |                               Propriétés                               |
-| ----------------------------------- | ----------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| Fronde<br>*Sling*                   |         20 pc<br> |     1d4 C     |                                                                -                                                                 |                      [[Propriétés#Léger\|Léger]]                       |
-| Arc Court<br>*Shortbow*             |         10 pa<br> |     1d6 P     |                                                                -                                                                 |                      [[Propriétés#Léger\|Léger]]                       |
-| Arc Composite<br>*Composite bow*    |         25 pa<br> |     1d8 P     |                                                                -                                                                 |                                  ---                                   |
-| Arc Long<br>*Longbow*               |         50 pa<br> |    1d10 P     |                                                                -                                                                 |                                  ---                                   |
-| Arbalète légère<br>*Light Crossbow* |         50 pa<br> |       4       |                                                                -                                                                 |                      [[Propriétés#Léger\|Léger]]                       |
-| Arbalète<br>*Crossbow*              |          1 pa<br> |       8       |                                                                -                                                                 | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Léger\|Léger]] |
-| Baliste<br>*Heavy Crossbow*         |          2 po<br> |      12       |                                                                -                                                                 |                [[Propriétés#Préparation\|Préparation]]                 |
-| Pistolet                            |              5 po |      20       |                                  1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]]                                   |                      [[Propriétés#Léger\|Léger]]                       |
-| Mousquet<br>+Baïonnette             |             10 po | 40<br>+ 1d4 P | 3 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]<br>+1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] |           [[Propriétés#Préparation\|Préparation]] pour tirer           |
-| Canon                               |             20 po |      60       |                                  6 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]                                  |  [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]]  |
+| Arme                                |     Dégâts |                               Propriétés                               |                                                            Matériaux                                                             |
+| ----------------------------------- | ---------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+| Fronde<br>*Sling*                   | Contondant |                      [[Propriétés#Léger\|Léger]]                       |                                                                -                                                                 |
+| Arc Court<br>*Shortbow*             |  Perforant |                      [[Propriétés#Léger\|Léger]]                       |                                                                -                                                                 |
+| Arc Composite<br>*Composite bow*    |  Perforant |                                  ---                                   |                                                                -                                                                 |
+| Arc Long<br>*Longbow*               |  Perforant |                                  ---                                   |                                                                -                                                                 |
+| Arbalète légère<br>*Light Crossbow* |          - |                      [[Propriétés#Léger\|Léger]]                       |                                                                -                                                                 |
+| Arbalète<br>*Crossbow*              |          - | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Léger\|Léger]] |                                                                -                                                                 |
+| Baliste<br>*Heavy Crossbow*         |          - |                [[Propriétés#Préparation\|Préparation]]                 |                                                                -                                                                 |
+| Pistolet                            |          - |                      [[Propriétés#Léger\|Léger]]                       |                                  1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]]                                   |
+| Mousquet<br>+Baïonnette             |          - |           [[Propriétés#Préparation\|Préparation]] pour tirer           | 3 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]<br>+1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] |
+| Canon                               |          - |  [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]]  |                                  6 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]                                  |
 
 #### Munitions
 
@@ -146,7 +119,6 @@ En fonction de la façon dont les munitions sont créées, des effets additionne
 ### Principaux
 
 **Effets**
-    + [[Enchanteur#Nirina|Enchantements de Nirina]]
     + Se répare dans une forge/ avec la magie de métal
 
 | Matériau   |   Prix/ unité |    Dégâts    |          Propriétés           | Poids/ unité |
