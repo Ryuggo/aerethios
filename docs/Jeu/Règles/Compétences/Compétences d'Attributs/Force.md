@@ -1,13 +1,16 @@
-| Compétence       |           Coût           | Description                                                                                                                                                  |
-| ---------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Athlétisme**   |         [1 - 5]          | Modificateur lors d'un effort physique prolongé ou soudain                                                                                                   |
-| Destructeur      |  10 (-1 par Athlétisme)  | Avantage pour casser des objets ou des structures                                                                                                            |
-| **Mule**         |         [1 - 5]          | Ajoute (20 * Modificateur de Force) à la charge maximale<br>*Charge maximale + 20kg par point*                                                               |
-| Grosse Berta     |     12 (-1 par Mule)     | Permet de lancer un objet dont le poids = charge maximale<br>Dégâts à la cible = poids - (20 * case de distance)<br>Dégâts à l'objet = Dégâts à la cible / 2 |
-| **Bagarre**      |         [1 - 5]          | Avantage de force pour les coups de poings en gantelet d'armure lourde                                                                                       |
-| Bourrin          |   14 (-1 par Bagarre)    | Permet d'ajouter son modificateur de Force aux dégâts de son arme                                                                                            |
-| **Impénétrable** |         [1 - 5]          | DR + (2 * Modificateur de Force)<br>*DR +1 par point*                                                                                                        |
-| Cafard           | 16 (-1 par Impénétrable) | 1x par long repos, si la vie du joueur tombe à 0, lui permet de lancer 1d4 * 10 de HP à récupérer                                                            |
+>Le coût des compétences avec un * sont réduits de 1 pour chaque point investi dans la/les compétence.s directement au dessus (en gras).
+
+| Compétence       |  Coût   |  Empêche   | Description                                                                                                                                                  |
+| ---------------- | :-----: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Athlétisme**   | [1 - 5] |  Obésité   | Modificateur lors d'un effort physique prolongé ou soudain                                                                                                   |
+| Destructeur*     |   10    |            | Avantage pour casser des objets ou des structures                                                                                                            |
+| **Mule**         | [1 - 5] |            | Ajoute (20 x Modificateur de Force) à la charge maximale<br>*Charge maximale + 20kg par point*                                                               |
+| Grosse Berta*    |   12    |            | Permet de lancer un objet dont le poids = charge maximale<br>Dégâts à la cible = poids - (20 x case de distance)<br>Dégâts à l'objet = Dégâts à la cible / 2 |
+| **Bagarre**      | [1 - 5] |            | Avantage de force pour les coups de poings en gantelet d'armure lourde                                                                                       |
+| Bourrin*         |   14    |            | Permet d'ajouter son modificateur de Force aux dégâts de son arme                                                                                            |
+| **Impénétrable** | [1 - 5] |            | DR + (2 x Modificateur de Force)<br>*DR +2 par point*                                                                                                        |
+| Cafard*          |   16    |            | 1x par long repos, si la vie du joueur tombe à 0, lui permet de récupérer (1d4 x 10) HP                                                                      |
+| **Obésité**      |   -5    | Athlétisme | Désavantage lors d'un effort physique prolongé ou soudain                                                                                                    |
 
 ---
 
