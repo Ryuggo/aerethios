@@ -11,7 +11,7 @@
 | **Rapide**        | [1 - 5] |                        | Augmente le mouvement de 5ft (1 case) par point                                                                   |
 | Sixième sens*     |   19    |                        | Evite les attaques surprises et d'opportunité                                                                     |
 | **Maladroit**     |   -5    | Acrobatie<br>Souplesse | Désavantage pour les déplacements agiles, roulades, sauts et esquives                                             |
-| **Pattes d'ours** |   -5    |   Doigté<br>Médecine   | Désavantage lors de pickpocket/ crochetage                                                                        |
+| **Pattes d'ours** |   -5    |   Doigté<br>Médecine   | Désavantage lors de pickpocket/ crochetage/ soigner                                                               |
 
 ---
 

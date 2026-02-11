@@ -75,15 +75,15 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
 
 | Matériau    | DR  |  Prix |                Propriétés                 | Poids (kg) |
 | ----------- | :-: | ----: | :---------------------------------------: | :--------: |
-| Coton       |  2  | 10 pa |    Air = 2 crystaux bonus par attaque     |     1      |
-| Chanvre     |  2  | 10 pa |    Eau = 2 crystaux bonus par attaque     |     1      |
-| Lin         |  2  | 10 pa |   Roche = 2 crystaux bonus par attaque    |     1      |
-| Soie        |  2  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |     1      |
-| Suède/ Daim |  2  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |     1      |
-| Laine       |  2  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |     1      |
-| Cachemire   |  2  | 25 pa | Elétistes = 1 crystal gratuit par action  |     2      |
-| Alpaga      |  2  | 25 pa | Croitistes = 1 crystal gratuit par action |     2      |
-| Fourrure    |  2  | 40 pa |   Fusion = 1 crystal gratuit par action   |     2      |
+| Coton       |  2  | 10 pa |    Air = 2 crystaux bonus par attaque     |    0.1     |
+| Chanvre     |  2  | 10 pa |    Eau = 2 crystaux bonus par attaque     |    0.1     |
+| Lin         |  2  | 10 pa |   Roche = 2 crystaux bonus par attaque    |    0.1     |
+| Soie        |  2  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |    0.1     |
+| Suède/ Daim |  2  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |    0.1     |
+| Laine       |  2  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |    0.1     |
+| Cachemire   |  2  | 25 pa | Elétistes = 1 crystal gratuit par action  |    0.25    |
+| Alpaga      |  2  | 25 pa | Croitistes = 1 crystal gratuit par action |    0.25    |
+| Fourrure    |  2  | 40 pa |   Fusion = 1 crystal gratuit par action   |    0.25    |
 
 >Les crystaux bonus par attaque nécessite d'en consommer au moins 1 pour s'appliquer (ex : 1 consommer +2 gratuits).
 
@@ -100,8 +100,8 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
 
 | Matériau       |     DR     |          Prix |                   Propriétés                    | Poids (kg) |
 | -------------- | :--------: | ------------: | :---------------------------------------------: | :--------: |
-| Peau           | 2 * rareté | 2 ^ rareté pa | Résiste à [[Conditions#Saignement\|Saignement]] |     1      |
-| Cuir (bouilli) | 3 * rareté | 4 ^ rareté pa |     Résiste à [[Conditions#Poison\|Poison]]     |     1      |
+| Peau           | 2 * rareté | 2 ^ rareté pa | Résiste à [[Conditions#Saignement\|Saignement]] |    0.25    |
+| Cuir (bouilli) | 3 * rareté | 4 ^ rareté pa |     Résiste à [[Conditions#Poison\|Poison]]     |    0.25    |
 
 ### Écailles, Os et Mailles
 
@@ -115,8 +115,8 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
 
 | Matériau |     DR     |           Prix |                                  Propriétés                                  | Poids (kg) |
 | -------- | :--------: | -------------: | :--------------------------------------------------------------------------: | :--------: |
-| Écaille  | 4 * rareté |  8 ^ rareté pc |                          Résistance aux conditions                           |    1.5     |
-| Os       | 5 * rareté | 10 ^ rareté pc |                [[Enchanteur#Ovliin\|Enchantements d'Ovliin]]                 |     1      |
+| Écaille  | 4 * rareté |  8 ^ rareté pc |                          Résistance aux conditions                           |    0.5     |
+| Os       | 5 * rareté | 10 ^ rareté pc |                [[Enchanteur#Ovliin\|Enchantements d'Ovliin]]                 |    0.5     |
 | Mailles  | 50% Métal  |      50% Métal | [[Enchanteur#Nirina\|Enchantements de Nirina]]<br>Pas de pré-requis en Force | 50% Métal  |
 
 ### Métaux

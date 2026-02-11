@@ -47,7 +47,7 @@ Une arme à 1 ou 2 Mains peut être modifiée pour altérer ses dégâts.
 |            | Léger                             |     Normal      | Lourd                       | Colossal                                     |
 | ---------- | :-------------------------------- | :-------------: | :-------------------------- | :------------------------------------------- |
 | Matériaux  | -1 Matériau                       |       ---       | +1 Matériaux                | x3 Matériaux                                 |
-| Bonus      | Modificateur de Force + Dextérité |    Bonus = 2    | 2 x Modificateur de Force   | Modif = 20                                   |
+| Bonus      | Modificateur de Force + Dextérité |    Bonus = 1    | Modificateur de Force       | 20                                           |
 | Prérequis  | Dextérité > 14 pour s'en servir   |       ---       | Force > 14 pour s'en servir | Force > 17 pour s'en servir                  |
 | Catégorie  | Devient une arme à 1 Main         | 1 Main\|2 Mains | Devient une arme à 2 Mains  | Devient une arme à 2 Mains                   |
 | Propriétés | -                                 |       ---       | -                           | [[Propriétés#Lent\|Lent]] sauf si Force > 19 |

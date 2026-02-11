@@ -49,20 +49,20 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure                       | AC  |            DR             |   Enchantement    |  Poids (kg)   |     Dégâts     |                                  Propriétés                                  |
-| ---------------------------- | :-: | :-----------------------: | :---------------: | :-----------: | :------------: | :--------------------------------------------------------------------------: |
-| Armure Gammoth<br>(4 pièces) |  9  | 20 (Os rare) +25%<br>= 25 |      Glace 4      | 24 - 20% = 20 |       -        | Désavantage en Dextérité (Discrétion)<br> Désavantage en Magies en combat |
-| Cape Fourrure                |  -  |             -             | Feu 5<br>Foudre 1 |       2       |       -        |                    Fusion = 1 crystal gratuit par action                     |
-| Bouclier d'Estoc             | -3  |      50 (Orichalque)      |     Foudre 5      |      15       | 1d6 C<br>1d8 P |                        [[Propriétés#Charge\|Charge]]                         |
+| Armure                       | AC  |                  DR                  |   Enchantement    |  Poids (kg)   |     Dégâts     |                                Propriétés                                 |
+| ---------------------------- | :-: | :----------------------------------: | :---------------: | :-----------: | :------------: | :-----------------------------------------------------------------------: |
+| Armure Gammoth<br>(4 pièces) |  9  | 20 (Os rare) + 25% + 5(Impé)<br>= 30 |      Glace 4      | 24 - 20% = 20 |       -        | Désavantage en Dextérité (Discrétion)<br> Désavantage en Magies en combat |
+| Cape Fourrure                |  -  |                  -                   | Feu 5<br>Foudre 1 |       2       |       -        |                   Fusion = 1 crystal gratuit par action                   |
+| Bouclier d'Estoc             | -3  |           50 (Orichalque)            |     Foudre 5      |      15       | 1d6 C<br>1d8 P |                       [[Propriétés#Charge\|Charge]]                       |
 
 ### [[Armes]]
 
-| Arme                       | Dégâts                                                                                     | Poids (kg) |                                             Propriétés                                             |
-| -------------------------- | ------------------------------------------------------------------------------------------ | :--------: | :------------------------------------------------------------------------------------------------: |
-| Hache (lourde)             | 12 Orichalque<br>x 2 VS Démons<br>+ 10 Ténèbres<br>= 12-34                                 |    7.5     |                                             Force > 15                                             |
-| Hache (lourde)             | 12 Orichalque<br>x 2 VS Démons<br>+ 10 Ténèbres<br>= 12-34                                 |    7.5     |                                             Force > 15                                             |
-| Epée (lourde)              | 10 Palladium<br>x 2 VS Anges<br>+ 10 Ténèbres<br>= 10-30                                   |     3      |                 Force > 15<br>Sang de dieu : [[Propriétés#Lacération\|Lacération]]                 |
-| Marteau Sharah (colossale) | 10 Adamantite<br>+ 8 Métal<br>x 2 Colossale<br>x 2 VS Mythiques (Or)<br>+ 8 Air<br>= 36-80 |     15     | Force > 15<br>(si Force > 17, +10 métal & +10 air)<br>[[Propriétés#Lent\|Lent]] sauf si Force > 19 |
+| Arme                      | Dégâts                                                                              |                                                   | Poids (kg) |                                             Propriétés                                             |
+| ------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------: |
+| Hache (lourd)             | 1d6 +4<br>+ 2x3 (Force)<br>+ 8 (Orichalque) (x2 VS Démons)<br>Ténèbres<br>= 19 - 32 | 1d6 + 18<br>+ 8 (Démons)<br>Ténèbres<br>= 19 - 32 |    7.5     |                                             Force > 15                                             |
+| Hache (lourd)             | 1d6 +4<br>+ 2x3 (Force)<br>+ 8 (Orichalque) (x2 VS Démons)<br>Ténèbres<br>= 19 - 32 | 1d6 + 18<br>+ 8 (Démons)<br>Ténèbres<br>= 19 - 32 |    7.5     |                                             Force > 15                                             |
+| Epée (lourd)              | 1d6 +4<br>+ 2x3 (Force)<br>+ 6 (Palladium) (x2 VS Ange)<br>Ténèbres<br>= 17 - 30    | 1d6 + 18<br>+ 8 (Démons)<br>Ténèbres<br>= 17 - 30 |     3      |                 Force > 15<br>Sang de dieu : [[Propriétés#Lacération\|Lacération]]                 |
+| Marteau Sharah (colossal) | 2d6 +2<br>+ 20<br>+ 7 (Adamantite)<br>+ Or (x2 VS Mythiques)<br>Air<br>= 31 - 58    | 2d6 + 29<br>+ 7 (Mythiques)<br>Air<br>= 31 - 58   |     15     | Force > 15<br>(si Force > 17, +10 métal & +10 air)<br>[[Propriétés#Lent\|Lent]] sauf si Force > 19 |
 
 ## [[Apprentissages]]
 
