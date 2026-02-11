@@ -46,3 +46,10 @@ Ajoute 5ft (1 case) de portée à l'arme.
 Les dégâts dans un rayon de 5ft (1 case) sont réduits de moitié.
 
 La zone d'attaque d'opportunité du joueur n'est plus un rayon de 5ft, mais un rayon entre 5ft et 10ft (1 case de distance).
+
+## Instable
+A chaque utilisation, le joueur lance 1d20.
+
+S'il fait un échec critique, l'objet n'est plus utilisable jusqu'à être réparé.
+
+S'il s'agit d'une arme, l'attaque touche, mais elle fait également la moitié des dégâts au joueur avant de "casser".
