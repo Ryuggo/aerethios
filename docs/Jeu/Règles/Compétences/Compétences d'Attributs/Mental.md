@@ -1,14 +1,19 @@
+| Compétence             |                Coût                 | Description                                                    |
+| ---------------------- | :---------------------------------: | -------------------------------------------------------------- |
+| **Intelligence**       |               [1 - 5]               | Modificateur lors de l'utilisation de magie élétiste           |
+| **Sagesse**            |               [1 - 5]               | Modificateur lors de l'utilisation de magie croitiste          |
+| Assidu                 | 19 (-1 par Sagesse et Intelligence) | Facilite l'apprentissage                                       |
+| **Résistance mentale** |               [1 - 5]               | Modificateur de contrôle de soi lors de situations stressantes |
+| Imperturbable          |   19 (-1 par Résistance mentale)    | La concentration ne peut pas se briser                         |
+
+---
+
 ## Intelligence
 
 [1-5] Modificateur lors de l'utilisation de magie élétiste.
 
-### Imperturbable
->Nécessite Intelligence/ Sagesse 3
-
-Conserve la concentration en mouvement.
-
 ### Assidu
->Nécessite Intelligence/ Sagesse 5 + Imperturbable
+>Nécessite Intelligence|Sagesse 5
 
 Facilite l'apprentissage.
 
@@ -16,19 +21,19 @@ Facilite l'apprentissage.
 
 [1-5] Modificateur lors de l'utilisation de magie croitiste.
 
-### Imperturbable
->Nécessite Intelligence/ Sagesse 3
-
-Conserve la concentration en mouvement.
-
 ### Assidu
->Nécessite Intelligence/ Sagesse 5 + Imperturbable
+>Nécessite Intelligence|Sagesse 5
 
 Facilite l'apprentissage.
 
 ## Résistance mentale
 
 [1-5] Modificateur de contrôle de soi lors de situations stressantes.
+
+### Imperturbable
+>Nécessite Résistance mentale 5
+
+Conserve la concentration en mouvement.
 
 ## Magicien
 
@@ -37,30 +42,3 @@ Facilite l'apprentissage.
 Il ne peut s'agir que des 5 premiers points.
 
 La magie peut ne pas être débloquée et les points seront en attente.
-
-# v2
-
-| Mental | Compétence | Description                                                                                                                                                      |
-| :----: | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   0    |            |                                                                                                                                                                  |
-|   1    |            |                                                                                                                                                                  |
-|   2    |            |                                                                                                                                                                  |
-|   3    |            |                                                                                                                                                                  |
-|   4    |            |                                                                                                                                                                  |
-|        |    ---     | Les compétences en dessous de 5 ne sont accessibles que pour l'attribut plus élevé<br>*(1 seul doit être supérieur aux autres)*                                  |
-|   5    |            |                                                                                                                                                                  |
-|   6    |  Général   | Sélectionner une compétence au choix dans la catégorie Générale                                                                                                  |
-|   7    |            |                                                                                                                                                                  |
-|   8    |            |                                                                                                                                                                  |
-|   9    |            |                                                                                                                                                                  |
-|   10   |    ---     | Les compétences en dessous de 10 ne sont accessibles que pour le.s attribut.s le plus élevé.s<br>*(Il peut y avoir plusieurs attributs s'ils ont le même score)* |
-|   11   |            |                                                                                                                                                                  |
-|   12   |            |                                                                                                                                                                  |
-|   13   |            |                                                                                                                                                                  |
-|   14   |  Général   | Sélectionner une compétence au choix dans la catégorie Générale                                                                                                  |
-|   15   |            |                                                                                                                                                                  |
-|   16   |            |                                                                                                                                                                  |
-|   17   |            |                                                                                                                                                                  |
-|   18   |            |                                                                                                                                                                  |
-|   19   |            |                                                                                                                                                                  |
-|   20   |            |                                                                                                                                                                  |
