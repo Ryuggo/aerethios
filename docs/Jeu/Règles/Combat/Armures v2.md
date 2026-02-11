@@ -75,15 +75,15 @@ Le joueur peut préciser la partie du corps qu'il attaque s'il n'est pas en comb
 
 | Matériau    | DR  |  Prix |                Propriétés                 | Poids (kg) |
 | ----------- | :-: | ----: | :---------------------------------------: | :--------: |
-| Coton       |  2  | 10 pa |    Air = 2 crystaux bonus par attaque     |    0.25    |
-| Chanvre     |  2  | 10 pa |    Eau = 2 crystaux bonus par attaque     |    0.25    |
-| Lin         |  2  | 10 pa |   Roche = 2 crystaux bonus par attaque    |    0.25    |
-| Soie        |  2  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |    0.25    |
-| Suède/ Daim |  2  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |    0.25    |
-| Laine       |  2  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |    0.25    |
-| Cachemire   |  2  | 25 pa | Elétistes = 1 crystal gratuit par action  |    0.5     |
-| Alpaga      |  2  | 25 pa | Croitistes = 1 crystal gratuit par action |    0.5     |
-| Fourrure    |  2  | 40 pa |   Fusion = 1 crystal gratuit par action   |    0.5     |
+| Coton       |  2  | 10 pa |    Air = 2 crystaux bonus par attaque     |     1      |
+| Chanvre     |  2  | 10 pa |    Eau = 2 crystaux bonus par attaque     |     1      |
+| Lin         |  2  | 10 pa |   Roche = 2 crystaux bonus par attaque    |     1      |
+| Soie        |  2  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |     1      |
+| Suède/ Daim |  2  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |     1      |
+| Laine       |  2  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |     1      |
+| Cachemire   |  2  | 25 pa | Elétistes = 1 crystal gratuit par action  |     2      |
+| Alpaga      |  2  | 25 pa | Croitistes = 1 crystal gratuit par action |     2      |
+| Fourrure    |  2  | 40 pa |   Fusion = 1 crystal gratuit par action   |     2      |
 
 >Les crystaux bonus par attaque nécessite d'en consommer au moins 1 pour s'appliquer (ex : 1 consommer +2 gratuits).
 

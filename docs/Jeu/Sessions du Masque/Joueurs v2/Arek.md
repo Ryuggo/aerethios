@@ -49,11 +49,11 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure           |              AC               |             Défense             |   Enchantement    |  Poids (kg)   |     Dégâts     | Température |                     Propriétés                     |
-| ---------------- | :---------------------------: | :-----------------------------: | :---------------: | :-----------: | :------------: | :---------: | :------------------------------------------------: |
-| Gammoth          | 18 + 5(Impénétrable)<br> = 23 | 20 (rare)<br>+3 (Force)<br>= 23 |      Glace 4      | 32 - 20% = 25 |       -        |      3      |                        ---                         |
-| Cape Fourrure    |               -               |                -                | Feu 5<br>Foudre 1 |       1       |       -        |      3      | Les sorts élétistes à 1 crystal ne le consomme pas |
-| Bouclier d'Estoc |               3               |         50 (Orichalque)         |     Foudre 5      |      15       | 1d6 C<br>1d8 P |      -      |           [[Propriétés#Charge\|Charge]]            |
+| Armure                       | AC  |            DR             |   Enchantement    |  Poids (kg)   |     Dégâts     |                                  Propriétés                                  |
+| ---------------------------- | :-: | :-----------------------: | :---------------: | :-----------: | :------------: | :--------------------------------------------------------------------------: |
+| Armure Gammoth<br>(4 pièces) |  9  | 20 (Os rare) +25%<br>= 25 |      Glace 4      | 24 - 20% = 20 |       -        | Désavantage en Dextérité (Discrétion)<br> Désavantage en Magies en combat |
+| Cape Fourrure                |  -  |             -             | Feu 5<br>Foudre 1 |       2       |       -        |                    Fusion = 1 crystal gratuit par action                     |
+| Bouclier d'Estoc             | -3  |      50 (Orichalque)      |     Foudre 5      |      15       | 1d6 C<br>1d8 P |                        [[Propriétés#Charge\|Charge]]                         |
 
 ### [[Armes]]
 
