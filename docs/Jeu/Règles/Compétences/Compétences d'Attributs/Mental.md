@@ -8,6 +8,7 @@
 | Assidu*                |   15    |        Turbulent         | Facilite l'apprentissage de "combat" (maîtrise, magie, ..)     |
 | **Résistance mentale** | [1 - 5] |                          | Modificateur de contrôle de soi lors de situations stressantes |
 | Imperturbable*         |   15    |                          | La concentration ne peut pas se briser                         |
+| **Arcanes**            |   19    |                          | Avantage de mental pour la magie en armure légère              |
 | **Stupide**            |   -5    | Intelligence<br>Studieux | Désavantage lors de l'utilisation de magie élétiste            |
 | **Turbulent**          |   -5    |    Sagesse<br>Assidu     | Désavantage lors de l'utilisation de magie croitiste           |
 

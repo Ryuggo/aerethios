@@ -5,6 +5,7 @@
 | **Athlétisme**   | [1 - 5] |  Obésité   | Modificateur lors d'un effort physique prolongé ou soudain                                                                                                   |
 | Destructeur*     |   10    |            | Avantage pour casser des objets ou des structures                                                                                                            |
 | **Mule**         | [1 - 5] |            | Ajoute (20 x Modificateur de Force) à la charge maximale<br>*Charge maximale + 20kg par point*                                                               |
+| Seconde peau*    |    8    |            | Poids de l'armure équipée réduit 10% par point en Mule                                                                                                       |
 | Grosse Berta*    |   12    |            | Permet de lancer un objet dont le poids = charge maximale<br>Dégâts à la cible = poids - (20 x case de distance)<br>Dégâts à l'objet = Dégâts à la cible / 2 |
 | **Bagarre**      | [1 - 5] |            | Avantage de force pour les coups de poings en gantelet d'armure lourde                                                                                       |
 | Bourrin*         |   14    |            | Permet d'ajouter son modificateur de Force aux dégâts de son arme                                                                                            |
