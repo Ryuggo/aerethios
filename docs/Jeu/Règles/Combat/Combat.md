@@ -65,7 +65,7 @@ On peut passer un passage étroit que s'il n'est que 1 fois plus petit que soi.
 | Mêlée                            | Distance                              | Magie                                          |
 | -------------------------------- | ------------------------------------- | ---------------------------------------------- |
 | Dégâts d'arme                    | Dégâts d'arme                         | Dégâts de magie                                |
-| Matériaux (& Enchantements)      | Munition (& Matériaux)                | Toile céleste                                  |
+| Matériaux                        | Munition                              | Toile céleste                                  |
 | 1 Multiplicateur final (Style, ) | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
 
 ##### Précision
