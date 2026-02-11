@@ -1,4 +1,4 @@
->Le coût des compétences avec un * sont réduits de 1 pour chaque point investi dans la/les compétence.s directement au dessus (en gras).
+>Le coût des compétences avec un * sont réduits de 1 pour chaque point investi dans la compétence directement au dessus (en gras).
 
 | Compétence             |  Coût   |         Empêche          | Description                                                    |
 | ---------------------- | :-----: | :----------------------: | -------------------------------------------------------------- |

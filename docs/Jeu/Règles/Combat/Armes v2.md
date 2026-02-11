@@ -2,16 +2,18 @@
 
 ## Dégâts
 
-| Catégorie                      | Prix main d'œuvre | Dégâts                       | Modificateur          |            Propriétés             |   Matériaux |
-| ------------------------------ | ----------------: | ---------------------------- | --------------------- | :-------------------------------: | ----------: |
-| Courte                         |              5 pa | Dé                           | Dextérité\|Force      | [[Propriétés#Critique\|Critique]] |  1 Matériau |
-| 1 Main                         |             10 pa | Dé + Modif                   | Dextérité\|Force      |    [[Propriétés#Léger\|Léger]]    | 2 Matériaux |
-| 2 Mains                        |             20 pa | Dé + 2xModif                 | Force\|Dextérité      |                                   | 3 Matériaux |
-| Haste                          |             40 pa | Dé x 2                       | Force\|Dextérité      |   [[Propriétés#Portée\|Portée]]   | 5 Matériaux |
-| Distance<br>(Arcs & Arbalètes) |             20 pa | Taille x Modificateur        | Dextérité\|Perception |                                   |           - |
-| Distance<br>(Fusils & Canons)  |              1 po | (Taille + Modificateur) x 10 | Perception            |     [[Propriétés#Lent\|Lent]]     |             |
+| Catégorie                      | Prix main d'œuvre | Dégâts                          | Modificateur          |            Propriétés             |   Matériaux |
+| ------------------------------ | ----------------: | ------------------------------- | --------------------- | :-------------------------------: | ----------: |
+| Courte                         |              5 pa | Dé                              | Dextérité\|Force      | [[Propriétés#Critique\|Critique]] |  1 Matériau |
+| 1 Main                         |             10 pa | Dé + Bonus                      | Dextérité\|Force      |    [[Propriétés#Léger\|Léger]]    | 2 Matériaux |
+| 2 Mains                        |             20 pa | Dé + (2 x Bonus)                | Force\|Dextérité      |                ---                | 3 Matériaux |
+| Haste                          |             40 pa | Dé x 2                          | Force\|Dextérité      |   [[Propriétés#Portée\|Portée]]   | 5 Matériaux |
+| Distance<br>(Arcs & Arbalètes) |             20 pa | Puissance x Modificateur        | Dextérité\|Perception |                ---                |           - |
+| Distance<br>(Fusils & Canons)  |              1 po | (Puissance + Modificateur) x 10 | Perception            |     [[Propriétés#Lent\|Lent]]     |             |
 
->Le dé de dégâts est déterminé dans le tableau ci-dessous.
+- Le dé de dégâts change selon les enchantements,
+- le bonus est déterminé par le poids de l'arme,
+- la puissance est généralement déterminée par la taille de l'arme.
 
 ### Enchantements
 
@@ -26,17 +28,19 @@ Si l'arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] sont 
 | **Réussite normale**  | 1d6  |  1d8   |  1d10  |  1d12  | 2d6 +2 | 2d6 +4  |
 | **Réussite critique** |  -   | 1d6 +2 | 1d6 +4 | 1d6 +6 | 1d6 +8 | 1d6 +10 |
 
-### Modifications
+### Poids
 
 Une arme à 1 ou 2 Mains peut être modifiée pour altérer ses dégâts.
 
-| Léger                           | Normal    | Lourd                       | Colossal                                     |
-| :------------------------------ | --------- | :-------------------------- | :------------------------------------------- |
-| -1 Matériau                     | -         | x2 Matériaux                | x3 Matériaux                                 |
-| Modif = 5                       | Modif = 2 | Modif = 5                   | Modif = 10                                   |
-| Dextérité > 14 pour s'en servir | -         | Force > 14 pour s'en servir | Force > 17 pour s'en servir                  |
-| Devient une arme à 1 Main       | -         | Devient une arme à 2 Mains  | Devient une arme à 2 Mains                   |
-| [[Propriétés#Léger\|Léger]]     |           |                             | [[Propriétés#Lent\|Lent]] sauf si Force > 19 |
+| Poids      | Léger                             | Normal          | Lourd                       | Colossal                                     |
+| ---------- | :-------------------------------- | --------------- | :-------------------------- | :------------------------------------------- |
+| Matériaux  | -1 Matériau                       | -               | +1 Matériaux                | x3 Matériaux                                 |
+| Bonus      | Modificateur de Force + Dextérité | Bonus = 2       | 2 x Modificateur de Force   | Modif = 10                                   |
+| Prérequis  | Dextérité > 14 pour s'en servir   | -               | Force > 14 pour s'en servir | Force > 17 pour s'en servir                  |
+| Catégorie  | Devient une arme à 1 Main         | 1 Main\|2 Mains | Devient une arme à 2 Mains  | Devient une arme à 2 Mains                   |
+| Propriétés | -                                 | -               | -                           | [[Propriétés#Lent\|Lent]] sauf si Force > 19 |
+
+### Puissance
 
 ## Catégories
 

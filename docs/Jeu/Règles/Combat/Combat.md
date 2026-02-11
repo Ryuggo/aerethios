@@ -62,11 +62,11 @@ On peut passer un passage étroit que s'il n'est que 1 fois plus petit que soi.
 #### Jet.s de dégâts
 >Résultat - Défense (DR) = Dégâts au HP.
 
-| Mêlée                               | Distance                              | Magie                                          |
-| ----------------------------------- | ------------------------------------- | ---------------------------------------------- |
-| Dégâts d'arme                       | Dégâts d'arme                         | Dégâts de magie                                |
-| Matériaux (& Enchantements)         | Munition (& Matériaux)                | Toile céleste                                  |
-| 1 Multiplicateur final (Style, )    | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
+| Mêlée                            | Distance                              | Magie                                          |
+| -------------------------------- | ------------------------------------- | ---------------------------------------------- |
+| Dégâts d'arme                    | Dégâts d'arme                         | Dégâts de magie                                |
+| Matériaux (& Enchantements)      | Munition (& Matériaux)                | Toile céleste                                  |
+| 1 Multiplicateur final (Style, ) | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* |
 
 ##### Précision
 >Seulement pour les armes à distance.
