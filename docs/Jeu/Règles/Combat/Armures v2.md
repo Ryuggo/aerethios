@@ -10,20 +10,20 @@
 
 **Effets**
     + [[Enchanteur#Suraja|Enchantements de Suraja]]
-	+ Pendant son tour, le joueur peut convertir des crystaux en AC (1:1, Max = Modificateur Mental)
+	+ Pendant son tour, le joueur peut convertir des crystaux en AC (1:1, Max = Mental / 4)
 	  Il perd ce bonus une fois touché
 
 | Matériau    | AC  | DR  |  Prix |                Propriétés                 | Poids (kg) |
 | ----------- | :-: | :-: | ----: | :---------------------------------------: | :--------: |
-| Coton       | 16  |  2  | 10 pa |    Air = 2 crystaux bonus par attaque     |    0.1     |
-| Chanvre     | 16  |  2  | 10 pa |    Eau = 2 crystaux bonus par attaque     |    0.1     |
-| Lin         | 16  |  2  | 10 pa |   Roche = 2 crystaux bonus par attaque    |    0.1     |
-| Soie        | 16  |  2  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |    0.1     |
-| Suède/ Daim | 16  |  2  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |    0.1     |
-| Laine       | 16  |  2  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |    0.1     |
-| Cachemire   | 14  |  3  | 25 pa | Elétistes = 1 crystal gratuit par action  |    0.25    |
-| Alpaga      | 14  |  3  | 25 pa | Croitistes = 1 crystal gratuit par action |    0.25    |
-| Fourrure    | 14  |  3  | 40 pa |   Fusion = 1 crystal gratuit par action   |    0.25    |
+| Coton       | 16  |  2  | 10 pa |    Air = 2 crystaux bonus par attaque     |    0.25    |
+| Chanvre     | 16  |  2  | 10 pa |    Eau = 2 crystaux bonus par attaque     |    0.25    |
+| Lin         | 16  |  2  | 10 pa |   Roche = 2 crystaux bonus par attaque    |    0.25    |
+| Soie        | 16  |  2  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |    0.25    |
+| Suède/ Daim | 16  |  2  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |    0.25    |
+| Laine       | 16  |  2  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |    0.25    |
+| Cachemire   | 14  |  3  | 25 pa | Elétistes = 1 crystal gratuit par action  |    0.5     |
+| Alpaga      | 14  |  3  | 25 pa | Croitistes = 1 crystal gratuit par action |    0.5     |
+| Fourrure    | 14  |  3  | 40 pa |   Fusion = 1 crystal gratuit par action   |    0.5     |
 
 >Les crystaux bonus par attaque nécessite d'en consommer au moins 1 pour s'appliquer (ex : 1 consommer +2 gratuits).
 
@@ -37,20 +37,21 @@
 
 | Matériau       | AC  |     DR     |          Prix |                   Propriétés                    | Poids (kg) |
 | -------------- | :-: | :--------: | ------------: | :---------------------------------------------: | :--------: |
-| Peau           | 12  | 2 * rareté | 2 ^ rareté pa | Résiste à [[Conditions#Saignement\|Saignement]] |    0.25    |
-| Cuir (bouilli) | 10  | 3 * rareté | 4 ^ rareté pa |     Résiste à [[Conditions#Poison\|Poison]]     |    0.25    |
+| Peau           | 12  | 2 * rareté | 2 ^ rareté pa | Résiste à [[Conditions#Saignement\|Saignement]] |    0.5     |
+| Cuir (bouilli) | 10  | 3 * rareté | 4 ^ rareté pa |     Résiste à [[Conditions#Poison\|Poison]]     |    0.5     |
 
-### Cuirs, Écailles et Os
+### Écailles et Os
 
 **Effets**
+	+ [[Enchanteur#Ovliin|Enchantements d'Ovliin]]
     + Se répare auprès d'un potionniste
     - Désavantage en Dextérité (Discrétion)
     - Désavantage en Magies en combat
 
-| Matériau | AC  |     DR     |           Prix |  Force >=  |                  Propriétés                   | Poids (kg) |
-| -------- | :-: | :--------: | -------------: | :--------: | :-------------------------------------------: | :--------: |
-| Écaille  |  8  | 4 * rareté |  8 ^ rareté pc | 2 * rareté |           Résistance aux conditions           |    0.5     |
-| Os       |  6  | 5 * rareté | 10 ^ rareté pc | 3 * rareté | [[Enchanteur#Ovliin\|Enchantements d'Ovliin]] |    0.5     |
+| Matériau | AC  |     DR     |          Prix |  Force >=  |        Propriétés         | Poids (kg) |
+| -------- | :-: | :--------: | ------------: | :--------: | :-----------------------: | :--------: |
+| Écaille  |  8  | 4 * rareté | 6 ^ rareté pc | 2 * rareté | Résistance aux conditions |    0.75    |
+| Os       |  6  | 5 * rareté | 8 ^ rareté pc | 3 * rareté | 1 invulnérabilité magique |    0.75    |
 
 ### Métaux
 
