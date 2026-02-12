@@ -25,14 +25,13 @@ Si une arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] son
 | **Réussite normale**  | 1d4  |  1d6   |  1d8   |  1d10  |  1d12   |   1d20   |
 | **Réussite critique** |  -   | 1d4 +2 | 1d6 +2 | 1d8 +2 | 1d10 +2 | 1d10 +10 |
 
-### Puissance
+### Modifications
 
-
-| Léger/ Petit                    | Normal | Lourd/ Grand                | Colossal                    |
+| Léger/ Petit                    | Normal | Lourd/ Grand                | Colossal (seulement mêlée)  |
 | :------------------------------ | :----: | :-------------------------- | :-------------------------- |
 | -1 Matériau                     |  ---   | +1 Matériaux                | x3 Matériaux                |
 | Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
-| +1 dé -X                        |  ---   | -1 dé +X                    | -2 dés, 2 * (X)             |
+| +1 dé, -X                       |  ---   | -1 dé, +X                   | -2 dés, 2 * (X)             |
 
 ### Munitions
 
