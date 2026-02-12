@@ -12,6 +12,14 @@ tags:
 
 - Les humanoïdes possèdent tous un **maximum de 50 HP** qui se régénèrent avec du repos (pour peu que la personne ait mangé récemment) ou de la magie.
 
+## AC
+>L'AC dépend du type d'armure équipée.
+
+|     Tissu<br>*(Légère)*     | Cuir, Peaux, Écailles, Os et Mailles (métal)<br>*(Intermédiaire)* | Plate (métal)<br>*(Lourde)* |
+| :-------------------------: | :---------------------------------------------------------------: | :-------------------------: |
+| Dextérité<br>(+ Accrobatie) |                    Dextérité<br>(+ Accrobatie)                    |              -              |
+|  + Crystaux (max = Mental)  |                                                                   |                             |
+
 ## Mouvement
 
 La majorité des entités possèdent 6 cases (30ft) de déplacement.

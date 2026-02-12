@@ -14,9 +14,9 @@
 | Catégorie                     | Prix main d'œuvre | Dégâts                   | Modificateur          |            Propriétés             |   Matériaux |
 | ----------------------------- | ----------------: | ------------------------ | --------------------- | :-------------------------------: | ----------: |
 | Courte                        |              5 pa | Dé                       | Dextérité\|Force      | [[Propriétés#Critique\|Critique]] |  1 Matériau |
-| 1 Main                        |             10 pa | Dé + Puissance           | Dextérité\|Force      |    [[Propriétés#Léger\|Léger]]    | 2 Matériaux |
-| 2 Mains                       |             20 pa | Dé + (2 x Puissance)     | Force\|Dextérité      |                ---                | 3 Matériaux |
-| Haste                         |             40 pa | Dé x 2                   | Force\|Dextérité      |   [[Propriétés#Portée\|Portée]]   | 5 Matériaux |
+| 1 Main                        |             10 pa | Dé                       | Dextérité\|Force      |    [[Propriétés#Léger\|Léger]]    | 2 Matériaux |
+| 2 Mains                       |             20 pa | Dé                       | Force\|Dextérité      |                ---                | 3 Matériaux |
+| Haste                         |             40 pa | Dé                       | Force\|Dextérité      |   [[Propriétés#Portée\|Portée]]   | 5 Matériaux |
 | Distance<br>(Arcs)            |  5 x Puissance pa | Puissance x Modificateur | Dextérité\|Perception |                ---                |           - |
 | Distance<br>(Arbalètes)       | 20 x Puissance pa | Puissance x Modificateur | Perception            |     [[Propriétés#Lent\|Lent]]     |           - |
 | Distance<br>(Fusils & Canons) |  1 x Puissance po | Puissance x Modificateur | Perception            | [[Propriétés#Instable\|Instable]] |           - |
@@ -33,10 +33,10 @@ Si une arme est en métal, seul les [[Enchanteur#Nirina|Enchantements de Nirina]
 
 Si une arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] sont efficaces (en plus de lui ajouter un effet magique).
 
-|     Enchantement      | Base |   +1   |   +2   |   +3   |   +4   |   +5    |
-| :-------------------: | :--: | :----: | :----: | :----: | :----: | :-----: |
-| **Réussite normale**  | 1d6  |  1d8   |  1d10  |  1d12  | 2d6 +2 | 2d6 +4  |
-| **Réussite critique** |  -   | 1d6 +2 | 1d6 +4 | 1d6 +6 | 1d6 +8 | 1d6 +10 |
+|     Enchantement      | Base |   +1   |   +2   |   +3   |   +4    |    +5    |
+| :-------------------: | :--: | :----: | :----: | :----: | :-----: | :------: |
+| **Réussite normale**  | 1d4  |  1d6   |  1d8   |  1d10  |  1d12   |   1d20   |
+| **Réussite critique** |  -   | 1d4 +2 | 1d6 +2 | 1d8 +2 | 1d10 +2 | 1d10 +10 |
 
 ### Puissance
 
@@ -70,7 +70,7 @@ D'autres [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|matériaux]] peuve
 | Matériaux  | Arme             | Prix/ unité |                     Propriétés                      |
 | ---------- | ---------------- | ----------: | :-------------------------------------------------: |
 | Tissu      | Arcs & Arbalètes |        1 pa |                      Enflammé                       |
-| Obsidienne | Arcs & Arbalètes |        5 pa |                        10 T                         |
+| Obsidienne | Arcs & Arbalètes |        5 pa |                         10                          |
 | Plomb      | Armes à feu      |       10 pa |           [[Afflictions#Poison\|Poison]]            |
 | Crystaux   | Tout             |        1 po | [[Afflictions#Surcharge\|Surcharge]]<br>5 munitions |
 
