@@ -27,25 +27,12 @@ Si une arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] son
 
 ### Puissance
 
-#### Mêlée
 
-Une arme à 1 ou 2 Mains peut être modifiée pour altérer ses dégâts.
-
-| Léger                             |  Normal   | Lourd                       | Colossal                    |
-| :-------------------------------- | :-------: | :-------------------------- | :-------------------------- |
-| -1 Matériau                       |    ---    | +1 Matériaux                | x3 Matériaux                |
-| Dextérité > 14 pour s'en servir   |    ---    | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
-|                                   |           |                             | Devient une arme à 2 Mains  |
-| +1 dé -X                          |    ---    | -1 dé +X                    | -2 dés +3X                  |
-
-#### Distance
-
-|             |            Petit            | Normal |           Grand           |
-| ----------- | :-------------------------: | :----: | :-----------------------: |
-| Arcs        |             1d4             |  1d6   |            1d8            |
-| Arbalètes   |              4              |   6    |             8             |
-| Armes à feu |              5              |   10   |            20             |
-| Propriétés  | [[Propriétés#Léger\|Léger]] |  ---   | [[Propriétés#Lent\|Lent]] |
+| Léger/ Petit                    | Normal | Lourd/ Grand                | Colossal                    |
+| :------------------------------ | :----: | :-------------------------- | :-------------------------- |
+| -1 Matériau                     |  ---   | +1 Matériaux                | x3 Matériaux                |
+| Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
+| +1 dé -X                        |  ---   | -1 dé +X                    | -2 dés, 2 * (X)             |
 
 ### Munitions
 
