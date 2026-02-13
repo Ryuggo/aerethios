@@ -39,7 +39,7 @@ Si une arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] son
 
 | Léger/ Petit                    | Normal | Lourd/ Grand                | Colossal (seulement mêlée)  |
 | :------------------------------ | :----: | :-------------------------- | :-------------------------- |
-| -1 Matériau                     |  ---   | +1 Matériaux                | x3 Matériaux                |
+| -1 Matériau                     |  ---   | +1 Matériaux                | +3 Matériaux                |
 | Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
 | +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés, +2X                 |
 

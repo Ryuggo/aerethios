@@ -57,12 +57,12 @@
 
 ### [[Armes]]
 
-| Arme                                                       | Dégâts                                       | Poids (kg) |                                             Propriétés                                             |
-| ---------------------------------------------------------- | -------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------: |
-| Hache<br>Orichalque<br>1 Main<br>(lourd)                   | 1d8 + 36<br>VS Démons<br>Ténèbres<br>= 37-44 |    7.5     |                                             Force > 15                                             |
-| Hache <br>Orichalque<br>1 Main<br>(lourd)                  | 1d8 + 36<br>VS Démons<br>Ténèbres<br>= 37-44 |    7.5     |                                             Force > 15                                             |
-| Epée<br>Palladium<br>1 Main<br>(lourd)                     | 1d8 + 30<br>VS Démons<br>Ténèbres<br>= 31-38 |     3      |                 Force > 15<br>Sang de dieu : [[Propriétés#Lacération\|Lacération]]                 |
-| Marteau Sharah<br>Adamantite (Or)<br>2 Mains<br>(colossal) | 1d4 + 50<br>VS Mythiques<br>Air<br>= 51-54   |     15     | Force > 15<br>(si Force > 17, +10 métal & +10 air)<br>[[Propriétés#Lent\|Lent]] sauf si Force > 19 |
+| Arme                                                       | Dégâts                                       | Poids (kg) |                             Propriétés                             |
+| ---------------------------------------------------------- | -------------------------------------------- | :--------: | :----------------------------------------------------------------: |
+| Hache<br>Orichalque<br>1 Main<br>(lourd)                   | 1d8 + 36<br>VS Démons<br>Ténèbres<br>= 37-44 |    7.5     |                             Force > 15                             |
+| Hache <br>Orichalque<br>1 Main<br>(lourd)                  | 1d8 + 36<br>VS Démons<br>Ténèbres<br>= 37-44 |    7.5     |                             Force > 15                             |
+| Epée<br>Palladium<br>1 Main<br>(lourd)                     | 1d8 + 30<br>VS Anges<br>Ténèbres<br>= 31-38  |     6      | Force > 15<br>Sang de dieu : [[Propriétés#Lacération\|Lacération]] |
+| Marteau Sharah<br>Adamantite (Or)<br>2 Mains<br>(colossal) | 1d4 + 40<br>VS Mythiques<br>Air<br>= 41-44   |     12     |             Force > 15<br>(si Force > 17, +10 Dégâts)              |
 
 ## [[Apprentissages]]
 
