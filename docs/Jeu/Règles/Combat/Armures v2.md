@@ -1,9 +1,9 @@
 >AC (Armor Class) = Mobilité d'esquive naturelle
 >DR (Damage Reduction) = Réduction des dégâts
 
-	Tissu : AC [14 - 26] DR [2 - 3]
-	Cuir : AC [10 - 17] DR [2 - 15]
-	Os : AC [6 - 13] DR [4 - 25]
+	Tissu : AC [16 - 28] DR [2 - 3]
+	Cuir : AC [12 - 19] DR [2 - 15]
+	Os : AC [8 - 15] DR [4 - 25]
 	Métal : AC [4 - 10] DR [7 - 40]
 
 ## Matériaux
@@ -20,15 +20,15 @@
 
 | Matériau    | AC  | DR  |  Prix |                Propriétés                 | Poids (kg) |
 | ----------- | :-: | :-: | ----: | :---------------------------------------: | ---------: |
-| Coton       | 16  |  2  | 10 pa |    Air = 2 crystaux bonus par attaque     |       0.25 |
-| Chanvre     | 16  |  2  | 10 pa |    Eau = 2 crystaux bonus par attaque     |       0.25 |
-| Lin         | 16  |  2  | 10 pa |   Roche = 2 crystaux bonus par attaque    |       0.25 |
-| Soie        | 16  |  2  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |       0.25 |
-| Suède/ Daim | 16  |  2  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |       0.25 |
-| Laine       | 16  |  2  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |       0.25 |
-| Cachemire   | 14  |  3  | 25 pa | Elétistes = 1 crystal gratuit par action  |        0.5 |
-| Alpaga      | 14  |  3  | 25 pa | Croitistes = 1 crystal gratuit par action |        0.5 |
-| Fourrure    | 14  |  3  | 40 pa |   Fusion = 1 crystal gratuit par action   |        0.5 |
+| Coton       | 18  |  2  | 10 pa |    Air = 2 crystaux bonus par attaque     |       0.25 |
+| Chanvre     | 18  |  2  | 10 pa |    Eau = 2 crystaux bonus par attaque     |       0.25 |
+| Lin         | 18  |  2  | 10 pa |   Roche = 2 crystaux bonus par attaque    |       0.25 |
+| Soie        | 18  |  2  | 10 pa |  Lumière = 2 crystaux bonus par attaque   |       0.25 |
+| Suède/ Daim | 18  |  2  | 10 pa |  Ténèbres = 2 crystaux bonus par attaque  |       0.25 |
+| Laine       | 18  |  2  | 10 pa |   Foudre = 2 crystaux bonus par attaque   |       0.25 |
+| Cachemire   | 16  |  3  | 25 pa | Elétistes = 1 crystal gratuit par action  |       0.25 |
+| Alpaga      | 16  |  3  | 25 pa | Croitistes = 1 crystal gratuit par action |       0.25 |
+| Fourrure    | 16  |  3  | 40 pa |   Fusion = 1 crystal gratuit par action   |       0.25 |
 
 >Les crystaux bonus par attaque nécessite d'en consommer au moins 1 pour s'appliquer (ex : 1 consommer +2 gratuits).
 
@@ -42,8 +42,8 @@
 
 | Matériau       | AC  |     DR     |          Prix |                   Propriétés                    | Poids (kg) |
 | -------------- | :-: | :--------: | ------------: | :---------------------------------------------: | ---------: |
-| Peau           | 12  | 2 * rareté | 2 ^ rareté pa | Résiste à [[Conditions#Saignement\|Saignement]] |        0.5 |
-| Cuir (bouilli) | 10  | 3 * rareté | 4 ^ rareté pa |     Résiste à [[Conditions#Poison\|Poison]]     |        0.5 |
+| Peau           | 14  | 2 * rareté | 2 ^ rareté pa | Résiste à [[Conditions#Saignement\|Saignement]] |        0.5 |
+| Cuir (bouilli) | 12  | 3 * rareté | 4 ^ rareté pa |     Résiste à [[Conditions#Poison\|Poison]]     |        0.5 |
 
 ### Écailles et Os
 
@@ -55,8 +55,8 @@
 
 | Matériau | AC  |     DR     |          Prix |  Force >=  |        Propriétés         | Poids (kg) |
 | -------- | :-: | :--------: | ------------: | :--------: | :-----------------------: | ---------: |
-| Écaille  |  8  | 4 * rareté | 6 ^ rareté pc | 2 * rareté | Résistance aux conditions |       0.75 |
-| Os       |  6  | 5 * rareté | 8 ^ rareté pc | 3 * rareté | 1 invulnérabilité magique |       0.75 |
+| Écaille  | 10  | 4 * rareté | 6 ^ rareté pc | 2 * rareté | Résistance aux conditions |       0.75 |
+| Os       |  8  | 5 * rareté | 8 ^ rareté pc | 3 * rareté | 1 invulnérabilité magique |       0.75 |
 
 ### Métaux
 
@@ -69,15 +69,15 @@
 | Matériau   |    AC    | DR  |  Prix | Force >= |                    Propriétés                    | Poids (kg) |
 | ---------- | :------: | :-: | ----: | :------: | :----------------------------------------------: | ---------: |
 | Mailles    | AC/2 + 4 | 50% |   50% |   ---    |                       ---                        |        50% |
-| Fonte      |    10    | 15  |  2 pa |    10    |                       ---                        |        1.5 |
+| Fonte      |    10    | 15  |  2 pa |    10    |                       ---                        |       1.25 |
 | Fer        |    9     | 18  | 10 pa |    11    |                       ---                        |          1 |
-| Bronze     |    8     | 21  | 25 pa |    12    |                       ---                        |        1.5 |
+| Bronze     |    8     | 21  | 25 pa |    12    |                       ---                        |       1.25 |
 | Acier      |    7     | 24  | 50 pa |    13    |                       ---                        |          1 |
 | Titane     |    6     | 27  |  1 po |    14    |                       ---                        |        1.5 |
-| Mythril    |    7     | 30  |  5 po |    12    | Dextérité (Discrétion) possible avec désavantage |          1 |
-| Palladium  |    5     | 35  |  7 po |    16    | Magies (Croititiste) possibles avec désavantage  |          2 |
-| Adamantite |    5     | 35  |  7 po |    16    |   Magies (Élétiste) possibles avec désavantage   |          2 |
-| Orichalque |    4     | 40  | 10 po |    18    |                       ---                        |        2.5 |
+| Mythril    |    7     | 30  |  5 po |    12    | Dextérité (Discrétion) possible avec désavantage |       1.25 |
+| Palladium  |    5     | 35  |  7 po |    16    | Magies (Croititiste) possibles avec désavantage  |        1.5 |
+| Adamantite |    5     | 35  |  7 po |    16    |   Magies (Élétiste) possibles avec désavantage   |        1.5 |
+| Orichalque |    4     | 40  | 10 po |    18    |                       ---                        |          2 |
 
 #### Boucliers
 

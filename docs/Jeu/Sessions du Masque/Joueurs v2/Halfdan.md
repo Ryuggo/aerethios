@@ -45,11 +45,11 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure           |                 AC                 |  Défense   | Enchantement | Poids (kg) | Dégâts | Température |                     Propriétés                      |
-| ---------------- | :--------------------------------: | :--------: | :----------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
-| Cuir Bouilli     | 11 + 2(Dex) + 0(Impénétrable) = 13 | 6 (commun) |      -       |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
-| Cape en fourrure |                 -                  |     -      |   Foudre 2   |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
-| Bouclier         |                 2                  |  5 (Fer)   |      -       |     4      | 1d6 C  |      -      |                          -                          |
+| Armure           |                 AC                 |     DR     | Enchantement | Poids (kg) | Dégâts |                     Propriétés                      |
+| ---------------- | :--------------------------------: | :--------: | :----------: | :--------: | :----: | :-------------------------------------------------: |
+| Cuir Bouilli     | 11 + 2(Dex) + 0(Impénétrable) = 13 | 6 (commun) |      -       |     3      |   -    |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape en fourrure |                 -                  |     -      |   Foudre 2   |     1      |   -    | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Bouclier         |                 2                  |  5 (Fer)   |      -       |     4      | 1d6 C  |                          -                          |
 
 ### [[Armes]]
 

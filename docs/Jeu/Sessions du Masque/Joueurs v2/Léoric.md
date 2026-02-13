@@ -49,18 +49,18 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure             |                 AC                 | Défense |      Enchantement      | Poids (kg) | Dégâts | Température |                     Propriétés                     |
-| ------------------ | :--------------------------------: | :-----: | :--------------------: | :--------: | :----: | :---------: | :------------------------------------------------: |
-| Chemise de mailles | 13 + 0(Dex) + 0(Impénétrable) = 13 | 5 (Fer) |           -            |     5      |   -    |      -      |                         -                          |
-| Cape en fourrure   |                 -                  |    -    | Ténèbres 2<br>Foudre 1 |     1      |   -    |      3      | Les sorts élétistes à 1 crystal ne le consomme pas |
+| Armure                |         AC          |           DR           |      Enchantement      | Poids (kg) | Dégâts |                     Propriétés                     |
+| --------------------- | :-----------------: | :--------------------: | :--------------------: | :--------: | :----: | :------------------------------------------------: |
+| Armure Mailles<br>Fer | 9<br>+0(Dex)<br>= 9 | 18<br>+5(Impé)<br>= 23 |           -            |     12     |   -    |                         -                          |
+| Cape en fourrure      |          -          |           -            | Ténèbres 2<br>Foudre 1 |     1      |   -    | Les sorts élétistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
-| Arme                | 1 Main | 2 Mains | Dégâts                                                                      | Poids (kg) |         Propriétés          |
-| ------------------- | :----: | :-----: | --------------------------------------------------------------------------- | :--------: | :-------------------------: |
-| 2 Poings            | 1d6 C  |    -    | 6 Titane<br>x 2 VS Invocations<br>+ 6 Glace<br>= 6-18                       |     1      | [[Propriétés#Léger\|Léger]] |
-| 2 Poings de Gammoth | 1d6 C  |    -    | 4 Os<br>+ 2x10 Glace<br>= 4-24                                              |     1      | [[Propriétés#Léger\|Léger]] |
-| 2 Poings de Sharah  | 1d6 C  |    -    | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 10 Air<br>= 20-50 |     1      | [[Propriétés#Léger\|Léger]] |
+| Arme                                                   | Dégâts                                                      | Poids (kg) |         Propriétés          |
+| ------------------------------------------------------ | ----------------------------------------------------------- | :--------: | :-------------------------: |
+| 2 Poings<br>Titane<br>Court                            | 2d12 + 7<br>VS Invocations<br>= 9-31                        |   2x1.5    | [[Propriétés#Léger\|Léger]] |
+| 2 Poings Gammoth<br>Os<br>Court                        | 2d12 + 6<br>Glace<br>= 8-30                                 |   2x0.75   | [[Propriétés#Léger\|Léger]] |
+| 2 Poings Sharah<br>Adamantite (Or)<br>Court<br>(lourd) | 1d12 + 20<br>+ 10 Métal ?<br>VS Mythiques<br>Air<br>= 21-32 |    2x4     | [[Propriétés#Léger\|Léger]] |
 
 ## [[Apprentissages]]
 

@@ -48,18 +48,18 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure             |              AC              |                Défense                 |  Enchantement  | Poids (kg) | Dégâts |               Propriétés                |
-| ------------------ | :--------------------------: | :------------------------------------: | :------------: | :--------: | :----: | :-------------------------------------: |
-| Cuir<br>(4 pièces) | 9 + 2(Dex) + 5(Acro)<br>= 16 | 9 (peu commun) + 25% + 3(Impé)<br>= 11 |       -        |     6      |   -    | Résiste à [[Conditions#Poison\|Poison]] |
-| Veste longue Coton |              -               |                   -                    | Air 1<br>Feu 1 |     1      |   -    |   Air = 2 crystaux bonus par attaque    |
+| Armure             |           AC           |                 DR                 |  Enchantement  | Poids (kg) | Dégâts |               Propriétés                |
+| ------------------ | :--------------------: | :--------------------------------: | :------------: | :--------: | :----: | :-------------------------------------: |
+| Armure<br>Cuir     | 12<br>+2(Dex) <br>= 14 | 9(peu commun) <br>+3(Impé)<br>= 11 |       -        |     12     |   -    | Résiste à [[Conditions#Poison\|Poison]] |
+| Veste longue Coton |           -            |                 -                  | Air 1<br>Feu 1 |     1      |   -    |   Air = 2 crystaux bonus par attaque    |
 
 ### [[Armes]]
 
-| Arme                                       | Dégâts                                                                   | Poids (kg) |                            Propriétés                            |
-| ------------------------------------------ | ------------------------------------------------------------------------ | :--------: | :--------------------------------------------------------------: |
-| Trident                                    | 1d6 x2<br>+ 1 (Fer)<br>+ Electrum (x2 VS Magiques)<br>= 3 - 14           |     4      | [[Propriétés#Portée\|Portée]]<br>[[Propriétés#Jetable\|Jetable]] |
-| Fauchard Sharah<br>(lier au pistolet)      | 2d6 +2<br>+ 7 (Adamantite)<br>+ Or (x2 VS Mythiques)<br>Air<br>= 11 - 28 |     8      |                [[Propriétés#Portée\|Portée]]<br>                 |
-| Fusil Sharah (petit)<br>(lier au fauchard) | 5 x 1(Perception)<br>+ Munition<br>= 10 - ?                              |     2      |                                                                  |
+| Arme                                                                         | Dégâts                                   | Poids (kg) |                            Propriétés                            |
+| ---------------------------------------------------------------------------- | ---------------------------------------- | :--------: | :--------------------------------------------------------------: |
+| Trident<br>Fer (Electrum)<br>Haste                                           | 3d6 + 4<br>VS Magiques<br>= 7-22         |     4      | [[Propriétés#Portée\|Portée]]<br>[[Propriétés#Jetable\|Jetable]] |
+| Fauchard Sharah<br>Adamantite (Or)<br>Haste<br>(léger)<br>(lier au pistolet) | 4d6 + 5<br>VS Mythiques<br>Air<br>= 9-29 |     8      |                [[Propriétés#Portée\|Portée]]<br>                 |
+| Fusil Sharah<br>Adamantite<br>Distance<br>(léger)<br>(lier au fauchard)      | 4d4 + 15<br>= 19-31                      |     2      |                                                                  |
 
 ## [[Apprentissages]]
 

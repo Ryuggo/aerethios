@@ -49,9 +49,9 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure               |                 AC                 | Défense |      Enchantement       | Poids (kg) | Dégâts | Température |                                         Propriétés                                         |
-| -------------------- | :--------------------------------: | :-----: | :---------------------: | :--------: | :----: | :---------: | :----------------------------------------------------------------------------------------: |
-| Armure légère Sharah | 11 + 0(Dex) + 0(Impénétrable) = 11 |   12    | Air 5<br>Feu 5<br>Eau 5 |     3      |   -    |      3      | Résiste à [[Conditions#Poison\|Poison]]<br>Résiste à [[Conditions#Saignement\|Saignement]] |
+| Armure                    |          AC           |              DR              |      Enchantement       | Poids (kg) | Dégâts |                                                  Propriétés                                                   |
+| ------------------------- | :-------------------: | :--------------------------: | :---------------------: | :--------: | :----: | :-----------------------------------------------------------------------------------------------------------: |
+| Armure Sharah<br>Ecailles | 10<br>+0(Dex)<br>= 10 | 16(Rare)<br>+4(Impé)<br>= 20 | Air 5<br>Feu 5<br>Eau 5 |     18     |   -    | Désavantage en Dextérité (Discrétion)<br><br>Désavantage en Magies en combat<br><br>Résistance aux conditions |
 
 ### [[Armes]]
 

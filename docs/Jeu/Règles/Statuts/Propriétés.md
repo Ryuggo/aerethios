@@ -52,4 +52,4 @@ A chaque utilisation, le joueur lance 1d20.
 
 S'il fait un échec critique, l'objet n'est plus utilisable jusqu'à être réparé.
 
-S'il s'agit d'une arme, l'attaque touche, mais elle fait également la moitié des dégâts au joueur avant de "casser".
+S'il s'agit d'une arme, l'attaque touche, mais elle fait également (1d4 * 10)% des dégâts au joueur avant de "casser".
