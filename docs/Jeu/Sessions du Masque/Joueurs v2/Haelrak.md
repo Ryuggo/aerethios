@@ -50,7 +50,7 @@
 
 | Armure             |           AC           |                 DR                 |  Enchantement  | Poids (kg) | Dégâts |               Propriétés                |
 | ------------------ | :--------------------: | :--------------------------------: | :------------: | :--------: | :----: | :-------------------------------------: |
-| Armure<br>Cuir     | 12<br>+2(Dex) <br>= 14 | 9(peu commun) <br>+3(Impé)<br>= 11 |       -        |     12     |   -    | Résiste à [[Conditions#Poison\|Poison]] |
+| Armure<br>Cuir     | 12<br>+2(Dex) <br>= 14 | 9(peu commun) <br>+3(Impé)<br>= 12 |       -        |     12     |   -    | Résiste à [[Conditions#Poison\|Poison]] |
 | Veste longue Coton |           -            |                 -                  | Air 1<br>Feu 1 |     1      |   -    |   Air = 2 crystaux bonus par attaque    |
 
 ### [[Armes]]

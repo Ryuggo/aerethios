@@ -41,7 +41,7 @@ Si une arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] son
 | :------------------------------ | :----: | :-------------------------- | :-------------------------- |
 | -1 Matériau                     |  ---   | +1 Matériaux                | +3 Matériaux                |
 | Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
-| +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés, +2X                 |
+| +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés +Force, +2X          |
 
 ## Matériaux
 >La propriété VS ajoute un dé de dégâts lorsque l'attaque touche le bon type de cible (ne s'applique pas sur les armes à distance).
