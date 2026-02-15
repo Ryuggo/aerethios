@@ -17,11 +17,11 @@
 
 | Armures (30)                                                                                                    | Armes                                                                                        |
 | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère\|Légère]]               | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court\|Court]]       |
-| [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure intermédiaire\|Intermédiaire]] | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#1 main\|1 main]]     |
-| [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure lourde\|Lourde]]               | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#2 mains\|2 mains]]   |
-| [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Bouclier\|Bouclier]]                  | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Hast\|Hast]]         |
-|                                                                                                                 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Distance\|Distance]] |
+| [[Armures Tmp#Armure légère\|Légère]]               | [[Armes Tmp#Court\|Court]]       |
+| [[Armures Tmp#Armure intermédiaire\|Intermédiaire]] | [[Armes Tmp#1 main\|1 main]]     |
+| [[Armures Tmp#Armure lourde\|Lourde]]               | [[Armes Tmp#2 mains\|2 mains]]   |
+| [[Armures Tmp#Bouclier\|Bouclier]]                  | [[Armes Tmp#Hast\|Hast]]         |
+|                                                                                                                 | [[Armes Tmp#Distance\|Distance]] |
 
 ## Compétences de Maisons
 >Le joueur les débloque en montant de rang dans sa maison.

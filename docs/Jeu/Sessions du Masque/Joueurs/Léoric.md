@@ -13,12 +13,13 @@
 | :---: | :-------: | :----: | :--------: | :------: |
 |  11   |    11     |   13   |     11     |    11    |
 |   0   |     0     |   +1   |     0      |    0     |
+|       |           |        |            |          |
 
 ### [[Compétences]]
 
 |                          Force 11                          |                        Dextérité 11                         |                      Mental 13                      |                                Perception 11                                |                      Charisme 9                       | Armures                                                                                                                    | Armes                                                                                             |
 | :--------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------------------------: | :---------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-|             [[Force#Athlétisme\|Athlétisme]] 5             |            [[Dextérité#Acrobatie\|Acrobatie]] 4             |       [[Mental#Intelligence\|Intelligence]] 5       |                    [[Perception#Détection\|Détection]] 5                    |      [[Charisme#Charismatique\|Charismatique]] 5      | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure intermédiaire#Efficacité\|Intermédiaire]] | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court#Efficacité\|Court]] |
+|             [[Force#Athlétisme\|Athlétisme]] 5             |            [[Dextérité#Acrobatie\|Acrobatie]] 4             |       [[Mental#Intelligence\|Intelligence]] 5       |                    [[Perception#Détection\|Détection]] 5                    |      [[Charisme#Charismatique\|Charismatique]] 5      | [[Armures Tmp#Armure intermédiaire#Efficacité\|Intermédiaire]] | [[Armes Tmp#Court#Efficacité\|Court]] |
 | [[Force#Athlétisme#Destructeur\|Athlétisme - Destructeur]] |             [[Dextérité#Rapide\|Rapide]] 5<br>              |            [[Mental#Sagesse\|Sagesse]] 4            |          [[Perception#Détection#Intuition\|Détection - Intuition]]          | [[Charisme#Charismatique#Doyen\|Charismatique Doyen]] |                                                                                                                            |                                                                                                   |
 |           [[Force#Impénétrable\|Impénétrable]] 5           |  [[Dextérité#Rapide#Sixième sens\|Rapide - Sixième Sens]]   |              [[Mental#Assidu\|Assidu]]              | [[Perception#Détection#Perception magique\|Détection - Perception Magique]] |         [[Charisme#Intimidant\|Intimidant]] 3         |                                                                                                                            |                                                                                                   |
 |                                                            | [[Dextérité#Rapide#Troisième œil\|Rapide - Troisième oeil]] | [[Mental#Résistance mentale\|Résistance Mentale]] 3 |         [[Perception#Détection#Mentaliste\|Détection - Mentaliste]]         |                                                       |                                                                                                                            |                                                                                                   |
@@ -36,7 +37,7 @@
 
 ### Magie
 
-**Maîtrise** : 3
+**Maîtrise** : 2
 
 **Crystaux** : 9
 
@@ -49,18 +50,18 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure             |                 AC                 | Défense |      Enchantement      | Poids (kg) | Dégâts | Température |                     Propriétés                     |
-| ------------------ | :--------------------------------: | :-----: | :--------------------: | :--------: | :----: | :---------: | :------------------------------------------------: |
-| Chemise de mailles | 13 + 0(Dex) + 0(Impénétrable) = 13 | 5 (Fer) |           -            |     5      |   -    |      -      |                         -                          |
-| Cape en fourrure   |                 -                  |    -    | Ténèbres 2<br>Foudre 1 |     1      |   -    |      3      | Les sorts élétistes à 1 crystal ne le consomme pas |
+| Armure                |         AC          |           DR           |      Enchantement      | Poids (kg) | Dégâts |                     Propriétés                     |
+| --------------------- | :-----------------: | :--------------------: | :--------------------: | :--------: | :----: | :------------------------------------------------: |
+| Armure Mailles<br>Fer | 9<br>+0(Dex)<br>= 9 | 18<br>+5(Impé)<br>= 23 |           -            |     12     |   -    |                         -                          |
+| Cape en fourrure      |          -          |           -            | Ténèbres 2<br>Foudre 1 |     1      |   -    | Les sorts élétistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
-| Arme                | 1 Main | 2 Mains | Dégâts                                                                      | Poids (kg) |         Propriétés          |
-| ------------------- | :----: | :-----: | --------------------------------------------------------------------------- | :--------: | :-------------------------: |
-| 2 Poings            | 1d6 C  |    -    | 6 Titane<br>x 2 VS Invocations<br>+ 6 Glace<br>= 6-18                       |     1      | [[Propriétés#Léger\|Léger]] |
-| 2 Poings de Gammoth | 1d6 C  |    -    | 4 Os<br>+ 2x10 Glace<br>= 4-24                                              |     1      | [[Propriétés#Léger\|Léger]] |
-| 2 Poings de Sharah  | 1d6 C  |    -    | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 10 Air<br>= 20-50 |     1      | [[Propriétés#Léger\|Léger]] |
+| Arme                                                   | Dégâts                                                      | Poids (kg) |         Propriétés          |
+| ------------------------------------------------------ | ----------------------------------------------------------- | :--------: | :-------------------------: |
+| 2 Poings<br>Titane<br>Court                            | 2d12 + 7<br>VS Invocations<br>= 9-31                        |   2x1.5    | [[Propriétés#Léger\|Léger]] |
+| 2 Poings Gammoth<br>Os<br>Court                        | 2d12 + 6<br>Glace<br>= 8-30                                 |   2x0.75   | [[Propriétés#Léger\|Léger]] |
+| 2 Poings Sharah<br>Adamantite (Or)<br>Court<br>(lourd) | 1d12 + 20<br>+ 10 Métal ?<br>VS Mythiques<br>Air<br>= 21-32 |    2x4     | [[Propriétés#Léger\|Léger]] |
 
 ## [[Apprentissages]]
 
@@ -95,14 +96,23 @@
 | --- | --- | ---------: |
 |     |     |            |
 
+## Invocations
+
+| Nom               | Coût | AC  | DR  | HP  |  Léger   | Lourd |  Magie   |
+| ----------------- | :--: | :-: | :-: | :-: | :------: | :---: | :------: |
+| Bigard            |  -   | 20  |  2  | 50  | 2d8 + 12 |   -   | 20(1d10) |
+| Elémentaire lvl 1 |  30  | 12  |  5  | 30  |          |       |          |
+| Elémentaire lvl 2 |  60  |  8  | 15  | 70  |          |       |          |
+| Elémentaire lvl 3 | 100  |  4  | 30  | 120 |          |       |          |
+
 ## Connaissances
 
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Arek]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Dara]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Haelrak]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Halfdan]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Hazdaim]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Zveindel]]
+- [[Arek]]
+- [[Dara]]
+- [[Haelrak]]
+- [[Halfdan]]
+- [[Hazdaim]]
+- [[Zveindel]]
 
 - [[aerethios/docs/Bestiaire/Planaires/Dieux/Dieux#Radeon, Dieu Dormant|Dieu Dormant]]
 - [[Billy]]
@@ -110,3 +120,4 @@
 - [[Bryumnes]]
 - [[Einar]]
 - [[Chlorys]]
+- [[Zaledra]]

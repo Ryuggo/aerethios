@@ -18,10 +18,10 @@
 
 |                 Force                  |                        Dextérité                         |                 Mental                  |                                 Perception                                  |                  Charisme                   |                                                                Armures                                                                |                                                    Armes                                                     |
 | :------------------------------------: | :------------------------------------------------------: | :-------------------------------------: | :-------------------------------------------------------------------------: | :-----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-|   [[Force#Athlétisme\|Athlétisme]] 3   |           [[Dextérité#Acrobatie\|Acrobatie]] 5           | [[Mental#Intelligence\|Intelligence]] 5 |                    [[Perception#Détection\|Détection]] 5                    | [[Charisme#Charismatique\|Charismatique]] 3 |             [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Efficacité\|Légère]]              |      [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court#Efficacité\|Court]]       |
-|         [[Force#Mule\|Mule]] 1         |              [[Dextérité#Rapide\|Rapide]] 3              |      [[Mental#Sagesse\|Sagesse]] 5      |          [[Perception#Détection#Intuition\|Détection - Intuition]]          |                                             | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Conditionnement\|Légère - Conditionnement]] 3 |       [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Hast#Efficacité\|Hast]]        |
-| [[Force#Impénétrable\|Impénétrable]] 3 | [[Dextérité#Rapide#Sixième sens\|Rapide - Sixième Sens]] | [[Mental#Imperturbable\|Imperturbable]] | [[Perception#Détection#Perception magique\|Détection - Perception Magique]] |                                             |      [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Maintenance\|Légère - Maintenance]]      | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Hast#Pénétrator\|Hast - Pénétrator]] |
-|                                        |                                                          |        [[Mental#Assidu\|Assidu]]        |                       [[Perception#Survie\|Survie]] 4                       |                                             |          [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Arcanes\|Légère - Arcanes]]          |   [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Distance#Efficacité\|Distance]]    |
+|   [[Force#Athlétisme\|Athlétisme]] 3   |           [[Dextérité#Acrobatie\|Acrobatie]] 5           | [[Mental#Intelligence\|Intelligence]] 5 |                    [[Perception#Détection\|Détection]] 5                    | [[Charisme#Charismatique\|Charismatique]] 3 |             [[Armures Tmp#Armure légère#Efficacité\|Légère]]              |      [[Armes Tmp#Court#Efficacité\|Court]]       |
+|         [[Force#Mule\|Mule]] 1         |              [[Dextérité#Rapide\|Rapide]] 3              |      [[Mental#Sagesse\|Sagesse]] 5      |          [[Perception#Détection#Intuition\|Détection - Intuition]]          |                                             | [[Armures Tmp#Armure légère#Conditionnement\|Légère - Conditionnement]] 3 |       [[Armes Tmp#Hast#Efficacité\|Hast]]        |
+| [[Force#Impénétrable\|Impénétrable]] 3 | [[Dextérité#Rapide#Sixième sens\|Rapide - Sixième Sens]] | [[Mental#Imperturbable\|Imperturbable]] | [[Perception#Détection#Perception magique\|Détection - Perception Magique]] |                                             |      [[Armures Tmp#Armure légère#Maintenance\|Légère - Maintenance]]      | [[Armes Tmp#Hast#Pénétrator\|Hast - Pénétrator]] |
+|                                        |                                                          |        [[Mental#Assidu\|Assidu]]        |                       [[Perception#Survie\|Survie]] 4                       |                                             |          [[Armures Tmp#Armure légère#Arcanes\|Légère - Arcanes]]          |   [[Armes Tmp#Distance#Efficacité\|Distance]]    |
 |                                        |                                                          |     [[Mental#Magicien\|Magicien]] 4     |               [[Perception#Survie#Plantes\|Survie - Plantes]]               |                                             |                                                                                                                                       |                                                                                                              |
 
 ## Combats
@@ -35,7 +35,7 @@
 
 ### Magie
 
-**Maîtrise** : 3
+**Maîtrise** : 2
 
 **Crystaux** : 14
 
@@ -48,18 +48,18 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure                      |                 AC                 |            Défense            |  Enchantement  | Poids (kg) | Dégâts | Température |                    Propriétés                     |
-| --------------------------- | :--------------------------------: | :---------------------------: | :------------: | :--------: | :----: | :---------: | :-----------------------------------------------: |
-| Cuir clouté                 | 12 + 2(Dex) + 3(Impénétrable) = 17 | 9 (peu commun) +5(clous) = 14 |       -        |     6      |   -    |     -1      |      Résiste à [[Conditions#Poison\|Poison]]      |
-| Veste longue Velours côtelé |                 -                  |               -               | Air 1<br>Feu 1 |     1      |   -    |      2      | Les sorts gazeux à 2 crystaux ne les consomme pas |
+| Armure             |           AC           |                 DR                 |  Enchantement  | Poids (kg) | Dégâts |               Propriétés                |
+| ------------------ | :--------------------: | :--------------------------------: | :------------: | :--------: | :----: | :-------------------------------------: |
+| Armure<br>Cuir     | 12<br>+2(Dex) <br>= 14 | 9(peu commun) <br>+3(Impé)<br>= 12 |       -        |     12     |   -    | Résiste à [[Conditions#Poison\|Poison]] |
+| Veste longue Coton |           -            |                 -                  | Air 1<br>Feu 1 |     1      |   -    |   Air = 2 crystaux bonus par attaque    |
 
 ### [[Armes]]
 
-| Arme                                  | 1 Main |    2 Mains     | Dégâts                                                                    | Poids (kg) |                            Propriétés                            |
-| ------------------------------------- | :----: | :------------: | ------------------------------------------------------------------------- | :--------: | :--------------------------------------------------------------: |
-| Trident                               |   -    |     3d4 P      | 3 Fer<br>x 2 VS Magiques (Electrum)<br>= 3-6                              |     4      | [[Propriétés#Portée\|Portée]]<br>[[Propriétés#Jetable\|Jetable]] |
-| Fauchard Sharah<br>(lier au pistolet) |   -    | 2d4 P<br>1d6 T | 10 Adamantite<br>+ 6 Métal<br>x 2 VS Mythiques (Or)<br>+ 6 Air<br>= 16-38 |     8      |                [[Propriétés#Portée\|Portée]]<br>                 |
-| Pistolet Sharah<br>(lier au fauchard) |   -    |       15       | Voir le détail des munitions                                              |     2      |                                                                  |
+| Arme                                                                         | Dégâts                                   | Poids (kg) |                            Propriétés                            |
+| ---------------------------------------------------------------------------- | ---------------------------------------- | :--------: | :--------------------------------------------------------------: |
+| Trident<br>Fer (Electrum)<br>Haste                                           | 3d6 + 4<br>VS Magiques<br>= 7-22         |     4      | [[Propriétés#Portée\|Portée]]<br>[[Propriétés#Jetable\|Jetable]] |
+| Fauchard Sharah<br>Adamantite (Or)<br>Haste<br>(léger)<br>(lier au pistolet) | 4d6 + 5<br>VS Mythiques<br>Air<br>= 9-29 |     8      |                [[Propriétés#Portée\|Portée]]<br>                 |
+| Fusil Sharah<br>Adamantite<br>Distance<br>(léger)<br>(lier au fauchard)      | 4d4 + 15<br>= 19-31                      |     2      |                                                                  |
 
 ## [[Apprentissages]]
 
@@ -96,12 +96,12 @@
 
 ## Connaissances
 
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Arek]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Dara]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Halfdan]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Hazdaim]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Léoric]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Zveindel]]
+- [[Arek]]
+- [[Dara]]
+- [[Halfdan]]
+- [[Hazdaim]]
+- [[Léoric]]
+- [[Zveindel]]
 
 - [[aerethios/docs/Bestiaire/Planaires/Dieux/Dieux#Radeon, Dieu Dormant|Dieu Dormant]]
 - [[Billy]]
@@ -109,3 +109,4 @@
 - [[Bryumnes]]
 - [[Einar]]
 - [[Chlorys]]
+- [[Zaledra]]

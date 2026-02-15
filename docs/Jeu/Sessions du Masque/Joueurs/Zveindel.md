@@ -18,7 +18,7 @@
 
 |                Force 10                |                         Dextérité 10                         |                      Mental 15                      |                                Perception 13                                |                              Charisme 8                              |                                                   Armures                                                    | Armes |
 | :------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---: |
-|   [[Force#Athlétisme\|Athlétisme]] 2   |             [[Dextérité#Acrobatie\|Acrobatie]] 2             |            [[Mental#Sagesse\|Sagesse]] 5            |                    [[Perception#Détection\|Détection]] 5                    |          [[Charisme#Intimidant\|Intimidant]] 3 + 1 (Force)           | [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Efficacité\|Légère]] |       |
+|   [[Force#Athlétisme\|Athlétisme]] 2   |             [[Dextérité#Acrobatie\|Acrobatie]] 2             |            [[Mental#Sagesse\|Sagesse]] 5            |                    [[Perception#Détection\|Détection]] 5                    |          [[Charisme#Intimidant\|Intimidant]] 3 + 1 (Force)           | [[Armures Tmp#Armure légère#Efficacité\|Légère]] |       |
 |         [[Force#Mule\|Mule]] 3         |            [[Dextérité#Discrétion\|Discrétion]] 1            |       [[Mental#Intelligence\|Intelligence]] 5       |          [[Perception#Détection#Intuition\|Détection - Intuition]]          |               [[Charisme#Persuasif\|Persuasif]] 3<br>                |                                                                                                              |       |
 | [[Force#Impénétrable\|Impénétrable]] 4 |                [[Dextérité#Doigté\|Doigté]] 4                |       [[Mental#Imperturbable\|Imperturbable]]       | [[Perception#Détection#Perception magique\|Détection - Perception Magique]] |            [[Charisme#Flatteur\|Flatteur]] 2 (Perception)            |                                                                                                              |       |
 |                                        |                [[Dextérité#Rapide\|Rapide]] 2                |              [[Mental#Assidu\|Assidu]]              |                       [[Perception#Survie\|Survie]] 2                       | ~~[[Charisme#Flatteur#Dragueur\|Flatteur - Dragueur]] (Perception)~~ |                                                                                                              |       |
@@ -36,7 +36,7 @@
 
 ### Magie
 
-**Maîtrise** : 4
+**Maîtrise** : 3
 
 **Crystaux** : 14
 
@@ -49,9 +49,9 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure               |                 AC                 | Défense |      Enchantement       | Poids (kg) | Dégâts | Température |                                         Propriétés                                         |
-| -------------------- | :--------------------------------: | :-----: | :---------------------: | :--------: | :----: | :---------: | :----------------------------------------------------------------------------------------: |
-| Armure légère Sharah | 11 + 0(Dex) + 0(Impénétrable) = 11 |   12    | Air 5<br>Feu 5<br>Eau 5 |     3      |   -    |      3      | Résiste à [[Conditions#Poison\|Poison]]<br>Résiste à [[Conditions#Saignement\|Saignement]] |
+| Armure                    |          AC           |              DR              |      Enchantement       | Poids (kg) | Dégâts |                                                  Propriétés                                                   |
+| ------------------------- | :-------------------: | :--------------------------: | :---------------------: | :--------: | :----: | :-----------------------------------------------------------------------------------------------------------: |
+| Armure Sharah<br>Ecailles | 10<br>+0(Dex)<br>= 10 | 16(Rare)<br>+4(Impé)<br>= 20 | Air 5<br>Feu 5<br>Eau 5 |     18     |   -    | Désavantage en Dextérité (Discrétion)<br><br>Désavantage en Magies en combat<br><br>Résistance aux conditions |
 
 ### [[Armes]]
 
@@ -94,16 +94,16 @@
 
 ## Connaissances
 
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Arek]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Dara]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Haelrak]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Halfdan]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Hazdaim]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Léoric]]
+- [[Arek]]
+- [[Dara]]
+- [[Haelrak]]
+- [[Halfdan]]
+- [[Hazdaim]]
+- [[Léoric]]
 
 - [[aerethios/docs/Bestiaire/Planaires/Dieux/Dieux#Radeon, Dieu Dormant|Dieu Dormant]]
 - [[Billy]]
-- [[Perseus]]
 - [[Bryumnes]]
 - [[Einar]]
 - [[Chlorys]]
+- [[Zaledra]]

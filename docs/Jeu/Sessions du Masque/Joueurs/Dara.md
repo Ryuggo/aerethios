@@ -18,10 +18,10 @@
 
 |                 Force                  |                               Dextérité                                |                       Mental                        |                                 Perception                                  |                          Charisme                           |                                                             Armures                                                             |                                                    Armes 3                                                     |
 | :------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-|         [[Force#Mule\|Mule]] 1         |                  [[Dextérité#Acrobatie\|Acrobatie]] 5                  |            [[Mental#Sagesse\|Sagesse]] 5            |                    [[Perception#Détection\|Détection]] 5                    |              ~~[[Charisme#Veinard\|Veinard]]~~              |          [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Efficacité\|Légère]]           |       [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court#Efficacité\|Court]]        |
-| [[Force#Impénétrable\|Impénétrable]] 5 |                 [[Dextérité#Discrétion\|Discrétion]] 4                 |       [[Mental#Intelligence\|Intelligence]] 1       |          [[Perception#Détection#Intuition\|Détection - Intuition]]          |         [[Charisme#Charismatique\|Charismatique]] 3         |                                                                                                                                 | ~~[[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#Court#Assassin\|Court - Assassin]]~~ |
-|                                        | ~~[[Dextérité#Discrétion#Dissimulation\|Discrétion - Dissimulation]]~~ |       [[Mental#Imperturbable\|Imperturbable]]       | [[Perception#Détection#Perception magique\|Détection - Perception Magique]] | ~~[[Charisme#Charismatique#Doyen\|Charismatique - Doyen]]~~ | ~~[[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Maintenance\|Légère - Maintenance]]~~ |     [[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armes#2 mains#Efficacité\|2 mains]]      |
-|                                        |                     [[Dextérité#Doigté\|Doigté]] 2                     |              [[Mental#Assidu\|Assidu]]              |         [[Perception#Détection#Mentaliste\|Détection - Mentaliste]]         |          [[Charisme#Intimidant\|Intimidant]] 1<br>          |     ~~[[aerethios/docs/Jeu/Règles/Compétences/Compétences d'Equipements/Armures#Armure légère#Arcanes\|Légère - Arcanes]]~~     |                                                                                                                |
+|         [[Force#Mule\|Mule]] 1         |                  [[Dextérité#Acrobatie\|Acrobatie]] 5                  |            [[Mental#Sagesse\|Sagesse]] 5            |                    [[Perception#Détection\|Détection]] 5                    |              ~~[[Charisme#Veinard\|Veinard]]~~              |          [[Armures Tmp#Armure légère#Efficacité\|Légère]]           |       [[Armes Tmp#Court#Efficacité\|Court]]        |
+| [[Force#Impénétrable\|Impénétrable]] 5 |                 [[Dextérité#Discrétion\|Discrétion]] 4                 |       [[Mental#Intelligence\|Intelligence]] 1       |          [[Perception#Détection#Intuition\|Détection - Intuition]]          |         [[Charisme#Charismatique\|Charismatique]] 3         |                                                                                                                                 | ~~[[Armes Tmp#Court#Assassin\|Court - Assassin]]~~ |
+|                                        | ~~[[Dextérité#Discrétion#Dissimulation\|Discrétion - Dissimulation]]~~ |       [[Mental#Imperturbable\|Imperturbable]]       | [[Perception#Détection#Perception magique\|Détection - Perception Magique]] | ~~[[Charisme#Charismatique#Doyen\|Charismatique - Doyen]]~~ | ~~[[Armures Tmp#Armure légère#Maintenance\|Légère - Maintenance]]~~ |     [[Armes Tmp#2 mains#Efficacité\|2 mains]]      |
+|                                        |                     [[Dextérité#Doigté\|Doigté]] 2                     |              [[Mental#Assidu\|Assidu]]              |         [[Perception#Détection#Mentaliste\|Détection - Mentaliste]]         |          [[Charisme#Intimidant\|Intimidant]] 1<br>          |     ~~[[Armures Tmp#Armure légère#Arcanes\|Légère - Arcanes]]~~     |                                                                                                                |
 |                                        |                   [[Dextérité#Rapide\|Rapide]] 3<br>                   | [[Mental#Résistance mentale\|Résistance Mentale]] 5 |                                                                             |  ~~[[Charisme#Intimidant#Parrain\|Intimidant - Parrain]]~~  |                                                                                                                                 |                                                                                                                |
 |                                        |        [[Dextérité#Rapide#Sixième sens\|Rapide - Sixième Sens]]        |                                                     |                                                                             |                                                             |                                                                                                                                 |                                                                                                                |
 |                                        |    ~~[[Dextérité#Rapide#Troisième œil\|Rapide - Troisième oeil]]~~     |                                                     |                                                                             |                                                             |                                                                                                                                 |                                                                                                                |
@@ -37,7 +37,7 @@
 
 ### Magie
 
-**Maîtrise** : 2
+**Maîtrise** : 1
 
 **Crystaux** : 9
 
@@ -50,21 +50,21 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure                   |                 AC                 |            Défense            |     Enchantement     | Poids (kg) | Dégâts | Température |                     Propriétés                      |
-| ------------------------ | :--------------------------------: | :---------------------------: | :------------------: | :--------: | :----: | :---------: | :-------------------------------------------------: |
-| Cuir clouté              | 11 + 3(Dex) + 5(Impénétrable) = 19 | 9 (peu commun) +5(clous) = 14 |          -           |     3      |   -    |      0      |       Résiste à [[Conditions#Poison\|Poison]]       |
-| Cape en velour           |                 -                  |               -               |  Feu 2<br>Foudre 2   |     1      |   -    |      1      |  Les sorts solides à 1 crystal ne les consomme pas  |
-| Cape de fourrure         |                 -                  |               -               | Glace 3<br>Liquide 1 |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
-| Cape de fourrure (tigre) |                 -                  |               -               |                      |     1      |   -    |      3      | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Armure                   |         AC         |                 DR                 |     Enchantement     | Poids (kg) | Dégâts |                     Propriétés                      |
+| ------------------------ | :----------------: | :--------------------------------: | :------------------: | :--------: | :----: | :-------------------------------------------------: |
+| Armure<br>Cuir           | 12<br>+3(Dex) = 15 | 9(peu commun) <br>+5(Impé)<br>= 14 |          -           |     12     |   -    |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape en velour           |         -          |                 -                  |  Feu 2<br>Foudre 2   |     1      |   -    |  Les sorts solides à 1 crystal ne les consomme pas  |
+| Cape de fourrure         |         -          |                 -                  | Glace 3<br>Liquide 1 |     1      |   -    | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Cape de fourrure (tigre) |         -          |                 -                  |                      |     1      |   -    | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 
-| Arme                   |     1 Main     |     2 Mains     | Dégâts                                                                     | Poids (kg) |                              Propriétés                              |
-| ---------------------- | :------------: | :-------------: | -------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------: |
-| Lame double            |     1d4 P      | 1d10 P<br>1d6 T | 12 Orichalque<br>+ 6 Métal<br>x 2 VS Hybrides (Argent)<br>= 18-36          |    7.5     |                   [[Propriétés#Double\|Double]] T                    |
-| Lame double de Gammoth |     1d4 P      | 1d10 P<br>1d6 T | 4 Os<br>+ 2x8 Glace<br>= 4-20                                              |     3      |                   [[Propriétés#Double\|Double]] T                    |
-| Épée droite            | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  | 10 Adamantite<br>+ 6 Métal<br>x 2 VS Naturels (Sombronce)<br>= 16-32       |     6      |                                 ---                                  |
-| Dague Sharah           | 1d4 T<br>1d4 P |        -        | 10 Adamantite<br>+ 10 Métal<br>x 2 VS Mythiques (Or)<br>+ 8 Air<br>= 20-50 |     4      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
+| Arme                                             | Dégâts                                                       | Poids (kg) |                              Propriétés                              |
+| ------------------------------------------------ | ------------------------------------------------------------ | :--------: | :------------------------------------------------------------------: |
+| Lame double<br>Orichalque (Argent)<br>2 Mains    | 3d4 + 36<br>+ 6 Métal ?<br>VS Hybrides<br>= 39-48            |    7.5     |                   [[Propriétés#Double\|Double]] T                    |
+| Lame double Gammoth<br>Os<br>2 Mains             | 3d4 + 18<br>Glace<br>= 21-30                                 |     3      |                   [[Propriétés#Double\|Double]] T                    |
+| Épée droite<br>Adamantite (Sombronce)<br>2 Mains | 3d4 + 30<br>+ 6 Métal ?<br>VS Naturels<br>= 33-42            |     6      |                                 ---                                  |
+| Dague Sharah<br>Adamantite (Or)<br>Court         | 2d12 + 10<br>+ 10 Métal ?<br>VS Mythiques <br>Air<br>= 12-34 |     4      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
 
 ## [[Apprentissages]]
 
@@ -99,14 +99,23 @@
 | --- | --- | ---------: |
 |     |     |            |
 
+## Invocations
+
+| Nom               | Coût | AC  | DR  | HP  |  Léger   |  Lourd   |   Magie   |
+| ----------------- | :--: | :-: | :-: | :-: | :------: | :------: | :-------: |
+| Chevalier informé |  20  |  9  | 18  | 25  |    -     | 3d4 + 21 |           |
+| Goss Harag        |  40  |  6  | 25  | 50  |          |          | 4d6 Glace |
+| Owlbear           |  15  | 20  |  0  | 10  | (3d6+12) |    -     |     -     |
+| Gammoth           |  80  |  0  | 40  |     |          |          |           |
+
 ## Connaissances
 
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Arek]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Haelrak]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Halfdan]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Hazdaim]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Léoric]]
-- [[aerethios/docs/Jeu/Sessions du Masque/Joueurs/Zveindel]]
+- [[Arek]]
+- [[Haelrak]]
+- [[Halfdan]]
+- [[Hazdaim]]
+- [[Léoric]]
+- [[Zveindel]]
 
 - [[aerethios/docs/Bestiaire/Planaires/Dieux/Dieux#Radeon, Dieu Dormant|Dieu Dormant]]
 - [[Billy]]
@@ -114,3 +123,4 @@
 - [[Bryumnes]]
 - [[Einar]]
 - [[Chlorys]]
+- [[Zaledra]]

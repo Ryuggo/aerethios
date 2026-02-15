@@ -1,146 +1,92 @@
 >Le type d'arme ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
 
-	Attaque maximale sans buff magique :
-	Mêlée :
-		Lame double : 4d4T x 2(VS) + 22 + 10élém = [40-64] x Style
-		Dague : 1d4T x 2(VS) + 22 + 10élém = [34-40] x4(Crit) x Style
-	Distance :
-		Canon : 60 + (1d6(Poison) x 2(VS)) = [61-72]
+| Arme     | Court       | 1 Main      | 2 Mains     | Haste       | Arc         | Arbalète    | Fusil       |
+| -------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Léger    | -           | [3-24] + 12 | [3-18] + 24 | [4-24]      | -           | [3-24] + 12 | [3-18] + 24 |
+| Normal   | [2-24] + 12 | [2-16] +24  | [3-12] + 36 | [3-18] + 12 | [2-20] + 12 | [2-12] + 24 | [3-12] + 36 |
+| Lourd    | [1-12] + 36 | [1-8] + 36  | [2-8] + 48  | [2-12] + 24 | [1-10] + 24 | [1-8] + 36  | [2-8] + 48  |
+| Colossal | -           | -           | [1-4] + 60  | [1-8] + 36  | -           | -           | [1-4] + 60  |
 
-## Catégories
->Les armes utilisent la Force comme modificateur de base, mais peuvent utiliser la Dextérité si elles ont la propriété [[Propriétés#Finesse|Finesse]].
+## Dégâts
 
-### Courte
->[[Propriétés#Finesse|Finesse]]
->[[Propriétés#Léger|Léger]]
->Matériaux : 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|métal]] (sauf objet)
+### Armes
+>X = Matériau
 
-| Arme                      | Prix main d'œuvre |     1 main     |                              Propriétés                              | Styles |
-| ------------------------- | ----------------: | :------------: | :------------------------------------------------------------------: | ------ |
-| Objet                     |                 - |      1d4       |                   [[Propriétés#Jetable\|Jetable]]                    | -      |
-| Poing<br>*Brass Knuckles* |          5 pa<br> |     1d6 C      |                                 ---                                  |        |
-| Griffes                   |             20 pa |     1d6 P      |                   [[Propriétés#Double\|Double]] P                    |        |
-| Griffes bestiales         |             20 pa |     1d6 T      |              [[Propriétés#Lacération\|Lacération]]<br>               |        |
-| Dague<br>*Dagger*         |          2 pa<br> | 1d4 T<br>1d4 P | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |        |
+| Catégorie                 | Prix main d'œuvre | Dégâts  |                            Propriétés                            | Matériaux |
+| ------------------------- | ----------------: | ------- | :--------------------------------------------------------------: | --------: |
+| Courte                    |              5 pa | 2d12 +X | [[Propriétés#Léger\|Léger]]<br>[[Propriétés#Critique\|Critique]] |         1 |
+| 1 Main                    |             10 pa | 2d8 +2X |                   [[Propriétés#Léger\|Léger]]                    |         2 |
+| 2 Mains                   |             20 pa | 3d4 +3X |                               ---                                |         3 |
+| Haste                     |             40 pa | 3d6 +X  |                  [[Propriétés#Portée\|Portée]]                   |         5 |
+| Distance<br>(Arcs)        |  5 x Puissance pa | 2d10 +X |                               ---                                |         1 |
+| Distance<br>(Arbalètes)   | 20 x Puissance pa | 2d6 +2X |                    [[Propriétés#Lent\|Lent]]                     |         2 |
+| Distance<br>(Armes à feu) |  1 x Puissance po | 3d4 +3X |                [[Propriétés#Instable\|Instable]]                 |         3 |
 
-### 1 Main / 2 Mains
->Les armes utilisées avec 1 main ont [[Propriétés#Finesse|Finesse]]
->Matériaux : 2 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|métaux]] (sauf fouet)
+### Enchantements
 
-| Arme                             |                                                     Prix main d'œuvre |     1 main     |     2 mains     |                Propriétés                 | Styles |
-| -------------------------------- | --------------------------------------------------------------------: | :------------: | :-------------: | :---------------------------------------: | ------ |
-| Epée droite<br>*Shortsword*      |                                                             10 pa<br> | 1d6 P<br>1d4 T | 2d4 P<br>1d6 T  |                                           |        |
-| Epée d'estoc<br>*Rapier/ Estoc*  |                                                             25 pa<br> |     1d8 P      |      2d6 P      |                                           |        |
-| Katana/ Sabre<br>*Katana/ Saber* |                                                             10 pa<br> | 1d6 T<br>1d4 P | 2d4 T<br>1d6 P  |                                           |        |
-| Epée courbée<br>*Scimitar*       |                                                             25 pa<br> |     1d8 T      |      2d6 T      |                                           |        |
-| Fléau d'arme<br>*Flail*          |                                                             10 pa<br> | 1d6 C<br>1d4 P | 2d4 C<br>1d6 P  |                                           |        |
-| Marteau/ Masse<br>*Hammer/ Club* |                                                             25 pa<br> |     1d8 C      |      2d6 C      |                                           |        |
-| Hachette<br>*Handaxe*            |                                                             10 pa<br> | 1d6 T<br>1d4 C | 2d4 T<br>1d6 C  |                                           |        |
-| Lame double                      | 40 pa + 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] |     1d4 P      | 1d10 P<br>1d6 T |      [[Propriétés#Double\|Double]] T      |        |
-| Fouet<br>*Whip*                  |                                                             15 pa<br> |     1d4 T      |        -        | [[Propriétés#Lacération\|Lacération]]<br> |        |
+Enchanter une arme permet d'augmenter son dé de dégâts.
 
-#### Sous-catégories
+Si une arme est en métal, seul les [[Enchanteur#Nirina|Enchantements de Nirina]] sont efficaces.
 
-Chaque arme 1 Main/ 2 Mains peut venir avec une sous-catégorie offrant un bonus à celle-ci.
+Si une arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] sont efficaces (en plus de lui ajouter un effet magique).
 
->Niveau de dé : *(1d4 -> 1d6 -> 1d8) = 2d4 -> (1d10 -> 1d12) = 2d6 -> 2d8*
+|     Enchantement      | Base |   +1   |   +2   |   +3   |   +4    |    +5    |
+| :-------------------: | :--: | :----: | :----: | :----: | :-----: | :------: |
+| **Réussite normale**  | 1d4  |  1d6   |  1d8   |  1d10  |  1d12   |   1d20   |
+| **Réussite critique** |  -   | 1d4 +2 | 1d6 +2 | 1d8 +2 | 1d10 +2 | 1d10 +10 |
 
-| Légère                                                          | Grande/ Lourde                                                  | Colossale                                                        |
-| :-------------------------------------------------------------- | :-------------------------------------------------------------- | :--------------------------------------------------------------- |
-| - 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] | x2 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]] | x 3 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]] |
-| Dextérité > 15 pour s'en servir                                 | Force > 15 pour s'en servir                                     | Force > 17 pour s'en servir                                      |
-| Descend le.s dé.s d'un niveau                                   | Monte le.s dé.s d'un niveau                                     | Monte le.s dé.s d'un niveau<br>Dégâts de matériaux x2            |
-| Empêche de l'utiliser à 2 mains                                 | Perd la propriété [[Propriétés#Finesse\|Finesse]]               | Empêche de l'utiliser à 1 main                                   |
-| [[Propriétés#Léger\|Léger]]                                     |                                                                 | [[Propriétés#Lent\|Lent]] sauf si Force > 19                     |
+### Modifications
 
-### Hast
->[[Propriétés#Charge|Charge]]
->[[Propriétés#Portée|Portée]]
->Désavantage pour attaquer une cible à 5ft (1 case) de soi.
->Matériaux : 4 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|métaux]] (sauf Bâton)
-
-![[Weapon - Hast.png]]
-
-| Arme                                  |                                                         Prix main d'œuvre |     2 mains     |           Propriétés            | Styles |
-| ------------------------------------- | ------------------------------------------------------------------------: | :-------------: | :-----------------------------: | ------ |
-| Pique<br>*Spear*                      |                                                                 15 pa<br> | 1d10 P<br>1d4 T | [[Propriétés#Jetable\|Jetable]] |        |
-| Hallebarde<br>*Halberd*               |                                                                 25 pa<br> | 2d4 T<br>1d6 P  |               ---               |        |
-| Glaive/ Fauchard<br>*Glaive*          |                                                                 25 pa<br> | 2d4 P<br>1d6 T  |               ---               |        |
-| Trident/ Spetum<br>*Trident/ Ranseur* |                                                                 50 pa<br> |      3d4 P      | [[Propriétés#Jetable\|Jetable]] |        |
-| Lance<br>*Lance*                      | 40 pa + 1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]]<br> |      2d6 P      |    [[Propriétés#Lent\|Lent]]    |        |
-| Bâton<br>*Quarterstaff*               |                                                                 20 pc<br> |      1d8 C      | [[Propriétés#Finesse\|Finesse]] |        |
-
-### Distance
-> **Modificateur** : Dextérité
-> Fusils : Les dégâts diminuent de 1 pour chaque ft qui sépare le tireur de la cible (-5 dmg par case).
-
-![[Weapon - Range.png]]
-
-| Arme                                | Prix main d'œuvre |    Dégâts     |                                                            Matériaux                                                             |                              Propriétés                              |
-| ----------------------------------- | ----------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: |
-| Fronde<br>*Sling*                   |         20 pc<br> |     1d4 C     |                                                                -                                                                 |                     [[Propriétés#Léger\|Léger]]                      |
-| Arc Court<br>*Shortbow*             |         10 pa<br> |     1d6 P     |                                                                -                                                                 |                     [[Propriétés#Léger\|Léger]]                      |
-| Arc Composite<br>*Composite bow*    |         25 pa<br> |     1d8 P     |                                                                -                                                                 |                                 ---                                  |
-| Arc Long<br>*Longbow*               |         50 pa<br> |    1d10 P     |                                                                -                                                                 |                                 ---                                  |
-| Arbalète légère<br>*Light Crossbow* |         50 pa<br> |       4       |                                                                -                                                                 |                     [[Propriétés#Léger\|Léger]]                      |
-| Arbalète<br>*Crossbow*              |          1 pa<br> |       8       |                                                                -                                                                 |               [[Propriétés#Préparation\|Préparation]]                |
-| Baliste<br>*Heavy Crossbow*         |          2 po<br> |      12       |                                                                -                                                                 | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]] |
-| Pistolet                            |              5 po |      20       |                                  1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]]                                   |                     [[Propriétés#Léger\|Léger]]                      |
-| Mousquet<br>+Baïonnette             |             10 po | 40<br>+ 1d4 P | 3 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]<br>+1 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métal]] |          [[Propriétés#Préparation\|Préparation]] pour tirer          |
-| Canon                               |             20 po |      60       |                                  6 [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux\|métaux]]                                  | [[Propriétés#Préparation\|Préparation]]<br>[[Propriétés#Lent\|Lent]] |
-
-#### Munitions
-
-Les munitions utilisées avec une arme à distance possèdent leur propre propriété.
-
-D'autres [[aerethios/docs/Jeu/Règles/Combat/Armes#Matériaux|matériaux]] peuvent être utilisés comme munitions mais n'offrent que des propriétés de VS.
-
-| Matériaux  | Arme             | Prix/ unité |                     Propriétés                      |
-| ---------- | ---------------- | ----------: | :-------------------------------------------------: |
-| Obsidienne | Arcs & Arbalètes |        5 pa |                        10 T                         |
-| Plomb      | Fusils & Canons  |       10 pa |           [[Afflictions#Poison\|Poison]]            |
-| Crystaux   | Tout             |        1 po | [[Afflictions#Surcharge\|Surcharge]]<br>5 munitions |
-
-En fonction de la façon dont les munitions sont créées, des effets additionnels peuvent s'ajouter.
-
-| Type     | Arme            |              Propriétés               | Nombre de munition/ matériau |
-| -------- | --------------- | :-----------------------------------: | :--------------------------: |
-| Flèche   | Arcs            |                  ---                  |           12 + 2d4           |
-| Carreau  | Arbalètes       |                  ---                  |           12 + 2d6           |
-| Balle    | Fusils          |                  ---                  |           10 + 2d6           |
-| Boulet   | Canons          |     [[Conditions#Couché\|Couché]]     |              1               |
-| Shrapnel | Fusils & Canons | [[Propriétés#Lacération\|Lacération]] |           6 + 2d4            |
-| Potion   | Fusils & Canons |                                       |                              |
+| Léger/ Petit                    | Normal | Lourd/ Grand                | Colossal (seulement mêlée)  |
+| :------------------------------ | :----: | :-------------------------- | :-------------------------- |
+| -1 Matériau                     |  ---   | +1 Matériaux                | +3 Matériaux                |
+| Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
+| +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés +Force, +2X          |
 
 ## Matériaux
->La propriété VS double les matériaux lorsque l'attaque touche le bon type de cible.
+>La propriété VS ajoute un dé de dégâts lorsque l'attaque touche le bon type de cible (ne s'applique pas sur les armes à distance).
 
 ### Principaux
 
 **Effets**
-    + [[Enchanteur#Nirina|Enchantements de Nirina]]
     + Se répare dans une forge/ avec la magie de métal
 
-| Matériau   |   Prix/ unité |    Dégâts    |          Propriétés           | Poids/ unité |
-| ---------- | ------------: | :----------: | :---------------------------: | :----------: |
-| Os         | 5 ^ rareté pa | rareté (1-5) | Enchantements élémentaires x2 |     1 kg     |
-| Fonte      |          2 pa |      2       |        VS Nécrophages         |    1.5 kg    |
-| Fer        |         10 pa |      3       |           VS Bêtes            |     1 kg     |
-| Bronze     |         25 pa |      4       |        VS Insectoides         |    1.5 kg    |
-| Acier      |         50 pa |      5       |          VS Mutants           |     1 kg     |
-| Titane     |          1 po |      6       |        VS Invocations         |    1.5 kg    |
-| Mythril    |          5 po |      8       |        VS Elementaires        |     1 kg     |
-| Palladium  |          7 po |      10      |           VS Anges            |     2 kg     |
-| Adamantite |          7 po |      10      |         VS Draconides         |     2 kg     |
-| Orichalque |         10 po |      12      |           VS Démons           |    2.5 kg    |
+| Matériau   |   Prix/ unité |      Dégâts      |          Propriétés           | Poids/ unité |
+| ---------- | ------------: | :--------------: | :---------------------------: | -----------: |
+| Os         | 5 ^ rareté pa | rareté (1-5) + 2 | Enchantements élémentaires x2 |      0.75 kg |
+| Fonte      |          2 pa |        3         |        VS Nécrophages         |       1.5 kg |
+| Fer        |         10 pa |        4         |           VS Bêtes            |         1 kg |
+| Bronze     |         25 pa |        5         |        VS Insectoides         |       1.5 kg |
+| Acier      |         50 pa |        6         |          VS Mutants           |         1 kg |
+| Titane     |          1 po |        7         |        VS Invocations         |       1.5 kg |
+| Mythril    |          5 po |        8         |        VS Elementaires        |         1 kg |
+| Palladium  |          7 po |        10        |           VS Anges            |         2 kg |
+| Adamantite |          7 po |        10        |         VS Draconides         |         2 kg |
+| Orichalque |         10 po |        12        |           VS Démons           |       2.5 kg |
 
-### Revêtements
+#### Revêtements
+>Le revêtement retire les propriétés du matériau principal et applique le sien à la place.
 
 | Matériau  | Prix/ unité |  Propriétés   | Poids/ unité |
-| --------- | ----------: | :-----------: | :----------: |
-| Cuivre    |       50 pc |  VS Plantes   |     2 kg     |
-| Argent    |       50 pa |  VS Hybrides  |     2 kg     |
-| Sombronce |        1 po |  VS Naturels  |     1 kg     |
-| Electrum  |       10 po |  VS Magiques  |     2 kg     |
-| Or        |       50 po | VS Mythiques  |     4 kg     |
-| Platine   |      500 po | Vs Humanoides |     3 kg     |
+| --------- | ----------: | :-----------: | -----------: |
+| Cuivre    |       50 pc |  VS Plantes   |         2 kg |
+| Argent    |       50 pa |  VS Hybrides  |         2 kg |
+| Sombronce |        1 po |  VS Naturels  |         1 kg |
+| Electrum  |       10 po |  VS Magiques  |         2 kg |
+| Or        |       50 po | VS Mythiques  |         4 kg |
+| Platine   |      500 po | Vs Humanoides |         3 kg |
+
+### Munitions
+
+Les munitions utilisées avec une arme à distance possèdent leur propre propriété.
+
+| Type       | Prix/ unité | Arme                    |                         Propriétés                         | Nombre de munition/ matériau |
+| ---------- | ----------: | :---------------------- | :--------------------------------------------------------: | :--------------------------: |
+| Fonte      |        2 pa | Tout                    |                            ---                             |           2d4 +12            |
+| Plomb      |        5 pa | Tout                    |                         Antimagie                          |           2d6 + 8            |
+| Crystal    |        1 po | Tout                    |    [[Afflictions#Surcharge\|Surcharge]]<br>5 munitions     |           2d4 + 2            |
+| Potion     |          -- | Tout                    |                Zone d'effet de 5ft de rayon                |              1               |
+| Tissu      |       10 pa | Armes à corde           |                          Enflammé                          |           2d6 + 8            |
+| Obsidienne |             | Armes à corde           |           [[Propriétés#Lacération\|Lacération]]            |           2d6 + 8            |
+| Shrapnel   |       20 pa | Armes à feu             | [[Propriétés#Lacération\|Lacération]]<br>Portée Max = 10ft |            2d4 +4            |
+| Boulet     |       50 pa | Armes à feu<br>(lourde) |    La cible touchée est [[Conditions#Couché\|Couchée]]     |              1               |
