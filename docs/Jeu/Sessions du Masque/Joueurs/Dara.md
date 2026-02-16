@@ -9,10 +9,10 @@
 ## Attributs
 > + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
 
-| Force | Dextérité | Mental | Perception | Charisme |
-| :---: | :-------: | :----: | :--------: | :------: |
-|   6   |    17     |   14   |     13     |    7     |
-|  -2   |    +3     |   +2   |     +1     |    -2    |
+| Force | Dextérité | Mental | Perception |    Charisme    |
+| :---: | :-------: | :----: | :--------: | :------------: |
+|   6   |    17     |   14   |     13     |       7        |
+|  -2   |    +3     |   +2   |     +1     | -2 (+1 wasabi) |
 
 ### [[Compétences]]
 

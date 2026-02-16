@@ -22,6 +22,14 @@
 | Distance<br>(Arbalètes)   | 20 x Puissance pa | 2d6 +2X |                    [[Propriétés#Lent\|Lent]]                     |         2 |
 | Distance<br>(Armes à feu) |  1 x Puissance po | 3d4 +3X |                [[Propriétés#Instable\|Instable]]                 |         3 |
 
+### Modifications
+
+| Léger/ Petit                    | Normal | Lourd/ Grand                | Colossal (seulement mêlée)  |
+| :------------------------------ | :----: | :-------------------------- | :-------------------------- |
+| -1 Matériau                     |  ---   | +1 Matériaux                | +3 Matériaux                |
+| Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
+| +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés +Force, +2X          |
+
 ### Enchantements
 
 Enchanter une arme permet d'augmenter son dé de dégâts.
@@ -34,14 +42,6 @@ Si une arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] son
 | :-------------------: | :--: | :----: | :----: | :----: | :-----: | :------: |
 | **Réussite normale**  | 1d4  |  1d6   |  1d8   |  1d10  |  1d12   |   1d20   |
 | **Réussite critique** |  -   | 1d4 +2 | 1d6 +2 | 1d8 +2 | 1d10 +2 | 1d10 +10 |
-
-### Modifications
-
-| Léger/ Petit                    | Normal | Lourd/ Grand                | Colossal (seulement mêlée)  |
-| :------------------------------ | :----: | :-------------------------- | :-------------------------- |
-| -1 Matériau                     |  ---   | +1 Matériaux                | +3 Matériaux                |
-| Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
-| +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés +Force, +2X          |
 
 ## Matériaux
 >La propriété VS ajoute un dé de dégâts lorsque l'attaque touche le bon type de cible (ne s'applique pas sur les armes à distance).
