@@ -12,49 +12,12 @@ tags:
 
 - Les humanoïdes possèdent tous un **maximum de 50 HP** qui se régénèrent avec du repos (pour peu que la personne ait mangé récemment) ou de la magie.
 
-## AC
->L'AC dépend du type d'armure équipée.
-
-|     Tissu<br>*(Légère)*     | Cuir, Peaux, Écailles, Os et Mailles (métal)<br>*(Intermédiaire)* | Plate (métal)<br>*(Lourde)* |
-| :-------------------------: | :---------------------------------------------------------------: | :-------------------------: |
-| Dextérité<br>(+ Accrobatie) |                    Dextérité<br>(+ Accrobatie)                    |              -              |
-|  + Crystaux (max = Mental)  |                                                                   |                             |
-
-## Mouvement
-
-La majorité des entités possèdent 6 cases (30ft) de déplacement.
-
-| Mouvement                 | Effet                |
-| ------------------------- | -------------------- |
-| Marche                    | Mouvement de base    |
-| Terrain difficile         | Mouvement / 2        |
-| Ramper                    | Mouvement / 2        |
-| Se relever                | 50% mouvement        |
-| Sauter (avec 10ft d'élan) | Distance = Force     |
-| Sauter (sans élan)        | Distance = Force / 2 |
-
-Le mouvement peut être "interrompu" par une action avant de rependre, et ce à plusieurs reprises si besoin.
-
-On ne peut traverser une créature hostile que si elle est 2 fois plus grande/ petite que soi.
-
-On peut passer un passage étroit que s'il n'est que 1 fois plus petit que soi.
-
 ## Actions
->Les actions personnalisées sont dotées d'un * .
 
-| Action                              | Effet                                                                                                                                                                                      |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Motiver *                           | Seulement au premier tour, seulement un joueur.<br>Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour leur donner un désavantage (effet et durée selon le MJ) |
-| Attaquer *                          |                                                                                                                                                                                            |
-| Prendre 10/20<br>(Se concentrer * ) | Prendre son temps (sans se faire perturber) pour réussir les DC de 10 (1 tour) / 20 (2 tours)<br>Permet également de régénérer sa magie                                                    |
-| Courir                              | Mouvement x2<br>Impossible d'attaquer                                                                                                                                                      |
-| Se désengager                       | Éviter une attaque d'opportunité en s'éloignant d'un adversaire<br>Impossible d'attaquer                                                                                                   |
-| Pousser                             | Jet de Force (Athlétisme) pour éloigner la cible de 10ft (2 cases) de soi                                                                                                                  |
-| Esquiver                            | Désavantage pour ceux qui attaquent<br>S'annule si le mouvement tombe à 0                                                                                                                  |
-| Aider                               | Avantage pour celui qu'on aide (ne se cumule pas)                                                                                                                                          |
-| Se cacher                           | Jet de Dextérité (Discrétion) pour se cacher et bénéficier d'un effet de surprise<br>Si ça rate, il faut s'éloigner d'au moins 25ft (5 cases) avant de recommencer                         |
-| Se préparer                         | Citer ce que l'on attend qu'il se passe afin de pouvoir y réagir en dehors de son tour                                                                                                     |
-| Chercher                            | Jet de Perception (Perception) pour trouver quelque chose                                                                                                                                  |
+### Motiver
+>Seulement au premier tour, seulement un joueur.
+
+Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour leur donner un désavantage (effet et durée selon le MJ)
 
 ### Attaquer
 
@@ -81,10 +44,9 @@ On peut passer un passage étroit que s'il n'est que 1 fois plus petit que soi.
 
 Si le jet est supérieur au double de l'AC, le joueur double ses dés de dégâts.
 
-## Actions Bonus
->Peuvent être utilisées en plus d'une action normale
+### Se concentrer
+>Prendre 10/20
 
-| Action            | Effet                                                                                                          |
-| ----------------- | -------------------------------------------------------------------------------------------------------------- |
-| Magie de soutient | Utiliser des sorts magiques qui ne nécessitent pas de faire un jet pour toucher (soins, buffs, mouvements, ..) |
-| Utiliser un objet | Dans le titre                                                                                                  |
+Prendre son temps (sans se faire perturber) pour réussir les DC de 10 (1 tour) / 20 (2 tours).
+
+Permet également de régénérer sa magie.

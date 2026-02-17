@@ -1,10 +1,13 @@
 >AC (Armor Class) = Mobilité d'esquive naturelle
 >DR (Damage Reduction) = Réduction des dégâts
 
-	Tissu : AC [16 - 28] DR [2 - 3]
-	Cuir : AC [12 - 19] DR [2 - 15]
-	Os : AC [8 - 15] DR [4 - 25]
-	Métal : AC [4 - 10] DR [7 - 40]
+## AC total
+>AC total = AC + Modificateurs
+
+|             Tissu              | Cuir, Peaux, Écailles, Os et Mailles (métal) | Plate (métal) |
+| :----------------------------: | :------------------------------------------: | :-----------: |
+|     Dextérité (Accrobatie)     |            Dextérité (Accrobatie)            |       -       |
+| + Crystaux (max = Mental / 4) |                                              |               |
 
 ## Matériaux
 >Le prix de main d'œuvre vaut 10% du prix des tous les matériaux requis.

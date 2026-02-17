@@ -1,13 +1,5 @@
->Le type d'arme ainsi que ses matériaux vont influencer les bonus, malus et enchantements que celle-ci peut posséder.
-
-| Arme     | Court       | 1 Main      | 2 Mains     | Haste       | Arc         | Arbalète    | Fusil       |
-| -------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Léger    | -           | [3-24] + 12 | [3-18] + 24 | [4-24]      | -           | [3-24] + 12 | [3-18] + 24 |
-| Normal   | [2-24] + 12 | [2-16] +24  | [3-12] + 36 | [3-18] + 12 | [2-20] + 12 | [2-12] + 24 | [3-12] + 36 |
-| Lourd    | [1-12] + 36 | [1-8] + 36  | [2-8] + 48  | [2-12] + 24 | [1-10] + 24 | [1-8] + 36  | [2-8] + 48  |
-| Colossal | -           | -           | [1-4] + 60  | [1-8] + 36  | -           | -           | [1-4] + 60  |
-
 ## Dégâts
+>L'arme permet de se focaliser sur les dégâts rapides (vs AC) ou les dégâts lourds (vs DR)
 
 ### Armes
 >X = Matériau
@@ -18,13 +10,13 @@
 | 1 Main                    |             10 pa | 2d8 +2X |                   [[Propriétés#Léger\|Léger]]                    |         2 |
 | 2 Mains                   |             20 pa | 3d4 +3X |                               ---                                |         3 |
 | Haste                     |             40 pa | 3d6 +X  |                  [[Propriétés#Portée\|Portée]]                   |         5 |
-| Distance<br>(Arcs)        |  5 x Puissance pa | 2d10 +X |                               ---                                |         1 |
-| Distance<br>(Arbalètes)   | 20 x Puissance pa | 2d6 +2X |                    [[Propriétés#Lent\|Lent]]                     |         2 |
-| Distance<br>(Armes à feu) |  1 x Puissance po | 3d4 +3X |                [[Propriétés#Instable\|Instable]]                 |         3 |
+| Distance<br>(Arcs)        |  5 * Puissance pa | 2d10 +X |                               ---                                |         1 |
+| Distance<br>(Arbalètes)   | 20 * Puissance pa | 2d6 +2X |                    [[Propriétés#Lent\|Lent]]                     |         2 |
+| Distance<br>(Armes à feu) |  1 * Puissance po | 3d4 +3X |                [[Propriétés#Instable\|Instable]]                 |         3 |
 
 ### Modifications
 
-| Léger/ Petit                    | Normal | Lourd/ Grand                | Colossal (seulement mêlée)  |
+| Léger/ Petit                    | Normal | Lourd/ Grand                | Colossal                    |
 | :------------------------------ | :----: | :-------------------------- | :-------------------------- |
 | -1 Matériau                     |  ---   | +1 Matériaux                | +3 Matériaux                |
 | Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |

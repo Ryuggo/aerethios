@@ -1,5 +1,5 @@
 ## Compétences d'Attributs
->Le joueur commence avec 55 points répartis dans ses [[Attributs]] et en débloquera 40 de plus en montant son niveau.
+>Le joueur commence avec 55 points répartis dans ses Attributs et en débloquera 40 de plus en montant son niveau.
 >Chaque attribut peut contenir jusqu'à 20 points.
 >A chaque fois que le joueur met 1 point dans un attribut, il peut débloquer 1 compétence liée à cet attribut (certaines compétences sont liées à plusieurs attributs et peuvent être débloqués via différents "chemin").
 
