@@ -34,7 +34,7 @@ Que ce soit entre ennemis, entre alliés, ou entre les deux.
 
 A chaque fois que tous les dés du joueur roulent leur valeur maximale, le joueur peut relancer ses dés et accumuler les résultats.
 
-Cela ne marche que pour les jets d'attaque.
+Cela ne marche que pour les jets d'attaque et si on jette au moins 2 dés.
 
 ### Bénédiction Hasardeuse
 

@@ -1,15 +1,15 @@
-| Compétence   |  Coût   |  Empêche   | Description                                                                                                                                                  |
-| ------------ | :-----: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Athlétisme   |    5    |  Obésité   | Double le modificateur de Force                                                                                                                              |
-| Destructeur  |   10    |            | Avantage pour casser des objets ou des structures                                                                                                            |
-| Mule         |    5    |            | Ajoute (10 * Modificateur de Force) à la charge maximale                                                                                                     |
-| Seconde peau |    8    |            | Poids de l'armure équipée réduit 10% par point en Mule                                                                                                       |
-| Grosse Berta |   12    |            | Permet de lancer un objet dont le poids = charge maximale<br>Dégâts à la cible = poids - (20 * case de distance)<br>Dégâts à l'objet = Dégâts à la cible / 2 |
-| Bagarre      | [1 - 5] |            | Avantage de force pour les coups de poings en gantelet d'armure lourde                                                                                       |
-| Bourrin      |   14    |            | Permet d'ajouter son modificateur de Force aux dégâts de son arme                                                                                            |
-| Impénétrable |    5    |            | DR + (2 * Modificateur de Force)                                                                                                                             |
-| Cafard       |   16    |            | 1x par long repos, si la vie du joueur tombe entre -50 et 0 HP, lui permet de récupérer (1d4 * 10) HP                                                        |
-| Obésité      |   -5    | Athlétisme | Désavantage lors d'un effort physique prolongé ou soudain                                                                                                    |
+| Compétence   | Coût |  Empêche   | Description                                                                                                                                                  |
+| ------------ | :--: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Athlétisme   |  8   |  Obésité   | Double le modificateur de Force                                                                                                                              |
+| Destructeur  |  2   |            | Avantage pour casser des objets ou des structures                                                                                                            |
+| Mule         |  4   |            | Ajoute (10 * Force) à la charge maximale                                                                                                                     |
+| Seconde peau |  4   |            | Poids de l'armure équipée - 10% * Force                                                                                                                      |
+| Grosse Berta |  6   |            | Permet de lancer un objet dont le poids = charge maximale<br>Dégâts à la cible = poids - (20 * case de distance)<br>Dégâts à l'objet = Dégâts à la cible / 2 |
+| Bagarre      |  2   |            | Avantage de Force pour les coups de poings                                                                                                                   |
+| Bourrin      |  8   |            | Permet d'ajouter sa Force aux dégâts de son arme                                                                                                             |
+| Impénétrable |  4   |            | DR + (2 * Force)                                                                                                                                             |
+| Cafard       |  10  |            | 1x par long repos, si la vie du joueur tombe entre -50 et 0 HP, lui permet de récupérer (1d4 * 10) HP                                                        |
+| Obésité      |  -4  | Athlétisme | Désavantage lors d'un effort physique prolongé ou soudain                                                                                                    |
 
 ---
 

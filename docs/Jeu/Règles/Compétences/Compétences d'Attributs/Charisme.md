@@ -1,17 +1,17 @@
 | Compétence    | Coût |       Empêche        | Description                                                                |
 | ------------- | :--: | :------------------: | -------------------------------------------------------------------------- |
-| Charismatique |  5   |                      | Double le modificateur de Charisme                                         |
-| Doyen         |  8   |                      | Les gens vanteront vos mérites, améliorant votre réputation locale         |
-| Intimidant    |  5   |                      | Utilise la Force pour influencer par la peur                               |
-| Parrain       |  8   |                      | Les gens ne parleront pas de ce que vous avez fait ou dit                  |
-| Performance   |  5   |                      | Utilise la Dextérité pour influencer par la gestuelle                      |
-| Bouffon       |  8   |                      | Possibilité de recevoir des pièces après avoir diverti (1d6 pa)            |
-| Persuasif     |  5   |                      | Utilise la Mental pour influencer par la parole                            |
-| Politicien    |  8   |                      | Perception (Mentaliste) ne peut pas détecter vos intentions                |
-| Flatteur      |  5   |        Moche         | Utilise la Perception pour influencer par les compliments                  |
-| Dragueur      |  8   |        Moche         | Facilitent les relations et les révélations lors des discussions post-coït |
-| Veinard       |  15  |                      | Le joueur peut relancer ses échecs critiques                               |
-| Moche         |  -5  | Flatteur<br>Dragueur | Les gens ne veulent pas toucher le joueur                                  |
+| Charismatique |  8   |                      | Double le modificateur de Charisme                                         |
+| Doyen         |  4   |                      | Les gens vanteront vos mérites, améliorant votre réputation locale         |
+| Intimidant    |  2   |                      | Utilise la Force pour influencer par la peur                               |
+| Parrain       |  4   |                      | Les gens ne parleront pas de ce que vous avez fait ou dit                  |
+| Performance   |  2   |                      | Utilise la Dextérité pour influencer par la gestuelle                      |
+| Bouffon       |  4   |                      | Possibilité de recevoir des pièces après avoir diverti (1d6 pa)            |
+| Persuasif     |  2   |                      | Utilise la Mental pour influencer par la parole                            |
+| Politicien    |  4   |                      | Perception (Mentaliste) ne peut pas détecter vos intentions                |
+| Flatteur      |  2   |        Moche         | Utilise la Perception pour influencer par les compliments                  |
+| Dragueur      |  4   |        Moche         | Facilitent les relations et les révélations lors des discussions post-coït |
+| Veinard       |  10  |                      | Le joueur peut relancer ses échecs critiques                               |
+| Moche         |  -4  | Flatteur<br>Dragueur | Les gens ne veulent pas toucher le joueur                                  |
 
 ---
 

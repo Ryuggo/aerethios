@@ -1,5 +1,6 @@
 ## Dégâts
->L'arme permet de se focaliser sur les dégâts rapides (vs AC) ou les dégâts lourds (vs DR)
+>L'arme permet de se focaliser sur les dégâts rapides (vs AC) ou les dégâts lourds (vs DR).
+>Utiliser la faiblesse de l'ennemi ne prend en compte que 50% de sa DR.
 
 ### Armes
 >Si dé >= AC -> DR - (dé +X) = Dégâts au HP
@@ -24,6 +25,10 @@ Si le dé de dégâts atteint l'AC de la cible, on déduit de DR la somme du dé
 | -1 Matériau                     |  ---   | +1 Matériaux                | +3 Matériaux                |
 | Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
 | +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés +Force, +2X          |
+
+### Styles
+
+Les styles se débloquent en fonction de son niveau de maîtrise.
 
 ### Enchantements
 

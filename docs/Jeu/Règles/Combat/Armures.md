@@ -13,7 +13,7 @@
 >Le prix de main d'œuvre vaut 10% du prix des tous les matériaux requis.
 >Une armure nécessite 24 matériaux pour être fabriquée.
 >Sans armure, l'AC de base est de 18.
->La DR est réduite de moitié/ diminue de 1d4 si elle se fait toucher par sa faiblesse.
+>Faiblesse = 50% DR
 
 ### Tissus et Fourrures
 
