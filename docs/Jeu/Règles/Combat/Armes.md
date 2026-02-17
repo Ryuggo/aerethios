@@ -2,7 +2,10 @@
 >L'arme permet de se focaliser sur les dégâts rapides (vs AC) ou les dégâts lourds (vs DR)
 
 ### Armes
+>Si dé >= AC -> DR - (dé +X) = Dégâts au HP
 >X = Matériau
+
+Si le dé de dégâts atteint l'AC de la cible, on déduit de DR la somme du dé et de X, et ce qui reste réduit les HP.
 
 | Catégorie                 | Prix main d'œuvre | Dégâts  |                            Propriétés                            | Matériaux |
 | ------------------------- | ----------------: | ------- | :--------------------------------------------------------------: | --------: |
