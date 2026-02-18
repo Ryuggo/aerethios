@@ -1,14 +1,14 @@
 
 | Compétence         | Coût |   Empêche    | Description                                                                  |
 | ------------------ | :--: | :----------: | ---------------------------------------------------------------------------- |
-| Détection      |  5   | Myope\|Sourd | Double le modificateur de Perception                                         |
-| Mentaliste         |  8   |              | Avantage pour détecter les intentions des êtres vivants                      |
-| Perception magique |  10  |              | Avantage lorsqu'il s'agit de magie                                           |
-| Survie         |  5   |              | Permet d'utiliser la Perception pour connaitre ou comprendre l'environnement |
-| Plantes            |  8   |              | Avantage lorsqu'il s'agit de plantes                                         |
-| Animaux            |  10  |              | Avantage lorsqu'il s'agit d'animaux                                          |
-| Troisième œil  |  15  |              | Les ennemis ne peuvent pas faire de réussite critique contre le joueur       |
-| Myope\|Sourd   |  -5  |  Détection   | Désavantage pour détecter des informations utiles                            |
+| Troisième œil      |  10  |              | Les ennemis ne peuvent pas faire de réussite critique contre le joueur       |
+| Détection          |  8   | Myope\|Sourd | Double le modificateur de Perception                                         |
+| Survie             |  4   |              | Permet d'utiliser la Perception pour connaitre ou comprendre l'environnement |
+| Mentaliste         |  2   |              | Avantage pour détecter les intentions des êtres vivants                      |
+| Perception magique |  2   |              | Avantage lorsqu'il s'agit de magie                                           |
+| Plantes            |  2   |              | Avantage lorsqu'il s'agit de plantes                                         |
+| Animaux            |  2   |              | Avantage lorsqu'il s'agit d'animaux                                          |
+| Myope\|Sourd       |  -4  |  Détection   | Désavantage pour détecter des informations utiles                            |
 
 ---
 

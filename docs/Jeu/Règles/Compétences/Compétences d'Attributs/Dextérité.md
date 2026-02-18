@@ -1,13 +1,13 @@
 | Compétence    | Coût |        Empêche         | Description                                                                                                       |
 | ------------- | :--: | :--------------------: | ----------------------------------------------------------------------------------------------------------------- |
-| Acrobatie     |  5   |       Maladroit        | Double le modificateur de Dextérité                                                                               |
-| Souplesse     |  2   |       Maladroit        | Avantage de Dextérité pour l'acrobatie en armure intermédiaire.                                                   |
-| Discrétion    |  5   |                        | Permet d'utiliser la Dextérité lorsqu'on souhaite cacher sa présence                                              |
-| Dissimulation |  10  |                        | Les petits objets (bourses, bijoux, clefs, couteau, crochet, ..) ne peuvent pas être trouvé lorsqu'on est fouillé |
-| Doigté        |  5   |     Pattes d'ours      | Permet d'utiliser la Dextérité lorsqu'on souhaite pickpocketer/ crocheter                                         |
-| Médecine      |  13  |     Pattes d'ours      | Les kits de soin annulent également les afflictions                                                               |
-| Rapide        |  5   |                        | Augmente le mouvement de 5ft (1 case) par Modificateur de Dextérité                                               |
 | Sixième sens  |  19  |                        | Evite les attaques surprises et d'opportunité                                                                     |
+| Acrobatie     |  8   |       Maladroit        | Double le modificateur de Dextérité                                                                               |
+| Dissimulation |  6   |                        | Les petits objets (bourses, bijoux, clefs, couteau, crochet, ..) ne peuvent pas être trouvé lorsqu'on est fouillé |
+| Médecine      |  6   |     Pattes d'ours      | Les kits de soin annulent également les afflictions                                                               |
+| Discrétion    |  4   |                        | Permet d'utiliser la Dextérité lorsqu'on souhaite cacher sa présence                                              |
+| Doigté        |  4   |     Pattes d'ours      | Permet d'utiliser la Dextérité lorsqu'on souhaite pickpocketer/ crocheter                                         |
+| Rapide        |  4   |                        | Augmente le mouvement de 5ft (1 case) par Modificateur de Dextérité                                               |
+| Souplesse     |  2   |       Maladroit        | Avantage de Dextérité pour l'acrobatie en armure intermédiaire.                                                   |
 | Maladroit     |  -4  | Acrobatie<br>Souplesse | Désavantage pour les déplacements agiles, roulades, sauts et esquives                                             |
 | Pattes d'ours |  -4  |   Doigté<br>Médecine   | Désavantage lors de pickpocket/ crochetage/ soigner                                                               |
 
