@@ -14,6 +14,7 @@
 >Une armure nécessite 24 matériaux pour être fabriquée.
 >Sans armure, l'AC de base est de 18.
 >Faiblesse = 50% DR
+>Les HP ne se régénèrent pas naturellement lorsqu'une armure est équipée.
 
 ### Tissus et Fourrures
 
