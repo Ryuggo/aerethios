@@ -9,7 +9,7 @@
 | Discrétion    |  4   |                        | Permet d'utiliser la Dextérité lorsqu'on souhaite cacher sa présence                                              |
 | Doigté        |  4   |     Pattes d'ours      | Permet d'utiliser la Dextérité lorsqu'on souhaite pickpocketer/ crocheter                                         |
 | Escalade      |  4   |                        | Permet d'escalader des murs donc la difficulté (système fr) est inférieure ou égale à la Dextérité                |
-| Pussy         |  4   |                        | Les dégâts de chute sont réduits de moitié et non létaux                                                          |
+| Pussy         |  4   |                        | Les dégâts de chute sont non létaux                                                                               |
 | Précision     |  4   |                        | Permet d'utiliser la Dextérité lorsqu'on jette une arme                                                           |
 | Souplesse     |  2   |       Maladroit        | Avantage de Dextérité pour l'acrobatie en armure intermédiaire.                                                   |
 | Equilibre     |  2   |                        | Ne peut pas trébucher                                                                                             |
