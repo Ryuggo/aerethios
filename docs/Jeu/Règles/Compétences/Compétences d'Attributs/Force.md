@@ -7,6 +7,7 @@
 | Grosse Berta |  6   |            | Permet de lancer un objet dont le poids = charge maximale<br>Dégâts à la cible = poids - (20 * case de distance)<br>Dégâts à l'objet = Dégâts à la cible / 2 |
 | Brise Armure |  6   |            | Si la cible a du métal (armure\|bouclier), ajoute la Force aux dégâts                                                                                        |
 | Acharnement  |  6   |            | Si la cible est au sol, ajoute la Force aux dégâts                                                                                                           |
+| Guts         |  6   |            | Permet d'utiliser une arme à 2 mains avec une seule main (l'autre main ne peut rien porter)                                                                  |
 | Impénétrable |  4   |            | DR + (2 * Force)                                                                                                                                             |
 | Mule         |  4   |            | Ajoute (10 * Force) à la charge maximale                                                                                                                     |
 | Seconde peau |  4   |            | Poids de l'armure équipée réduit de (10% * Force)                                                                                                            |
