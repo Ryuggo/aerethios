@@ -2,8 +2,8 @@
 
 **Niveau** : 6
 
-|       Arvens        |          Runild          | Scienctes | Templis |
-| :-----------------: | :----------------------: | :-------: | :-----: |
+|                                      Arvens                                      |          Runild          | Scienctes | Templis |
+| :------------------------------------------------------------------------------: | :----------------------: | :-------: | :-----: |
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 2 | [[Runild#100 po\|Riche]] |     -     |    -    |
 
 ## Attributs

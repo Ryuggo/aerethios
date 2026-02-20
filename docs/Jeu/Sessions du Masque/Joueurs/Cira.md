@@ -1,0 +1,93 @@
+>Si vous voulez une image, envoyez-la moi et je la transforme pour avoir un style graphique similaire au reste
+
+**Niveau** :
+
+| Arvens | Runild | Scienctes | Templis |
+| :----: | :----: | :-------: | :-----: |
+|        | Riche  |           |         |
+
+## Attributs
+
+| Force | Dextérité | Mental | Perception | Charisme |
+| :---: | :-------: | :----: | :--------: | :------: |
+|       |           |        |            |          |
+|       |           |        |            |          |
+
+### [[Compétences]]
+
+| Force | Dextérité | Mental | Perception | Charisme | Armures | Armes |
+| :---: | :-------: | :----: | :--------: | :------: | ------- | ----- |
+|       |           |        |            |          |         |       |
+
+## Combats
+
+### Armes
+
+| Court | 1 Main | 2 Mains | Haste | Distance |
+| :---: | :----: | :-----: | :---: | :------: |
+|       |        |         |       |          |
+|       |        |         |       |          |
+
+### Magie
+
+**Maîtrise** :
+
+**Crystaux** :
+
+| **[[Air]]** | **[[Eau]]** | **[[Roche]]** | **[[Feu]]** | **[[Foudre]]** | **[[Lumière]]** | **[[Ténèbres]]** |
+| :--------: | :---------: | :--------: | :-----: | :--------: | :---------: | :----------: |
+|            |             |            |         |            |             |              |
+|            |             |            |         |            |             |              |
+
+## Equipement
+
+### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
+
+| Armure | AC  | DR  | Enchantement | Poids (kg) | Dégâts | Propriétés |
+| ------ | :-: | :-: | :----------: | :--------: | :----: | :--------: |
+|        |     |     |              |            |        |            |
+
+### [[Armes]]
+
+| Arme | Dégâts | Enchantements | Poids (kg) | Propriétés |
+| ---- | :----: | :-----------: | :--------: | :--------: |
+|      |        |               |            |            |
+|      |        |               |            |            |
+|      |        |               |            |            |
+
+## [[Apprentissages]]
+
+| Apprentissage                                             | Niveau | Expérience |
+| --------------------------------------------------------- | :----: | :--------: |
+| [[Artificier]]                                            |        |            |
+| [[Bijoutier]]                                             |        |            |
+| [[Cartographe]]                                           |        |            |
+| [[Chasseur]]                                              |        |            |
+| [[Cuisinier]]                                             |        |            |
+| [[Enchanteur#Kothula (WIP)\|Enchanteur (peau - Kothula)]] |        |            |
+| [[Enchanteur#Nirina\|Enchanteur (métal – Nirina)]]        |        |            |
+| [[Enchanteur#Ovliin\|Enchanteur (os – Ovliin)]]           |        |            |
+| [[Enchanteur#Suraja\|Enchanteur (tissu – Suraja)]]        |        |            |
+| [[Équitation]]                                            |        |            |
+| [[Forgeron]]                                              |        |            |
+| [[Invocateur]]                                            |        |            |
+| Larcin                                                    |        |            |
+| Lire / Écrire                                             |        |            |
+| Natation                                                  |        |            |
+| [[Navigation]]                                            |        |            |
+| [[Potionniste]]                                           |        |            |
+| [[Tanneur]]                                               |        |            |
+
+## Inventaire
+
+**Poids maximum** :
+- *Force > 10 : 40 + (Force Modificateur x 10)*
+- *Force < 10 : 40 + (Force Modificateur x 2)*
+
+| Qty | Nom | Poids (kg) |
+| --- | --- | ---------: |
+|     |     |            |
+
+## Connaissances
+
+-
