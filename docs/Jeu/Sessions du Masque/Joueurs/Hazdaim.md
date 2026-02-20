@@ -50,10 +50,10 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure        |         AC         |               DR               |   Enchantement   | Poids (kg) | Dégâts |                     Propriétés                      |
-| ------------- | :----------------: | :----------------------------: | :--------------: | :--------: | :----: | :-------------------------------------------------: |
-| Armure Cuir   | 12<br>+2(Dex) = 14 | 9(peu commun)<br>+3(Impé) = 12 | Roche 2<br>Feu 2 |     12     |   -    |       Résiste à [[Conditions#Poison\|Poison]]       |
-| Cape Fourrure |         -          |               -                |    Ténèbres 5    |     1      |   -    | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Armure        |          AC           |               DR               |   Enchantement   | Poids (kg) | Dégâts |                     Propriétés                      |
+| ------------- | :-------------------: | :----------------------------: | :--------------: | :--------: | :----: | :-------------------------------------------------: |
+| Armure Cuir   | 12<br>+2(Dex)<br>= 14 | 9(peu commun)<br>+3(Impé) = 12 | Roche 2<br>Feu 2 |     12     |   -    |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape Fourrure |           -           |               -                |    Ténèbres 5    |     1      |   -    | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 

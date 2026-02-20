@@ -50,12 +50,12 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure                   |         AC         |                 DR                 |     Enchantement     | Poids (kg) | Dégâts |                     Propriétés                      |
-| ------------------------ | :----------------: | :--------------------------------: | :------------------: | :--------: | :----: | :-------------------------------------------------: |
-| Armure<br>Cuir           | 12<br>+3(Dex) = 15 | 9(peu commun) <br>+5(Impé)<br>= 14 |          -           |     12     |   -    |       Résiste à [[Conditions#Poison\|Poison]]       |
-| Cape en velour           |         -          |                 -                  |  Feu 2<br>Foudre 2   |     1      |   -    |  Les sorts solides à 1 crystal ne les consomme pas  |
-| Cape de fourrure         |         -          |                 -                  | Glace 3<br>Liquide 1 |     1      |   -    | Les sorts croitistes à 1 crystal ne le consomme pas |
-| Cape de fourrure (tigre) |         -          |                 -                  |                      |     1      |   -    | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Armure                   |          AC           |                 DR                 |     Enchantement     | Poids (kg) | Dégâts |                     Propriétés                      |
+| ------------------------ | :-------------------: | :--------------------------------: | :------------------: | :--------: | :----: | :-------------------------------------------------: |
+| Armure<br>Cuir           | 12<br>+3(Dex)<br>= 15 | 9(peu commun) <br>+5(Impé)<br>= 14 |          -           |     12     |   -    |       Résiste à [[Conditions#Poison\|Poison]]       |
+| Cape en velour           |           -           |                 -                  |  Feu 2<br>Foudre 2   |     1      |   -    |  Les sorts solides à 1 crystal ne les consomme pas  |
+| Cape de fourrure         |           -           |                 -                  | Glace 3<br>Liquide 1 |     1      |   -    | Les sorts croitistes à 1 crystal ne le consomme pas |
+| Cape de fourrure (tigre) |           -           |                 -                  |                      |     1      |   -    | Les sorts croitistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 

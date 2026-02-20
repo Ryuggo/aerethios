@@ -1,17 +1,18 @@
 >Si vous voulez une image, envoyez-la moi et je la transforme pour avoir un style graphique similaire au reste
 
-**Niveau** :
+**Niveau** : 8
 
-| Arvens | Runild | Scienctes | Templis |
-| :----: | :----: | :-------: | :-----: |
-|        | Riche  |           |         |
+|                                      Arvens                                      |          Runild          | Scienctes | Templis |
+| :------------------------------------------------------------------------------: | :----------------------: | :-------: | :-----: |
+| [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 1 | [[Runild#100 po\|Riche]] |           |         |
 
 ## Attributs
+> + 2 points pour les niveaux ~~4, 8~~, 12, 16, and 19
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
-|       |           |        |            |          |
-|       |           |        |            |          |
+|   7   |    14     |   10   |     12     |    16    |
+|  -2   |    +2     |   0    |     +1     |    +3    |
 
 ### [[Compétences]]
 
@@ -25,35 +26,34 @@
 
 | Court | 1 Main | 2 Mains | Haste | Distance |
 | :---: | :----: | :-----: | :---: | :------: |
-|       |        |         |       |          |
-|       |        |         |       |          |
+|   8   |   5    |    0    |   0   |    0     |
+|  +4   |   +2   |    0    |   0   |    0     |
 
 ### Magie
 
-**Maîtrise** :
+**Maîtrise** : 1
 
-**Crystaux** :
+**Crystaux** : 10
 
 | **[[Air]]** | **[[Eau]]** | **[[Roche]]** | **[[Feu]]** | **[[Foudre]]** | **[[Lumière]]** | **[[Ténèbres]]** |
-| :--------: | :---------: | :--------: | :-----: | :--------: | :---------: | :----------: |
-|            |             |            |         |            |             |              |
-|            |             |            |         |            |             |              |
+| :---------: | :---------: | :-----------: | :---------: | :------------: | :-------------: | :--------------: |
+|      6      |      4      |       -       |      -      |       -        |        -        |        -         |
+|     1d6     |     1d4     |       -       |      -      |       -        |        -        |        -         |
 
 ## Equipement
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure | AC  | DR  | Enchantement | Poids (kg) | Dégâts | Propriétés |
-| ------ | :-: | :-: | :----------: | :--------: | :----: | :--------: |
-|        |     |     |              |            |        |            |
+| Armure         |          AC           |              DR              | Enchantement | Poids (kg) | Dégâts |               Propriétés                |
+| -------------- | :-------------------: | :--------------------------: | :----------: | :--------: | :----: | :-------------------------------------: |
+| Armure<br>Cuir | 14<br>+3(Dex)<br>= 17 | 12(rare)<br>+0(Impé)<br>= 12 |      -       |     12     |   -    | Résiste à [[Conditions#Poison\|Poison]] |
 
 ### [[Armes]]
 
-| Arme | Dégâts | Enchantements | Poids (kg) | Propriétés |
-| ---- | :----: | :-----------: | :--------: | :--------: |
-|      |        |               |            |            |
-|      |        |               |            |            |
-|      |        |               |            |            |
+| Arme                                                |                    Dégâts                    | Poids (kg) |                              Propriétés                              |
+| --------------------------------------------------- | :------------------------------------------: | :--------: | :------------------------------------------------------------------: |
+| Dague<br>Acier<br>Court<br>(léger)                  |   3d12 + 3<br>VS Mutants<br>Feu<br>= 6-39    |    0.5     | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
+| Dague<br>Orichalque (Sombronce)<br>Court<br>(lourd) | 1d12 + 24<br>VS Naturels<br>Glace<br>= 25-36 |    1.5     | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
 
 ## [[Apprentissages]]
 
@@ -80,7 +80,7 @@
 
 ## Inventaire
 
-**Poids maximum** :
+**Poids maximum** : 36
 - *Force > 10 : 40 + (Force Modificateur x 10)*
 - *Force < 10 : 40 + (Force Modificateur x 2)*
 
