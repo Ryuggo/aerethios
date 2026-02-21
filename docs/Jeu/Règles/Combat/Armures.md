@@ -4,9 +4,9 @@
 ## AC total
 >AC total = AC + Modificateurs
 
-|             Tissu              | Cuir, Peaux, Écailles, Os et Mailles (métal) | Plate (métal) |
-| :----------------------------: | :------------------------------------------: | :-----------: |
-|     Dextérité (Accrobatie)     |            Dextérité (Accrobatie)            |       -       |
+|             Tissu             | Cuir, Peaux, Écailles, Os et Mailles (métal) | Plate (métal) |
+| :---------------------------: | :------------------------------------------: | :-----------: |
+|    Dextérité (Accrobatie)     |            Dextérité (Accrobatie)            |       -       |
 | + Crystaux (max = Mental / 4) |                                              |               |
 
 ## Matériaux

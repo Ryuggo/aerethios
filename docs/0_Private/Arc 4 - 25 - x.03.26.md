@@ -10,6 +10,11 @@ Pnjs notables : Théon, Nyx, Salomé
 
 ## Notes
 
+TODO
+- [ ] Compétences
+- [ ] Fiche perso Cindy
+- [ ] Réussite critique pour les dés d'armes
+
 |           |       Arek       |       Dara        |           Haelrak           |      Hazdaim       |      Léoric      |  Zveindel   |
 | --------- | :--------------: | :---------------: | :-------------------------: | :----------------: | :--------------: | :---------: |
 | **AC**    |      8 (-3)      |        15         |             14              |         14         |        9         |     10      |
