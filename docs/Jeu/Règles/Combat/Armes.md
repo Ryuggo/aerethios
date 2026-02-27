@@ -2,21 +2,34 @@
 >L'arme permet de se focaliser sur les dégâts rapides (vs AC) ou les dégâts lourds (vs DR).
 >Utiliser la faiblesse de l'ennemi ne prend en compte que 50% de sa DR.
 
+Exemple avec X = 12 (Orichalque)
+
+| Modifications |            Courte            |           1 Main            |           2 Mains           |            Haste            |             Arcs             |          Arbalètes          |         Armes à feu         |
+| :------------ | :--------------------------: | :-------------------------: | :-------------------------: | :-------------------------: | :--------------------------: | :-------------------------: | :-------------------------: |
+| Léger/ Petit  |              -               | 3d8 +12<br>[15-36 -> 39-60] | 4d4 +18<br>[22-34 -> 38-50] | 4d6 +6<br>[10-30 -> 34-54]  |              -               | 3d6 +12<br>[15-30 -> 33-48] | 4d4 +18<br>[22-34 -> 38-50] |
+| Normal        | 2d12 +12<br>[14-36 -> 38-60] | 2d8 +24<br>[26-40 -> 42-56] | 3d4 +36<br>[39-48 -> 51-60] | 3d6 +12<br>[15-30 -> 33-48] | 1d4 * 12<br>[4-48 -> 60-96]  | 2d4 * 6<br>[6-48 -> 54-96]  | 3d4 * 4<br>[4-48 -> 52-96]  |
+| Lourd/ Grand  | 1d12 +24<br>[25-36 -> 38-60] | 1d8 +36<br>[37-44 -> 45-52] | 2d4 +48<br>[50-56 -> 58-64] | 2d6 +24<br>[26-36 -> 38-48] | 1d10 +24<br>[25-34 -> 35-44] | 1d6 +36<br>[37-42 -> 43-48] | 2d4 +48<br>[52-56 -> 58-64] |
+| Colossal      |              -               |              -              | 1d4 +60<br>[61-64 -> 65-68] | 1d6 +36<br>[37-42 -> 43-48] |              -               |              -              | 1d4 +60<br>[61-64 -> 65-68] |
+
+Critiques (pour chaque dé qui a fait son maximum)
+- Permet de relancer le dé autant de fois qu'il y a de dé (1d4 ne peut être relancé qu'une fois, 3d6 peuvent être relancés max 3x en tout)
+
 ### Armes
->Si dé >= AC -> DR - (dé +X) = Dégâts au HP
+>Mêlée: dé >= AC -> DR - (dé +X) = Dégâts au HP
+>Distance: 1d20 +Dex +Maîtrise >= AC -> DR - dégâts = Dégâts au HP
 >X = Matériau
 
 Si le dé de dégâts atteint l'AC de la cible, on déduit de DR la somme du dé et de X, et ce qui reste réduit les HP.
 
-| Catégorie                 | Prix main d'œuvre | Dégâts  |                            Propriétés                            | Matériaux |
-| ------------------------- | ----------------: | ------- | :--------------------------------------------------------------: | --------: |
-| Courte                    |              5 pa | 2d12 +X | [[Propriétés#Léger\|Léger]]<br>[[Propriétés#Critique\|Critique]] |         1 |
-| 1 Main                    |             10 pa | 2d8 +2X |                   [[Propriétés#Léger\|Léger]]                    |         2 |
-| 2 Mains                   |             20 pa | 3d4 +3X |                               ---                                |         3 |
-| Haste                     |             40 pa | 3d6 +X  |                  [[Propriétés#Portée\|Portée]]                   |         5 |
-| Distance<br>(Arcs)        |  5 * Puissance pa | 2d10 +X |                               ---                                |         1 |
-| Distance<br>(Arbalètes)   | 20 * Puissance pa | 2d6 +2X |                    [[Propriétés#Lent\|Lent]]                     |         2 |
-| Distance<br>(Armes à feu) |  1 * Puissance po | 3d4 +3X |                [[Propriétés#Instable\|Instable]]                 |         3 |
+| Catégorie   | Dégâts      | Prix main d'œuvre |                            Propriétés                            | Matériaux |
+| ----------- | ----------- | ----------------: | :--------------------------------------------------------------: | --------: |
+| Courte      | 2d12 +X     |              5 pa | [[Propriétés#Léger\|Léger]]<br>[[Propriétés#Critique\|Critique]] |         1 |
+| 1 Main      | 2d8 +2X     |             10 pa |                   [[Propriétés#Léger\|Léger]]                    |         2 |
+| 2 Mains     | 3d4 +3X     |             20 pa |                               ---                                |         3 |
+| Haste       | 3d6 +X      |             40 pa |                  [[Propriétés#Portée\|Portée]]                   |         5 |
+| Arcs        | 1d4 * X     |  5 * Puissance pa |                               ---                                |         1 |
+| Arbalètes   | 2d4 * (X/2) | 20 * Puissance pa |                    [[Propriétés#Lent\|Lent]]                     |         2 |
+| Armes à feu | 3d4 * (X/3) |  1 * Puissance po |                [[Propriétés#Instable\|Instable]]                 |         3 |
 
 ### Modifications
 
@@ -82,7 +95,7 @@ Les munitions utilisées avec une arme à distance possèdent leur propre propri
 
 | Type       | Prix/ unité | Arme                    |                         Propriétés                         | Nombre de munition/ matériau |
 | ---------- | ----------: | :---------------------- | :--------------------------------------------------------: | :--------------------------: |
-| Fonte      |        2 pa | Tout                    |                            ---                             |           2d4 +12            |
+| Minerai    |          -- | Tout                    |                            ---                             |           2d4 +12            |
 | Plomb      |        5 pa | Tout                    |                         Antimagie                          |           2d6 + 8            |
 | Crystal    |        1 po | Tout                    |    [[Afflictions#Surcharge\|Surcharge]]<br>5 munitions     |           2d4 + 2            |
 | Potion     |          -- | Tout                    |                Zone d'effet de 5ft de rayon                |              1               |
