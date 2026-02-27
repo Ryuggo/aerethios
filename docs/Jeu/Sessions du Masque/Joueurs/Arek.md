@@ -62,7 +62,7 @@
 | Hache<br>Orichalque<br>1 Main<br>(lourd)                   | 1d8 + 36<br>VS Démons<br>Ténèbres<br>= 37-44    |    7.5     |                             Force > 15                             |
 | Hache <br>Orichalque<br>1 Main<br>(lourd)                  | 1d8 + 36<br>VS Démons<br>Ténèbres<br>= 37-44    |    7.5     |                             Force > 15                             |
 | Epée<br>Palladium<br>1 Main<br>(lourd)                     | 1d8 + 30<br>VS Anges<br>Ténèbres<br>= 31-38     |     6      | Force > 15<br>Sang de dieu : [[Propriétés#Lacération\|Lacération]] |
-| Marteau Sharah<br>Adamantite (Or)<br>2 Mains<br>(colossal) | (1d4 +3) + 60<br>VS Mythiques<br>Air<br>= 64-67 |     12     |                             Force > 15                             |
+| Marteau Sharah<br>Adamantite (Or)<br>2 Mains<br>(colossal) | (1d4 +3) + 55<br>VS Mythiques<br>Air<br>= 59-62 |     12     |             Force > 15<br>(si Force > 17 -> Dégâts +5)             |
 
 ## [[Apprentissages]]
 
