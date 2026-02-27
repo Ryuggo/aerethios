@@ -1,18 +1,18 @@
->Le coût des compétences avec un * sont réduits de 1 pour chaque point investi dans la compétence directement au dessus (en gras).
-
-| Compétence         | Coût |   Empêche    | Description                                                    |
-| ------------------ | :--: | :----------: | -------------------------------------------------------------- |
-| Intelligence       |  8   |   Stupide    | Double le modificateur de Mental avec la magie élétiste        |
-| Sagesse            |  8   |  Turbulent   | Double le modificateur de Mental avec la magie croitiste       |
-| Studieux           |  6   |              | Facilite l'apprentissage de "métier" (artisanat, alchimie, ..) |
-| Assidu             |  6   |              | Facilite l'apprentissage de "combat" (maîtrise, magie, ..)     |
-| Méditation         |  6   |              | Se concentrer permet de régénérer 20% des crystaux totaux      |
-| Résistance mentale |  4   |              | Modificateur de contrôle de soi lors de situations stressantes |
-| Imperturbable      |  4   |              | La concentration ne peut pas se briser                         |
-| Arcanes            |  2   |              | Avantage de mental pour la magie en armure légère              |
-| Stupide            |  -4  | Intelligence | Désavantage lors de l'utilisation de magie élétiste            |
-| Turbulent          |  -4  |   Sagesse    | Désavantage lors de l'utilisation de magie croitiste           |
-| Impuissant         | -10  |              | Empêche la magie                                               |
+| Compétence         | Coût |   Empêche    | Description                                                                                      |
+| ------------------ | :--: | :----------: | ------------------------------------------------------------------------------------------------ |
+| Efficace           |  12  |              | Les dés de magie qui tombent sous la moitié sont remplacés par la moitié (arrondie vers le haut) |
+| Intelligence       |  8   |   Stupide    | Double le modificateur de Mental avec la magie élétiste                                          |
+| Sagesse            |  8   |  Turbulent   | Double le modificateur de Mental avec la magie croitiste                                         |
+| Studieux           |  6   |              | Facilite l'apprentissage de "métier" (artisanat, alchimie, ..)                                   |
+| Assidu             |  6   |              | Facilite l'apprentissage de "combat" (maîtrise, magie, ..)                                       |
+| Méditation         |  6   |              | Se concentrer permet de régénérer 20% des crystaux totaux                                        |
+| Résistance mentale |  4   |              | Modificateur de contrôle de soi lors de situations stressantes                                   |
+| Imperturbable      |  4   |              | La concentration ne peut pas se briser                                                           |
+| Arcanes            |  2   |              | Avantage de mental pour la magie en armure légère                                                |
+| Stupide            |  -2  | Intelligence | Désavantage lors de l'utilisation de magie élétiste                                              |
+| Turbulent          |  -2  |   Sagesse    | Désavantage lors de l'utilisation de magie croitiste                                             |
+| Con-serve          |  -4  |              | Porter une armure en métal empêche la magie                                                      |
+| TAPER              |  -8  |              | Empêche la magie                                                                                 |
 
 ---
 

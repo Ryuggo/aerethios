@@ -1,19 +1,24 @@
-| Compétence   | Coût |  Empêche   | Description                                                                                                                                                  |
-| ------------ | :--: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Cafard       |  10  |            | 1x par long repos, si la vie du joueur tombe entre -50 et 0 HP, lui permet de récupérer (1d4 * 10) HP                                                        |
-| Athlétisme   |  8   |  Obésité   | Double le modificateur de Force                                                                                                                              |
-| Bourrin      |  8   |            | Permet d'ajouter sa Force aux dégâts de son arme                                                                                                             |
-| Rage         |  8   |            | 1x par combat, triple la force mais retire la même valeur en HP                                                                                              |
-| Grosse Berta |  6   |            | Permet de lancer un objet dont le poids = charge maximale<br>Dégâts à la cible = poids - (20 * case de distance)<br>Dégâts à l'objet = Dégâts à la cible / 2 |
-| Brise Armure |  6   |            | Si la cible a du métal (armure\|bouclier), ajoute la Force aux dégâts                                                                                        |
-| Acharnement  |  6   |            | Si la cible est au sol, ajoute la Force aux dégâts                                                                                                           |
-| Guts         |  6   |            | Permet d'utiliser une arme à 2 mains avec une seule main (l'autre main ne peut rien porter)                                                                  |
-| Impénétrable |  4   |            | DR + (2 * Force)                                                                                                                                             |
-| Mule         |  4   |            | Ajoute (10 * Force) à la charge maximale                                                                                                                     |
-| Seconde peau |  4   |            | Poids de l'armure équipée réduit de (10% * Force)                                                                                                            |
-| Destructeur  |  2   |            | Avantage pour casser des objets ou des structures                                                                                                            |
-| Bagarre      |  2   |            | Avantage de Force pour les coups de poings                                                                                                                   |
-| Obésité      |  -4  | Athlétisme | Désavantage lors d'un effort physique prolongé ou soudain                                                                                                    |
+| Compétence          | Coût |  Empêche   | Description                                                                                                                                                   |
+| ------------------- | :--: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cafard              |  12  | Pacifique  | 1x par repos sécurisé, si la vie du joueur tombe entre -50 et 0 HP, lui permet de récupérer (1d4 * 10) HP                                                     |
+| Athlétisme          |  8   |  Obésité   | Double le modificateur de Force                                                                                                                               |
+| Bourrin             |  8   |            | Ajoute la Force aux dégâts finaux de son arme                                                                                                                 |
+| Rage                |  8   |            | 1x par combat, triple la force mais retire la même valeur en HP                                                                                               |
+| Grosse Berta        |  6   |            | Permet de lancer un objet dont le poids <= charge maximale<br>Dégâts à la cible = poids - (20 par m de distance)<br>Dégâts à l'objet = Dégâts à la cible / 2  |
+| Brise Armure        |  6   |            | Si la cible a du métal (armure\|bouclier), ajoute la Force aux dégâts finaux                                                                                  |
+| Acharnement         |  6   |            | Si la cible est au sol, ajoute la Force et le poids de l'arme aux dégâts finaux                                                                               |
+| Guts                |  6   |            | Permet d'utiliser la maîtrise à 1 main avec une arme à 2 mains, et donc de la tenir à 1 main<br>*L'autre main ne peut rien porter pendant ce temps*           |
+| Momentum            |  4   |            | Charger un ennemi lui inflige (5% * Force) de votre poids total                                                                                               |
+| Impénétrable        |  4   |            | DR + (2 * Force)                                                                                                                                              |
+| Mule                |  4   |            | Ajoute (10 * Force) à la charge maximale                                                                                                                      |
+| Seconde peau        |  4   |            | Poids de l'armure équipée réduit de (10% * Force)                                                                                                             |
+| Destructeur         |  2   |            | Avantage pour casser des objets ou des structures                                                                                                             |
+| Bagarre             |  2   |            | Pour chaque point de Force, augmente le dé de dégâts<br>Si l'armure est en métal, ajoute le matériau aux dégâts finaux<br>*1d4 -> 1d6 -> 1d8 -> 1d10 -> 1d12* |
+| Obésité             |  -8  | Athlétisme | Retire la Force pour les jets de Force                                                                                                                        |
+| Faible              |  -2  |    Mule    | Réduit votre charge maximale de 25%                                                                                                                           |
+| Atrophie musculaire |  -4  |    Mule    | Réduit votre charge maximale de 50%                                                                                                                           |
+| Nerd                |  -6  |    Mule    | Réduit votre charge maximale de 75%                                                                                                                           |
+| Pacifique           | -20  |   Cafard   | Impossible d'utiliser une arme ni d'achever quelqu'un<br>Les dégâts font descendre la DR plutôt que les HP                                                    |
 
 ---
 
