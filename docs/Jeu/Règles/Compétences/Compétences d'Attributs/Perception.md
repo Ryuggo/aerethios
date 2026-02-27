@@ -10,10 +10,10 @@
 | Créatures          |  2   |                           | Avantage pour reconnaitre les créatures                                      |
 | Vision             |      |                           | Permet d'utiliser la Perception lorsqu'on veut voir quelque chose            |
 | Ouïe fine          |      |                           | Permet d'utiliser la Perception lorsqu'on veut entendre quelque chose        |
-| Lecture labiale    |      |                           |                                                                              |
-| Amorti             |  -8  |         Détection         | Retire la Perception pour les jets de Perception                             |
 | Myope              |  -2  | Vision<br>Vision nocturne | Désavantage pour voir                                                        |
 | Sourd              |  -2  |         Ouïe fine         | Désavantage pour écouter                                                     |
+| Amorti             |  -8  |         Détection         | Retire la Perception pour les jets de Perception                             |
+| Schizophrène       | -20  |                           |                                                                              |
 
 ---
 

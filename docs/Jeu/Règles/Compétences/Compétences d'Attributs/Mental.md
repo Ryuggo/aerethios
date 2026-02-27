@@ -14,7 +14,7 @@
 | Turbulent          |  -2  |           Sagesse           | Désavantage lors de l'utilisation de magie croitiste                                                                                         |
 | Gamin de merde     |  -6  |           Sagesse           | Empêche la magie croitiste                                                                                                                   |
 | Con-serve          |  -4  |                             | Porter une armure en métal empêche la magie                                                                                                  |
-| Con-nard           |  -8  |                             | Porter une armure intermédiaire (cuir, peau, écailles, tissus) empêche la magie                                                              |
+| Con-nard           |  -8  |                             | Porter une armure intermédiaire (cuir, peau, écailles, os) empêche la magie                                                                  |
 | Distrait           |  -6  | Imperturbable<br>Méditation | Impossible de se concentrer                                                                                                                  |
 | Antithèse          | -12  |                             | Lance (1d20 + Mental > Attribut de Force) pour savoir si les dégâts magiques reçus/ envoyés sont minimums ou maximums<br>ex : 3d12 = 3 ou 36 |
 | TAPER              |  -8  |           Potter            | Empêche la magie                                                                                                                             |
