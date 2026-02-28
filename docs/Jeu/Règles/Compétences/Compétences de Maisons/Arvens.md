@@ -30,7 +30,7 @@
 | :------: | :--------------: | :---------------: | :-------------: |
 |  **10**  |      **1**       |       **2**       |  **10 [1-7]**   |
 
-- **la guilde fournit des plats (sans touche du chef) pour la quête en cours,**
+- **la guilde fournit les ingrédients pour faire des plats (sans touche du chef) pour la quête en cours,**
 - la guilde paie la réparation des équipements,
 - la guilde offre l'accès à ses bâtiments :
 	- la taverne,
@@ -47,7 +47,7 @@
 | :------: | :--------------: | :---------------: | :-------------: |
 |    10    |        1         |       **3**       |  **15 [1-9]**   |
 
-- la guilde fournit des plats (**avec touche du chef**) pour la quête en cours,
+- la guilde fournit les ingrédients pour faire des plats (**avec touche du chef**) pour la quête en cours,
 - la guilde paie la réparation des équipements,
 - la guilde offre l'accès à ses bâtiments :
 	- la taverne,
@@ -71,7 +71,7 @@
 | :------: | :--------------: | :---------------: | :-------------: |
 |    10    |      **2**       |         3         |  **20 [2-11]**  |
 
-- la guilde fournit des plats (avec touche du chef) pour la quête en cours,
+- la guilde fournit les ingrédients pour faire des plats (avec touche du chef) pour la quête en cours,
 - la guilde paie la réparation des équipements,
 - la guilde offre l'accès à ses bâtiments :
 	- la taverne,
