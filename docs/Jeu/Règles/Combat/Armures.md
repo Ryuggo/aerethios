@@ -6,7 +6,7 @@
 
 |             Tissu             | Cuir, Peaux, Écailles, Os et Mailles (métal) | Plate (métal) |
 | :---------------------------: | :------------------------------------------: | :-----------: |
-|    Dextérité (Accrobatie)     |            Dextérité (Accrobatie)            |       -       |
+|     Dextérité (Acrobate)      |             Dextérité (Acrobate)             |       -       |
 | + Crystaux (max = Mental / 4) |                                              |               |
 
 ## Matériaux

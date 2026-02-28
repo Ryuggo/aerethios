@@ -1,3 +1,39 @@
+## Principales
+>Le joueur en choisi 1 tous les 5 points d'attribut (5, 10, 15, 20).
+>Double le modificateur des jets selon la situation.
+
+| Compétence  | Situation                  |
+| ----------- | -------------------------- |
+| Voyeur      | Détection                  |
+| Chasseur    |                            |
+| Observateur |                            |
+| Survivant   | Comprendre l'environnement |
+
+## Secondaires
+>Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
+>Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
+
+| **Principale** | Secondaire | Description                                                                   |
+| -------------- | ---------- | ----------------------------------------------------------------------------- |
+| **Voyeur**     | Mentaliste | Comprendre les intentions des entités                                         |
+|                | Magie      | Permet de détecter les résidus magiques                                       |
+| **Barbare**    |            |                                                                               |
+|                |            |                                                                               |
+| **Chevalier**  |            |                                                                               |
+|                |            |                                                                               |
+| **Survivant**  | Créatures  | Connaître le point faible des créatures et le comportement à avoir avec elles |
+|                | Plantes    | Pouvoir trouver les plantes recherchées et détecter les poisons               |
+
+## Finaux
+>Le joueur en choisi 1 lorsque l'attribut atteint 20.
+
+| Compétence    | Description                                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------------------ |
+| Troisième œil | + Les ennemis ne peuvent pas faire de réussite critique contre lui<br>-                                      |
+| Parano        | + Ajoute 10 à sa perception passive<br>- S'il rate une perception active, ce qu'il perçoit est réel pour lui |
+
+#### idea
+
 | Compétence         | Coût |          Empêche          | Description                                                                  |
 | ------------------ | :--: | :-----------------------: | ---------------------------------------------------------------------------- |
 | Troisième œil      |  12  |                           | Les ennemis ne peuvent pas faire de réussite critique contre le joueur       |

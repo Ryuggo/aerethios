@@ -37,7 +37,7 @@ Si le dé de dégâts atteint l'AC de la cible, on déduit de DR la somme du dé
 | :------------------------------ | :----: | :-------------------------- | :-------------------------- |
 | -1 Matériau                     |  ---   | +1 Matériaux                | +3 Matériaux                |
 | Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
-| +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés +Force, +3X          |
+| +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés +Force(Monk), +3X    |
 
 ### Styles
 

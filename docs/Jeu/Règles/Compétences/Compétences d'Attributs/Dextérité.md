@@ -1,11 +1,38 @@
+## Principales
+>Le joueur en choisi 1 tous les 5 points d'attribut (5, 10, 15, 20).
+>Double le modificateur des jets selon la situation.
 
-| Compétences | Description                                                              |
-| ----------- | ------------------------------------------------------------------------ |
-| Voleur      | Double la Dextérité pour les jets de larcin (pickpocket, crochetage, ..) |
-| Assassin    | Double la Dextérité pour les jets d'attaque surprise                     |
-| Acrobate    | Double la Dextérité pour les jets de déplacement                         |
-| Ranger      | Double la Dextérité pour les jets de précision                           |
+| Compétence | Situation                           |
+| ---------- | ----------------------------------- |
+| Acrobatie  | Déplacement et AC                   |
+| Assassin   | Attaque surprise                    |
+| Ranger     | Précision                           |
+| Voleur     | Larcin (pickpocket, crochetage, ..) |
 
+## Secondaires
+>Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
+>Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
+
+| **Principale** | Secondaire    | Description                                                                                                           |
+| -------------- | ------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Acrobatie**  | Matrix        | Peut esquiver les attaques magiques<br>*1d20 +Dextérité(Acrobatie) >= 1d20 +Mental(Arcaniste\|Intelligence\|Sagesse)* |
+|                | Parade        | Si le dé d'une attaque ennemie est inférieur à la Dextérité(Acrobate), le joueur peut le désarmer                     |
+| **Assassin**   | Coup précis   | Ignore la DR s'il s'agit d'une attaque surprise                                                                       |
+|                | Rapide        | Permet d'ajouter sa Dextérité(Assassin) à ses dés de dégâts pour les armes normales et légères                        |
+| **Ranger**     | Ambidextre    | Permet d'utiliser une arme à 1 main dans chaque main                                                                  |
+|                | Point faible  | Attaquer génère une blessure pendant 1 tour qui ajoute 1 dé à la prochaine attaque à cet endroit                      |
+| **Voleur**     | Dissimulation | Les petits objets (bourses, bijoux, clefs, couteau, crochet, ..) ne peuvent pas être trouvé lors de fouille           |
+|                | Discrétion    | Rater Larcin ne révèle pas la position                                                                                |
+
+## Finaux
+>Le joueur en choisi 1 lorsque l'attribut atteint 20.
+
+| Compétence   | Description                                          |
+| ------------ | ---------------------------------------------------- |
+| Sixième sens | + Evite les attaques surprises et d'opportunité<br>- |
+|              | + <br>-                                              |
+
+#### idea
 
 | Compétence    | Coût |      Empêche       | Description                                                                                                       |
 | ------------- | :--: | :----------------: | ----------------------------------------------------------------------------------------------------------------- |

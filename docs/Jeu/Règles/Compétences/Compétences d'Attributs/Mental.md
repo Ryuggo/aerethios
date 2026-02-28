@@ -1,3 +1,39 @@
+## Principales
+>Le joueur en choisi 1 tous les 5 points d'attribut (5, 10, 15, 20).
+>Double le modificateur des jets selon la situation.
+
+| Compétence   | Situation          |
+| ------------ | ------------------ |
+| Arcaniste    | Magies de Fusion   |
+| Intelligence | Magies Elétistes   |
+| Sagesse      | Magies Croitistes  |
+| Volonté      | Résistance mentale |
+
+## Secondaires
+>Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
+>Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
+
+| **Principale**   | Secondaire    | Description                                                                                  |
+| ---------------- | ------------- | -------------------------------------------------------------------------------------------- |
+| **Arcaniste**    | Fusion        | Fusionner sa magie avec une autre entité double le résultat                                  |
+|                  | Résonance     | Permet de fusionner les magies avec autre chose que du feu (seulement avec une autre entité) |
+| **Intelligence** | Résistance    | Permet d'utiliser des crystaux pour atténuer les effets d'une magie croitiste ennemie        |
+|                  |               |                                                                                              |
+| **Sagesse**      | Résistance    | Permet d'utiliser des crystaux pour atténuer les effets d'une magie élétiste ennemie         |
+|                  |               |                                                                                              |
+| **Volonté**      | Assidu        | Permet l'apprentissage sans tuteur                                                           |
+|                  | Imperturbable | Permet de se déplacer sans perdre sa concentration                                           |
+
+## Finaux
+>Le joueur en choisi 1 lorsque l'attribut atteint 20.
+
+| Compétence | Description                                                                                                                                                                            |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Potter     | + Les dés de magie qui tombent sous la moitié sont remplacés par la moitié (arrondie vers le haut)<br>- Si la cible a une résistance à la magie utilisée, tous les dégâts sont annulés |
+| Plus ultra | + Vos dés font toujours les dégâts maximums<br>- Vous consommez toujours la totalité de vos crystaux                                                                                   |
+
+#### idea
+
 | Compétence         | Coût |           Empêche           | Description                                                                                                                                  |
 | ------------------ | :--: | :-------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Potter             |  12  |     TAPER<br>TAPER PLUS     | Les dés de magie qui tombent sous la moitié sont remplacés par la moitié (arrondie vers le haut)                                             |

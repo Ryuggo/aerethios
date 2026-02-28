@@ -5,31 +5,32 @@
 | Compétence   | Situation                   |
 | ------------ | --------------------------- |
 | Diplomate    | Persuasion et négociation   |
-| Trompeur     | Mensonge et tromperie       |
-| Meneur       | Commandement et inspiration |
 | Intimidateur | Intimidation et domination  |
+| Meneur       | Commandement et inspiration |
+| Trompeur     | Mensonge et tromperie       |
 
 ## Secondaires
 >Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
 >Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
 
-| Principale   | Secondaire | Description                                         |
-| ------------ | ---------- | --------------------------------------------------- |
-| Diplomate    |            |                                                     |
-|              |            |                                                     |
-| Trompeur     |            |                                                     |
-|              |            |                                                     |
-| Meneur       | Ralliement | Supprime la peur ou l’hésitation des alliés proches |
-|              |            |                                                     |
-| Intimidateur |            |                                                     |
-|              |            |                                                     |
+| **Principale** | Secondaire    | Description                                                                                                                                                                      |
+| -------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Diplomate**  | Encouragement | 1x par tour, peut donner un avantage à 1 entité                                                                                                                                  |
+|                | Apaisement    | 1x par tour, peut donner un désavantage à 1 entité                                                                                                                               |
+| **Intimidant** | Terreur       | Les ennemis n'attaquent pas le joueur en premier si leur Mental est inférieur à son Charisme<br>*joueur Charisme(Meneur) >= ennemi Mental(Résistance mentale)*                   |
+|                | Soumission    | Lorsqu'un ennemi est tué, les autres abandonnent si un jet de Mental est inférieur au Charisme du joueur<br>*ennemi 1d20 +Mental(Résistance mentale) >= joueur Charisme(Meneur)* |
+| **Meneur**     | Ralliement    | Toutes les conditions des alliés sont transférées au joueur                                                                                                                      |
+|                | Inspiration   | Transforme toutes les conditions négatives qu'il possède en bonus                                                                                                                |
+| **Trompeur**   | Faux espoir   | Réduit l’efficacité offensive d’un ennemi pendant une durée courte                                                                                                               |
+|                | Manipulation  | 1x par tour, peut transférer une condition d'une entité à une autre                                                                                                              |
 
 ## Finaux
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
-| Compétence | Description                                      |
-| ---------- | ------------------------------------------------ |
-| Veinard    | Le joueur peut relancer un dé par repos sécurisé |
+| Compétence  | Description                                                                                                                      |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Veinard     | + Peut relancer ses échecs critiques<br>- Le tour suivant, les ennemis réussissent leurs actions contre lui                      |
+| Malchanceux | + Tous les 1 point de Charisme (modificateur), ajoute 1 point dans une autre attribut<br>- Doit relancer ses réussites critiques |
 
 #### idea
 

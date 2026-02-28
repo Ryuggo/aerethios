@@ -1,9 +1,38 @@
-| Compétences | Description                      |
-| ----------- | -------------------------------- |
-| Barbare     | Double la Force pour les jets de |
-| Paladin     |                                  |
-| Guerrier    |                                  |
-| Chevalier   |                                  |
+## Principales
+>Le joueur en choisi 1 tous les 5 points d'attribut (5, 10, 15, 20).
+>Double le modificateur des jets selon la situation.
+
+| Compétence | Situation                                           |
+| ---------- | --------------------------------------------------- |
+| Athlétisme | Effort physique prolongé (escalade, nage, lutte, …) |
+| Barbare    | Puissance (soulever, pousser, porter, bloquer, …)   |
+| Monk       | Combat                                              |
+| Paladin    | Résistance et contrôle de zone                      |
+
+## Secondaires
+>Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
+>Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
+
+| **Principale** | Secondaire   | Description                                                                                                                                                                                                |
+| -------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Athlétisme** | Mule         | Ajoute 10 * Force(Athlétisme) à la charge maximale                                                                                                                                                         |
+|                | Momentum     | Charger un ennemi lui inflige (5% * Force(Athlétisme)) de votre poids total                                                                                                                                |
+| **Barbare**    | Destructeur  | Permet de casser ce qui ne devrait pas l'être (avec confirmation du MJ)                                                                                                                                    |
+|                | Bourrin      | Les attaques font toujours Force(Barbare) de dégâts au HP, même si la DR n'est pas atteinte                                                                                                                |
+| **Monk**       | Martial      | Permet d'utiliser la maîtrise à 1 main avec les armes à 2 mains, et inversément                                                                                                                            |
+|                | Bagarre      | Pour chaque point de Force(Monk), augmente le dé de dégâts à mains nues<br>Ajoute le matériau de l'armure aux dégâts finaux<br>*1d4 -> 1d6 -> 1d8 -> 1d10 -> 1d12 (double les dés si Force(Monk) = [6-10]* |
+| **Paladin**    | Impénétrable | DR + (2 * Force(Paladin))                                                                                                                                                                                  |
+|                | Muraille     | Les ennemis s'attaquent au joueur<br>Pour chaque attaque reçue, augmente les dégâts finaux de sa prochaine attaque par sa Force(Paladin)                                                                   |
+
+## Finaux
+>Le joueur en choisi 1 lorsque l'attribut atteint 20.
+
+| Compétence   | Description                                                                                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cafard       | + 1x par repos sécurisé, si sa vie tombe entre -50 et 0 HP, lui permet de récupérer (1d4 * 10) HP<br>- Désavantage à tous ses jets jusqu'au prochain repos sécurisé |
+| Matérialiste | + Les dégâts font descendre la DR avant les HP<br>- Impossible d'achever une entité                                                                                 |
+
+#### idea
 
 | Compétence          | Coût |  Empêche   | Description                                                                                                                                                                                                        |
 | ------------------- | :--: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
