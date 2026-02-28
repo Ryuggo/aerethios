@@ -1,3 +1,38 @@
+## Principales
+>Le joueur en choisi 1 tous les 5 points d'attribut (5, 10, 15, 20).
+>Double le modificateur des jets selon la situation.
+
+| Compétence   | Situation                   |
+| ------------ | --------------------------- |
+| Diplomate    | Persuasion et négociation   |
+| Trompeur     | Mensonge et tromperie       |
+| Meneur       | Commandement et inspiration |
+| Intimidateur | Intimidation et domination  |
+
+## Secondaires
+>Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
+>Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
+
+| Principale   | Secondaire | Description |
+| ------------ | ---------- | ----------- |
+| Diplomate    |            |             |
+|              |            |             |
+| Trompeur     |            |             |
+|              |            |             |
+| Meneur       |            |             |
+|              |            |             |
+| Intimidateur |            |             |
+|              |            |             |
+
+## Finaux
+>Le joueur en choisi 1 lorsque l'attribut atteint 20.
+
+| Compétence | Description                                      |
+| ---------- | ------------------------------------------------ |
+| Veinard    | Le joueur peut relancer un dé par repos sécurisé |
+
+#### idea
+
 | Compétence    | Coût |         Empêche         | Description                                                                                                                |
 | ------------- | :--: | :---------------------: | -------------------------------------------------------------------------------------------------------------------------- |
 | Veinard       |  13  |       Malchanceux       | Le joueur peut relancer un dé par repos sécurisé                                                                           |

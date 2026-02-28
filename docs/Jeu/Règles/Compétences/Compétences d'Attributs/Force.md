@@ -1,12 +1,9 @@
-
-| Compétences | Description                       |
-| ----------- | --------------------------------- |
-| Barbare     | Double la Force pour les jets de  |
-| Paladin     |                                   |
-| Guerrier    |                                   |
-| Chevalier   |                                   |
-
-
+| Compétences | Description                      |
+| ----------- | -------------------------------- |
+| Barbare     | Double la Force pour les jets de |
+| Paladin     |                                  |
+| Guerrier    |                                  |
+| Chevalier   |                                  |
 
 | Compétence          | Coût |  Empêche   | Description                                                                                                                                                                                                        |
 | ------------------- | :--: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
