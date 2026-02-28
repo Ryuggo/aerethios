@@ -4,25 +4,25 @@
 
 | Compétence  | Situation                  |
 | ----------- | -------------------------- |
-| Voyeur      | Détection                  |
 | Chasseur    |                            |
-| Observateur |                            |
 | Survivant   | Comprendre l'environnement |
+| Observateur |                            |
+| Voyeur      | Détection                  |
 
 ## Secondaires
 >Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
 >Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
 
-| **Principale** | Secondaire | Description                                                                   |
-| -------------- | ---------- | ----------------------------------------------------------------------------- |
-| **Voyeur**     | Mentaliste | Comprendre les intentions des entités                                         |
-|                | Magie      | Permet de détecter les résidus magiques                                       |
-| **Barbare**    |            |                                                                               |
-|                |            |                                                                               |
-| **Chevalier**  |            |                                                                               |
-|                |            |                                                                               |
-| **Survivant**  | Créatures  | Connaître le point faible des créatures et le comportement à avoir avec elles |
-|                | Plantes    | Pouvoir trouver les plantes recherchées et détecter les poisons               |
+| **Principale**  | Secondaire | Description                                                                   |
+| --------------- | ---------- | ----------------------------------------------------------------------------- |
+| **Chasseur**    |            |                                                                               |
+|                 |            |                                                                               |
+| **Survivant**   | Créatures  | Connaître le point faible des créatures et le comportement à avoir avec elles |
+|                 | Plantes    | Pouvoir trouver les plantes recherchées et détecter les poisons               |
+| **Observateur** |            |                                                                               |
+|                 |            |                                                                               |
+| **Voyeur**      | Mentaliste | Comprendre les intentions des entités                                         |
+|                 | Magie      | Permet de détecter les résidus magiques                                       |
 
 ## Finaux
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
