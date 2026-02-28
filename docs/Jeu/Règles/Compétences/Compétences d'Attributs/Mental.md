@@ -13,16 +13,16 @@
 >Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
 >Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
 
-| **Principale**   | Secondaire    | Description                                                                                  |
-| ---------------- | ------------- | -------------------------------------------------------------------------------------------- |
-| **Arcaniste**    | Fusion        | Fusionner sa magie avec une autre entité double le résultat                                  |
-|                  | Résonance     | Permet de fusionner les magies avec autre chose que du feu (seulement avec une autre entité) |
-| **Intelligence** | Résistance    | Permet d'utiliser des crystaux pour atténuer les effets d'une magie croitiste ennemie        |
-|                  |               |                                                                                              |
-| **Sagesse**      | Résistance    | Permet d'utiliser des crystaux pour atténuer les effets d'une magie élétiste ennemie         |
-|                  |               |                                                                                              |
-| **Volonté**      | Assidu        | Permet l'apprentissage sans tuteur                                                           |
-|                  | Imperturbable | Permet de se déplacer sans perdre sa concentration                                           |
+| **Principale**   | Secondaire    | Description                                                                                                                                                  |
+| ---------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Arcaniste**    | Fusion        | Fusionner sa magie avec une autre entité double le résultat                                                                                                  |
+|                  | Résonance     | Permet de fusionner les magies avec autre chose que du feu (seulement avec une autre entité)                                                                 |
+| **Intelligence** | Résistance    | Permet d'utiliser des crystaux pour atténuer les effets d'une magie élétiste ennemie                                                                         |
+|                  | Efficacité    | Les dés de magie élétiste qui sont à 20% du maximum ne consomment pas de crystaux<br>*1d4 -> 4, 1d6 -> 6, 1d8 -> 7-8, 1d10 -> 9-10, 1d12 -> 10-12*           |
+| **Sagesse**      | Résistance    | Permet d'utiliser des crystaux pour atténuer les effets d'une magie croitiste ennemie                                                                        |
+|                  | Efficacité    | Les dés de magie croitiste élétiste qui sont à 20% du maximum ne consomment pas de crystaux<br>*1d4 -> 4, 1d6 -> 6, 1d8 -> 7-8, 1d10 -> 9-10, 1d12 -> 10-12* |
+| **Volonté**      | Assidu        | Permet l'apprentissage sans tuteur                                                                                                                           |
+|                  | Imperturbable | Permet de se déplacer sans perdre sa concentration                                                                                                           |
 
 ## Finaux
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.

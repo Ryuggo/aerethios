@@ -27,10 +27,10 @@
 ## Finaux
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
-| Compétence  | Description                                                                                                                      |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Veinard     | + Peut relancer ses échecs critiques<br>- Le tour suivant, les ennemis réussissent leurs actions contre lui                      |
-| Malchanceux | + Tous les 1 point de Charisme (modificateur), ajoute 1 point dans une autre attribut<br>- Doit relancer ses réussites critiques |
+| Compétence | Description                                                                                                                      |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Veinard    | + Peut transformer ses échecs critiques en réussites critiques<br>- Le tour suivant, les ennemis font tous une réussite critique |
+| Epicentre  | + Ses réussites critiques sont partagées avec ses alliés<br>- Les échecs critiques de ses alliés lui sont transférés             |
 
 #### idea
 

@@ -4,7 +4,7 @@
 
 | Compétence | Situation                           |
 | ---------- | ----------------------------------- |
-| Acrobatie  | Déplacement et AC                   |
+| Acrobatie  | Mobilité et AC                      |
 | Assassin   | Attaque surprise                    |
 | Ranger     | Précision                           |
 | Voleur     | Larcin (pickpocket, crochetage, ..) |
@@ -27,10 +27,10 @@
 ## Finaux
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
-| Compétence   | Description                                          |
-| ------------ | ---------------------------------------------------- |
-| Sixième sens | + Evite les attaques surprises et d'opportunité<br>- |
-|              | + <br>-                                              |
+| Compétence   | Description                                                                                           |
+| ------------ | ----------------------------------------------------------------------------------------------------- |
+| Sixième sens | + Evite les attaques surprises et d'opportunité<br>- Les armes à distance touchent toujours le joueur |
+|              | + <br>-                                                                                               |
 
 #### idea
 
