@@ -1,3 +1,12 @@
+
+| Compétences | Description                                                              |
+| ----------- | ------------------------------------------------------------------------ |
+| Voleur      | Double la Dextérité pour les jets de larcin (pickpocket, crochetage, ..) |
+| Assassin    | Double la Dextérité pour les jets d'attaque surprise                     |
+| Acrobate    | Double la Dextérité pour les jets de déplacement                         |
+| Ranger      | Double la Dextérité pour les jets de précision                           |
+
+
 | Compétence    | Coût |      Empêche       | Description                                                                                                       |
 | ------------- | :--: | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
 | Sixième sens  |  12  |                    | Evite les attaques surprises et d'opportunité                                                                     |

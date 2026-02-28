@@ -1,3 +1,13 @@
+
+| Compétences | Description                       |
+| ----------- | --------------------------------- |
+| Barbare     | Double la Force pour les jets de  |
+| Paladin     |                                   |
+| Guerrier    |                                   |
+| Chevalier   |                                   |
+
+
+
 | Compétence          | Coût |  Empêche   | Description                                                                                                                                                                                                        |
 | ------------------- | :--: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Cafard              |  12  | Pacifique  | 1x par repos sécurisé, si la vie du joueur tombe entre -50 et 0 HP, lui permet de récupérer (1d4 * 10) HP                                                                                                          |
