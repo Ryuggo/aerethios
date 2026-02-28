@@ -13,16 +13,16 @@
 >Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
 >Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
 
-| Principale   | Secondaire | Description |
-| ------------ | ---------- | ----------- |
-| Diplomate    |            |             |
-|              |            |             |
-| Trompeur     |            |             |
-|              |            |             |
-| Meneur       |            |             |
-|              |            |             |
-| Intimidateur |            |             |
-|              |            |             |
+| Principale   | Secondaire | Description                                         |
+| ------------ | ---------- | --------------------------------------------------- |
+| Diplomate    |            |                                                     |
+|              |            |                                                     |
+| Trompeur     |            |                                                     |
+|              |            |                                                     |
+| Meneur       | Ralliement | Supprime la peur ou l’hésitation des alliés proches |
+|              |            |                                                     |
+| Intimidateur |            |                                                     |
+|              |            |                                                     |
 
 ## Finaux
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
