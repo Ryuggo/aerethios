@@ -24,7 +24,7 @@
 | **Voyeur**      | Mentaliste | Comprendre les intentions des entités                                         |
 |                 | Magie      | Permet de détecter les résidus magiques                                       |
 
-## Finaux
+## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
 | Compétence    | Description                                                                                                  |

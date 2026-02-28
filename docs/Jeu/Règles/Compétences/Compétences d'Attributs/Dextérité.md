@@ -24,7 +24,7 @@
 | **Voleur**     | Dissimulation | Les petits objets (bourses, bijoux, clefs, couteau, crochet, ..) ne peuvent pas être trouvé lors de fouille           |
 |                | Discrétion    | Rater Larcin ne révèle pas la position                                                                                |
 
-## Finaux
+## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
 | Compétence   | Description                                                                                           |

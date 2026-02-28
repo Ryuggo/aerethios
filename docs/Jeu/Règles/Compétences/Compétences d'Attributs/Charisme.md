@@ -24,7 +24,7 @@
 | **Trompeur**   | Faux espoir   | Réduit l’efficacité offensive d’un ennemi pendant une durée courte                                                                                                               |
 |                | Manipulation  | 1x par tour, peut transférer une condition d'une entité à une autre                                                                                                              |
 
-## Finaux
+## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
 | Compétence | Description                                                                                                                      |

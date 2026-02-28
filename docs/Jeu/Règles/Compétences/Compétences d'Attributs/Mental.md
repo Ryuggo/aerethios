@@ -24,7 +24,7 @@
 | **Volonté**      | Assidu        | Permet l'apprentissage sans tuteur                                                                                                                           |
 |                  | Imperturbable | Permet de se déplacer sans perdre sa concentration                                                                                                           |
 
-## Finaux
+## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
 | Compétence | Description                                                                                                                                                                            |

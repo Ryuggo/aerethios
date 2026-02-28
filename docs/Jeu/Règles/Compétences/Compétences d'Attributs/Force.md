@@ -24,7 +24,7 @@
 | **Paladin**    | Impénétrable | DR + (2 * Force(Paladin))                                                                                                                                                                                  |
 |                | Muraille     | Les ennemis s'attaquent au joueur<br>Pour chaque attaque reçue, augmente les dégâts finaux de sa prochaine attaque par sa Force(Paladin)                                                                   |
 
-## Finaux
+## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
 | Compétence   | Description                                                                                                                                                         |
