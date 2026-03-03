@@ -2,35 +2,35 @@
 >Le joueur en choisi 1 tous les 5 points d'attribut (5, 10, 15, 20).
 >Double le modificateur des jets selon la situation.
 
-| Compétence  | Situation                  |
-| ----------- | -------------------------- |
-| Chasseur    |                            |
-| Survivant   | Comprendre l'environnement |
-| Observateur |                            |
-| Voyeur      | Détection                  |
+| Compétence | Situation                             |
+| ---------- | ------------------------------------- |
+| Chasseur   | Détection dans la dimension terrestre |
+| Spiritisme | Détection dans la dimension planaire  |
+| Survivant  | Comprendre l'environnement            |
+| Voyeur     |                                       |
 
 ## Secondaires
 >Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
 >Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
 
-| **Principale**  | Secondaire | Description                                                                   |
-| --------------- | ---------- | ----------------------------------------------------------------------------- |
-| **Chasseur**    |            |                                                                               |
-|                 |            |                                                                               |
-| **Survivant**   | Créatures  | Connaître le point faible des créatures et le comportement à avoir avec elles |
-|                 | Plantes    | Pouvoir trouver les plantes recherchées et détecter les poisons               |
-| **Observateur** |            |                                                                               |
-|                 |            |                                                                               |
-| **Voyeur**      | Mentaliste | Comprendre les intentions des entités                                         |
-|                 | Magie      | Permet de détecter les résidus magiques                                       |
+| **Principale** | Secondaire | Description                                                                                                                                              |
+| -------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chasseur**   | Pièges     | Impossible de tomber dans un piège physique                                                                                                              |
+|                | Menace     | Pas besoin de faire de jet pour savoir qu'on est en danger                                                                                               |
+| **Spiritisme** | Exorciste  | Pas besoin de magie de lumière pour voir les entités planaires                                                                                           |
+|                | Pactisant  | Vous pouvez conjurer des entités planaires avec lesquelles vous avez passé un pacte<br>Elles peuvent refuser de venir si elles sont plus fortes que vous |
+| **Survivant**  | Créatures  | Connaître le point faible des créatures et le comportement à avoir avec elles                                                                            |
+|                | Plantes    | Pouvoir trouver les plantes recherchées et détecter les poisons                                                                                          |
+| **Voyeur**     | Mentaliste | Comprendre les intentions des entités                                                                                                                    |
+|                | Magie      | Permet de détecter les résidus magiques                                                                                                                  |
 
 ## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
-| Compétence    | Description                                                                                                  |
-| ------------- | ------------------------------------------------------------------------------------------------------------ |
-| Troisième œil | + Les ennemis ne peuvent pas faire de réussite critique contre lui<br>-                                      |
-| Parano        | + Ajoute 10 à sa perception passive<br>- S'il rate une perception active, ce qu'il perçoit est réel pour lui |
+| Compétence    | Description                                                                                                                                                                                                                       |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Troisième œil | + Ne peut pas subir de réussite critique contre soi-même<br>- Ses réussites critiques doivent être annoncées à l'avance<br>Si elle est annoncée mais qu'elle ne tombe pas, le résultat/ 2 (arrondi vers le bas) est déduit des HP |
+| Parano        | + Ajoute 10 à sa perception passive<br>- S'il rate une perception active, ce qu'il perçoit est réel pour lui                                                                                                                      |
 
 #### idea
 

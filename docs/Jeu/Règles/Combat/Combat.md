@@ -6,6 +6,8 @@ tags:
 
 Les humanoïdes possèdent tous un **maximum de 50 HP** qui se régénèrent avec du repos (pour peu que la personne ait mangé récemment) ou de la magie.
 
+Ils peuvent monter jusqu'à 100 HP pour une durée d'un jour si un plat avec des bons effets a été consommé.
+
 ## Actions
 
 ### Motiver
@@ -16,16 +18,11 @@ Motiver son équipe pour lui donner un avantage/ Faire peur aux adversaires pour
 ### Attaquer
 >Résultat - Défense (DR) = Dégâts au HP.
 
-| Mêlée                          | Distance                              | Magie                                          | Requis |
-| ------------------------------ | ------------------------------------- | ---------------------------------------------- | ------ |
-| Dégâts d'arme                  | Dégâts d'arme                         | Dégâts de magie                                | >= AC  |
-| + Matériaux                    | + Matériaux                           | + Toile céleste                                | > DR   |
-| 1 Multiplicateur final (Style) | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* | WIP    |
-
-##### Précision
->Seulement pour les armes à distance.
-
-Si le jet est supérieur au double de l'AC, le joueur double ses dés de dégâts.
+| Mêlée                             | Distance                              | Magie                                          | Requis |
+| --------------------------------- | ------------------------------------- | ---------------------------------------------- | ------ |
+| Dégâts d'arme                     | Dégâts d'arme                         | Dégâts de magie                                | >= AC  |
+| + Matériaux                       | + Matériaux                           | + Toile céleste                                | > DR   |
+| Style<br>*(multiplicateur final)* | Précision<br>*(multiplicateur final)* | Nombre de crystaux<br>*(multiplicateur final)* | -      |
 
 ### Se concentrer
 >Prendre 10/20

@@ -37,11 +37,7 @@ Si le dé de dégâts atteint l'AC de la cible, on déduit de DR la somme du dé
 | :------------------------------ | :----: | :-------------------------- | :-------------------------- |
 | -1 Matériau                     |  ---   | +1 Matériaux                | +3 Matériaux                |
 | Dextérité > 14 pour s'en servir |  ---   | Force > 14 pour s'en servir | Force > 17 pour s'en servir |
-| +1 dé, X/2                      |  ---   | -1 dé, +X                   | -2 dés +Force(Monk), +3X    |
-
-### Styles
-
-Les styles se débloquent en fonction de son niveau de maîtrise.
+| +1 dé +Dextérité(Ranger), X/2   |  ---   | -1 dé +Force(Monk), +X      | -2 dés +Force, +3X          |
 
 ### Enchantements
 
@@ -55,6 +51,13 @@ Si une arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] son
 | :-------------------: | :--: | :----: | :----: | :----: | :-----: | :------: |
 | **Réussite normale**  | 1d4  |  1d6   |  1d8   |  1d10  |  1d12   |   1d20   |
 | **Réussite critique** |  -   | 1d4 +2 | 1d6 +2 | 1d8 +2 | 1d10 +2 | 1d10 +10 |
+### Spécificités
+
+|                 |         Styles          |              Précision              |
+| --------------- | :---------------------: | :---------------------------------: |
+| **Type d'arme** |     Armes de mêlée      |          Armes à distance           |
+| **Condition**   |   Niveau de maîtrise    | Jet est supérieur au double de l'AC |
+| **Résultat**    | Multiplicateur du style |          Double les dégâts          |
 
 ## Matériaux
 >La propriété VS ajoute un dé de dégâts lorsque l'attaque touche le bon type de cible (ne s'applique pas sur les armes à distance).

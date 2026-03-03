@@ -27,10 +27,10 @@
 ## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
-| Compétence | Description                                                                                                                                                                            |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Potter     | + Les dés de magie qui tombent sous la moitié sont remplacés par la moitié (arrondie vers le haut)<br>- Si la cible a une résistance à la magie utilisée, tous les dégâts sont annulés |
-| Plus ultra | + Vos dés font toujours les dégâts maximums<br>- Vous consommez toujours la totalité de vos crystaux                                                                                   |
+| Compétence | Description                                                                                                                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Potter     | + Les dés de magie qui tombent sous la moitié sont remplacés par la moitié (arrondie vers le haut)<br>- Si la cible a une résistance à la magie utilisée, tous les dégâts sont annulés           |
+| Plus ultra | + Vos dés font toujours les dégâts maximums<br>- Vous lancez 1d4+3 pour savoir combien de crystaux vous consommez<br>Si vous dépassez votre réserve, vous perdez 10HP par crystal supplémentaire |
 
 #### idea
 
