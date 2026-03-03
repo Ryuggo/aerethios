@@ -7,7 +7,7 @@
 | Chasseur   | Détection dans la dimension terrestre |
 | Spiritisme | Détection dans la dimension planaire  |
 | Survivant  | Comprendre l'environnement            |
-| Voyeur     |                                       |
+| Voyeur     | Recherche                             |
 
 ## Secondaires
 >Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
@@ -30,7 +30,7 @@
 | Compétence    | Description                                                                                                                                                                                                                       |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Troisième œil | + Ne peut pas subir de réussite critique contre soi-même<br>- Ses réussites critiques doivent être annoncées à l'avance<br>Si elle est annoncée mais qu'elle ne tombe pas, le résultat/ 2 (arrondi vers le bas) est déduit des HP |
-| Parano        | + Ajoute 10 à sa perception passive<br>- S'il rate une perception active, ce qu'il perçoit est réel pour lui                                                                                                                      |
+| Parano        | + 1d20 +Perception >= 20 -> Savoir ce qu'il va se passer le jour même<br>- En cas d'échec, une entité suit le joueur pour la journée                                                                                              |
 
 #### idea
 

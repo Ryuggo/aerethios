@@ -27,10 +27,10 @@
 ## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
-| Compétence | Description                                                                                                                      |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Veinard    | + Peut transformer ses échecs critiques en réussites critiques<br>- Le tour suivant, les ennemis font tous une réussite critique |
-| Epicentre  | + Ses réussites critiques sont partagées avec ses alliés<br>- Les échecs critiques de ses alliés lui sont transférés             |
+| Compétence | Description                                                                                                                              |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Veinard    | + Peut transformer ses échecs critiques en réussites critiques<br>- Le tour suivant, les ennemis font tous au moins une réussite normale |
+| Epicentre  | + Ses réussites critiques sont partagées avec ses alliés<br>- Les échecs critiques de ses alliés lui sont transférés                     |
 
 #### idea
 
