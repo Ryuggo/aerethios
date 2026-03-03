@@ -27,10 +27,10 @@
 ## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.
 
-| Compétence   | Description                                                                                                                                                                                                                                               |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sixième sens | + Evite les attaques surprises et d'opportunité<br>- Les armes à distance touchent toujours le joueur                                                                                                                                                     |
-| Money        | + Tenir des pièces en main permet d'augmenter les dégâts (1po = 1 dégât)<br>- Empêche d'utiliser une arme dans l'autre main<br>- A chaque coup reçu, lancer 1d10 pour savoir combien de pièces sont perdues (impossible de les récupérer après le combat) |
+| Compétence   | Description                                                                                                                                                                                                                                                                                              |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sixième sens | + Evite les attaques surprises et d'opportunité<br>- Les armes à distance touchent toujours le joueur                                                                                                                                                                                                    |
+| Money        | + Tenir des pièces en main permet d'augmenter les dégâts (1po = 1 dégât) (max : combien de pièces le joueur peut tenir)<br>- Empêche d'utiliser une arme dans l'autre main<br>- A chaque coup reçu, lancer 1d10 pour savoir combien de pièces sont perdues (impossible de les récupérer après le combat) |
 
 #### idea
 
