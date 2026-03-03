@@ -7,7 +7,8 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 2 | [[Runild#100 po\|Riche]] |     -     |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
+>55 points à mettre au niveau 1 (min 7, max 14)
+>+1 points par niveau sauf les niveaux 1, 5, 10, 15 et 20 (2/4)
 
 | Force | Dextérité | Mental | Perception |   Charisme    |
 | :---: | :-------: | :----: | :--------: | :-----------: |
@@ -59,12 +60,12 @@
 
 ### [[Armes]]
 
-| Arme                                             | Dégâts                                                       | Poids (kg) |                              Propriétés                              |
-| ------------------------------------------------ | ------------------------------------------------------------ | :--------: | :------------------------------------------------------------------: |
-| Lame double<br>Orichalque (Argent)<br>2 Mains    | 3d4 + 36<br>+ 6 Métal ?<br>VS Hybrides<br>= 39-48            |    7.5     |                   [[Propriétés#Double\|Double]] T                    |
-| Lame double Gammoth<br>Os<br>2 Mains             | 3d4 + 18<br>Glace<br>= 21-30                                 |     3      |                   [[Propriétés#Double\|Double]] T                    |
-| Épée droite<br>Adamantite (Sombronce)<br>2 Mains | 3d4 + 30<br>+ 6 Métal ?<br>VS Naturels<br>= 33-42            |     6      |                                 ---                                  |
-| Dague Sharah<br>Adamantite (Or)<br>Court         | 2d12 + 10<br>+ 10 Métal ?<br>VS Mythiques <br>Air<br>= 12-34 |     4      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
+| Arme                                             | Dégâts                                                 | Poids (kg) |                              Propriétés                              |
+| ------------------------------------------------ | ------------------------------------------------------ | :--------: | :------------------------------------------------------------------: |
+| Lame double<br>Orichalque (Argent)<br>2 Mains    | 3d4 + 36<br>Crit 2<br>VS Hybrides<br>= 39-48           |    7.5     |                   [[Propriétés#Double\|Double]] T                    |
+| Lame double Gammoth<br>Os<br>2 Mains             | 3d4 + 18<br>Glace<br>= 21-30                           |     3      |                   [[Propriétés#Double\|Double]] T                    |
+| Épée droite<br>Adamantite (Sombronce)<br>2 Mains | 3d4 + 30<br>Crit 2<br>VS Naturels<br>= 33-42           |     6      |                                 ---                                  |
+| Dague Sharah<br>Adamantite (Or)<br>Court         | 2d12 + 10<br>Crit 3<br>VS Mythiques <br>Air<br>= 12-34 |     4      | [[Propriétés#Jetable\|Jetable]]<br>[[Propriétés#Critique\|Critique]] |
 
 ## [[Apprentissages]]
 

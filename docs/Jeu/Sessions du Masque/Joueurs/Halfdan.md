@@ -7,7 +7,8 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 1 |   -    |     -     |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux 4, 8, 12, 16, and 19
+>55 points à mettre au niveau 1 (min 7, max 14)
+>+1 points par niveau sauf les niveaux 1, 5, 10, 15 et 20
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |

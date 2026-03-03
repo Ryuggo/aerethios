@@ -13,16 +13,16 @@
 >Le joueur en choisi 1 tous les 1 point de modificateur (1, 2, 3, 4, 5).
 >Il est nécessaire de posséder la compétence principale pour débloquer les compétences secondaires liées.
 
-| **Principale** | Secondaire   | Description                                                                                                                                                                                                |
-| -------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Athlétisme** | Mule         | Ajoute 10 * Force(Athlétisme) à la charge maximale                                                                                                                                                         |
-|                | Momentum     | Charger un ennemi lui inflige (5% * Force(Athlétisme)) de votre poids total                                                                                                                                |
-| **Barbare**    | Destructeur  | Permet de casser ce qui ne devrait pas l'être (avec confirmation du MJ)                                                                                                                                    |
-|                | Bourrin      | Les attaques font toujours Force(Barbare) de dégâts au HP, même si la DR n'est pas atteinte                                                                                                                |
-| **Monk**       | Martial      | Permet d'utiliser la maîtrise à 1 main avec les armes à 2 mains, et inversément                                                                                                                            |
-|                | Bagarre      | Pour chaque point de Force(Monk), augmente le dé de dégâts à mains nues<br>Ajoute le matériau de l'armure aux dégâts finaux<br>*1d4 -> 1d6 -> 1d8 -> 1d10 -> 1d12 (double les dés si Force(Monk) = [6-10]* |
-| **Paladin**    | Impénétrable | DR + (2 * Force(Paladin))                                                                                                                                                                                  |
-|                | Muraille     | Les ennemis s'attaquent au joueur<br>Pour chaque attaque reçue, augmente les dégâts finaux de sa prochaine attaque par sa Force(Paladin)                                                                   |
+| **Principale** | Secondaire   | Description                                                                                                                                                                                          |
+| -------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Athlétisme** | Mule         | Ajoute 10 * Force(Athlétisme) à la charge maximale                                                                                                                                                   |
+|                | Momentum     | Charger un ennemi lui inflige (5% * Force(Athlétisme)) de votre poids total                                                                                                                          |
+| **Barbare**    | Destructeur  | Permet de casser ce qui ne devrait pas l'être (avec confirmation du MJ)                                                                                                                              |
+|                | Bourrin      | Les attaques font toujours Force(Barbare) de dégâts au HP, même si la DR n'est pas atteinte                                                                                                          |
+| **Monk**       | Martial      | Permet d'utiliser la maîtrise à 1 main avec les armes à 2 mains, et inversément                                                                                                                      |
+|                | Bagarre      | Pour chaque point de Force, augmente le dé de dégâts à mains nues<br>Ajoute le matériau de l'armure aux dégâts finaux<br>*1d4 -> 1d6 -> 1d8 -> 1d10 -> 1d12 (double les dés si Force(Monk) = [6-10]* |
+| **Paladin**    | Impénétrable | DR + (2 * Force(Paladin))                                                                                                                                                                            |
+|                | Muraille     | Les ennemis s'attaquent au joueur<br>Pour chaque attaque reçue, augmente les dégâts finaux de sa prochaine attaque par sa Force(Paladin)                                                             |
 
 ## Finales
 >Le joueur en choisi 1 lorsque l'attribut atteint 20.

@@ -11,8 +11,8 @@ Exemple avec X = 12 (Orichalque)
 | Lourd/ Grand  | 1d12 +24<br>[25-36 -> 38-60] | 1d8 +36<br>[37-44 -> 45-52] | 2d4 +48<br>[50-56 -> 58-64] | 2d6 +24<br>[26-36 -> 38-48]  | 1d12 +24<br>[25-36 -> 38-60] | 1d8 +36<br>[37-44 -> 45-52] | 2d4 +48<br>[50-56 -> 58-64] |
 | Colossal      |              -               |              -              | 1d4 +72<br>[73-76 -> 77-80] | 1d6 + 48<br>[49-54 -> 55-60] |              -               |              -              | 1d4 +72<br>[73-76 -> 77-80] |
 
-Critiques (pour chaque dé qui a fait son maximum)
-- Permet de relancer le dé autant de fois qu'il y a de dé (1d4 ne peut être relancé qu'une fois, 3d6 peuvent être relancés max 3x en tout)
+Critiques -> Permet de relancer un dé qui a fait le maximum pour cumuler les points
+Le maximum de relance dépend de l'enchantement de Nirina
 
 ### Armes
 >Mêlée: dé >= AC -> DR - (dé +X) = Dégâts au HP
@@ -43,21 +43,17 @@ Si le dé de dégâts atteint l'AC de la cible, on déduit de DR la somme du dé
 
 Enchanter une arme permet d'augmenter son dé de dégâts.
 
-Si une arme est en métal, seul les [[Enchanteur#Nirina|Enchantements de Nirina]] sont efficaces.
+Si une arme est en métal, seuls les [[Enchanteur#Nirina|Enchantements de Nirina]] sont efficaces. -> Permettent de faire des coups critiques
 
 Si une arme est en os, seul les [[Enchanteur#Ovliin|Enchantements d'Ovliin]] sont efficaces (en plus de lui ajouter un effet magique).
 
-|     Enchantement      | Base |   +1   |   +2   |   +3   |   +4    |    +5    |
-| :-------------------: | :--: | :----: | :----: | :----: | :-----: | :------: |
-| **Réussite normale**  | 1d4  |  1d6   |  1d8   |  1d10  |  1d12   |   1d20   |
-| **Réussite critique** |  -   | 1d4 +2 | 1d6 +2 | 1d8 +2 | 1d10 +2 | 1d10 +10 |
 ### Spécificités
 
-|                 |         Styles          |              Précision              |
-| --------------- | :---------------------: | :---------------------------------: |
-| **Type d'arme** |     Armes de mêlée      |          Armes à distance           |
-| **Condition**   |   Niveau de maîtrise    | Jet est supérieur au double de l'AC |
-| **Résultat**    | Multiplicateur du style |          Double les dégâts          |
+|                 |         Styles          |            Précision            |
+| --------------- | :---------------------: | :-----------------------------: |
+| **Type d'arme** |     Armes de mêlée      |        Armes à distance         |
+| **Condition**   |   Niveau de maîtrise    | Jet supérieur au double de l'AC |
+| **Résultat**    | Multiplicateur du style |        Double les dégâts        |
 
 ## Matériaux
 >La propriété VS ajoute un dé de dégâts lorsque l'attaque touche le bon type de cible (ne s'applique pas sur les armes à distance).

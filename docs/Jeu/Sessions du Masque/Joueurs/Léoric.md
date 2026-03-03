@@ -7,7 +7,8 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 1 |   -    | [[Scienctes#Mage\|Mage]] |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
+>55 points à mettre au niveau 1 (min 7, max 14)
+>+1 points par niveau sauf les niveaux 1, 5, 10, 15 et 20 (2/4)
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
@@ -56,11 +57,11 @@
 
 ### [[Armes]]
 
-| Arme                                                   | Dégâts                                                      | Poids (kg) |         Propriétés          |
-| ------------------------------------------------------ | ----------------------------------------------------------- | :--------: | :-------------------------: |
-| 2 Poings<br>Titane<br>Court                            | 2d12 + 7<br>VS Invocations<br>= 9-31                        |   2x1.5    | [[Propriétés#Léger\|Léger]] |
-| 2 Poings Gammoth<br>Os<br>Court                        | 2d12 + 6<br>Glace<br>= 8-30                                 |   2x0.75   | [[Propriétés#Léger\|Léger]] |
-| 2 Poings Sharah<br>Adamantite (Or)<br>Court<br>(lourd) | 1d12 + 20<br>+ 10 Métal ?<br>VS Mythiques<br>Air<br>= 21-32 |    2x4     | [[Propriétés#Léger\|Léger]] |
+| Arme                                                   | Dégâts                                                | Poids (kg) |         Propriétés          |
+| ------------------------------------------------------ | ----------------------------------------------------- | :--------: | :-------------------------: |
+| 2 Poings<br>Titane<br>Court                            | 2d12 + 7<br>VS Invocations<br>= 9-31                  |   2x1.5    | [[Propriétés#Léger\|Léger]] |
+| 2 Poings Gammoth<br>Os<br>Court                        | 2d12 + 6<br>Glace<br>= 8-30                           |   2x0.75   | [[Propriétés#Léger\|Léger]] |
+| 2 Poings Sharah<br>Adamantite (Or)<br>Court<br>(lourd) | 1d12 + 20<br>Crit 3<br>VS Mythiques<br>Air<br>= 21-32 |    2x4     | [[Propriétés#Léger\|Léger]] |
 
 ## [[Apprentissages]]
 

@@ -7,7 +7,8 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Or\|Or]] 2 |   -    |     -     |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
+>55 points à mettre au niveau 1 (min 7, max 14)
+>+1 points par niveau sauf les niveaux 1, 5, 10, 15 et 20 (2/4)
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
@@ -57,13 +58,13 @@
 
 ### [[Armes]]
 
-| Arme                                                      | Dégâts                                                     | Poids (kg) |         Propriétés          |
-| --------------------------------------------------------- | ---------------------------------------------------------- | :--------: | :-------------------------: |
-| Lame Revers<br>Titane<br>1 Main                           | 2d8 + 14<br>+ 5 Métal ?<br>VS Invocations<br>= 16-30       |     3      |              -              |
-| Lame Revers<br>Titane<br>1 Main                           | 2d8 + 14<br>+ 6 Métal ?<br>VS Invocations<br>= 16-30       |     3      |              -              |
-| Lame Revers Gammoth<br>Os<br>1 Main                       | 2d8 + 6<br>Glace<br>= 8-22                                 |    1.5     |              -              |
-| Lame Revers Gammoth<br>Os<br>1 Main                       | 2d8 + 6<br>Glace<br>= 8-22                                 |    1.5     |              -              |
-| Arbalète Sharah<br>Adamantite (Or)<br>Distance<br>(léger) | 3d6 + 10<br>+ 10 Métal ?<br>VS Mythiques<br>Air<br>= 20-50 |     2      | [[Propriétés#Léger\|Léger]] |
+| Arme                                                      | Dégâts                                                              | Poids (kg) |         Propriétés          |
+| --------------------------------------------------------- | ------------------------------------------------------------------- | :--------: | :-------------------------: |
+| Lame Revers<br>Titane<br>1 Main                           | 2d8 + 14<br>Crit 2<br>VS Invocations<br>= 16-30                     |     3      |              -              |
+| Lame Revers<br>Titane<br>1 Main                           | 2d8 + 14<br>Crit 2<br>VS Invocations<br>= 16-30                     |     3      |              -              |
+| Lame Revers Gammoth<br>Os<br>1 Main                       | 2d8 + 6<br>Glace<br>= 8-22                                          |    1.5     |              -              |
+| Lame Revers Gammoth<br>Os<br>1 Main                       | 2d8 + 6<br>Glace<br>= 8-22                                          |    1.5     |              -              |
+| Arbalète Sharah<br>Adamantite (Or)<br>Distance<br>(léger) | (3d8 +Dex(Ranger)) + 10<br>Crit 3<br>VS Mythiques<br>Air<br>= 15-36 |     2      | [[Propriétés#Léger\|Léger]] |
 
 ## [[Apprentissages]]
 

@@ -7,7 +7,8 @@
 | [[aerethios/docs/Jeu/Règles/Compétences/Compétences de Maisons/Arvens#Argent\|Argent]] 3 |   -    | [[Scienctes#Mage\|Mage]] |    -    |
 
 ## Attributs
-> + 2 points pour les niveaux ~~4~~, 8, 12, 16, and 19
+>55 points à mettre au niveau 1 (min 7, max 14)
+>+1 points par niveau sauf les niveaux 1, 5, 10, 15 et 20 (2/3)
 
 | Force | Dextérité | Mental | Perception | Charisme |
 | :---: | :-------: | :----: | :--------: | :------: |
@@ -55,11 +56,11 @@
 
 ### [[Armes]]
 
-| Arme                                                                         | Dégâts                                   | Poids (kg) |                            Propriétés                            |
-| ---------------------------------------------------------------------------- | ---------------------------------------- | :--------: | :--------------------------------------------------------------: |
-| Trident<br>Fer (Electrum)<br>Haste                                           | 3d6 + 4<br>VS Magiques<br>= 7-22         |     4      | [[Propriétés#Portée\|Portée]]<br>[[Propriétés#Jetable\|Jetable]] |
-| Fauchard Sharah<br>Adamantite (Or)<br>Haste<br>(léger)<br>(lier au pistolet) | 4d6 + 5<br>VS Mythiques<br>Air<br>= 9-29 |     8      |                [[Propriétés#Portée\|Portée]]<br>                 |
-| Fusil Sharah<br>Adamantite<br>Distance<br>(léger)<br>(lier au fauchard)      | 4d4 + 15<br>= 19-31                      |     2      |                                                                  |
+| Arme                                                                         | Dégâts                                                   | Poids (kg) |                            Propriétés                            |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------- | :--------: | :--------------------------------------------------------------: |
+| Trident<br>Fer (Electrum)<br>Haste                                           | 3d6 + 4<br>VS Magiques<br>= 7-22                         |     4      | [[Propriétés#Portée\|Portée]]<br>[[Propriétés#Jetable\|Jetable]] |
+| Fauchard Sharah<br>Adamantite (Or)<br>Haste<br>(léger)<br>(lier au pistolet) | (4d6 +Dex(Ranger)) + 5<br>VS Mythiques<br>Air<br>= 11-31 |     8      |                [[Propriétés#Portée\|Portée]]<br>                 |
+| Fusil Sharah<br>Adamantite<br>Distance<br>(léger)<br>(lier au fauchard)      | (4d4 +Dex(Ranger)) + 15<br>= 21-33                       |     2      |                                                                  |
 
 ## [[Apprentissages]]
 
