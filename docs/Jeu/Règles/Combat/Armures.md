@@ -74,18 +74,18 @@
     - Dextérité (Discrétion) impossible
     - Magies impossibles en combat
 
-| Matériau   |    AC    | DR  |  Prix | Force >= |                    Propriétés                    | Poids (kg) |
-| ---------- | :------: | :-: | ----: | :------: | :----------------------------------------------: | ---------: |
-| Mailles    | AC/2 + 4 | 50% |   50% |   ---    |                       ---                        |        50% |
-| Fonte      |    10    | 15  |  2 pa |    10    |                       ---                        |       1.25 |
-| Fer        |    9     | 18  | 10 pa |    11    |                       ---                        |          1 |
-| Bronze     |    8     | 21  | 25 pa |    12    |                       ---                        |       1.25 |
-| Acier      |    7     | 24  | 50 pa |    13    |                       ---                        |          1 |
-| Titane     |    6     | 27  |  1 po |    14    |                       ---                        |        1.5 |
-| Mythril    |    7     | 30  |  5 po |    12    | Dextérité (Discrétion) possible avec désavantage |       1.25 |
-| Palladium  |    5     | 35  |  7 po |    16    | Magies (Croititiste) possibles avec désavantage  |        1.5 |
-| Adamantite |    5     | 35  |  7 po |    16    |   Magies (Élétiste) possibles avec désavantage   |        1.5 |
-| Orichalque |    4     | 40  | 10 po |    18    |                       ---                        |          2 |
+| Matériau   |   AC    | DR  |  Prix | Force >= |                    Propriétés                    | Poids (kg) |
+| ---------- | :-----: | :-: | ----: | :------: | :----------------------------------------------: | ---------: |
+| Mailles    | ACx1.25 | 50% |   50% |   ---    |                       ---                        |        50% |
+| Fonte      |   10    | 15  |  2 pa |    10    |                       ---                        |       1.25 |
+| Fer        |    9    | 18  | 10 pa |    11    |                       ---                        |          1 |
+| Bronze     |    8    | 21  | 25 pa |    12    |                       ---                        |       1.25 |
+| Acier      |    7    | 24  | 50 pa |    13    |                       ---                        |          1 |
+| Titane     |    6    | 27  |  1 po |    14    |                       ---                        |        1.5 |
+| Mythril    |    7    | 30  |  5 po |    12    | Dextérité (Discrétion) possible avec désavantage |       1.25 |
+| Palladium  |    5    | 35  |  7 po |    16    | Magies (Croititiste) possibles avec désavantage  |        1.5 |
+| Adamantite |    5    | 35  |  7 po |    16    |   Magies (Élétiste) possibles avec désavantage   |        1.5 |
+| Orichalque |    4    | 40  | 10 po |    18    |                       ---                        |          2 |
 
 #### Boucliers
 

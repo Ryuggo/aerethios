@@ -33,7 +33,7 @@ Résultat :
 ## Joueurs
 
 - [x] Diego
-- [ ] Loic
+- [ ] Loïc
 - [ ] Michel
 - [ ] Thomas
 - [ ] William

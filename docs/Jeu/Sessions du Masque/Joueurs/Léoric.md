@@ -50,10 +50,10 @@
 
 ### [[aerethios/docs/Jeu/Règles/Combat/Armures|Armures]]
 
-| Armure                |         AC          |           DR           |      Enchantement      | Poids (kg) | Dégâts |                     Propriétés                     |
-| --------------------- | :-----------------: | :--------------------: | :--------------------: | :--------: | :----: | :------------------------------------------------: |
-| Armure Mailles<br>Fer | 9<br>+0(Dex)<br>= 9 | 18<br>+5(Impé)<br>= 23 |           -            |     12     |   -    |                         -                          |
-| Cape en fourrure      |          -          |           -            | Ténèbres 2<br>Foudre 1 |     1      |   -    | Les sorts élétistes à 1 crystal ne le consomme pas |
+| Armure                |          AC           |           DR           |      Enchantement      | Poids (kg) | Dégâts |                     Propriétés                     |
+| --------------------- | :-------------------: | :--------------------: | :--------------------: | :--------: | :----: | :------------------------------------------------: |
+| Armure Mailles<br>Fer | 13<br>+0(Dex)<br>= 13 | 18<br>+5(Impé)<br>= 23 |           -            |     12     |   -    |                         -                          |
+| Cape en fourrure      |           -           |           -            | Ténèbres 2<br>Foudre 1 |     1      |   -    | Les sorts élétistes à 1 crystal ne le consomme pas |
 
 ### [[Armes]]
 

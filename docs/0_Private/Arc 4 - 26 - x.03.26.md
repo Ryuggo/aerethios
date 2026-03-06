@@ -84,7 +84,7 @@ Leaders, lourdement armés :
 ## Joueurs
 
 - [x] Diego
-- [x] Loic
+- [x] Loïc
 - [ ] Lucas
 - [x] Michel
 - [ ] Nolan
