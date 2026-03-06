@@ -17,13 +17,13 @@
 
 ### [[Compétences]]
 
-|                 Force                  |                        Dextérité                         |                 Mental                  |                                 Perception                                  |                  Charisme                   |                                                                Armures                                                                |                                                    Armes                                                     |
-| :------------------------------------: | :------------------------------------------------------: | :-------------------------------------: | :-------------------------------------------------------------------------: | :-----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|                 Force                  |                        Dextérité                         |                 Mental                  |                                 Perception                                  |                  Charisme                   |                                  Armures                                  |                      Armes                       |
+| :------------------------------------: | :------------------------------------------------------: | :-------------------------------------: | :-------------------------------------------------------------------------: | :-----------------------------------------: | :-----------------------------------------------------------------------: | :----------------------------------------------: |
 |   [[Force#Athlétisme\|Athlétisme]] 3   |           [[Dextérité#Acrobatie\|Acrobatie]] 5           | [[Mental#Intelligence\|Intelligence]] 5 |                    [[Perception#Détection\|Détection]] 5                    | [[Charisme#Charismatique\|Charismatique]] 3 |             [[Armures Tmp#Armure légère#Efficacité\|Légère]]              |      [[Armes Tmp#Court#Efficacité\|Court]]       |
 |         [[Force#Mule\|Mule]] 1         |              [[Dextérité#Rapide\|Rapide]] 3              |      [[Mental#Sagesse\|Sagesse]] 5      |          [[Perception#Détection#Intuition\|Détection - Intuition]]          |                                             | [[Armures Tmp#Armure légère#Conditionnement\|Légère - Conditionnement]] 3 |       [[Armes Tmp#Hast#Efficacité\|Hast]]        |
 | [[Force#Impénétrable\|Impénétrable]] 3 | [[Dextérité#Rapide#Sixième sens\|Rapide - Sixième Sens]] | [[Mental#Imperturbable\|Imperturbable]] | [[Perception#Détection#Perception magique\|Détection - Perception Magique]] |                                             |      [[Armures Tmp#Armure légère#Maintenance\|Légère - Maintenance]]      | [[Armes Tmp#Hast#Pénétrator\|Hast - Pénétrator]] |
 |                                        |                                                          |        [[Mental#Assidu\|Assidu]]        |                       [[Perception#Survie\|Survie]] 4                       |                                             |          [[Armures Tmp#Armure légère#Arcanes\|Légère - Arcanes]]          |   [[Armes Tmp#Distance#Efficacité\|Distance]]    |
-|                                        |                                                          |     [[Mental#Magicien\|Magicien]] 4     |               [[Perception#Survie#Plantes\|Survie - Plantes]]               |                                             |                                                                                                                                       |                                                                                                              |
+|                                        |                                                          |   ~~[[Mental#Magicien\|Magicien]] 4~~   |               [[Perception#Survie#Plantes\|Survie - Plantes]]               |                                             |                                                                           |                                                  |
 
 ## Combats
 
@@ -42,7 +42,7 @@
 
 | **[[Air]]** | **[[Eau]]** | **[[Roche]]** | **[[Feu]]** | **[[Foudre]]** | **[[Lumière]]** | **[[Ténèbres]]** |
 | :---------: | :---------: | :-----------: | :---------: | :------------: | :-------------: | :--------------: |
-|      8      |     11      |       -       |     (4)     |       11       |        -        |        -         |
+|      8      |     11      |       -       |   ~~(4)~~   |       11       |        -        |        -         |
 |     1d6     |     1d8     |       -       |      -      |      1d8       |        -        |        -         |
 
 ## Equipement
