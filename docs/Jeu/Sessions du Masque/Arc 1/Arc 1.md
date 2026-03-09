@@ -20,7 +20,7 @@ Boss final : Chevalier de Ronces
 
 [[Arc 1 - 04 - 28.03.25]]
 
-[[Arc 1 - 05 - 11.04.35]]
+[[Arc 1 - 04b - 11.04.35]]
 
 | Précédent |  Suivant  |
 | :-------: | :-------: |

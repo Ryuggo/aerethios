@@ -91,6 +91,6 @@ Leaders, lourdement armés :
 - [x] Thomas
 - [ ] William
 
-|         Précédent         | Suivant |
-| :-----------------------: | :-----: |
-| [[Arc 4 - 25 - 06.03.26]] |  [[]]   |
+|         Précédent          | Suivant |
+| :------------------------: | :-----: |
+| [[Arc 4 - 25b - 06.03.26]] |  [[]]   |
